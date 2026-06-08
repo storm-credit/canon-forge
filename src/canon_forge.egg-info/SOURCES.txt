@@ -1,0 +1,7 @@
+pyproject.toml
+src/canon_forge/__init__.py
+src/canon_forge.egg-info/PKG-INFO
+src/canon_forge.egg-info/SOURCES.txt
+src/canon_forge.egg-info/dependency_links.txt
+src/canon_forge.egg-info/requires.txt
+src/canon_forge.egg-info/top_level.txt
