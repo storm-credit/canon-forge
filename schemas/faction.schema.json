@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "faction",
+  "type": "object",
+  "required": ["id", "category", "canonical_name"],
+  "properties": {
+    "id": {"type": "string"},
+    "category": {"const": "faction"},
+    "canonical_name": {"type": "string"},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "attrs": {
+      "type": "object",
+      "properties": {"power_type": {"type": "string"}}
+    }
+  }
+}
