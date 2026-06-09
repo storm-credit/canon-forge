@@ -13,8 +13,8 @@ def run(cfg, llm=None) -> dict:
     if llm is None:
         llm = LLMClient(cfg.llm_model, Path(cfg.memory_dir) / "llm", raw=AnthropicRaw())
 
-    # ① inventory
-    entries = scan(src)
+    # ① inventory (respect slice_glob — bounds scope AND cost)
+    entries = scan(src, cfg.slice_glob)
     (out / "manifest.json").write_text(
         json.dumps(entries, ensure_ascii=False, indent=2), encoding="utf-8")
 

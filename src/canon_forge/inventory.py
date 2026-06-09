@@ -15,10 +15,12 @@ def category_from_path(rel_path: str) -> str:
             return cat
     return "unknown"
 
-def scan(root) -> list:
+def scan(root, glob: str = "**/*.md") -> list:
     root = Path(root)
     entries = []
-    for f in sorted(root.rglob("*.md")):
+    for f in sorted(root.glob(glob)):
+        if not f.is_file():
+            continue
         rel = f.relative_to(root).as_posix()
         entries.append({
             "path": rel,

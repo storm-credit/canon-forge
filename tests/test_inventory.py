@@ -14,3 +14,9 @@ def test_scan(fixtures_dir):
     assert cats == ["faction", "hero", "item", "rule"]
     for e in entries:
         assert len(e["sha256"]) == 64 and e["path"]
+
+def test_scan_respects_glob(fixtures_dir):
+    # slice_glob must bound scope (and therefore LLM cost) to the named subtree
+    entries = scan(fixtures_dir / "vault", "00. 세계의 틀/**/*.md")
+    assert len(entries) == 1
+    assert entries[0]["category"] == "rule"

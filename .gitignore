@@ -3,3 +3,6 @@ __pycache__/
 .memory/
 out/
 .venv/
+
+# build artifacts
+*.egg-info/
