@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "hero",
+  "type": "object",
+  "required": ["id", "category", "canonical_name"],
+  "properties": {
+    "id": {"type": "string"},
+    "category": {"const": "hero"},
+    "canonical_name": {"type": "string"},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "attrs": {
+      "type": "object",
+      "properties": {
+        "rank": {"type": "string"},
+        "identity_of": {"type": "string"}
+      }
+    }
+  }
+}

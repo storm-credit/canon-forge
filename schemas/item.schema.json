@@ -1,0 +1,19 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "item",
+  "type": "object",
+  "required": ["id", "category", "canonical_name"],
+  "properties": {
+    "id": {"type": "string"},
+    "category": {"const": "item"},
+    "canonical_name": {"type": "string"},
+    "aliases": {"type": "array", "items": {"type": "string"}},
+    "attrs": {
+      "type": "object",
+      "properties": {
+        "tier": {"enum": ["신화적유물", "전설", "유물", "일반"]},
+        "type": {"type": "string"}
+      }
+    }
+  }
+}
