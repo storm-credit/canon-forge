@@ -3,13 +3,22 @@ import json
 
 class AnthropicRaw:
     """Real Claude client. Imported lazily so tests need no API key."""
-    def __init__(self, api_key=None):
+    def __init__(self, api_key=None, max_tokens=16384):
         import anthropic
         self._c = anthropic.Anthropic(api_key=api_key) if api_key else anthropic.Anthropic()
+        self._max_tokens = max_tokens
+
     def complete(self, model: str, prompt: str) -> str:
+        import anthropic
         msg = self._c.messages.create(
-            model=model, max_tokens=4096,
+            model=model, max_tokens=self._max_tokens,
             messages=[{"role": "user", "content": prompt}])
+        # Fable 5 may refuse (HTTP 200, stop_reason="refusal", empty content)
+        if msg.stop_reason == "refusal":
+            raise anthropic.BadRequestError(  # type: ignore[attr-defined]
+                message=f"model refused: {getattr(msg, 'stop_details', '')}",
+                response=None, body=None)  # type: ignore[arg-type]
+        # thinking blocks have type="thinking"; filter to text only
         return "".join(b.text for b in msg.content if b.type == "text")
 
 class GeminiRaw:
@@ -50,7 +59,7 @@ def make_raw(cfg):
                          project=cfg.vertex_project or None,
                          location=cfg.vertex_location)
     if cfg.provider == "anthropic":
-        return AnthropicRaw()
+        return AnthropicRaw(max_tokens=cfg.llm_max_tokens)
     raise ValueError(f"unknown provider: {cfg.provider!r}")
 
 
