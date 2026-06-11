@@ -5,13 +5,13 @@ from .extract import extract_file
 from .model import save_graph
 from .detect import run_detection
 from .emit import emit_canon
-from .llm import LLMClient, AnthropicRaw
+from .llm import LLMClient, make_raw
 
 def run(cfg, llm=None) -> dict:
     src = Path(cfg.source_root)
     out = Path(cfg.out_dir); out.mkdir(parents=True, exist_ok=True)
     if llm is None:
-        llm = LLMClient(cfg.llm_model, Path(cfg.memory_dir) / "llm", raw=AnthropicRaw())
+        llm = LLMClient(cfg.llm_model, Path(cfg.memory_dir) / "llm", raw=make_raw(cfg))
 
     # ① inventory (respect slice_glob — bounds scope AND cost)
     entries = scan(src, cfg.slice_glob)
