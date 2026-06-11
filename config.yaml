@@ -3,4 +3,9 @@ slice_glob: "00. 세계의 틀/**/*.md"
 out_dir: "out"
 memory_dir: ".memory"
 schemas_dir: "schemas"
-llm_model: "claude-sonnet-4-5"
+
+# LLM backend
+provider: "vertex"                 # "vertex" (gemini-client module) | "anthropic"
+llm_model: "gemini-2.5-flash"      # cheap/fast for extraction
+vertex_sa_key: "C:/ProjectS/seasonXI/vertex-sa-key.json"
+vertex_location: "us-central1"
