@@ -1,0 +1,31 @@
+site_name: THE FORGOTTEN SUMMONER — 캐논
+site_description: 정리된 세계관 캐논 (consolidated canon)
+site_url: https://storm-credit.github.io/canon-forge/
+docs_dir: docs/canon
+
+theme:
+  name: material
+  language: ko
+  palette:
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: ko
+  - roamlinks   # [[위키링크]] 를 클릭 가능한 링크로 변환
