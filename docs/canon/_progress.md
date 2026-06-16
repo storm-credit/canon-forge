@@ -76,3 +76,4 @@
 | GitHub Actions 빌드 | ✅ 성공 |
 | GitHub Pages 배포 | ❌ 미활성화 (Settings→Pages→GitHub Actions) |
 | 임시 로컬 뷰 | zip 파일 제공 (Phase 완료마다 갱신) |
+
