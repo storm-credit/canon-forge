@@ -59,12 +59,12 @@ nav:
       - 인물:
           - 에반: 에반.md
   - 정리 관리:
-      - 진행 현황: _progress.md
-      - 작업지시서: _작업지시서.md
-      - 작업 프롬프트: _작업프롬프트.md
+      - "현황 (정본)": _progress.md
+      - "수행 대시보드": _작업지시서.md
+      - "기준·프롬프트 마스터": _작업프롬프트.md
+      - "원본 카테고리 배정 지도": _PLAN.md
       - 충돌·미해결: _collisions.md
       - 원본 전수 분석: _전수분석.md
-      - 마스터 플랜: _PLAN.md
 
 markdown_extensions:
   - admonition
