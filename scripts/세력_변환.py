@@ -16,6 +16,7 @@
 서사  : 카테고리 폴더의 여러 파일 → 1개 병합
 """
 import os, re
+from collections import defaultdict
 
 ARCHIVE = ("/tmp/tfs/THE FORGOTTEN SUMMONER/01. 아스트라리스 크로니클/"
            "01-8. 세력 아카이브 (국가·조직 정리)")
@@ -23,24 +24,24 @@ OUT_BASE = "/home/user/canon-forge/docs/canon/2-무대/세력"
 
 # ── 변환할 세력 설정 (이번 실행 대상) ────────────────────────────────────────
 FACTION = {
-    "src":        "2. 크림슨 대륙 (Crimson Continent)/1. 솔라리안 제국 (Solarian Empire)",
-    "overview":   "솔라리안 제국.md",
-    "out":        "솔라리안제국",
-    "slug":       "solarian-empire",
-    "kr":         "솔라리안 제국",
+    "src":        "2. 크림슨 대륙 (Crimson Continent)/2. 아르카나 잔재 (Arkana Remnants)",
+    "overview":   "아르카나 잔재 (Arkana Remnants).md",
+    "out":        "아르카나잔재",
+    "slug":       "arcana-remnants",
+    "kr":         "아르카나 잔재",
     "continent":  "crimson",
-    "rel_prefix": "01-8. 세력 아카이브/2. 크림슨 대륙/1. 솔라리안 제국",
-    "aliases":    ["솔라리안 제국", "Solarian Empire", "태양 제국"],
+    "nav_region": "크림슨·동부",
+    "rel_prefix": "01-8. 세력 아카이브/2. 크림슨 대륙/2. 아르카나 잔재",
+    "aliases":    ["아르카나 잔재", "아르카나 제국 잔재", "Arcana Remnants", "Arcana Ruins", "마도 제국"],
 }
 
 # 엔티티 디렉터리: (원본 하위경로, 출력 하위폴더, 유형 라벨, canon_prefix)
 ENTITY = [
-    ("1. 주요 장소 (Locations)/도시",  "도시", "도시", "city"),
-    ("1. 주요 장소 (Locations)/성지",  "성지", "성지", "shrine"),
-    ("1. 주요 장소 (Locations)/요새",  "요새", "요새", "fortress"),
-    ("3. 가문 (Noble Houses)",         "가문", "가문", "house"),
+    ("1. 주요 장소 (Locations)/유적",     "유적",     "유적",     "ruin"),
+    ("1. 주요 장소 (Locations)/금단구역", "금단구역", "금단구역", "forbidden"),
+    ("3. 가문 (Noble Houses)",            "가문",     "가문",     "house"),
 ]
-HOUSE_INDEX_SRC = "3. 가문 (Noble Houses)/0. 솔라리안 제국 가문 관계도.md"
+HOUSE_INDEX_SRC = "3. 가문 (Noble Houses)/0. 아르카나 잔재 가문 관계도.md"
 
 MILITARY_UNITS_DIR = "16. 예하 부대 및 기사단 (Military Units)"
 MILITARY_STRATEGY_DIR = "2. 군사 (Military)"
@@ -185,7 +186,7 @@ def write_out(rel_out, fm, body):
 
 
 created = []
-nav_entities = {"도시": [], "성지": [], "요새": [], "가문": [], "부대": [], "암약조직": []}
+nav_entities = defaultdict(list)
 
 # 1) 개요 ----------------------------------------------------------------------
 ov_src = os.path.join(SRC_ROOT, FACTION["overview"])
@@ -308,15 +309,17 @@ for sub, outname, cat, label, prefix in MERGE:
 # ── 결과 + nav 스니펫 ────────────────────────────────────────────────────────
 print(f"\n총 생성 파일: {len(created)}개")
 print("\n─── mkdocs nav 스니펫 ───")
-print(f"              - {kr} (크림슨):")
+print(f"              - {kr} ({FACTION.get('nav_region', '크림슨')}):")
 print(f"                  - 개요: 2-무대/세력/{FACTION['out']}.md")
 for _, outname, cat, label, prefix in MERGE:
     print(f"                  - 서사 — {label}: 2-무대/세력/{FACTION['out']}/{outname}")
 print(f"                  - 군사 — 전략 심화: 2-무대/세력/{FACTION['out']}/군사/전략심화.md")
-for grp, label in [("도시","도시"),("성지","성지"),("요새","요새"),
-                   ("가문","가문"),("부대","군사 — 부대"),("암약조직","암약조직")]:
-    items = nav_entities[grp]
-    if grp == "가문":
+# 엔티티 그룹 순서: ENTITY 정의 순 + 부대 + 암약조직
+nav_order = [(outsub, outsub) for _, outsub, _, _ in ENTITY]
+nav_order += [("부대", "군사 — 부대"), ("암약조직", "암약조직")]
+for grp, label in nav_order:
+    items = list(nav_entities[grp])
+    if grp == "가문" and os.path.exists(os.path.join(OUT_ROOT, "가문.md")):
         items = [("가문 관계도 (개요)", "가문.md")] + items
     if not items:
         continue
