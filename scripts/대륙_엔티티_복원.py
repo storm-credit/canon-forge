@@ -177,6 +177,13 @@ CONTINENTS = [
         "history": "01-3-3. 역사 (History).md",
         "culture": "01-3-4. 문화 & 종교 (Culture & Religion).md",
         "magic": "01-3-7. 에테르 대륙 마법 생태계/0. 에테르 대륙 마법 생태계 및 자원 개요.md",
+        "terrain_map": {
+            "01-3-1-1. 동부 – 황금 곡창 지대 (Eastern Golden Fields).md": "동부-황금곡창.md",
+            "01-3-1-2. 북부 – 산맥과 깊은 숲 (Northern Mountains).md": "북부-산맥숲.md",
+            "01-3-1-3. 남부 – 호수와 언덕 지대 (Southern Lakes).md": "남부-호수언덕.md",
+            "01-3-1-4. 서부 – 국경 요새 지대 (Western Border).md": "서부-국경요새.md",
+            "01-3-1-5. 중앙 – 성역 벨트 (Central Sacred Belt).md": "중앙-성역벨트.md",
+        },
     },
     {
         "src_dir": "01-4. 붉은 황무지 – 크림슨 대륙 (Crimson Continent)",
@@ -190,6 +197,12 @@ CONTINENTS = [
         "history": "01-4-3. 역사 (History).md",
         "culture": "01-4-4. 문화 & 종교 (Culture & Religion).md",
         "magic": "01-4-7. 크림슨 대륙 마법 생태계/0. 크림슨 대륙 마법 생태계 및 자원 개요.md",
+        "terrain_map": {
+            "01-4-1-1. 서부 – 제국의 허리 (Western Heartland).md": "서부-제국의허리.md",
+            "01-4-1-2. 동부 – 붉은 폐허와 아르카나의 흔적 (Eastern Ruin Zone).md": "동부-붉은폐허.md",
+            "01-4-1-3. 북부 – 바람과 잊혀진 서고의 땅 (Northern Winds).md": "북부-바람의서고.md",
+            "01-4-1-4. 남부 – 붉은 황혼 사막과 유랑 부족 (Southern Crimson Sea).md": "남부-황혼사막.md",
+        },
     },
     {
         "src_dir": "01-5. 얼음의 땅 – 프로스트 대륙 (Frost Continent)",
@@ -203,6 +216,13 @@ CONTINENTS = [
         "history": "01-5-3. 역사 (History).md",
         "culture": "01-5-4. 문화 & 종교 (Culture & Religion).md",
         "magic": "01-5-7. 프로스트 대륙 마법 생태계/0. 프로스트 대륙 마법 생태계 및 자원 개요.md",
+        "terrain_map": {
+            "01-5-1-1. 중앙 – 강철산맥 (Stonecrest Mountains).md": "중앙-강철산맥.md",
+            "01-5-1-2. 북부 – 혹한 설원 (Frozen Expanse).md": "북부-혹한설원.md",
+            "01-5-1-3. 동부 – 빙하 지대 (Glacier Territory).md": "동부-빙하지대.md",
+            "01-5-1-4. 남부 – 남부 산지 (Southern Highlands).md": "남부-남부산지.md",
+            "01-5-1-5. 서부 – 난류 해역 (Maelstrom Coast).md": "서부-난류해역.md",
+        },
     },
     {
         "src_dir": "01-6. 그림자의 대지 – 오벨리스크 대륙 (Obelisk Continent)",
@@ -216,8 +236,27 @@ CONTINENTS = [
         "history": "01-6-3. 역사 (History).md",
         "culture": "01-6-4. 문화 & 종교 (Culture & Religion).md",
         "magic": "01-6-7. 오벨리스크 대륙 마법 생태계/0. 오벨리스크 대륙 마법 생태계 및 자원 개요.md",
+        "terrain_map": {
+            "01-6-1-1. 중앙 – 흑오벨리스크 황무지 (Black Obelisk Wastes).md": "중앙-흑오벨리스크황무지.md",
+            "01-6-1-2. 동부 – 심연 균열 협곡 (Abyssal Canyons).md": "동부-심연균열협곡.md",
+            "01-6-1-3. 서부 – 망자의 평원 (Plain of the Dead).md": "서부-망자의평원.md",
+            "01-6-1-4. 북부 – 독기 안개 늪지 (Mistscour Swamps).md": "북부-독기안개늪지.md",
+        },
     },
 ]
+
+# 기존 캐논 파일에서 정본명 추출
+def read_canon_name(canon_path):
+    try:
+        with open(canon_path, encoding="utf-8") as f:
+            txt = f.read()
+        m = re.search(r"^정본명:\s*(.+)$", txt, re.MULTILINE)
+        if m:
+            return m.group(1).strip()
+    except FileNotFoundError:
+        pass
+    return None
+
 
 # 기존 캐논 파일에서 frontmatter를 읽어 그대로 재사용하는 헬퍼
 def read_existing_frontmatter(canon_path):
@@ -319,30 +358,32 @@ for cont in CONTINENTS:
             print(f"  [중립지역] {kname}")
             updated.append(out_path)
 
-    # ── 3. 지형 개별 권역 엔티티 ──────────────────────────────────────────────
+    # ── 3. 지형 개별 권역 엔티티 (명시적 매핑 사용) ────────────────────────────
     terrain_src = os.path.join(src_root, cont["terrain_dir"])
     terrain_out = os.path.join(out_root, "지형")
-    if os.path.isdir(terrain_src):
-        for fname in sorted(os.listdir(terrain_src)):
-            if not fname.endswith(".md"):
+    terrain_map = cont.get("terrain_map", {})
+    if os.path.isdir(terrain_src) and terrain_map:
+        for src_fname, canon_fname in terrain_map.items():
+            src_path = os.path.join(terrain_src, src_fname)
+            out_path = os.path.join(terrain_out, canon_fname)
+            if not os.path.exists(src_path):
+                print(f"  [지형권역] SKIP (원본 없음): {src_fname}")
                 continue
-            if is_index_file(fname, cont["terrain_dir"]):
-                continue
-            src_path = os.path.join(terrain_src, fname)
-            kname = korean_name_from_path(fname)
-            slug_name = kname.replace(" ", "-")
-            out_path = os.path.join(terrain_out, slug_name + ".md")
             if not os.path.exists(out_path):
-                continue  # 지형 권역은 기존 파일만 갱신
+                print(f"  [지형권역] SKIP (캐논 없음): {canon_fname}")
+                continue
 
             fm = read_existing_frontmatter(out_path)
             if fm is None:
+                print(f"  [지형권역] SKIP (frontmatter 없음): {canon_fname}")
                 continue
 
+            # 기존 정본명을 H1 제목으로 사용
+            kname = read_canon_name(out_path) or korean_name_from_path(src_fname)
             body = transform(src_path, kname)
             with open(out_path, "w", encoding="utf-8") as f:
                 f.write(fm + body)
-            print(f"  [지형권역] {kname}")
+            print(f"  [지형권역] {canon_fname}")
             updated.append(out_path)
 
     # ── 4. 서사 파일 (기후생태·역사·문화종교·마법생태) ─────────────────────────
