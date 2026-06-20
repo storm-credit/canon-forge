@@ -15,8 +15,11 @@
 엔티티: 카테고리 폴더의 파일 1개 → 캐논 1개 (00.목록·0.관계도 파일 제외)
 서사  : 카테고리 폴더의 여러 파일 → 1개 병합
 """
-import os, re
+import os, re, sys
 from collections import defaultdict
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from 링크복원 import restore_wikilinks, build_canon_slugs
+CANON_SLUGS = build_canon_slugs("/home/user/canon-forge/docs/canon")
 
 ARCHIVE = ("/tmp/tfs/THE FORGOTTEN SUMMONER/01. 아스트라리스 크로니클/"
            "01-8. 세력 아카이브 (국가·조직 정리)")
@@ -36,6 +39,7 @@ FACTION = {
 }
 
 # 엔티티 디렉터리: (원본 하위경로, 출력 하위폴더, 유형 라벨, canon_prefix)
+# (솔라리안 제국도 이 스크립트로 처리 — FACTION/ENTITY/HOUSE_INDEX_SRC만 토글하여 재실행)
 ENTITY = [
     ("1. 주요 장소 (Locations)/유적",     "유적",     "유적",     "ruin"),
     ("1. 주요 장소 (Locations)/금단구역", "금단구역", "금단구역", "forbidden"),
@@ -110,10 +114,7 @@ def strip_hashtag_lines(text):
 
 
 def clean_wikilinks(text):
-    text = re.sub(r"\[\[[^\]\|]*\|([^\]]*)\]\]", r"\1", text)
-    def repl(m):
-        return m.group(1).split("/")[-1].strip()
-    return re.sub(r"\[\[([^\]]*)\]\]", repl, text)
+    return restore_wikilinks(text, CANON_SLUGS)
 
 
 def fix_h1(text, korean_name):

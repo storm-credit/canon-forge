@@ -6,6 +6,9 @@
 (3) 해시태그 줄. 위키링크는 plain text로 정리.
 """
 import os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from 링크복원 import restore_wikilinks, build_canon_slugs
+CANON_SLUGS = build_canon_slugs("/home/user/canon-forge/docs/canon")
 
 SRC_ROOT = "/tmp/tfs/THE FORGOTTEN SUMMONER/01. 아스트라리스 크로니클/01-8. 세력 아카이브 (국가·조직 정리)/1. 에테르 대륙 (Ether Continent)/5. 정령연합 (Spirit Union)"
 OUT_ROOT = "/home/user/canon-forge/docs/canon/2-무대/세력/정령연합"
@@ -52,15 +55,7 @@ def strip_hashtag_lines(text):
 
 
 def clean_wikilinks(text):
-    # [[A|B]] -> B
-    text = re.sub(r"\[\[[^\]\|]*\|([^\]]*)\]\]", r"\1", text)
-    # [[A]] -> last path segment, plain text
-    def repl(m):
-        inner = m.group(1)
-        seg = inner.split("/")[-1].strip()
-        return seg
-    text = re.sub(r"\[\[([^\]]*)\]\]", repl, text)
-    return text
+    return restore_wikilinks(text, CANON_SLUGS)
 
 
 def fix_h1(text, korean_name):

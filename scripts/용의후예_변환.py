@@ -9,8 +9,11 @@
   - 암약조직: 폴더당 파일 1개
   - 서사 11종: 폴더 4~8·10~15 (외교·역사·사회·법률·경제·종교·예술·의복·마법·생활양식·주요인물)
 """
-import os, re
+import os, re, sys
 from collections import defaultdict
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from 링크복원 import restore_wikilinks, build_canon_slugs
+CANON_SLUGS = build_canon_slugs("/home/user/canon-forge/docs/canon")
 
 ARCHIVE = ("/tmp/tfs/THE FORGOTTEN SUMMONER/01. 아스트라리스 크로니클/"
            "01-8. 세력 아카이브 (국가·조직 정리)")
@@ -94,10 +97,7 @@ def strip_hashtag_lines(text):
 
 
 def clean_wikilinks(text):
-    text = re.sub(r"\[\[[^\]\|]*\|([^\]]*)\]\]", r"\1", text)
-    def repl(m):
-        return m.group(1).split("/")[-1].strip()
-    return re.sub(r"\[\[([^\]]*)\]\]", repl, text)
+    return restore_wikilinks(text, CANON_SLUGS)
 
 
 def fix_h1(text, korean_name):
