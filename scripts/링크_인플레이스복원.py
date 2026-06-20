@@ -23,11 +23,19 @@ ARCHIVE = ("/tmp/tfs/THE FORGOTTEN SUMMONER/01. 아스트라리스 크로니클/
 CANON = "/home/user/canon-forge/docs/canon"
 SLUGS = build_canon_slugs(CANON)
 
-# (원본 세력 폴더 상대경로, 캐논 세력 폴더명)
+CHRON = "/tmp/tfs/THE FORGOTTEN SUMMONER/01. 아스트라리스 크로니클"
+
+# (원본 세력 폴더 절대경로, 캐논 세력/대륙 폴더명)
 TARGETS = [
-    ("1. 에테르 대륙 (Ether Continent)/1. 성국 (Saint Haven)",        "성국"),
-    ("1. 에테르 대륙 (Ether Continent)/2. 왕국연합 (Allied Kingdoms)", "왕국연합"),
-    ("1. 에테르 대륙 (Ether Continent)/3. 자유도시연합 (Crossroad Cities)", "자유도시연합"),
+    # (원본 폴더, 캐논 2-무대 하위경로)
+    (os.path.join(ARCHIVE, "1. 에테르 대륙 (Ether Continent)/1. 성국 (Saint Haven)"),        "세력/성국"),
+    (os.path.join(ARCHIVE, "1. 에테르 대륙 (Ether Continent)/2. 왕국연합 (Allied Kingdoms)"), "세력/왕국연합"),
+    (os.path.join(ARCHIVE, "1. 에테르 대륙 (Ether Continent)/3. 자유도시연합 (Crossroad Cities)"), "세력/자유도시연합"),
+    # 5대륙 (세력 아카이브 밖 — 01-3~7)
+    (os.path.join(CHRON, "01-3. 생명의 숲 – 에테르 대륙 (Eter Continent)"),        "에테르대륙"),
+    (os.path.join(CHRON, "01-4. 붉은 황무지 – 크림슨 대륙 (Crimson Continent)"),    "크림슨대륙"),
+    (os.path.join(CHRON, "01-5. 얼음의 땅 – 프로스트 대륙 (Frost Continent)"),      "프로스트대륙"),
+    (os.path.join(CHRON, "01-6. 그림자의 대지 – 오벨리스크 대륙 (Obelisk Continent)"), "오벨리스크대륙"),
 ]
 
 WIKILINK_RE = re.compile(r"\[\[([^\[\]]+)\]\]")
@@ -106,13 +114,12 @@ def apply_to_canon(canon_folder, canon_md, mapping):
 
 
 def main():
-    for src_rel, canon_name in TARGETS:
-        src_folder = os.path.join(ARCHIVE, src_rel)
+    for src_folder, canon_name in TARGETS:
         if not os.path.isdir(src_folder):
-            print(f"[MISS] {src_rel}"); continue
+            print(f"[MISS] {canon_name}"); continue
         mapping = collect_mapping(src_folder)
-        canon_folder = os.path.join(CANON, "2-무대/세력", canon_name)
-        canon_md = os.path.join(CANON, "2-무대/세력", canon_name + ".md")
+        canon_folder = os.path.join(CANON, "2-무대", canon_name)
+        canon_md = os.path.join(CANON, "2-무대", canon_name + ".md")
         changed, total = apply_to_canon(canon_folder, canon_md, mapping)
         print(f"[{canon_name}] 매핑 {len(mapping)}종 · {changed}/{total} 파일 패치")
 
