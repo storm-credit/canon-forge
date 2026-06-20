@@ -37,22 +37,25 @@ def strip_frontmatter(text):
 
 
 def strip_boilerplate_tail(text):
-    """[!CAUTION]/[!NOTE] 에픽 섭리 블록부터 끝까지 제거."""
+    """[!CAUTION] 우주적 십자가 / [!NOTE] 에픽 섭리 보일러플레이트 콜아웃만 제거.
+    앞의 실제 콘텐츠 콜아웃(예: [!note] 순리 노트)은 보존한다."""
     lines = text.split("\n")
-    cut = None
+    marker = None
     for i, ln in enumerate(lines):
         if BIG_BOILERPLATE_RE.search(ln):
-            # backtrack to opening line of callout block
-            j = i
-            while j > 0 and (lines[j-1].strip().startswith(">") or
-                              lines[j-1].strip() == "" or
-                              lines[j-1].strip() == "---"):
-                j -= 1
-            cut = j
+            marker = i
             break
-    if cut is not None:
-        lines = lines[:cut]
-    return "\n".join(lines)
+    if marker is None:
+        return text
+    j = marker
+    while j > 0 and lines[j-1].strip().startswith(">"):
+        is_opener = re.match(r"^>\s*\[!\w+\]", lines[j-1].strip())
+        j -= 1
+        if is_opener:
+            break
+    while j > 0 and lines[j-1].strip() in ("", "---"):
+        j -= 1
+    return "\n".join(lines[:j])
 
 
 def strip_evan_sections_and_bullets(text):
@@ -138,6 +141,38 @@ def collapse_blanks(text):
     return text.strip() + "\n"
 
 
+def drop_empty_sections(text):
+    """내용이 비어버린 섹션 헤더 제거.
+
+    에반 당위성 불릿/보일러플레이트가 한 섹션의 유일한 내용이었던 경우,
+    제거 후 헤더만 덩그러니 남는다. 다음 동일·상위 레벨 헤더(또는 EOF)까지
+    실제 내용(하위 헤더 포함)이 없으면 그 헤더를 삭제한다.
+    """
+    lines = text.split("\n")
+    out, i, n = [], 0, len(lines)
+    while i < n:
+        m = re.match(r"^(#{2,6})\s", lines[i])
+        if m:
+            level = len(m.group(1))
+            j, has_content = i + 1, False
+            while j < n:
+                m2 = re.match(r"^(#{1,6})\s", lines[j])
+                if m2 and len(m2.group(1)) <= level:
+                    break
+                if lines[j].strip():
+                    has_content = True
+                    break
+                j += 1
+            if not has_content:
+                i += 1
+                while i < n and not lines[i].strip():
+                    i += 1
+                continue
+        out.append(lines[i])
+        i += 1
+    return "\n".join(out)
+
+
 def transform(src_path, korean_name):
     with open(src_path, encoding="utf-8", errors="replace") as f:
         text = f.read()
@@ -147,6 +182,7 @@ def transform(src_path, korean_name):
     text = strip_hashtag_lines(text)
     text = clean_wikilinks(text)
     text = fix_h1(text, korean_name)
+    text = drop_empty_sections(text)
     text = collapse_blanks(text)
     return text
 

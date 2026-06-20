@@ -20,18 +20,25 @@ def strip_frontmatter(text):
 
 
 def strip_boilerplate(text):
+    """[!CAUTION] 우주적 십자가 / [!NOTE] 에픽 섭리 보일러플레이트 콜아웃만 제거.
+    앞의 실제 콘텐츠 콜아웃(예: [!note] 순리 노트)은 보존한다."""
     lines = text.split("\n")
-    cut = None
+    marker = None
     for i, ln in enumerate(lines):
         if ("세력의 우주적 십자가" in ln) or ("에픽 섭리와 유구한 운명" in ln):
-            j = i
-            while j > 0 and (lines[j-1].strip().startswith(">") or lines[j-1].strip() == "" or lines[j-1].strip() == "---"):
-                j -= 1
-            cut = j
+            marker = i
             break
-    if cut is not None:
-        lines = lines[:cut]
-    return "\n".join(lines)
+    if marker is None:
+        return text
+    j = marker
+    while j > 0 and lines[j-1].strip().startswith(">"):
+        is_opener = re.match(r"^>\s*\[!\w+\]", lines[j-1].strip())
+        j -= 1
+        if is_opener:
+            break
+    while j > 0 and lines[j-1].strip() in ("", "---"):
+        j -= 1
+    return "\n".join(lines[:j])
 
 
 def strip_hashtag_lines(text):

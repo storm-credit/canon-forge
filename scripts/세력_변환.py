@@ -74,19 +74,33 @@ def strip_frontmatter(text):
 
 
 def strip_boilerplate(text):
+    """[!CAUTION] 우주적 십자가 / [!NOTE] 에픽 섭리 보일러플레이트 콜아웃만 제거.
+
+    핵심: 보일러플레이트 콜아웃 블록(> [!CAUTION]/[!NOTE] ... )만 잘라내고,
+    그 앞에 있는 실제 콘텐츠 콜아웃(예: > [!note] 제국의 상징)은 보존한다.
+    역추적은 '연속된 > 줄'에 한정하고, 보일러플레이트 블록의 opener
+    (> [!XXX])에 닿으면 그 블록만 포함하고 멈춘다 — 빈 줄을 건너
+    앞 콜아웃까지 빨아들이지 않는다.
+    """
     lines = text.split("\n")
-    cut = None
+    marker = None
     for i, ln in enumerate(lines):
         if ("세력의 우주적 십자가" in ln) or ("에픽 섭리와 유구한 운명" in ln):
-            j = i
-            while j > 0 and (lines[j-1].strip().startswith(">") or
-                             lines[j-1].strip() == "" or lines[j-1].strip() == "---"):
-                j -= 1
-            cut = j
+            marker = i
             break
-    if cut is not None:
-        lines = lines[:cut]
-    return "\n".join(lines)
+    if marker is None:
+        return text
+    # 이 보일러플레이트 콜아웃 블록의 opener까지만 역추적 (연속 > 줄 한정)
+    j = marker
+    while j > 0 and lines[j-1].strip().startswith(">"):
+        is_opener = re.match(r"^>\s*\[!\w+\]", lines[j-1].strip())
+        j -= 1
+        if is_opener:
+            break
+    # opener 직전의 빈 줄·--- 만 정리 (콘텐츠 줄은 건드리지 않음)
+    while j > 0 and lines[j-1].strip() in ("", "---"):
+        j -= 1
+    return "\n".join(lines[:j])
 
 
 def strip_hashtag_lines(text):
