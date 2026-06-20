@@ -25,7 +25,7 @@ def normalize(s):
     s = re.sub(r'\[\[[^\]|]+\|([^\]]+)\]\]', r'\1', s)
     s = re.sub(r'\[\[([^\]]+)\]\]', lambda m: m.group(1).split('/')[-1].split('|')[-1], s)
     s = re.sub(r'\(([A-Za-z][^)]*)\)', '', s)
-    s = re.sub(r'^\s*\d+[-.]\s*', '', s)
+    s = re.sub(r'^(\s*\d+[-.]\s*)+', '', s)
     s = re.sub(r'#[^\s#]+', '', s)
     return re.sub(r'[\s.]+', '', s)
 

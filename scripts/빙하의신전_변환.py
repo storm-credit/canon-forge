@@ -322,8 +322,8 @@ nav_order = [(outsub, outsub) for _, outsub, _, _ in ENTITY]
 nav_order += [("부대", "군사 — 부대"), ("암약조직", "암약조직")]
 for grp, label in nav_order:
     items = list(nav_entities[grp])
-    if grp == "가문" and os.path.exists(os.path.join(OUT_ROOT, "가문.md")):
-        items = [("가문 관계도 (개요)", "가문.md")] + items
+    if grp == "파벌" and os.path.exists(os.path.join(OUT_ROOT, "파벌.md")):
+        items = [("파벌 관계도 (개요)", "파벌.md")] + items
     if not items:
         continue
     print(f"                  - {label}:")
