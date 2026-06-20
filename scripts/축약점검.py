@@ -51,6 +51,19 @@ def meaningful_lines(text: str) -> int:
 def boiler_lines(text: str) -> int:
     return sum(1 for ln in text.splitlines() if BOILER_RE.search(ln))
 
+# 섹션 헤더(##/###) 수 — 본문 구조 보존의 척도.
+# 줄수 게이트가 못 잡는 '요약 재작성'(섹션 통째 소실)을 잡는다.
+# 에반 보일러플레이트 섹션이 헤더에 박힌 경우는 분자에서 제외.
+def header_count(text: str) -> int:
+    n = 0
+    for ln in text.splitlines():
+        s = ln.strip()
+        if re.match(r"^#{2,4}\s", s):
+            if BOILER_RE.search(s):   # 에반/순리/도감 섹션 헤더는 정당 제거 대상
+                continue
+            n += 1
+    return n
+
 # 파일명 정규화 매칭용 (괄호·영문·공백·번호 제거 후 한글 핵심만)
 def norm_key(name: str) -> str:
     name = unicodedata.normalize("NFC", name)
@@ -64,7 +77,7 @@ def gather(folder: Path):
     out = {}
     for f in folder.rglob("*.md"):
         txt = f.read_text(encoding="utf-8", errors="ignore")
-        out[norm_key(f.stem)] = (f, meaningful_lines(txt), boiler_lines(txt))
+        out[norm_key(f.stem)] = (f, meaningful_lines(txt), boiler_lines(txt), header_count(txt))
     return out
 
 def main():
@@ -74,23 +87,27 @@ def main():
     src = gather(Path(sys.argv[1]))
     can = gather(Path(sys.argv[2]))
 
-    print(f"{'엔티티':<24}{'원본':>6}{'보일러':>7}{'실질':>6}{'캐논':>6}{'보정율':>8}  판정")
-    print("─" * 72)
+    print(f"{'엔티티':<22}{'원본':>5}{'실질':>5}{'캐논':>5}{'보정율':>7}{'헤더원/캐':>9}  판정")
+    print("─" * 74)
 
     suspect = 0
     matched_src = set()
-    for key, (cf, cl, cb) in sorted(can.items()):
+    for key, (cf, cl, cb, ch) in sorted(can.items()):
         if key in src:
-            sf, sl, sb = src[key]
+            sf, sl, sb, sh = src[key]
             matched_src.add(key)
             real = max(sl - sb, 1)            # 보일러플레이트 차감한 실질 원본
             pct = cl / real * 100
-            if pct >= 85:   verdict = "✅"
-            elif pct >= 70: verdict = "⚠️ 검토"
-            else:           verdict, _ = "❌ 축약의심", suspect
-            if pct < 70: suspect += 1
-            name = cf.stem[:22]
-            print(f"{name:<24}{sl:>6}{sb:>7}{real:>6}{cl:>6}{pct:>7.0f}%  {verdict}")
+            # 헤더 보존: 캐논이 원본 헤더의 50% 미만이면 '섹션 소실'(요약 재작성 신호)
+            header_loss = sh >= 4 and ch < sh * 0.5
+            if header_loss:        verdict = "❌ 섹션소실"
+            elif pct >= 85:        verdict = "✅"
+            elif pct >= 70:        verdict = "⚠️ 검토"
+            else:                  verdict = "❌ 축약의심"
+            if header_loss or pct < 70:
+                suspect += 1
+            name = cf.stem[:20]
+            print(f"{name:<22}{sl:>5}{real:>5}{cl:>5}{pct:>6.0f}%{sh:>5}/{ch:<3}  {verdict}")
 
     # 원본엔 있으나 캐논에 매칭 안 된 파일 = 통째 누락 의심 (인덱스 .md 제외)
     missing = [src[k][0].name for k in src if k not in matched_src
@@ -102,8 +119,8 @@ def main():
         for k in orphan:
             print(f"   · {src[k][0].name}  ({src[k][1]}줄)")
 
-    print("─" * 72)
-    print(f"결과: 축약의심 {suspect}건" + ("  → 사람이 직접 대조 필요" if suspect else "  → 통과"))
+    print("─" * 74)
+    print(f"결과: 축약/섹션소실 의심 {suspect}건" + ("  → 사람이 직접 대조 필요" if suspect else "  → 통과"))
     sys.exit(1 if suspect else 0)
 
 if __name__ == "__main__":
