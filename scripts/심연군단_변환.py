@@ -179,8 +179,16 @@ def frontmatter(canon_id, name, category, srcs):
     return out
 
 
+# ⚠️ NAV_ONLY=1 환경변수: 캐논 파일을 쓰지 않고 nav 스니펫만 출력한다.
+#    [C] 위키링크 교정 후 nav 스니펫이 필요할 때 변환을 재실행하면 교정분이
+#    덮어써져 유실되는 사고를 방지한다. (2026-06-21 회귀 방지)
+NAV_ONLY = bool(os.environ.get("NAV_ONLY"))
+
+
 def write_out(rel_out, fm, body):
     path = os.path.join(OUT_ROOT, rel_out)
+    if NAV_ONLY:
+        return path
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         f.write(fm + body)
@@ -201,8 +209,9 @@ ov_fm = ("---\n"
          "type: 세력\n"
          "검증상태: Phase 2 전수 보존 (원문 보존, 2026-06-20)\n---\n\n")
 ov_path = os.path.join(OUT_BASE, FACTION["out"] + ".md")
-with open(ov_path, "w", encoding="utf-8") as f:
-    f.write(ov_fm + ov_body)
+if not NAV_ONLY:
+    with open(ov_path, "w", encoding="utf-8") as f:
+        f.write(ov_fm + ov_body)
 created.append(ov_path)
 print("[개요]", FACTION["out"] + ".md")
 
