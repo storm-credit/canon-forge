@@ -261,7 +261,10 @@ if not NAV_ONLY:
 created.append(ov_path)
 print("[범주 개요]", CATEGORY["out"] + ".md")
 
+ORG_FILTER = os.environ.get("ORG_FILTER", "").split(",") if os.environ.get("ORG_FILTER") else None
 for org_dir, org_out, org_kr, org_slug in ORGS:
+    if ORG_FILTER and org_out not in ORG_FILTER:
+        continue
     od = os.path.join(SRC_ROOT, org_dir)
     if not os.path.isdir(od):
         print("  [MISS ORG]", org_dir); continue
