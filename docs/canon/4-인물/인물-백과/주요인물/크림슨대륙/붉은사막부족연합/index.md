@@ -1,0 +1,12 @@
+---
+정본명: 붉은 사막 부족 연합
+유형: 인물 — 인물 백과 인덱스
+출처: "01-15. 인물 백과 (Character Archive)/2. 주요 인물 (Key Figures)/2. 크림슨 대륙 (Crimson Continent)/붉은 사막 부족 연합 (Crimson Desert Tribes)"
+검증상태: W7 전수 보존 (원문 보존, 2026-06-23)
+---
+
+# 붉은 사막 부족 연합
+
+| # | 항목 |
+|---|------|
+| 1 | [에레반 카스트로 (Erevan Castro)](에레반카스트로ErevanCastro.md) |
