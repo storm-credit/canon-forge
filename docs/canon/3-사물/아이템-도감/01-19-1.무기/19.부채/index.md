@@ -11,7 +11,7 @@
 
 | # | 항목 |
 |---|------|
-| 1 | [index](index.md) |
+| 1 | [실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia)](실피아의덧없는은빛부채.md) |
 | 2 | [안개의 부채 '미스트하트의 안개' (Livia Misthart's Fan of Mist)](안개의부채미스트하트의안개.md) |
 | 3 | [은빛 부채 (Silver Fan)](은빛부채.md) |
 | 4 | [침묵의 부채 (Fan of Silence)](침묵의부채.md) |

@@ -11,5 +11,5 @@
 
 | # | 항목 |
 |---|------|
-| 1 | [index](index.md) |
-| 2 | [데스티니 카드 (Destiny Card)](데스티니카드.md) |
+| 1 | [데스티니 카드 (Destiny Card)](데스티니카드.md) |
+| 2 | [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](천개의비명투척플라스크아고니.md) |

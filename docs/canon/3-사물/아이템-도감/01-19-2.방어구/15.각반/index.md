@@ -12,3 +12,4 @@
 | # | 항목 |
 |---|------|
 | 1 | [각반 (Greaves)](15.각반.md) |
+| 2 | [피에 젖은 투지의 각반 (Greaves of Blood-soaked Resolve)](피에젖은투지의각반.md) |

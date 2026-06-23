@@ -12,11 +12,11 @@
 | # | 항목 |
 |---|------|
 | 1 | [바람의 너클 (Wind Knuckle)](W-BF-14.바람의너클.md) |
-| 2 | [index](index.md) |
-| 3 | [거미발톱 건틀릿 (Gauntlet of Spider Claw)](거미발톱건틀릿.md) |
-| 4 | [금속 손의 보급 집게 팔 (Steelhand's Supply Grip Arm)](금속손의보급집게팔.md) |
-| 5 | [기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet)](기어하트마도건틀릿.md) |
-| 6 | [독전갈의 발톱 (Claw of Scorpion)](독전갈의발톱.md) |
+| 2 | [거미발톱 건틀릿 (Gauntlet of Spider Claw)](거미발톱건틀릿.md) |
+| 3 | [금속 손의 보급 집게 팔 (Steelhand's Supply Grip Arm)](금속손의보급집게팔.md) |
+| 4 | [기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet)](기어하트마도건틀릿.md) |
+| 5 | [독전갈의 발톱 (Claw of Scorpion)](독전갈의발톱.md) |
+| 6 | [두란디스의 키네틱 벙커-건틀릿 (Kinetic Bunker-Gauntlet of Durandis)](두란디스의키네틱벙커-건틀릿.md) |
 | 7 | [문스카르의 발톱 (Grawld Moonscar's Claws of Moonscar)](문스카르의발톱.md) |
 | 8 | [백열 장갑 (White-Hot Gauntlet)](백열장갑.md) |
 | 9 | [석화의 주먹 (Petrifying Fist)](석화의주먹.md) |
@@ -28,10 +28,13 @@
 | 15 | [연쇄 점화 글러브 '이그나이트' (Damien Nostrad's Ignite Glove)](연쇄점화글러브이그나이트.md) |
 | 16 | [오우거 슬레이어 (Ogre Slayer)](오우거슬레이어.md) |
 | 17 | [오우거의 너클 '블랙투스의 파쇄' (Victor Blacktusk's Knuckle of Ogre)](오우거의너클블랙투스의파쇄.md) |
-| 18 | [증기 피스톤 건틀릿 (Steam Piston Gauntlets)](증기피스톤건틀릿.md) |
-| 19 | [증폭의 건틀릿 (Gauntlet of Amplification)](증폭의건틀릿.md) |
-| 20 | [진화 연구의 마도 건틀릿 (Ironwill's Evolution Gauntlet)](진화연구의마도건틀릿.md) |
-| 21 | [타이탄의 주먹 (Fist of Titan)](타이탄의주먹.md) |
-| 22 | [포효하는 짐승의 뼈 건틀릿 (Bone Gauntlet of the Roaring Beast)](포효하는짐승의뼈건틀릿.md) |
-| 23 | [헬파이어 건틀릿 (Hellfire Gauntlet)](헬파이어건틀릿.md) |
-| 24 | [황금 너클 (Golden Knuckle)](황금너클.md) |
+| 18 | [이그니스의 지동(地動) 건틀릿 (Seismic Gauntlets of Ignis)](이그니스의지동地動건틀릿.md) |
+| 19 | [증기 피스톤 건틀릿 (Steam Piston Gauntlets)](증기피스톤건틀릿.md) |
+| 20 | [증폭의 건틀릿 (Gauntlet of Amplification)](증폭의건틀릿.md) |
+| 21 | [진화 연구의 마도 건틀릿 (Ironwill's Evolution Gauntlet)](진화연구의마도건틀릿.md) |
+| 22 | [타이탄의 주먹 (Fist of Titan)](타이탄의주먹.md) |
+| 23 | [포효하는 지옥견의 뼈 건틀릿 (Bone Gauntlet of the Roaring Hell-Hound)](포효하는지옥견의뼈건틀릿.md) |
+| 24 | [포효하는 짐승의 뼈 건틀릿 (Bone Gauntlet of the Roaring Beast)](포효하는짐승의뼈건틀릿.md) |
+| 25 | [프란고의 공진(Resonance) 파일벙커 건틀릿 (Resonance Pile-Bunker Gauntlets of Frango)](프란고의공진Resonance파일벙커건틀릿.md) |
+| 26 | [헬파이어 건틀릿 (Hellfire Gauntlet)](헬파이어건틀릿.md) |
+| 27 | [황금 너클 (Golden Knuckle)](황금너클.md) |
