@@ -8,7 +8,7 @@ canon_id: system.job.lexicon.index
 
 # 🎖️ 직업 도감 (Lexicon)
 
-> [직업체계](직업체계.md)의 부속 도감. 대륙 직업 생태계 35종 + 몬스터 헌터. 기원·독점·리스크 전수.
+> [직업체계](직업체계.md)의 부속 도감. 대륙 직업 생태계 35종 + 마수 헌터. 기원·독점·리스크 전수.
 
 | # | 항목 |
 |---|------|
@@ -33,7 +33,7 @@ canon_id: system.job.lexicon.index
 | 19 | [정찰병 및 추적자 (Scout & Tracker)](20.정찰병및추적자.md) |
 | 20 | [현상금 사냥꾼 (Bounty Hunter)](21.현상금사냥꾼.md) |
 | 21 | [흑마법사 (Warlock)](22.흑마법사.md) |
-| 22 | [주술사 및 샤먼 (Shaman)](23.주술사및샤먼.md) |
+| 22 | [주술사 및 무당 (Shaman)](23.주술사및무당.md) |
 | 23 | [무희 및 첩자 (Dancer)](24.무희및첩자.md) |
 | 24 | [밀수꾼 (Smuggler)](25.밀수꾼.md) |
 | 25 | [도적 및 무법자 (Rogue & Outlaw)](26.도적및무법자.md) |
@@ -46,4 +46,4 @@ canon_id: system.job.lexicon.index
 | 32 | [기록관 및 역사학자 (Archivist - Historian)](33.기록관및역사학자.md) |
 | 33 | [이계 소환사 (Otherworldly Summoner)](34.이계소환사.md) |
 | 34 | [\[영웅 전설\] 아스트라리스 대륙의 초월적 직업군 (Transcendent Classes)](35.아스트라리스대륙의초월적직업군.md) |
-| 35 | [몬스터 헌터 (Monster Hunter)](몬스터헌터.md) |
+| 35 | [마수 헌터 (Monster Hunter)](마수헌터.md) |
