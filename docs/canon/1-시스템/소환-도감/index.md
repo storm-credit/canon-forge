@@ -18,7 +18,7 @@ canon_id: system.summon.lexicon.index
 | 4 | [군체 소환 (Dark Swarm)](6-3.군체소환.md) |
 | 5 | [군단 소환 (Legion Summon)](6-4.군단소환.md) |
 | 6 | [차원 병기 소환 (Dimensional Weapons)](6-5.차원병기소환.md) |
-| 7 | [공학 유물 소환 (Magitech Artifacts)](6-6.공학유물소환.md) |
+| 7 | [공학 아티팩트 소환 (Magitech Artifacts)](6-6.공학아티팩트소환.md) |
 | 8 | [마신 강림 (Demon God Descent)](6-7.마신강림.md) |
 | 9 | [이계신 강림 (Outer God Descent)](6-8.이계신강림.md) |
 | 10 | [빙의 소환 (Possession Summon)](6-9.빙의소환.md) |
