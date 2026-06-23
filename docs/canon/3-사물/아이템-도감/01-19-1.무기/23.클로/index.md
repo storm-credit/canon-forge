@@ -11,7 +11,7 @@
 
 | # | 항목 |
 |---|------|
-| 1 | [index](index.md) |
-| 2 | [강철 발톱 (Iron Claws)](강철발톱.md) |
-| 3 | [블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw)](블러드클로녹스하운드의송곳니.md) |
-| 4 | [집행자의 클로 (Executor's Claw)](집행자의클로.md) |
+| 1 | [강철 발톱 (Iron Claws)](강철발톱.md) |
+| 2 | [블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw)](블러드클로녹스하운드의송곳니.md) |
+| 3 | [집행자의 클로 (Executor's Claw)](집행자의클로.md) |
+| 4 | [크림슨 클로(Crimson Claw)](크림슨클로.md) |

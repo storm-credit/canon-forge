@@ -20,8 +20,9 @@
 | 7 | [아이언 채찍 (Iron Whip)](아이언채찍.md) |
 | 8 | [영혼 불꽃 채찍 (Soul Flame Whip)](영혼불꽃채찍.md) |
 | 9 | [장미 가시 채찍 '다스크의 장미' (Violetta Dusk's Thorn Whip of Rose)](장미가시채찍다스크의장미.md) |
-| 10 | [피라의 열팽창 점화 채찍 (Thermal-Expansion Ignition Whip of Pyra)](피라의열팽창점화채찍.md) |
-| 11 | [피에 굶주린 성은(聖銀)의 낫 채찍 '모르테 쏜' (Blood-Thirsty Silver Whip 'Morte Thorn')](피에굶주린성은聖銀의낫채찍모르테쏜.md) |
-| 12 | [피의 철편채찍 (Bloodiron Lash)](피의철편채찍.md) |
-| 13 | [환각의 만다라 거미줄 채찍 (Illusionary Mandala Spider-Whip)](환각의만다라거미줄채찍.md) |
-| 14 | [흑의 가시 채찍 '다스크로스의 칼날' (Camilla Duskros's Thorn of Darkness)](흑의가시채찍다스크로스의칼날.md) |
+| 10 | [채찍류 - 짐승 길들이개 팽(Fang)](채찍류-짐승길들이개팽.md) |
+| 11 | [피라의 열팽창 점화 채찍 (Thermal-Expansion Ignition Whip of Pyra)](피라의열팽창점화채찍.md) |
+| 12 | [피에 굶주린 성은(聖銀)의 낫 채찍 '모르테 쏜' (Blood-Thirsty Silver Whip 'Morte Thorn')](피에굶주린성은聖銀의낫채찍모르테쏜.md) |
+| 13 | [피의 철편채찍 (Bloodiron Lash)](피의철편채찍.md) |
+| 14 | [환각의 만다라 거미줄 채찍 (Illusionary Mandala Spider-Whip)](환각의만다라거미줄채찍.md) |
+| 15 | [흑의 가시 채찍 '다스크로스의 칼날' (Camilla Duskros's Thorn of Darkness)](흑의가시채찍다스크로스의칼날.md) |
