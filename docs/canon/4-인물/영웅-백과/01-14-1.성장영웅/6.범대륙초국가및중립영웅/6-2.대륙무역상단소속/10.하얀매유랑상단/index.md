@@ -1,0 +1,14 @@
+---
+정본명: 하얀 매 유랑 상단 (White Falcon Syndicate)
+유형: 영웅 백과 인덱스
+출처: "01-14. 영웅 백과 (Hero Archive)/01-14-1. 성장 영웅/6. 범대륙 초국가 및 중립 영웅/6-2. 대륙 무역 상단 소속 (Syndicates)/10. 하얀 매 유랑 상단 (White Falcon Syndicate)"
+검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
+---
+
+# ⚔️ 하얀 매 유랑 상단 (White Falcon Syndicate)
+
+## 항목
+
+| # | 영웅 |
+|---|------|
+| 1 | [헤스티아 스톤하츠 (Hestia Stonehearts)](헤스티아스톤하츠.md) |
