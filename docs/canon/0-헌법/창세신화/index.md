@@ -1,17 +1,20 @@
 ---
 정본명: 창세 신화
 유형: 세계 헌법 — 창세 신화 인덱스
+시대레이어: 신화시대
 출처: "01-1. 창세 신화"
-검증상태: W6 전수 보존 (원문 보존, 2026-06-23)
+검증상태: 신화시대 재맥락 정리 (2026-06-24)
 ---
 
 # 창세 신화
 
-| # | 문서 |
-|---|------|
-| 1 | [신들의 서열 (Divine Hierarchy)](신들의서열DivineHierarchy.md) |
-| 2 | [신들의 전쟁 (Divine Wars)](신들의전쟁DivineWars.md) |
-| 3 | [신들의 정치 (Divine Politics)](신들의정치DivinePolitics.md) |
-| 4 | [신들의 종말 (End of Gods)](신들의종말EndofGods.md) |
-| 5 | [운명과 예언 (Fate & Prophecy)](운명과예언Fate&Prophecy.md) |
-| 6 | [축복과 저주 (Blessings & Curses)](축복과저주Blessings&Curses.md) |
+> [!NOTE] 📜 신화시대 기록 — 이 폴더의 신들의 서열·전쟁·정치·개입 묘사는 모두 신화시대 신앙 기록이며 현세 사실이 아니다. [[신들의종말EndofGods|신들의 종말]] 이후 현세에서 신을 목격·확인한 자는 없다. 현재 규칙은 [[세계의-헌법]] §5 — 신은 답하지 않는다. 권능의 값은 *신성=그릇 소각(개별 한정)* / *어둠·금기=에테르 채무+이자*로 이원화되며, 일반 마법·신성은 위계 차이만 있을 뿐 강제 등가교환 대가가 없다.
+
+| # | 문서 | 시대레이어 |
+|---|------|------|
+| 1 | [신들의 서열 (Divine Hierarchy)](신들의서열DivineHierarchy.md) | 신화시대 |
+| 2 | [신들의 전쟁 (Divine Wars)](신들의전쟁DivineWars.md) | 신화시대 |
+| 3 | [신들의 정치 (Divine Politics)](신들의정치DivinePolitics.md) | 신화시대 |
+| 4 | [신들의 종말 (End of Gods)](신들의종말EndofGods.md) | 예언 |
+| 5 | [운명과 예언 (Fate & Prophecy)](운명과예언Fate&Prophecy.md) | 예언 |
+| 6 | [축복과 저주 (Blessings & Curses)](축복과저주Blessings&Curses.md) | 신화시대 |
