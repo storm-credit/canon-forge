@@ -1,0 +1,28 @@
+---
+정본명: 동반수 백과 (Companions & War Mounts)
+유형: 도감 인덱스
+출처: "01-38. 동반수 백과"
+검증상태: Phase 2 전수 보존 (원문 보존, 2026-06-22)
+---
+
+# 🐺 동반수 백과 (Companions & War Mounts)
+
+> 야성과 유대로 맺어지는 군마·동반수 체계. 조련사 5계급, 13대 전술 동반수 계열.
+
+## 하위 분류
+
+| 분류 | 링크 |
+|------|------|
+| 동반수 5계급 및 교감 체계 | [동반수 5계급 및 교감 체계](05.동반수5계급및교감체계/index.md) |
+| 동반수 도감 | [동반수 도감](동반수도감/index.md) |
+
+## 항목
+
+| # | 항목 |
+|---|------|
+| 1 | [동반수 및 군마 백과 (Companions & War Mounts Encyclopedia)](0.동반수및군마백과.md) |
+| 2 | [야성과 유대의 기원 (Origin of the Wild & Bond)](1.야성과유대의기원.md) |
+| 3 | [조련사 계급 및 동반수 등급 (Tamer Hierarchy & Companion Ranks)](2.조련사계급및동반수등급.md) |
+| 4 | [대륙별 헌터 결사와 맹수 (Continental Hunter Guilds & Beasts)](3.대륙별헌터결사와맹수.md) |
+| 5 | [전설의 수호수와 빙의 마구 (Legendary Guardians & Spirit Harnesses)](4.전설의수호수와빙의마구.md) |
+| 6 | [동반수 도감 분류 체계 (Companion Lexicon Classifications)](5.동반수도감분류체계.md) |

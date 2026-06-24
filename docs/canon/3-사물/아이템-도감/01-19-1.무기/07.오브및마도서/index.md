@@ -1,0 +1,14 @@
+---
+정본명: 오브 및 마도서 (Orbs & Grimoires)
+유형: 도감 인덱스
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/07. 오브 및 마도서 (Orbs & Grimoires)"
+검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
+---
+
+# 🗡️ 오브 및 마도서 (Orbs & Grimoires)
+
+## 항목
+
+| # | 항목 |
+|---|------|
+| 1 | [금단 고서계 공통 특성 (Grim Plausibility)](금단고서계공통특성.md) |

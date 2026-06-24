@@ -11,6 +11,7 @@ class Config:
     schemas_dir: str
     llm_model: str
     provider: str = "anthropic"          # "anthropic" | "vertex"
+    llm_max_tokens: int = 16384          # output token budget; 16K fits most extractions
     vertex_sa_key: str = ""              # path to service-account JSON (project_id read from it)
     vertex_project: str = ""             # fallback if no SA key
     vertex_location: str = "us-central1"
