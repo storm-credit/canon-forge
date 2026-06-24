@@ -9,6 +9,7 @@
 
 | # | 문서 |
 |---|------|
+| 0 | [**마스터 연표 (Master Timeline)**](00-마스터연표MasterTimeline.md) ← 연대 충돌 교차검증 종합 |
 | 1 | [[신화] 최초의 사냥과 황혼의 창]([신화]최초의사냥과황혼의창.md) |
 | 2 | [대격변 (Cataclysm)](대격변Cataclysm.md) |
 | 3 | [마도 반란 (Magitech Rebellion)](마도반란MagitechRebellion.md) |
