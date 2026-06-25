@@ -1,14 +1,13 @@
 ---
-정본명: 고대 제국의 유산 (Legacy of the Ancient Empire)
+정본명: 고대제국의유산
 유형: 도감 인덱스
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-4. 유물 (Relics)/01. 고대 제국의 유산 (Legacy of the Ancient Empire)"
-검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
+검증상태: 분류 재정비 index 재생성 (2026-06-25)
 ---
 
-# 🗡️ 고대 제국의 유산 (Legacy of the Ancient Empire)
+# 📚 고대제국의유산
 
-## 항목
+## 항목 (1)
 
-| # | 항목 |
-|---|------|
-| 1 | [고대 제국의 유산 (Legacy of the Ancient Empire)](01.고대제국의유산.md) |
+| 아이템 | 링크 |
+|--------|------|
+| 고대 제국의 유산 (Legacy of the Ancient Empire) | [고대 제국의 유산 (Legacy of the Ancient Empire)](01.고대제국의유산.md) |

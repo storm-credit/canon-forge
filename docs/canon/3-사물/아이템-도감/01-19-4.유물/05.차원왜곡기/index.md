@@ -1,14 +1,13 @@
 ---
-정본명: 차원 왜곡기 (Dimensional Distorters)
+정본명: 차원왜곡기
 유형: 도감 인덱스
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-4. 유물 (Relics)/05. 차원 왜곡기 (Dimensional Distorters)"
-검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
+검증상태: 분류 재정비 index 재생성 (2026-06-25)
 ---
 
-# 🗡️ 차원 왜곡기 (Dimensional Distorters)
+# 📚 차원왜곡기
 
-## 항목
+## 항목 (1)
 
-| # | 항목 |
-|---|------|
-| 1 | [차원 왜곡기 (Dimensional Distorters)](05.차원왜곡기.md) |
+| 아이템 | 링크 |
+|--------|------|
+| 차원 왜곡기 (Dimensional Distorters) | [차원 왜곡기 (Dimensional Distorters)](05.차원왜곡기.md) |
