@@ -1,7 +1,7 @@
 ---
 정본명: 파브리의 창조를 여는 만능 렌치 (Omni-Wrench of Fabri's Creation)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/07.창/파브리의 창조를 여는 만능 렌치 (Omni-Wrench of Fabri's Creation).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06.창/파브리의 창조를 여는 만능 렌치 (Omni-Wrench of Fabri's Creation).md"
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
@@ -18,7 +18,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **분류** | 무기 — 창 (Spears |
+| **분류** | 무기 — 창 (Spears) |
 | **등급** | **레전더리** 🔴 |
 | **가치** | 금화 1,000,000+ (역사적 유산급) |
 | **현재 소유자** | [테크노스 파브리 (Technos Fabri)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/04.테크노스파브리.md) |
