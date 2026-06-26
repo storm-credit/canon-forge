@@ -5,7 +5,7 @@
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 광기 제어의 철 이빨 (Iron Teeth of Madness-Control)
+# 🦷 광기 제어의 철 이빨 (Iron Teeth of Madness-Control)
 
 > 영웅 로건 레드앵커의 전용 장비
 
