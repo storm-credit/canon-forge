@@ -5,7 +5,7 @@
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 대지수호의 방패검 (Shield-sword of Earth Guard)
+# 🛡️ 대지수호의 방패검 (Shield-sword of Earth Guard)
 
 > 영웅 가레스 페트라의 전용 장비
 

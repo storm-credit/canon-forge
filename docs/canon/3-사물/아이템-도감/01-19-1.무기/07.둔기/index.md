@@ -10,7 +10,7 @@
 
 | 아이템 | 링크 |
 |--------|------|
-| [[창해의 망자 지휘봉 '칼라베라(Calavera)'] ] | [[[창해의 망자 지휘봉 '칼라베라(Calavera)'] ]]([[창해의%20망자%20지휘봉%20'칼라베라%28Calavera%29']%20].md) |
+| 창해의 망자 지휘봉 '칼라베라' (Calavera) | [창해의 망자 지휘봉 '칼라베라' (Calavera)](창해의%20망자%20지휘봉%20'칼라베라'%20%28Calavera%29.md) |
 | 가론 웨이브크래셔의 수압 철퇴 (Water-Pressure Mace of 가론 웨이브크래셔) | [가론 웨이브크래셔의 수압 철퇴 (Water-Pressure Mace of 가론 웨이브크래셔)](가론%20웨이브크래셔의%20수압%20철퇴%20%28Water-Pressure%20Mace%20of%20가론%20웨이브크래셔%29.md) |
 | 가시 박힌 참회의 구원 철퇴(Mace of Bludgeoning Penance) | [가시 박힌 참회의 구원 철퇴(Mace of Bludgeoning Penance)](가시%20박힌%20참회의%20구원%20철퇴%28Mace%20of%20Bludgeoning%20Penance%29.md) |
 | 갓 핸드 (God Hand) | [갓 핸드 (God Hand)](갓%20핸드%20%28God%20Hand%29.md) |

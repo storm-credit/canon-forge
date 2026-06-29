@@ -5,7 +5,7 @@
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 순결한 거짓의 익사 수조 (Drowning-Tank of the Pale Lie)
+# 🏺 순결한 거짓의 익사 수조 (Drowning-Tank of the Pale Lie)
 
 > 영웅 이그나시오 모르티스의 전용 장비
 

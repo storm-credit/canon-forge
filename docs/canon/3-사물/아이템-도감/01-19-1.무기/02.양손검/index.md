@@ -10,7 +10,7 @@
 
 | 아이템 | 링크 |
 |--------|------|
-| [[부패하는 맹세의 대검 '코로시드(Corrosed)'] ] | [[[부패하는 맹세의 대검 '코로시드(Corrosed)'] ]]([[부패하는%20맹세의%20대검%20'코로시드%28Corrosed%29']%20].md) |
+| 부패하는 맹세의 대검 '코로시드' (Corrosed) | [부패하는 맹세의 대검 '코로시드' (Corrosed)](부패하는%20맹세의%20대검%20'코로시드'%20%28Corrosed%29.md) |
 | 강철 심장의 성검 (Steelheart's Iron Gospel Blade) | [강철 심장의 성검 (Steelheart's Iron Gospel Blade)](강철%20심장의%20성검%20%28Steelheart's%20Iron%20Gospel%20Blade%29.md) |
 | 균열의 대검 '리프트 슬레이어' (Leo Raine's Greatsword of the Rift) | [균열의 대검 '리프트 슬레이어' (Leo Raine's Greatsword of the Rift)](균열의%20대검%20'리프트%20슬레이어'%20%28Leo%20Raine's%20Greatsword%20of%20the%20Rift%29.md) |
 | 그렌델 (Grendel) | [그렌델 (Grendel)](그렌델%20%28Grendel%29.md) |

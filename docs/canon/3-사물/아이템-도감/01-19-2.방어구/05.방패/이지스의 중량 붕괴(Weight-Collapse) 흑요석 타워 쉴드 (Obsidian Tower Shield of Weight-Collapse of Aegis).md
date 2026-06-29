@@ -5,7 +5,7 @@
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)
+# 🛡️ 이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)
 
 > 영웅 페르단 이지스의 전용 장비
 
@@ -18,7 +18,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **분류** | 무기 — 방패 (Shields |
+| **분류** | 무기 — 방패 (Shields) |
 | **등급** | **에픽** 🟠 |
 | **가치** | 금화 200,000+ (에픽 등급 — 국고급) |
 | **현재 소유자** | [페르단 이지스 (Ferdan Aegis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/12.페르단이지스.md) |

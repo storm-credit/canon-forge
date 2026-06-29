@@ -5,7 +5,7 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 성광 파편 (Shard of Holy Radiance)
+# 🏺 성광 파편 (Shard of Holy Radiance)
 
 > *"태양신 솔라리스 (Solaris)가 처음으로 지상에 내려보낸 빛이 굳어 만들어졌다는 전설의 광물."*
 

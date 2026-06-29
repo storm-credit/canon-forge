@@ -5,9 +5,9 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 에테르 폭약 (Etherion Charges) 배지
+# 🎖️ 에테르 폭약 (Etherion Charges) 배지
 
-> 마력 억제 구속구 (Suppression Fetters) (Suppression Fetters)
+> 마력 억제 구속구 (Suppression Fetters)
 
 | **구분** | **설명** |
 | --- | --- |

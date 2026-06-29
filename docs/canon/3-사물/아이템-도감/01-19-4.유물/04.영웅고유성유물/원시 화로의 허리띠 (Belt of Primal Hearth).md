@@ -5,7 +5,7 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 원시 화로의 허리띠 (Belt of Primal Hearth)
+# 🏺 원시 화로의 허리띠 (Belt of Primal Hearth)
 
 > 대자연의 결속과 부작용을 통제하는 기적의 성유물
 

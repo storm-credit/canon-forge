@@ -5,7 +5,7 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 이계의 쇳조각 (Scrap from Another World)
+# 🏺 이계의 쇳조각 (Scrap from Another World)
 
 > *"마법사 (Mage)가 불태운 것도, 드워프가 벼려낸 것도 아니다. 대륙의 섭리에 위배되는 불길한 금속 파편."*
 

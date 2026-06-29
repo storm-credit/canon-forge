@@ -5,7 +5,7 @@
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 적열의 심장 펜던트 (Pendant of the Red-Heat Heart)
+# 🏺 적열의 심장 펜던트 (Pendant of the Red-Heat Heart)
 
 > 영웅 울프가르 이그니겔루의 전용 장비
 

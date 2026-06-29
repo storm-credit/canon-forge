@@ -5,7 +5,7 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 녹슨 회중시계 조각 (Rusty Chronometer Fragment)
+# 🏺 녹슨 회중시계 조각 (Rusty Chronometer Fragment)
 
 > *"태어난 고향에서는 자랑스러운 발명품이었을지 모르나, 이 대륙에서는 끔찍하게 불길한 부적 (Amulets)에 불과하다."*
 

@@ -5,7 +5,7 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 특수 마도구 (Magical Tools & Utilities)
+# 💍 특수 마도구 (Magical Tools & Utilities)
 
 > *"장비의 무게는 곧 생명의 무게이며, 그 안에 담긴 마력은 착용자의 영혼을 투영한다."*
 

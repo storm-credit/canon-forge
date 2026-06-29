@@ -5,7 +5,7 @@
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 거신의 고대 기갑 방패 (Bastion's Colossus Relic Shield)
+# 🛡️ 거신의 고대 기갑 방패 (Bastion's Colossus Relic Shield)
 
 > *"요새는 무너지지 않는다. 지키는 자가 먼저 물러날 뿐이다."*
 
