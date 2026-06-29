@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "bb276515395671bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eba1586e759bf62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400299b023bb0312",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d34a2e4fa7f2fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3decb3df56a5359a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0e09cf9b1cdd5e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "b30ff133d7801b96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "072e309aa2766bef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66592bdb123fd5f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "31a781dfa7ec36b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f641acfdd3487b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "1f3280b3c63e61a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "a4876430a0b3ea0b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "efeba7f7efad382b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "b8ad4f76277045e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "e0e09cf9b1cdd5e9",
+  "lastOpenFiles": [
+    "docs/canon/1-시스템/직업-도감/몬스터헌터.md",
+    "docs/canon/1-시스템/직업-도감/index.md",
+    "docs/canon/1-시스템/직업-도감/35.아스트라리스대륙의초월적직업군.md",
+    "docs/canon/1-시스템/직업-도감/34.이계소환사.md",
+    "docs/canon/1-시스템/직업-도감/33.기록관및역사학자.md",
+    "docs/canon/1-시스템/직업-도감/32.핏빛군주.md",
+    "docs/canon/1-시스템/직업-도감/31.마검사.md",
+    "docs/canon/1-시스템/직업-도감/30.전투마법사.md",
+    "docs/canon/1-시스템/직업-도감/29.검투사.md",
+    "docs/canon/1-시스템/직업-도감/28.드루이드및자연수호자.md",
+    "docs/canon/1-시스템/직업-도감/27.정령사.md",
+    "docs/canon/1-시스템/직업-도감/26.도적및무법자.md",
+    "docs/canon/1-시스템/직업-도감/25.밀수꾼.md",
+    "docs/canon/1-시스템/직업-도감/24.무희및첩자.md",
+    "docs/canon/1-시스템/직업-도감/23.주술사및샤먼.md",
+    "docs/canon/1-시스템/직업-도감/22.흑마법사.md",
+    "docs/canon/1-시스템/직업-도감/21.현상금사냥꾼.md",
+    "docs/canon/1-시스템/직업-도감/20.정찰병및추적자.md",
+    "docs/canon/1-시스템/직업-도감/19.용병.md",
+    "docs/canon/1-시스템/직업-도감/18.룬대장장이.md",
+    "docs/canon/1-시스템/직업-도감/17.이단심문관.md",
+    "docs/canon/1-시스템/직업-도감/16.마도공학자.md",
+    "docs/canon/1-시스템/직업-도감/15.강령술사.md",
+    "docs/canon/1-시스템/직업-도감/14.영혼얽는자.md",
+    "docs/canon/1-시스템/직업-도감/13.심연조각사.md",
+    "docs/canon/1-시스템/직업-도감/12.암살자.md",
+    "docs/canon/1-시스템/직업-도감",
+    "docs/canon/1-시스템/차원공간-백과",
+    "docs/canon/가이드라인",
+    "scripts/황금함대_변환.py",
+    "scripts/해적연합_변환.py",
+    "scripts/프로스트본연합_변환.py",
+    "scripts/축약점검.py",
+    "scripts/철의금융_변환.py",
+    "scripts/정령연합_변환.py",
+    "scripts/자유도시연합_재변환.py"
+  ]
+}

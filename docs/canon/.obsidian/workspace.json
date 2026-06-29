@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "40fe9964d6bb8f08",
+    "type": "split",
+    "children": [
+      {
+        "id": "4afd4d1c6ccc6a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f248a313db3089d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07.율리우스아우렐리우스"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e9d495f90c9c144",
+    "type": "split",
+    "children": [
+      {
+        "id": "603d923950e5175f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c30c3a9df6165fa9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "8e0fe9d023b1bf9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "682dfda508a829d8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52dab7032cf87708",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bbbd7d2fb83b0ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea889e69f564aba6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "07.율리우스아우렐리우스 의 백링크"
+            }
+          },
+          {
+            "id": "15ab80e2a32c27c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "07.율리우스아우렐리우스 의 나가는 링크"
+            }
+          },
+          {
+            "id": "76e3392f7d94e378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "8acff9ac5ff779d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "ad9475fe9281bbd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "07.율리우스아우렐리우스 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "f248a313db3089d6",
+  "lastOpenFiles": [
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/심연의 류트(Lute of the Abyss).md.tmp.21848.90b39cd867b0",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/시밀러리티 엄브렐라 (Similarity Umbrella).md.tmp.21848.079686b55cc6",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/엘리시온의 성유물 '은하수 물방울' (Holy Relic of Elysion Teardrop of Galaxy).md.tmp.21848.e5272611f788",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/시밀러리티 엄브렐라 (Similarity Umbrella).md.tmp.21848.98056691273c",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/탐욕의 차원 금고 (Dimensional Vault of Greed).md.tmp.21848.1835bef09e02",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/진실을 재단하는 아카식의 깃펜 (Akashic Quill of Truth-Tailoring).md.tmp.21848.f6c19178cfe8",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/여명과 노을의 성채 결계(Waning Sun Sanctuary).md.tmp.21848.3b2119879f8a",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/아이테르눔의 무덤(Tomb) 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum).md.tmp.21848.2839bfc80190",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell).md.tmp.21848.89c72806cff9",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell).md.tmp.21848.209de00715fb",
+    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/생명을 포식하는 코프시드의 묘목 (Seedling of Corpseed, the Life-Devourer).md.tmp.21848.023a4a9a7b0a",
+    "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/05.미카엘듀란달.md",
+    "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/02.카시엘아크투루스.md",
+    "3-사물/아이템-도감/01-19-1.무기/07.둔기/디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord).md",
+    "3-사물/아이템-도감/01-19-4.유물/04.영웅고유성유물/파동을 잠재우는 고요의 진주 (Pearl of Stillness).md",
+    "3-사물/아이템-도감/01-19-2.방어구/04.망토·외투/디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition).md",
+    "3-사물/아이템-도감/01-19-1.무기/07.둔기/둠해머 폴른 스카이 (Doomhammer Fallen Sky).md",
+    "3-사물/아이템-도감/01-19-4.유물/04.영웅고유성유물/통곡하는 미망인의 베일 (Veil of the Wailing Widow).md",
+    "3-사물/아이템-도감/01-19-2.방어구/04.망토·외투/돌풍의 비행 망토 (Flight Cloak of the Gale).md",
+    "3-사물/아이템-도감/01-19-1.무기/07.둔기/대지를 가르는 운철 망치(Meteoric Hammer of Earthcleaving).md",
+    "3-사물/아이템-도감/01-19-4.유물/04.영웅고유성유물/태엽 감긴 회중시계 심장 (Wind-up Pocket-Watch Heart).md",
+    "3-사물/아이템-도감/01-19-1.무기/06.창/순풍을 찢는 마나 랜스 '제피로스' (Mana Lance Zephyros).md",
+    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/09.보석/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/08.성물/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/07.부적/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/06.훈장/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/05.브로치/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/04.머리장식/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/03.귀걸이/index.md",
+    "3-사물/아이템-도감/01-19-3.악세서리/02.목걸이·팬던트/index.md",
+    "3-사물/아이템-도감/01-19-2.방어구/09.장화·각반/index.md",
+    "3-사물/아이템-도감/01-19-2.방어구/08.장갑·손목/index.md",
+    "3-사물/아이템-도감/01-19-2.방어구/07.견갑/index.md",
+    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/index.md",
+    "3-사물/아이템-도감/01-19-2.방어구/05.방패/index.md"
+  ]
+}
