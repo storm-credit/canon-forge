@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (131)
+## 항목 (132)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -114,6 +114,7 @@
 | 절대 영도 타워 쉴드 '이지스 옵 딥스' (Aegis of the Deeps) | [절대 영도 타워 쉴드 '이지스 옵 딥스' (Aegis of the Deeps)](절대%20영도%20타워%20쉴드%20'이지스%20옵%20딥스'%20%28Aegis%20of%20the%20Deeps%29.md) |
 | 절연의 흑갑 로브 (Insulation Dark-Armor Robe) | [절연의 흑갑 로브 (Insulation Dark-Armor Robe)](절연의%20흑갑%20로브%20%28Insulation%20Dark-Armor%20Robe%29.md) |
 | 정신 오염을 반사하는 납 구속복 (Lead Straitjacket that Reflects Mental Contamination) | [정신 오염을 반사하는 납 구속복 (Lead Straitjacket that Reflects Mental Contamination)](정신%20오염을%20반사하는%20납%20구속복%20%28Lead%20Straitjacket%20that%20Reflects%20Mental%20Contamination%29.md) |
+| 정제로의 가죽 앞치마 (Refiner's Hearth-Apron) | [정제로의 가죽 앞치마 (Refiner's Hearth-Apron)](정제로의%20가죽%20앞치마%20%28Refiner's%20Hearth-Apron%29.md) |
 | 중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity) | [중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity)](중력을%20역방향으로%20흩는%20은하수%20드레스%20%28Milky%20Way%20Dress%20that%20Disperses%20Gravity%29.md) |
 | 증거 보전의 은빛 제복 (Uniform of Evidence Preservation) | [증거 보전의 은빛 제복 (Uniform of Evidence Preservation)](증거%20보전의%20은빛%20제복%20%28Uniform%20of%20Evidence%20Preservation%29.md) |
 | 진리와 아카식의 로브 (Robe of Akashic Truth) | [진리와 아카식의 로브 (Robe of Akashic Truth)](진리와%20아카식의%20로브%20%28Robe%20of%20Akashic%20Truth%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 방패
 
-## 항목 (45)
+## 항목 (46)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -25,6 +25,7 @@
 | 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield) | [돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)](돌잎의%20방패%20'스톤리프'%20%28Tobias%20Stoneleaf's%20Rock%20Armor%20Shield%29.md) |
 | 드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis) | [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](드라코니스의%20빛을%20담은%20거석%20방패%20%28Light-Bearing%20Megalith%20Shield%20of%20Draconis%29.md) |
 | 드라콘의 빛을 담은 거석 방패 | [드라콘의 빛을 담은 거석 방패](드라콘의빛을담은거석방패.md) |
+| 라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield) | [라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield)](라그날의%20어둠쐐기%20방패%20%28Ragnar's%20Dark-Wedge%20Shield%29.md) |
 | 마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater') | [마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater')](마도%20합금%20타워실드%20'임페리얼%20브레이크워터'%20%28M-Alloy%20Tower%20Shield%20'Imperial%20Breakwater'%29.md) |
 | 마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan) | [마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan)](마인드-실드%20은실%20가디건%20%28Silver-Thread%20Mind-Shield%20Cardigan%29.md) |
 | 망자의 방패 (Grimshield) | [망자의 방패 (Grimshield)](망자의%20방패%20%28Grimshield%29.md) |

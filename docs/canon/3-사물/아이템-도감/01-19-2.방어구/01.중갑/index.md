@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (43)
+## 항목 (45)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -33,11 +33,13 @@
 | 순교자의 재가 박힌 열압 쇄골갑 (Clavicle-Armor of Thermal-Pressure Embedded with Martyr's Ash) | [순교자의 재가 박힌 열압 쇄골갑 (Clavicle-Armor of Thermal-Pressure Embedded with Martyr's Ash)](순교자의%20재가%20박힌%20열압%20쇄골갑%20%28Clavicle-Armor%20of%20Thermal-Pressure%20Embedded%20with%20Martyr's%20Ash%29.md) |
 | 순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr) | [순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr)](순교자의%20황금형벌%20갑주%20%28Golden-Penance%20Armor%20of%20the%20Martyr%29.md) |
 | 순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim) | [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](순례자의%20은청색%20사자%20중갑%20%28Silver-blue%20Lion%20Plate%20of%20Pilgrim%29.md) |
+| 스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss) | [스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss)](스스로%20입은%20심연의%20갑주%20%28Self-Worn%20Carapace%20of%20the%20Abyss%29.md) |
 | 심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate) | [심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate)](심해압%20견딤식%20은염강%20판금갑수%20%28Abyssal-Pressure%20Silver-Salt%20Plate%29.md) |
 | 오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton) | [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](오르도스%20방위군%20기동%20외골격%20%28Ordos%20Defense%20Mobile%20Exoskeleton%29.md) |
 | 요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate) | [요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate)](요새화%20융합%20풀-플레이트%20%28Fortified%20Fusion%20Full-Plate%29.md) |
 | 용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross) | [용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross)](용광로%20화집%20타오르는%20십자%20중갑%20%28Crucible%20Armor%20of%20Blazing%20Cross%29.md) |
 | 월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight) | [월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight)](월광에%20벼려진%20은린갑%20%28Silver-Scale%20Armor%20Forged%20in%20Moonlight%29.md) |
+| 이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless) | [이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless)](이름%20잃은%20방벽의%20전신갑%20%28Bulwark%20Plate%20of%20the%20Nameless%29.md) |
 | 적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino) | [적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino)](적린%28Red-scale%29%20코뿔소의%20뚫리지%20않는%20플레이트%20%28Unpierceable%20Plate%20of%20the%20Red-Scale%20Rhino%29.md) |
 | 절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud) | [절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud)](절연된%20뇌운의%20하프%20플레이트%20%28Insulated%20Half-Plate%20of%20the%20Thundercloud%29.md) |
 | 중력을 거스르는 현무암 흉갑 (Breastplate of Gravity-Defying Basalt) | [중력을 거스르는 현무암 흉갑 (Breastplate of Gravity-Defying Basalt)](중력을%20거스르는%20현무암%20흉갑%20%28Breastplate%20of%20Gravity-Defying%20Basalt%29.md) |

@@ -6,11 +6,12 @@
 
 # 📚 머리장식
 
-## 항목 (9)
+## 항목 (10)
 
 | 아이템 | 링크 |
 |--------|------|
 | 머리장식 (Tiaras) | [머리장식 (Tiaras)](05.머리장식.md) |
+| 네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign) | [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](네크로폴리스%20망자의%20골제관%20%28Bone%20Diadem%20of%20the%20Necropolis%20Sovereign%29.md) |
 | 대속의 가시관 (Crown of Vicarious Thorns) | [대속의 가시관 (Crown of Vicarious Thorns)](대속의%20가시관%20%28Crown%20of%20Vicarious%20Thorns%29.md) |
 | 동토의 여제(Empress) 티아라 | [동토의 여제(Empress) 티아라](동토의%20여제%28Empress%29%20티아라.md) |
 | 성채의 티아라 (Tiara of Acropolis) | [성채의 티아라 (Tiara of Acropolis)](성채의%20티아라%20%28Tiara%20of%20Acropolis%29.md) |
