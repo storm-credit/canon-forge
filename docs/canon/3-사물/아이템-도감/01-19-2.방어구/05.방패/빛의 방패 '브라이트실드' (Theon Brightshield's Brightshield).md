@@ -1,11 +1,11 @@
 ---
 정본명: 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/28. 특수 (Special)/빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/05.방패/빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)
+# 🛡️ 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)
 
 > *"제가 막겠습니다 — 이 방패가 부서지는 날은, 제가 쓰러지는 날입니다."*
 

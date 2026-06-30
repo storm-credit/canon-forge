@@ -6,7 +6,7 @@
 
 # 📚 방패
 
-## 항목 (39)
+## 항목 (45)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,21 +14,27 @@
 | 거신의 고대 기갑 방패 (Bastion's Colossus Relic Shield) | [거신의 고대 기갑 방패 (Bastion's Colossus Relic Shield)](거신의%20고대%20기갑%20방패%20%28Bastion's%20Colossus%20Relic%20Shield%29.md) |
 | 거인의 방패 (Shield of Giant) | [거인의 방패 (Shield of Giant)](거인의%20방패%20%28Shield%20of%20Giant%29.md) |
 | 검은 강철의 방패 (Black Steel Shield) | [검은 강철의 방패 (Black Steel Shield)](검은%20강철의%20방패%20%28Black%20Steel%20Shield%29.md) |
+| 공허의 방패 (Void Shield) | [공허의 방패 (Void Shield)](공허의%20방패%20%28Void%20Shield%29.md) |
 | 군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard') | [군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard')](군마의%20타워%20실드%20'이모탈%20가드'%20%28Tower%20Shield%20'Immortal%20Guard'%29.md) |
+| 그레이트 오크 실드 (Great Oak Shield) | [그레이트 오크 실드 (Great Oak Shield)](그레이트%20오크%20실드%20%28Great%20Oak%20Shield%29.md) |
 | 녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise) | [녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise)](녹아내린%20흑요석의%20파비스%20방패%20%28Melted%20Obsidian%20Pavise%29.md) |
 | 닉스이지스의 불침 대방패 - 에버글레이드 (Impenetrable Great-Shield, Everglade) | [닉스이지스의 불침 대방패 - 에버글레이드 (Impenetrable Great-Shield, Everglade)](닉스이지스의%20불침%20대방패%20-%20에버글레이드%20%28Impenetrable%20Great-Shield,%20Everglade%29.md) |
 | 대산호 방패 (Great Coral Shield) | [대산호 방패 (Great Coral Shield)](대산호%20방패%20%28Great%20Coral%20Shield%29.md) |
 | 대지수호의 방패검 (Shield-sword of Earth Guard) | [대지수호의 방패검 (Shield-sword of Earth Guard)](대지수호의%20방패검%20%28Shield-sword%20of%20Earth%20Guard%29.md) |
 | 대형 방패 - 실드워드의 철벽 (Aegis of Shieldward) | [대형 방패 - 실드워드의 철벽 (Aegis of Shieldward)](대형%20방패%20-%20실드워드의%20철벽%20%28Aegis%20of%20Shieldward%29.md) |
+| 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield) | [돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)](돌잎의%20방패%20'스톤리프'%20%28Tobias%20Stoneleaf's%20Rock%20Armor%20Shield%29.md) |
 | 드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis) | [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](드라코니스의%20빛을%20담은%20거석%20방패%20%28Light-Bearing%20Megalith%20Shield%20of%20Draconis%29.md) |
 | 드라콘의 빛을 담은 거석 방패 | [드라콘의 빛을 담은 거석 방패](드라콘의빛을담은거석방패.md) |
 | 마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater') | [마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater')](마도%20합금%20타워실드%20'임페리얼%20브레이크워터'%20%28M-Alloy%20Tower%20Shield%20'Imperial%20Breakwater'%29.md) |
 | 마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan) | [마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan)](마인드-실드%20은실%20가디건%20%28Silver-Thread%20Mind-Shield%20Cardigan%29.md) |
+| 망자의 방패 (Grimshield) | [망자의 방패 (Grimshield)](망자의%20방패%20%28Grimshield%29.md) |
 | 맹세의 바람 방패 (Oath Wind Shield) | [맹세의 바람 방패 (Oath Wind Shield)](맹세의%20바람%20방패%20%28Oath%20Wind%20Shield%29.md) |
 | 모건 페룸의 움직이는 철탑 방패 (Mobile Iron Tower-Shield of Morgan Ferrum) | [모건 페룸의 움직이는 철탑 방패 (Mobile Iron Tower-Shield of Morgan Ferrum)](모건%20페룸의%20움직이는%20철탑%20방패%20%28Mobile%20Iron%20Tower-Shield%20of%20Morgan%20Ferrum%29.md) |
 | 발테리온 실드포트의 미완성 직검 (Unfinished Blade of 발테리온 실드포트) | [발테리온 실드포트의 미완성 직검 (Unfinished Blade of 발테리온 실드포트)](발테리온%20실드포트의%20미완성%20직검%20%28Unfinished%20Blade%20of%20발테리온%20실드포트%29.md) |
 | 베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield) | [베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield)](베르누이의%20단열%20실드%20코르셋%20%28Corset%20of%20Bernoulli's%20Adiabatic%20Shield%29.md) |
+| 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield) | [빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)](빛의%20방패%20'브라이트실드'%20%28Theon%20Brightshield's%20Brightshield%29.md) |
 | 순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal) | [순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal)](순교자%20듀란달의%20무명%20대방패%20%28Nameless%20Greatshield%20of%20Durandal%29.md) |
+| 쌍면의 거울 방패 (Shield of Two Faces) | [쌍면의 거울 방패 (Shield of Two Faces)](쌍면의%20거울%20방패%20%28Shield%20of%20Two%20Faces%29.md) |
 | 아다만티움 타워 실드 (Adamantium Tower Shield) | [아다만티움 타워 실드 (Adamantium Tower Shield)](아다만티움%20타워%20실드%20%28Adamantium%20Tower%20Shield%29.md) |
 | 아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius) | [아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius)](아에기디우스의%20결속%20대방패%20%28Binding%20Tower-Shield%20of%20Aegidius%29.md) |
 | 아이기스 (Aegis) | [아이기스 (Aegis)](아이기스%20%28Aegis%29.md) |

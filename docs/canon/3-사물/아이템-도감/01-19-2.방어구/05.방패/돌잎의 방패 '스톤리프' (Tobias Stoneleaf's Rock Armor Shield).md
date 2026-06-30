@@ -1,11 +1,11 @@
 ---
 정본명: 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/28. 특수 (Special)/돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/05.방패/돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)
+# 🛡️ 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)
 
 > *"바위 틈새에서도 꽃은 피는 법이죠. 저는 그 바위가 되겠습니다."*
 

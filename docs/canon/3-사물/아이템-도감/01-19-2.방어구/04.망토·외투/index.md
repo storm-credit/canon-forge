@@ -6,13 +6,14 @@
 
 # 📚 망토·외투
 
-## 항목 (42)
+## 항목 (44)
 
 | 아이템 | 링크 |
 |--------|------|
 | 골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket) | [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](골드마켓의%20누더기%20망토%20%28Ragged%20Cloak%20of%20Goldmarket%29.md) |
 | 공허 거미의 그림자 망토 (Void-Spider Shadow Cloak) | [공허 거미의 그림자 망토 (Void-Spider Shadow Cloak)](공허%20거미의%20그림자%20망토%20%28Void-Spider%20Shadow%20Cloak%29.md) |
 | 그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation) | [그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation)](그림자%20동화의%20잿빛%20실크%20망토%20%28Ash-Silk%20Cloak%20of%20Shadow%20Assimilation%29.md) |
+| 끝없는 욕망의 장물 코트(Coat of the Fence) | [끝없는 욕망의 장물 코트(Coat of the Fence)](끝없는%20욕망의%20장물%20코트%28Coat%20of%20the%20Fence%29.md) |
 | 내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption) | [내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption)](내부%20진동을%20흡수하는%20방음성%20둔갑%20망토%20%28Soundproof%20Cloak%20of%20Vibration%20Absorption%29.md) |
 | 돌풍의 비행 망토 (Flight Cloak of the Gale) | [돌풍의 비행 망토 (Flight Cloak of the Gale)](돌풍의%20비행%20망토%20%28Flight%20Cloak%20of%20the%20Gale%29.md) |
 | 동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism) | [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](동충하초의%20강제%20기생%20외투%20%28Coat%20of%20Cordyceps%20Parasitism%29.md) |
@@ -25,6 +26,7 @@
 | 맹독의 보라 덩굴 백합망토 (Venomous Purple Lily-Vine Cloak) | [맹독의 보라 덩굴 백합망토 (Venomous Purple Lily-Vine Cloak)](맹독의%20보라%20덩굴%20백합망토%20%28Venomous%20Purple%20Lily-Vine%20Cloak%29.md) |
 | 물보라의 신기루 장막 (Mirage Veil of Seafoam) | [물보라의 신기루 장막 (Mirage Veil of Seafoam)](물보라의%20신기루%20장막%20%28Mirage%20Veil%20of%20Seafoam%29.md) |
 | 밀납 코팅 방수 장막 (Wax-Sealed Habit) | [밀납 코팅 방수 장막 (Wax-Sealed Habit)](밀납%20코팅%20방수%20장막%20%28Wax-Sealed%20Habit%29.md) |
+| 바람길잡이의 망토(Cloak of the Zephyr) | [바람길잡이의 망토(Cloak of the Zephyr)](바람길잡이의%20망토%28Cloak%20of%20the%20Zephyr%29.md) |
 | 반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance) | [반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance)](반향%28Echo%29%20포착%20비늘망토%20%28Scale-cloak%20of%20Resonance%29.md) |
 | 밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky) | [밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky)](밤하늘의%20위장%20은신%20망토%20%28Camouflage%20Cloak%20of%20the%20Night%20Sky%29.md) |
 | 별빛 장막의 칠흑 베일 (Veil of Starlit Onyx) | [별빛 장막의 칠흑 베일 (Veil of Starlit Onyx)](별빛%20장막의%20칠흑%20베일%20%28Veil%20of%20Starlit%20Onyx%29.md) |

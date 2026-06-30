@@ -1,11 +1,11 @@
 ---
 정본명: 은빛 성배 (Silver Chalice)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/28. 특수 (Special)/은빛 성배 (Silver Chalice).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-3. 악세서리 (Accessories)/08.성물/은빛 성배 (Silver Chalice).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 은빛 성배 (Silver Chalice)
+# 💍 은빛 성배 (Silver Chalice)
 
 > *"이 성배에 담긴 것은 물이 아니라 기도입니다."*
 > — 엘레오노르 실버하트
@@ -16,7 +16,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **분류** | 무기 — 특수 (성배형 촉매) |
+| **분류** | 악세서리 — 성물 |
 | **등급** | **영웅급** 🟣 |
 | **가치** | 산출 불가 (성녀 전용 성물 (Holy Relics)) |
 | **현재 소유자** | 엘레오노르 실버하트 (Eleonore Silverheart) |

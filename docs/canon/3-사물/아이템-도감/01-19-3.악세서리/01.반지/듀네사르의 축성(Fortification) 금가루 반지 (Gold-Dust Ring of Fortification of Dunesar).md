@@ -1,24 +1,24 @@
 ---
 정본명: 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/30.기타/듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-3. 악세서리 (Accessories)/01.반지/듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar).md"
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)
+# 💍 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)
 
 > 영웅 비로누스 듀네사르의 전용 장비
 
 | **구분** | **설명** |
 | --- | --- |
-| **카테고리** | 무기 (기타 (Others)) |
+| **카테고리** | 악세서리 (반지) |
 | **소유자/보관소** | [비로누스 듀네사르 (Vironus Dunesar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/14.비로누스듀네사르.md) |
 
 ## 1. 기본 정보
 
 | 항목 | 내용 |
 |------|------|
-| **분류** | 무기 — 기타 (Others) |
+| **분류** | 악세서리 — 반지 |
 | **등급** | **에픽** 🟠 |
 | **가치** | 금화 100,000~500,000 (국가급 자산 등급) |
 | **현재 소유자** | [비로누스 듀네사르 (Vironus Dunesar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/14.비로누스듀네사르.md) |

@@ -1,11 +1,11 @@
 ---
 정본명: 그레이트 오크 실드 (Great Oak Shield)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/28. 특수 (Special)/W-HW-14. 그레이트 오크 실드 (Great Oak Shield).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/05.방패/그레이트 오크 실드 (Great Oak Shield).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 그레이트 오크 실드 (Great Oak Shield)
+# 🛡️ 그레이트 오크 실드 (Great Oak Shield)
 
 > *"내 등 뒤에만 있으면, 넌 안전해."*
 > — 개릭 아이언루트
@@ -16,7 +16,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **분류** | 무기 — 특수 (방패형 타격 무기) |
+| **분류** | 방어구 — 방패 |
 | **등급** | **희귀급** 🔵 |
 | **가치** | 고가 (천년 목재 사용) |
 | **현재 소유자** | 개릭 아이언루트 (Garrick Ironroot) |

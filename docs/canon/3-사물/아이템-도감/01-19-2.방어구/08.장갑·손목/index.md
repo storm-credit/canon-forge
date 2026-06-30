@@ -6,12 +6,13 @@
 
 # 📚 장갑·손목
 
-## 항목 (9)
+## 항목 (10)
 
 | 아이템 | 링크 |
 |--------|------|
 | 구속의 잔재 철장갑 (Plate of the Remaining Shackles) | [구속의 잔재 철장갑 (Plate of the Remaining Shackles)](구속의%20잔재%20철장갑%20%28Plate%20of%20the%20Remaining%20Shackles%29.md) |
 | 매의 눈먼 깃털 장갑 (Falcon's Blind Plume Gloves) | [매의 눈먼 깃털 장갑 (Falcon's Blind Plume Gloves)](매의%20눈먼%20깃털%20장갑%20%28Falcon's%20Blind%20Plume%20Gloves%29.md) |
+| 백골 반투명 장갑(Leviathan Bone Plating) | [백골 반투명 장갑(Leviathan Bone Plating)](백골%20반투명%20장갑%28Leviathan%20Bone%20Plating%29.md) |
 | 손목 보호대 (Bracers) | [손목 보호대 (Bracers)](손목%20보호대%20%28Bracers%29.md) |
 | 순백의 맹세 건틀릿 (Gauntlets of the White Vow) | [순백의 맹세 건틀릿 (Gauntlets of the White Vow)](순백의%20맹세%20건틀릿%20%28Gauntlets%20of%20the%20White%20Vow%29.md) |
 | 순풍의 항해사 장갑 (Tailwind Navigator’s Gloves) | [순풍의 항해사 장갑 (Tailwind Navigator’s Gloves)](순풍의%20항해사%20장갑%20%28Tailwind%20Navigator’s%20Gloves%29.md) |

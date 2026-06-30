@@ -1,11 +1,11 @@
 ---
 정본명: 은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/29. 마도구 (Magitek)/은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-3. 악세서리 (Accessories)/08.성물/은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion)
+# 💍 은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion)
 
 > *"이 잔에 담긴 은빛이 마르는 날, 숲의 안식도 함께 멎을 것입니다."*
 

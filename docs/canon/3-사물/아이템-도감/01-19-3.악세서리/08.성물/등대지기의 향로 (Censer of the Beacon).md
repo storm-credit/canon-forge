@@ -1,17 +1,17 @@
 ---
 정본명: 등대지기의 향로 (Censer of the Beacon)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 타격류 (Blunts & Axes)/등대지기의 향로 (Censer of the Beacon).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-3. 악세서리 (Accessories)/08.성물/등대지기의 향로 (Censer of the Beacon).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 등대지기의 향로 (Censer of the Beacon)
+# 💍 등대지기의 향로 (Censer of the Beacon)
 
 > 시대를 관통하여 전승되는 전설의 무장
 
 | **구분** | **설명** |
 | --- | --- |
-| **카테고리** | 무기 (03. 타격류 (Blunts & Axes)) |
+| **카테고리** | 악세서리 (성물) |
 | **소유자/보관소** | 모르디아 라스 (Mordiah Ras) |
 
 ## 📜 1. 유래 및 순리 (Origin & Providence)

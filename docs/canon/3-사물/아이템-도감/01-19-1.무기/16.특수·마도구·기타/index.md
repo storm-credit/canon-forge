@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (205)
+## 항목 (191)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,11 +18,9 @@
 | 고목의 성벽 '오크하트' (Druan Oakheart's Oakheart Shield) | [고목의 성벽 '오크하트' (Druan Oakheart's Oakheart Shield)](고목의%20성벽%20'오크하트'%20%28Druan%20Oakheart's%20Oakheart%20Shield%29.md) |
 | 공간을 베어내는 차원의 문 열쇠 (Dimensional Gate Key Slashing Space) | [공간을 베어내는 차원의 문 열쇠 (Dimensional Gate Key Slashing Space)](공간을%20베어내는%20차원의%20문%20열쇠%20%28Dimensional%20Gate%20Key%20Slashing%20Space%29.md) |
 | 공간을 베어내는 차원의 열쇠 (Dimensional Key Slashing the Horizon) | [공간을 베어내는 차원의 열쇠 (Dimensional Key Slashing the Horizon)](공간을%20베어내는%20차원의%20열쇠%20%28Dimensional%20Key%20Slashing%20the%20Horizon%29.md) |
-| 공허의 방패 (Void Shield) | [공허의 방패 (Void Shield)](공허의%20방패%20%28Void%20Shield%29.md) |
 | 공허의 양산 '블랙레이스의 허무' (Catrina Blacklace's Parasol of Void) | [공허의 양산 '블랙레이스의 허무' (Catrina Blacklace's Parasol of Void)](공허의%20양산%20'블랙레이스의%20허무'%20%28Catrina%20Blacklace's%20Parasol%20of%20Void%29.md) |
 | 공허의 잉크병(Inkwell of Null) | [공허의 잉크병(Inkwell of Null)](공허의%20잉크병%28Inkwell%20of%20Null%29.md) |
 | 과거의 영광을 비추는 고대 석판 (Ancient Slate Illuminating the Glory of the Past) | [과거의 영광을 비추는 고대 석판 (Ancient Slate Illuminating the Glory of the Past)](과거의%20영광을%20비추는%20고대%20석판%20%28Ancient%20Slate%20Illuminating%20the%20Glory%20of%20the%20Past%29.md) |
-| 그레이트 오크 실드 (Great Oak Shield) | [그레이트 오크 실드 (Great Oak Shield)](그레이트%20오크%20실드%20%28Great%20Oak%20Shield%29.md) |
 | 그린 블러드 쿠크리(Greenblood Kukri) | [그린 블러드 쿠크리(Greenblood Kukri)](그린%20블러드%20쿠크리%28Greenblood%20Kukri%29.md) |
 | 글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus) | [글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus)](글리파투스의%20각인%20방치%20정%20%28Engraving%20Chisel%20of%20Glyphatus%29.md) |
 | 글자가 전부 지워진 양피지 파편(Ashes of Words) | [글자가 전부 지워진 양피지 파편(Ashes of Words)](글자가%20전부%20지워진%20양피지%20파편%28Ashes%20of%20Words%29.md) |
@@ -31,17 +29,14 @@
 | 기만의 거울 (Mirror of Deception) | [기만의 거울 (Mirror of Deception)](기만의%20거울%20%28Mirror%20of%20Deception%29.md) |
 | 기상 측정 막대 (Weather Rod) | [기상 측정 막대 (Weather Rod)](기상%20측정%20막대%20%28Weather%20Rod%29.md) |
 | 기어헤드의 작업 렌치 (Gearhead's Work Wrench) | [기어헤드의 작업 렌치 (Gearhead's Work Wrench)](기어헤드의%20작업%20렌치%20%28Gearhead's%20Work%20Wrench%29.md) |
-| 끝없는 욕망의 장물 코트(Coat of the Fence) | [끝없는 욕망의 장물 코트(Coat of the Fence)](끝없는%20욕망의%20장물%20코트%28Coat%20of%20the%20Fence%29.md) |
 | 달빛의 하프 (Moonlight Harp) | [달빛의 하프 (Moonlight Harp)](달빛의%20하프%20%28Moonlight%20Harp%29.md) |
 | 달의 자장가 (Lullaby of the Moon) | [달의 자장가 (Lullaby of the Moon)](달의%20자장가%20%28Lullaby%20of%20the%20Moon%29.md) |
 | 대지의 기둥 (Pillar of Earth) | [대지의 기둥 (Pillar of Earth)](대지의%20기둥%20%28Pillar%20of%20Earth%29.md) |
 | 데스티니 카드 (Destiny Cards) | [데스티니 카드 (Destiny Cards)](데스티니%20카드%20%28Destiny%20Cards%29.md) |
 | 도시의 열쇠 (Key of the City) | [도시의 열쇠 (Key of the City)](도시의%20열쇠%20%28Key%20of%20the%20City%29.md) |
-| 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield) | [돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)](돌잎의%20방패%20'스톤리프'%20%28Tobias%20Stoneleaf's%20Rock%20Armor%20Shield%29.md) |
 | 돌풍 장비 제작도 (Galehunter Craft Blades) | [돌풍 장비 제작도 (Galehunter Craft Blades)](돌풍%20장비%20제작도%20%28Galehunter%20Craft%20Blades%29.md) |
 | 돌풍 폭풍 나침반 (Gale's Stormbreaker Compass) | [돌풍 폭풍 나침반 (Gale's Stormbreaker Compass)](돌풍%20폭풍%20나침반%20%28Gale's%20Stormbreaker%20Compass%29.md) |
 | 뒷바람 와이어 키트 (Tailwind Wire Kit) | [뒷바람 와이어 키트 (Tailwind Wire Kit)](뒷바람%20와이어%20키트%20%28Tailwind%20Wire%20Kit%29.md) |
-| 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar) | [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](듀네사르의%20축성%28Fortification%29%20금가루%20반지%20%28Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar%29.md) |
 | 드라콘의 숨쉬는 분노 (Breathing Wrath of the Dracon) | [드라콘의 숨쉬는 분노 (Breathing Wrath of the Dracon)](드라콘의%20숨쉬는%20분노%20%28Breathing%20Wrath%20of%20the%20Dracon%29.md) |
 | 레닥션 (Redaction) | [레닥션 (Redaction)](레닥션%20%28Redaction%29.md) |
 | 레닥션 (Redaction) | [레닥션 (Redaction)](레닥션%20%28Redaction%29_3.md) |
@@ -53,7 +48,6 @@
 | 만년설의 깃펜 (Richard Hailstone's Quill of Permafrost) | [만년설의 깃펜 (Richard Hailstone's Quill of Permafrost)](만년설의%20깃펜%20%28Richard%20Hailstone's%20Quill%20of%20Permafrost%29.md) |
 | 만년필 (Fountain Pen) | [만년필 (Fountain Pen)](만년필%20%28Fountain%20Pen%29.md) |
 | 망각의 거울 부채 (Fans of Amnesia) | [망각의 거울 부채 (Fans of Amnesia)](망각의%20거울%20부채%20%28Fans%20of%20Amnesia%29.md) |
-| 망자의 방패 (Grimshield) | [망자의 방패 (Grimshield)](망자의%20방패%20%28Grimshield%29.md) |
 | 맹독 여왕의 독침 (Venom Queen's Needles) | [맹독 여왕의 독침 (Venom Queen's Needles)](맹독%20여왕의%20독침%20%28Venom%20Queen's%20Needles%29.md) |
 | 맹인의 약초 바구니(Blind Man's Basket) | [맹인의 약초 바구니(Blind Man's Basket)](맹인의%20약초%20바구니%28Blind%20Man's%20Basket%29.md) |
 | 무한 폭락장 금고(Vault of the Stock Crash) | [무한 폭락장 금고(Vault of the Stock Crash)](무한%20폭락장%20금고%28Vault%20of%20the%20Stock%20Crash%29.md) |
@@ -61,9 +55,7 @@
 | 무한의 잉크병 (Edwin Rosfelt's Inkwell of Infinity) | [무한의 잉크병 (Edwin Rosfelt's Inkwell of Infinity)](무한의%20잉크병%20%28Edwin%20Rosfelt's%20Inkwell%20of%20Infinity%29.md) |
 | 무한의 플라스크 (Infinite Flask) | [무한의 플라스크 (Infinite Flask)](무한의%20플라스크%20%28Infinite%20Flask%29.md) |
 | 미스트랄 와이어 런처 (Mistral Wire Launcher) | [미스트랄 와이어 런처 (Mistral Wire Launcher)](미스트랄%20와이어%20런처%20%28Mistral%20Wire%20Launcher%29.md) |
-| 바람길잡이의 망토(Cloak of the Zephyr) | [바람길잡이의 망토(Cloak of the Zephyr)](바람길잡이의%20망토%28Cloak%20of%20the%20Zephyr%29.md) |
 | 방전 스패너(Discharge Wrench) | [방전 스패너(Discharge Wrench)](방전%20스패너%28Discharge%20Wrench%29.md) |
-| 백골 반투명 장갑(Leviathan Bone Plating) | [백골 반투명 장갑(Leviathan Bone Plating)](백골%20반투명%20장갑%28Leviathan%20Bone%20Plating%29.md) |
 | 백야의 락픽(Skeleton Lockpick) | [백야의 락픽(Skeleton Lockpick)](백야의%20락픽%28Skeleton%20Lockpick%29.md) |
 | 백은의 약초 바구니(Silver Herbal Basket) | [백은의 약초 바구니(Silver Herbal Basket)](백은의%20약초%20바구니%28Silver%20Herbal%20Basket%29.md) |
 | 번개 경주자의 마력 코일 (Boltrace's Thunder Power Coil) | [번개 경주자의 마력 코일 (Boltrace's Thunder Power Coil)](번개%20경주자의%20마력%20코일%20%28Boltrace's%20Thunder%20Power%20Coil%29.md) |
@@ -80,7 +72,6 @@
 | 붉은 벨벳의 가시 옥좌(Throne of Thorns) | [붉은 벨벳의 가시 옥좌(Throne of Thorns)](붉은%20벨벳의%20가시%20옥좌%28Throne%20of%20Thorns%29.md) |
 | 비덴의 다안(多眼) 관측 크리스탈 (Multi-Eye Observation Crystal of Viden) | [비덴의 다안(多眼) 관측 크리스탈 (Multi-Eye Observation Crystal of Viden)](비덴의%20다안%28多眼%29%20관측%20크리스탈%20%28Multi-Eye%20Observation%20Crystal%20of%20Viden%29.md) |
 | 비트 v4.0 (Bit v4.0) | [비트 v4.0 (Bit v4.0)](비트%20v4.0%20%28Bit%20v4.0%29.md) |
-| 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield) | [빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)](빛의%20방패%20'브라이트실드'%20%28Theon%20Brightshield's%20Brightshield%29.md) |
 | 사랑의 주사기 (Syringe of Love) | [사랑의 주사기 (Syringe of Love)](사랑의%20주사기%20%28Syringe%20of%20Love%29.md) |
 | 사불룸의 파형(Wave) 증폭 소리굽쇠 (Wave-Amp Tuning Fork of Sabulum) | [사불룸의 파형(Wave) 증폭 소리굽쇠 (Wave-Amp Tuning Fork of Sabulum)](사불룸의%20파형%28Wave%29%20증폭%20소리굽쇠%20%28Wave-Amp%20Tuning%20Fork%20of%20Sabulum%29.md) |
 | 사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium) | [사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium)](사일런티움의%20무거운%20대속%20묵주%20%28Heavy%20Rosary%20of%20Atonement%20of%20Silentium%29.md) |
@@ -104,7 +95,6 @@
 | 시밀러리티 엄브렐라 (Similarity Umbrella) | [시밀러리티 엄브렐라 (Similarity Umbrella)](시밀러리티%20엄브렐라%20%28Similarity%20Umbrella%29.md) |
 | 신기루의 거울 (Mirror of Mirage) | [신기루의 거울 (Mirror of Mirage)](신기루의%20거울%20%28Mirror%20of%20Mirage%29.md) |
 | 실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia) | [실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia)](실피아의%20덧없는%20은빛%20부채%20%28Silver-Dust%20Fan%20of%20Sylphia%29.md) |
-| 심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal) | [심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal)](심연%20봉쇄의%20인장%20반지%20%28Signet%20Ring%20of%20Abyssal%20Seal%29.md) |
 | 심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control) | [심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control)](심연%20통제의%20오라클%20매트릭스%20%28Oracle%20Matrix%20of%20Abyssal%20Control%29.md) |
 | 심연의 류트(Lute of the Abyss) | [심연의 류트(Lute of the Abyss)](심연의%20류트%28Lute%20of%20the%20Abyss%29.md) |
 | 심연호의 꺾인 타륜(Broken Helm of Abyss) | [심연호의 꺾인 타륜(Broken Helm of Abyss)](심연호의%20꺾인%20타륜%28Broken%20Helm%20of%20Abyss%29.md) |
@@ -113,7 +103,6 @@
 | 심판의 묵주 (Rosary of Judgment) | [심판의 묵주 (Rosary of Judgment)](심판의%20묵주%20%28Rosary%20of%20Judgment%29.md) |
 | 심판의 사슬 (Chain of Judgment) | [심판의 사슬 (Chain of Judgment)](심판의%20사슬%20%28Chain%20of%20Judgment%29.md) |
 | 심해의 노래 네프탈리 | [심해의 노래 네프탈리](심해의노래네프탈리.md) |
-| 쌍면의 거울 방패 (Shield of Two Faces) | [쌍면의 거울 방패 (Shield of Two Faces)](쌍면의%20거울%20방패%20%28Shield%20of%20Two%20Faces%29.md) |
 | 아다만티움 곡괭이 (Adamantine Pickaxe) | [아다만티움 곡괭이 (Adamantine Pickaxe)](아다만티움%20곡괭이%20%28Adamantine%20Pickaxe%29.md) |
 | 아르카디아의 종말 심판장 (Judgment Staff of Arcadia) | [아르카디아의 종말 심판장 (Judgment Staff of Arcadia)](아르카디아의%20종말%20심판장%20%28Judgment%20Staff%20of%20Arcadia%29.md) |
 | 아비살 캐넌 (Abyssal Cannon) | [아비살 캐넌 (Abyssal Cannon)](아비살%20캐넌%20%28Abyssal%20Cannon%29.md) |
@@ -154,9 +143,7 @@
 | 울부짖는 태양 칼루멘 | [울부짖는 태양 칼루멘](울부짖는태양칼루멘.md) |
 | 위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament) | [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](위버의%20비탄%20실패%20릴%20%28Spindle%20Reel%20of%20Weaver's%20Lament%29.md) |
 | 위선의 램프 (Lamp of Hypocrisy) | [위선의 램프 (Lamp of Hypocrisy)](위선의%20램프%20%28Lamp%20of%20Hypocrisy%29.md) |
-| 은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion) | [은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion)](은빛%20달무리%20교감의%20성배%20%28Holy%20Grail%20of%20Silvery%20Moonlight%20Communion%29.md) |
 | 은빛 부채 (Silver Fan) | [은빛 부채 (Silver Fan)](은빛%20부채%20%28Silver%20Fan%29.md) |
-| 은빛 성배 (Silver Chalice) | [은빛 성배 (Silver Chalice)](은빛%20성배%20%28Silver%20Chalice%29.md) |
 | 이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus) | [이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus)](이그니투스의%20저주받은%20늑골장%20%28Cursed%20Rib-Lance%20of%20Ignitus%29.md) |
 | 이자벨라의 피 묻은 회계 장부 - 저당(Mortgage) | [이자벨라의 피 묻은 회계 장부 - 저당(Mortgage)](이자벨라의%20피%20묻은%20회계%20장부%20-%20저당%28Mortgage%29.md) |
 | 인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis) | [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](인쿠디스의%20형상기억%20분쇄마치%20%28Shape-Memory%20Crusher%20of%20Incudis%29.md) |
@@ -198,7 +185,6 @@
 | 폭풍의 부채 (Vera Tempest's Fan of Storm) | [폭풍의 부채 (Vera Tempest's Fan of Storm)](폭풍의%20부채%20%28Vera%20Tempest's%20Fan%20of%20Storm%29.md) |
 | 폭풍의 포효 스톰브링어 | [폭풍의 포효 스톰브링어](폭풍의포효스톰브링어.md) |
 | 폴라리스의 점성구 - 라플라스의 얼음 (Ice of Laplace) | [폴라리스의 점성구 - 라플라스의 얼음 (Ice of Laplace)](폴라리스의%20점성구%20-%20라플라스의%20얼음%20%28Ice%20of%20Laplace%29.md) |
-| 풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis) | [풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis)](풀비스의%20썩어붙은%20유골성배%20%28Rotten%20Bone-Chalice%20of%20Pulvis%29.md) |
 | 프레비아의 예지 수정막대 '시선' (Crystal Rod of Foresight: The Gaze) | [프레비아의 예지 수정막대 '시선' (Crystal Rod of Foresight: The Gaze)](프레비아의%20예지%20수정막대%20'시선'%20%28Crystal%20Rod%20of%20Foresight%20The%20Gaze%29.md) |
 | 프로토타입 제로 (Prototype Zero) | [프로토타입 제로 (Prototype Zero)](프로토타입%20제로%20%28Prototype%20Zero%29.md) |
 | 피를 마시는 하프 (Blood-Drinker Harp) | [피를 마시는 하프 (Blood-Drinker Harp)](피를%20마시는%20하프%20%28Blood-Drinker%20Harp%29.md) |

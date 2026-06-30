@@ -1,11 +1,11 @@
 ---
 정본명: 쌍면의 거울 방패 (Shield of Two Faces)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/28. 특수 (Special)/W-BF-03. 쌍면의 거울 방패 (Shield of Two Faces).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/05.방패/쌍면의 거울 방패 (Shield of Two Faces).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 쌍면의 거울 방패 (Shield of Two Faces)
+# 🛡️ 쌍면의 거울 방패 (Shield of Two Faces)
 
 > *"막는다는 건 단지 방어가 아니야. 적의 힘을 빌려 적을 무너뜨리는 거지."*
 > — 벡스 일루전
@@ -16,7 +16,7 @@
 
 | 항목 | 내용 |
 |------|------|
-| **분류** | 무기 — 특수 (반사형 공방 겸용 방패) |
+| **분류** | 방어구 — 방패 |
 | **등급** | **영웅급** 🟣 |
 | **가치** | 산출 불가 (희귀 환술 마도구) |
 | **현재 소유자** | 벡스 일루전 (Vex Illusion) |
