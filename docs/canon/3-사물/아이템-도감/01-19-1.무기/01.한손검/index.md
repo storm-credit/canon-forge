@@ -57,7 +57,7 @@
 | 선브링어 (Sunbringer) | [선브링어 (Sunbringer)](선브링어%20%28Sunbringer%29.md) |
 | 성검 발렌티아 (Holy Sword Valentia) | [성검 발렌티아 (Holy Sword Valentia)](성검%20발렌티아%20%28Holy%20Sword%20Valentia%29.md) |
 | 성검 엑시온 (Exion) | [성검 엑시온 (Exion)](성검%20엑시온%20%28Exion%29.md) |
-| 소환 영웅 아카이브 통합 개요 및 현현 메커니즘의 여명 성검 (Holy Sword of the Dawn) | [소환 영웅 아카이브 통합 개요 및 현현 메커니즘의 여명 성검 (Holy Sword of the Dawn)](소환%20영웅%20아카이브%20통합%20개요%20및%20현현%20메커니즘의%20여명%20성검%20%28Holy%20Sword%20of%20the%20Dawn%29.md) |
+| 여명 성검 — 현 소유자 미확인 (Holy Sword of the Dawn — Unattributed) | [여명 성검 — 현 소유자 미확인 (Holy Sword of the Dawn — Unattributed)](소환%20영웅%20아카이브%20통합%20개요%20및%20현현%20메커니즘의%20여명%20성검%20%28Holy%20Sword%20of%20the%20Dawn%29.md) |
 | 솔라 엣지 (Solar Edge) | [솔라 엣지 (Solar Edge)](솔라%20엣지%20%28Solar%20Edge%29.md) |
 | 솔라리스 (Solaris) | [솔라리스 (Solaris)](솔라리스%20%28Solaris%29.md) |
 | 솔라리스 블레이드 (Solaris Blade) | [솔라리스 블레이드 (Solaris Blade)](솔라리스%20블레이드%20%28Solaris%20Blade%29.md) |

@@ -6,9 +6,27 @@
 
 # 📚 목걸이·팬던트
 
-## 항목 (2)
+## 항목 (20)
 
 | 아이템 | 링크 |
 |--------|------|
 | 목걸이 (Necklaces) | [목걸이 (Necklaces)](02.목걸이.md) |
 | 팬던트 (Pendants) | [팬던트 (Pendants)](03.팬던트.md) |
+| 마신의 핏빛 코어 펜던트 (Blood Core Pendant of the Demon God) | [마신의 핏빛 코어 펜던트 (Blood Core Pendant of the Demon God)](마신의%20핏빛%20코어%20펜던트%20%28Blood%20Core%20Pendant%20of%20the%20Demon%20God%29.md) |
+| 말라붙은 배신자의 피목걸이 (Blood-Vial Necklace of Traitors) | [말라붙은 배신자의 피목걸이 (Blood-Vial Necklace of Traitors)](말라붙은%20배신자의%20피목걸이%20%28Blood-Vial%20Necklace%20of%20Traitors%29.md) |
+| 맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity) | [맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity)](맹목적%20모성애의%20심장%20펜던트%20%28Heart%20Pendant%20of%20Blind%20Maternity%29.md) |
+| 무리에의 뿔피리 목걸이 (Necklace of the Pack-Horn) | [무리에의 뿔피리 목걸이 (Necklace of the Pack-Horn)](무리에의%20뿔피리%20목걸이%20%28Necklace%20of%20the%20Pack-Horn%29.md) |
+| 부러진 모래시계 펜던트 (Broken Hourglass Pendant) | [부러진 모래시계 펜던트 (Broken Hourglass Pendant)](부러진%20모래시계%20펜던트%20%28Broken%20Hourglass%20Pendant%29.md) |
+| 분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang) | [분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang)](분노한%20거인의%20이빨%20목걸이%20%28Necklace%20of%20the%20Angry%20Giant's%20Fang%29.md) |
+| 붉은 피의 계약 초커 (Choker of Crimson Blood Contract) | [붉은 피의 계약 초커 (Choker of Crimson Blood Contract)](붉은%20피의%20계약%20초커%20%28Choker%20of%20Crimson%20Blood%20Contract%29.md) |
+| 순교자의 검푸른 초커 (Choker of the Martyr) | [순교자의 검푸른 초커 (Choker of the Martyr)](순교자의%20검푸른%20초커%20%28Choker%20of%20the%20Martyr%29.md) |
+| 심장의 펜던트 조각기 (Pendant Engraver of the Heart) | [심장의 펜던트 조각기 (Pendant Engraver of the Heart)](심장의%20펜던트%20조각기%20%28Pendant%20Engraver%20of%20the%20Heart%29.md) |
+| 얼어붙은 여명의 거울 목걸이 (Mirror Amulet of the Frozen Dawn) | [얼어붙은 여명의 거울 목걸이 (Mirror Amulet of the Frozen Dawn)](얼어붙은%20여명의%20거울%20목걸이%20%28Mirror%20Amulet%20of%20the%20Frozen%20Dawn%29.md) |
+| 에리안의 혼이 담긴 나침반 목걸이 (Compass Pendant of Elian’s Soul) | [에리안의 혼이 담긴 나침반 목걸이 (Compass Pendant of Elian’s Soul)](에리안의%20혼이%20담긴%20나침반%20목걸이%20%28Compass%20Pendant%20of%20Elian’s%20Soul%29.md) |
+| 열팽창 밸브 초커 (Thermal-Expansion Valve Choker) | [열팽창 밸브 초커 (Thermal-Expansion Valve Choker)](열팽창%20밸브%20초커%20%28Thermal-Expansion%20Valve%20Choker%29.md) |
+| 적열의 심장 펜던트 (Pendant of the Red-Heat Heart) | [적열의 심장 펜던트 (Pendant of the Red-Heat Heart)](적열의%20심장%20펜던트%20%28Pendant%20of%20the%20Red-Heat%20Heart%29.md) |
+| 종교백과 - 최초 모래시계의 여신가루 목걸이 (Amulet of the First Hourglass Dust) | [종교백과 - 최초 모래시계의 여신가루 목걸이 (Amulet of the First Hourglass Dust)](종교백과%20-%20최초%20모래시계의%20여신가루%20목걸이%20%28Amulet%20of%20the%20First%20Hourglass%20Dust%29.md) |
+| 지진 핵 결정 목걸이 (Necklace of the Seismic Core-Crystal) | [지진 핵 결정 목걸이 (Necklace of the Seismic Core-Crystal)](지진%20핵%20결정%20목걸이%20%28Necklace%20of%20the%20Seismic%20Core-Crystal%29.md) |
+| 진실을 말하는 루비 초커 (Ruby Choker of Confession) | [진실을 말하는 루비 초커 (Ruby Choker of Confession)](진실을%20말하는%20루비%20초커%20%28Ruby%20Choker%20of%20Confession%29.md) |
+| 코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity) | [코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity)](코르디스의%20마지막%20이성%20고리%20%28Choker%20of%20Cordis's%20Last%20Sanity%29.md) |
+| 환각의 거울 펜던트 미라지 (Hallucination Pendant Mirror: Mirage) | [환각의 거울 펜던트 미라지 (Hallucination Pendant Mirror: Mirage)](환각의%20거울%20펜던트%20미라지%20%28Hallucination%20Pendant%20Mirror%20Mirage%29.md) |

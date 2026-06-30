@@ -6,11 +6,10 @@
 
 # 📚 둔기
 
-## 항목 (80)
+## 항목 (83)
 
 | 아이템 | 링크 |
 |--------|------|
-| 창해의 망자 지휘봉 '칼라베라' (Calavera) | [창해의 망자 지휘봉 '칼라베라' (Calavera)](창해의%20망자%20지휘봉%20'칼라베라'%20%28Calavera%29.md) |
 | 가론 웨이브크래셔의 수압 철퇴 (Water-Pressure Mace of 가론 웨이브크래셔) | [가론 웨이브크래셔의 수압 철퇴 (Water-Pressure Mace of 가론 웨이브크래셔)](가론%20웨이브크래셔의%20수압%20철퇴%20%28Water-Pressure%20Mace%20of%20가론%20웨이브크래셔%29.md) |
 | 가시 박힌 참회의 구원 철퇴(Mace of Bludgeoning Penance) | [가시 박힌 참회의 구원 철퇴(Mace of Bludgeoning Penance)](가시%20박힌%20참회의%20구원%20철퇴%28Mace%20of%20Bludgeoning%20Penance%29.md) |
 | 갓 핸드 (God Hand) | [갓 핸드 (God Hand)](갓%20핸드%20%28God%20Hand%29.md) |
@@ -23,11 +22,14 @@
 | 다목적 렌치 '옴니툴' (Werther Neumann's Omni-Tool Wrench) | [다목적 렌치 '옴니툴' (Werther Neumann's Omni-Tool Wrench)](다목적%20렌치%20'옴니툴'%20%28Werther%20Neumann's%20Omni-Tool%20Wrench%29.md) |
 | 단조의 대망치 '묠니르 2호' (Drego Ironpix's Forge Hammer Mjolnir Mk2) | [단조의 대망치 '묠니르 2호' (Drego Ironpix's Forge Hammer Mjolnir Mk2)](단조의%20대망치%20'묠니르%202호'%20%28Drego%20Ironpix's%20Forge%20Hammer%20Mjolnir%20Mk2%29.md) |
 | 단죄의 철퇴 (Hammer of Condemnation) | [단죄의 철퇴 (Hammer of Condemnation)](단죄의%20철퇴%20%28Hammer%20of%20Condemnation%29.md) |
+| 대지를 가르는 운철 망치 (Meteoric Hammer of Earthcleaving) | [대지를 가르는 운철 망치 (Meteoric Hammer of Earthcleaving)](대지를%20가르는%20운철%20망치%28Meteoric%20Hammer%20of%20Earthcleaving%29.md) |
 | 대지의 분쇄망치 (Warhammer of Earthshattering) | [대지의 분쇄망치 (Warhammer of Earthshattering)](대지의%20분쇄망치%20%28Warhammer%20of%20Earthshattering%29.md) |
 | 대지의 심박을 조율하는 토석 망치 (Earthern Hammer Resonating the Heartbeat of the Earth) | [대지의 심박을 조율하는 토석 망치 (Earthern Hammer Resonating the Heartbeat of the Earth)](대지의%20심박을%20조율하는%20토석%20망치%20%28Earthern%20Hammer%20Resonating%20the%20Heartbeat%20of%20the%20Earth%29.md) |
 | 대지의 심박을 찢는 토석 망치-판게아 (Earthern Doom-Hammer Resonating Pangaea) | [대지의 심박을 찢는 토석 망치-판게아 (Earthern Doom-Hammer Resonating Pangaea)](대지의%20심박을%20찢는%20토석%20망치-판게아%20%28Earthern%20Doom-Hammer%20Resonating%20Pangaea%29.md) |
 | 대지의 망치 테라 해머 / 네프튠 해머 / 프로스트 해머 | [대지의 망치 테라 해머 / 네프튠 해머 / 프로스트 해머](대지의망치테라해머네프튠해머프로스트해머.md) |
 | 둔기류 - 스톤베인의 대륙 파쇄 망치 (Continental Crusher) | [둔기류 - 스톤베인의 대륙 파쇄 망치 (Continental Crusher)](둔기류%20-%20스톤베인의%20대륙%20파쇄%20망치%20%28Continental%20Crusher%29.md) |
+| 둠해머 폴른 스카이 (Doomhammer Fallen Sky) | [둠해머 폴른 스카이 (Doomhammer Fallen Sky)](둠해머%20폴른%20스카이%20%28Doomhammer%20Fallen%20Sky%29.md) |
+| 디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord) | [디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord)](디스코드의%20음파%20튜닝포크%20망치%20%28Sonic%20Tuning-Fork%20Hammer%20of%20Discord%29.md) |
 | 레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon) | [레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon)](레드앵커의%20사슬%20닻%20-%20크림슨%20타이푼%20%28Chain%20Anchor,%20Crimson%20Typhoon%29.md) |
 | 마도 연성 망치 '아틀라스의 스패너' (Alchemical Hammer 'Spanner of Atlas') | [마도 연성 망치 '아틀라스의 스패너' (Alchemical Hammer 'Spanner of Atlas')](마도%20연성%20망치%20'아틀라스의%20스패너'%20%28Alchemical%20Hammer%20'Spanner%20of%20Atlas'%29.md) |
 | 마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer) | [마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer)](마키나스의%20울로코%20압력%20건망치%20%28Uloco%20Pressure%20Gun-Hammer%29.md) |
@@ -72,6 +74,7 @@
 | 증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace: Forge-rupture) | [증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace: Forge-rupture)](증기%20압축%20메이스%20'대장장이의%20파열'%20%28Steam-Compress%20Mace%20Forge-rupture%29.md) |
 | 지옥불 박격포 (Hellfire Mortars) | [지옥불 박격포 (Hellfire Mortars)](지옥불%20박격포%20%28Hellfire%20Mortars%29.md) |
 | 창백한 궤도의 지휘봉 '오르디나 피스' (Baton of Pale Orbit) | [창백한 궤도의 지휘봉 '오르디나 피스' (Baton of Pale Orbit)](창백한%20궤도의%20지휘봉%20'오르디나%20피스'%20%28Baton%20of%20Pale%20Orbit%29.md) |
+| 창해의 망자 지휘봉 '칼라베라' (Calavera) | [창해의 망자 지휘봉 '칼라베라' (Calavera)](창해의%20망자%20지휘봉%20'칼라베라'%20%28Calavera%29.md) |
 | 천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith: White-crystal Symphony) | [천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith: White-crystal Symphony)](천궁의%20지휘봉%20'백수정%20교향곡'%20%28Baton%20of%20Zenith%20White-crystal%20Symphony%29.md) |
 | 천둥의 망치 (Thunder Hammer) | [천둥의 망치 (Thunder Hammer)](천둥의%20망치%20%28Thunder%20Hammer%29.md) |
 | 철벽의 철퇴 (Iron Bulwark Mace) | [철벽의 철퇴 (Iron Bulwark Mace)](철벽의%20철퇴%20%28Iron%20Bulwark%20Mace%29.md) |

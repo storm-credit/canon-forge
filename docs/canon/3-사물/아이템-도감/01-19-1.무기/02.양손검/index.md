@@ -10,7 +10,6 @@
 
 | 아이템 | 링크 |
 |--------|------|
-| 부패하는 맹세의 대검 '코로시드' (Corrosed) | [부패하는 맹세의 대검 '코로시드' (Corrosed)](부패하는%20맹세의%20대검%20'코로시드'%20%28Corrosed%29.md) |
 | 강철 심장의 성검 (Steelheart's Iron Gospel Blade) | [강철 심장의 성검 (Steelheart's Iron Gospel Blade)](강철%20심장의%20성검%20%28Steelheart's%20Iron%20Gospel%20Blade%29.md) |
 | 균열의 대검 '리프트 슬레이어' (Leo Raine's Greatsword of the Rift) | [균열의 대검 '리프트 슬레이어' (Leo Raine's Greatsword of the Rift)](균열의%20대검%20'리프트%20슬레이어'%20%28Leo%20Raine's%20Greatsword%20of%20the%20Rift%29.md) |
 | 그렌델 (Grendel) | [그렌델 (Grendel)](그렌델%20%28Grendel%29.md) |
@@ -24,6 +23,7 @@
 | 발레리우스의 신성 대검 '차원 찢기' (Greatsword of Valerius: Rift Tear) | [발레리우스의 신성 대검 '차원 찢기' (Greatsword of Valerius: Rift Tear)](발레리우스의%20신성%20대검%20'차원%20찢기'%20%28Greatsword%20of%20Valerius%20Rift%20Tear%29.md) |
 | 배신자의 대검 (Greatsword of Traitor) | [배신자의 대검 (Greatsword of Traitor)](배신자의%20대검%20%28Greatsword%20of%20Traitor%29.md) |
 | 부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword: Skull Crusher) | [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword: Skull Crusher)](부러진%20파성%20대검%20스컬%20크러셔%20%28Broken%20Siege-Greatsword%20Skull%20Crusher%29.md) |
+| 부패하는 맹세의 대검 '코로시드' (Corrosed) | [부패하는 맹세의 대검 '코로시드' (Corrosed)](부패하는%20맹세의%20대검%20'코로시드'%20%28Corrosed%29.md) |
 | 새벽의 맹세 성대검 (Thalion Dawnbreaker's Dawn Oath Blade) | [새벽의 맹세 성대검 (Thalion Dawnbreaker's Dawn Oath Blade)](새벽의%20맹세%20성대검%20%28Thalion%20Dawnbreaker's%20Dawn%20Oath%20Blade%29.md) |
 | 소울 이터 (Soul Eater) | [소울 이터 (Soul Eater)](소울%20이터%20%28Soul%20Eater%29.md) |
 | 솔그리드의 홍염 대검 (Solar Flare Greatsword) | [솔그리드의 홍염 대검 (Solar Flare Greatsword)](솔그리드의%20홍염%20대검%20%28Solar%20Flare%20Greatsword%29.md) |

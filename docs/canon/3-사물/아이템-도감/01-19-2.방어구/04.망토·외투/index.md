@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (40)
+## 항목 (42)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,7 +14,9 @@
 | 공허 거미의 그림자 망토 (Void-Spider Shadow Cloak) | [공허 거미의 그림자 망토 (Void-Spider Shadow Cloak)](공허%20거미의%20그림자%20망토%20%28Void-Spider%20Shadow%20Cloak%29.md) |
 | 그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation) | [그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation)](그림자%20동화의%20잿빛%20실크%20망토%20%28Ash-Silk%20Cloak%20of%20Shadow%20Assimilation%29.md) |
 | 내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption) | [내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption)](내부%20진동을%20흡수하는%20방음성%20둔갑%20망토%20%28Soundproof%20Cloak%20of%20Vibration%20Absorption%29.md) |
+| 돌풍의 비행 망토 (Flight Cloak of the Gale) | [돌풍의 비행 망토 (Flight Cloak of the Gale)](돌풍의%20비행%20망토%20%28Flight%20Cloak%20of%20the%20Gale%29.md) |
 | 동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism) | [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](동충하초의%20강제%20기생%20외투%20%28Coat%20of%20Cordyceps%20Parasitism%29.md) |
+| 디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition) | [디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition)](디포지션의%20위장%20가스%20망토%20%28Camouflage%20Gas%20Cloak%20of%20Deposition%29.md) |
 | 렘수면의 모래 베일 (Veil of REM Sand) | [렘수면의 모래 베일 (Veil of REM Sand)](렘수면의%20모래%20베일%20%28Veil%20of%20REM%20Sand%29.md) |
 | 망각의 그림자 투명 망토 (Transparent Cloak of Forgotten Shadow) | [망각의 그림자 투명 망토 (Transparent Cloak of Forgotten Shadow)](망각의%20그림자%20투명%20망토%20%28Transparent%20Cloak%20of%20Forgotten%20Shadow%29.md) |
 | 망각의 진동 베일 (Vibration Veil of Oblivion) | [망각의 진동 베일 (Vibration Veil of Oblivion)](망각의%20진동%20베일%20%28Vibration%20Veil%20of%20Oblivion%29.md) |

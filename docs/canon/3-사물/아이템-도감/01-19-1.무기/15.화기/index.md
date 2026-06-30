@@ -6,11 +6,10 @@
 
 # 📚 화기
 
-## 항목 (25)
+## 항목 (24)
 
 | 아이템 | 링크 |
 |--------|------|
-| 고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash') | [고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash')](고대%20포식룡의%20작살%20창%20'샤크투스%20크래시'%20%28Predator's%20Harpoon%20'Sharktooth%20Crash'%29.md) |
 | 관통의 작살총 (Harpoon Gun of Pierce) | [관통의 작살총 (Harpoon Gun of Pierce)](관통의%20작살총%20%28Harpoon%20Gun%20of%20Pierce%29.md) |
 | 글라스페인의 혼합 사출 총포 (Fusion Injector Cannon of Glasspane) | [글라스페인의 혼합 사출 총포 (Fusion Injector Cannon of Glasspane)](글라스페인의%20혼합%20사출%20총포%20%28Fusion%20Injector%20Cannon%20of%20Glasspane%29.md) |
 | 드래곤 작살총 (Dragon Harpoon Gun) | [드래곤 작살총 (Dragon Harpoon Gun)](드래곤%20작살총%20%28Dragon%20Harpoon%20Gun%29.md) |

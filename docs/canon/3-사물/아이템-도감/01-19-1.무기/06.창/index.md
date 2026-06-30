@@ -6,7 +6,7 @@
 
 # 📚 창
 
-## 항목 (75)
+## 항목 (77)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,7 @@
 | 가디언의 랜스 (Guardian's Lance) | [가디언의 랜스 (Guardian's Lance)](가디언의%20랜스%20%28Guardian's%20Lance%29.md) |
 | 강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun) | [강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun)](강철%20폭발%20삼지창과%20작살포%20%28Exploding%20Trident%20&%20Auto-Harpoon%20Gun%29.md) |
 | 게이볼그 (Gae Bolg) | [게이볼그 (Gae Bolg)](게이볼그%20%28Gae%20Bolg%29.md) |
+| 고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash') | [고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash')](고대%20포식룡의%20작살%20창%20'샤크투스%20크래시'%20%28Predator's%20Harpoon%20'Sharktooth%20Crash'%29.md) |
 | 골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐) | [골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐)](골드레이븐의%20심해%20작살%20%28Abyssal%20Harpoon%20of%20골드레이븐%29.md) |
 | 넵튠의 삼지창 (Trident of Neptune) | [넵튠의 삼지창 (Trident of Neptune)](넵튠의%20삼지창%20%28Trident%20of%20Neptune%29.md) |
 | 높은 바람의 창 (Highwind Lance) | [높은 바람의 창 (Highwind Lance)](높은%20바람의%20창%20%28Highwind%20Lance%29.md) |
@@ -32,6 +33,7 @@
 | 빛의 창 아스트라이아 (Astraea) | [빛의 창 아스트라이아 (Astraea)](빛의%20창%20아스트라이아%20%28Astraea%29.md) |
 | 서리가 서린 랜스(Frost Lance of the Hunt) | [서리가 서린 랜스(Frost Lance of the Hunt)](서리가%20서린%20랜스%28Frost%20Lance%20of%20the%20Hunt%29.md) |
 | 성약의 창 (Lance of Sacred Oath) | [성약의 창 (Lance of Sacred Oath)](성약의%20창%20%28Lance%20of%20Sacred%20Oath%29.md) |
+| 순풍을 찢는 마나 랜스 '제피로스' (Mana Lance Zephyros) | [순풍을 찢는 마나 랜스 '제피로스' (Mana Lance Zephyros)](순풍을%20찢는%20마나%20랜스%20'제피로스'%20%28Mana%20Lance%20Zephyros%29.md) |
 | 순풍을 찢는 마나 랜스 ‘제피로스’ (Mana Lance Zephyros) | [순풍을 찢는 마나 랜스 ‘제피로스’ (Mana Lance Zephyros)](순풍을%20찢는%20마나%20랜스%20‘제피로스’%20%28Mana%20Lance%20Zephyros%29.md) |
 | 시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis) | [시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis)](시안의%20창염%20방사%20랜스%20%28Cyan-Flame%20Ejector%20Lance%20of%20Ramielis%29.md) |
 | 실버 드래곤 랜스 (Silver Dragon Lance) | [실버 드래곤 랜스 (Silver Dragon Lance)](실버%20드래곤%20랜스%20%28Silver%20Dragon%20Lance%29.md) |
