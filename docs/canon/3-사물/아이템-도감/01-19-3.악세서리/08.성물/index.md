@@ -6,23 +6,27 @@
 
 # 📚 성물
 
-## 항목 (56)
+## 항목 (61)
 
 | 아이템 | 링크 |
 |--------|------|
 | 성물 (Holy Relics) | [성물 (Holy Relics)](09.성물.md) |
 | 가려진 태양의 황금 찻잔 (Golden Teacup of the Obscured Sun) | [가려진 태양의 황금 찻잔 (Golden Teacup of the Obscured Sun)](가려진%20태양의%20황금%20찻잔%20%28Golden%20Teacup%20of%20the%20Obscured%20Sun%29.md) |
+| 검은 깃털 강림 점화패 (Black Feather Arts Ignition Plume) | [검은 깃털 강림 점화패 (Black Feather Arts Ignition Plume)](검은%20깃털%20강림%20점화패%20%28Black%20Feather%20Arts%20Ignition%20Plume%29.md) |
 | 공기가 없는 우주의 모형 구체 (Vacuum-Sphere Model of the Airless Cosmos) | [공기가 없는 우주의 모형 구체 (Vacuum-Sphere Model of the Airless Cosmos)](공기가%20없는%20우주의%20모형%20구체%20%28Vacuum-Sphere%20Model%20of%20the%20Airless%20Cosmos%29.md) |
 | 균형 심판의 저울 향로 (Scale Censer of Balance Judgement) | [균형 심판의 저울 향로 (Scale Censer of Balance Judgement)](균형%20심판의%20저울%20향로%20%28Scale%20Censer%20of%20Balance%20Judgement%29.md) |
 | 기억의 피눈물 비망록 (Inkblood Memory Codex) | [기억의 피눈물 비망록 (Inkblood Memory Codex)](기억의%20피눈물%20비망록%20%28Inkblood%20Memory%20Codex%29.md) |
 | 깨지지 않는 무지의 성석 우상 (Idol of the Holy Stone of Unbreakable Ignorance) | [깨지지 않는 무지의 성석 우상 (Idol of the Holy Stone of Unbreakable Ignorance)](깨지지%20않는%20무지의%20성석%20우상%20%28Idol%20of%20the%20Holy%20Stone%20of%20Unbreakable%20Ignorance%29.md) |
+| 대천사의 등딱지 성패 (Sacred Medallion of the Archangel's Carapace) | [대천사의 등딱지 성패 (Sacred Medallion of the Archangel's Carapace)](대천사의%20등딱지%20성패%20%28Sacred%20Medallion%20of%20the%20Archangel's%20Carapace%29.md) |
 | 등대지기의 향로 (Censer of the Beacon) | [등대지기의 향로 (Censer of the Beacon)](등대지기의%20향로%20%28Censer%20of%20the%20Beacon%29.md) |
 | 루센트의 마지막 기도서 (Final Prayer Book of Lucent) | [루센트의 마지막 기도서 (Final Prayer Book of Lucent)](루센트의%20마지막%20기도서%20%28Final%20Prayer%20Book%20of%20Lucent%29.md) |
 | 루센트의 빛바랜 은빛 십자가 (Faded Silver Cross of Lucent) | [루센트의 빛바랜 은빛 십자가 (Faded Silver Cross of Lucent)](루센트의%20빛바랜%20은빛%20십자가%20%28Faded%20Silver%20Cross%20of%20Lucent%29.md) |
+| 망각의 안개 결계 향로 (Censer of the Fog of Forgetfulness) | [망각의 안개 결계 향로 (Censer of the Fog of Forgetfulness)](망각의%20안개%20결계%20향로%20%28Censer%20of%20the%20Fog%20of%20Forgetfulness%29.md) |
 | 맹독을 정화하는 흑진주 염주 (Rosary of the Black Pearl that Purifies Venom) | [맹독을 정화하는 흑진주 염주 (Rosary of the Black Pearl that Purifies Venom)](맹독을%20정화하는%20흑진주%20염주%20%28Rosary%20of%20the%20Black%20Pearl%20that%20Purifies%20Venom%29.md) |
 | 바닥 없는 침전의 나침반 (Compass of the Bottomless Sediment) | [바닥 없는 침전의 나침반 (Compass of the Bottomless Sediment)](바닥%20없는%20침전의%20나침반%20%28Compass%20of%20the%20Bottomless%20Sediment%29.md) |
 | 배교자의 피를 담은 성배 (Chalice of the Apostate's Blood) | [배교자의 피를 담은 성배 (Chalice of the Apostate's Blood)](배교자의%20피를%20담은%20성배%20%28Chalice%20of%20the%20Apostate's%20Blood%29.md) |
 | 베렌가 영령의 토제 수호 뿔피리 (Clay Guardian Horn of the Berenga Spirit) | [베렌가 영령의 토제 수호 뿔피리 (Clay Guardian Horn of the Berenga Spirit)](베렌가%20영령의%20토제%20수호%20뿔피리%20%28Clay%20Guardian%20Horn%20of%20the%20Berenga%20Spirit%29.md) |
+| 빙화 성모의 정화 향로 (Purification Censer of the Holy Mother of Ice-Flowers) | [빙화 성모의 정화 향로 (Purification Censer of the Holy Mother of Ice-Flowers)](빙화%20성모의%20정화%20향로%20%28Purification%20Censer%20of%20the%20Holy%20Mother%20of%20Ice-Flowers%29.md) |
 | 산성 독구름 분무 향로 (Acid-Venom Cloud Fumigator) | [산성 독구름 분무 향로 (Acid-Venom Cloud Fumigator)](산성%20독구름%20분무%20향로%20%28Acid-Venom%20Cloud%20Fumigator%29.md) |
 | 새벽의 공명 종소리 (Resonance Bell of Dawn) | [새벽의 공명 종소리 (Resonance Bell of Dawn)](새벽의%20공명%20종소리%20%28Resonance%20Bell%20of%20Dawn%29.md) |
 | 성흔 부식병 정화의 산성 성수병 (Acid Holy Water Vial of Stigmata Purification) | [성흔 부식병 정화의 산성 성수병 (Acid Holy Water Vial of Stigmata Purification)](성흔%20부식병%20정화의%20산성%20성수병%20%28Acid%20Holy%20Water%20Vial%20of%20Stigmata%20Purification%29.md) |
@@ -57,6 +61,7 @@
 | 천 개의 눈을 가진 악마의 단안경 (Monocle of the Thousand-Eyed Demon) | [천 개의 눈을 가진 악마의 단안경 (Monocle of the Thousand-Eyed Demon)](천%20개의%20눈을%20가진%20악마의%20단안경%20%28Monocle%20of%20the%20Thousand-Eyed%20Demon%29.md) |
 | 천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord) | [천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord)](천둥%20군주의%20부러진%20번개%20뼛조각%20%28Fractured%20Lightning-bone%20of%20the%20Thunder%20Lord%29.md) |
 | 천둥새의 말라비틀어진 심장 (Desiccated Heart of the Thunderbird) | [천둥새의 말라비틀어진 심장 (Desiccated Heart of the Thunderbird)](천둥새의%20말라비틀어진%20심장%20%28Desiccated%20Heart%20of%20the%20Thunderbird%29.md) |
+| 침묵의 요람 백야의 향로벨 (Cradle-of-Silence Bell-Censer of the White Night) | [침묵의 요람 백야의 향로벨 (Cradle-of-Silence Bell-Censer of the White Night)](침묵의%20요람%20백야의%20향로벨%20%28Cradle-of-Silence%20Bell-Censer%20of%20the%20White%20Night%29.md) |
 | 태양 교단의 심판 성화 (Solar Judgment Flame Icon) | [태양 교단의 심판 성화 (Solar Judgment Flame Icon)](태양%20교단의%20심판%20성화%20%28Solar%20Judgment%20Flame%20Icon%29.md) |
 | 폭풍새 깃털의 화살깃 (Fletching of the Storm-Bird's Feather) | [폭풍새 깃털의 화살깃 (Fletching of the Storm-Bird's Feather)](폭풍새%20깃털의%20화살깃%20%28Fletching%20of%20the%20Storm-Bird's%20Feather%29.md) |
 | 풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis) | [풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis)](풀비스의%20썩어붙은%20유골성배%20%28Rotten%20Bone-Chalice%20of%20Pulvis%29.md) |

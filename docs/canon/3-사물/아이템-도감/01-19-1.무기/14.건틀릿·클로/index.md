@@ -6,7 +6,7 @@
 
 # 📚 건틀릿·클로
 
-## 항목 (37)
+## 항목 (40)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -22,6 +22,7 @@
 | 문스카르의 발톱 (Grawld Moonscar's Claws of Moonscar) | [문스카르의 발톱 (Grawld Moonscar's Claws of Moonscar)](문스카르의%20발톱%20%28Grawld%20Moonscar's%20Claws%20of%20Moonscar%29.md) |
 | 바람의 너클 (Wind Knuckle) | [바람의 너클 (Wind Knuckle)](바람의%20너클%20%28Wind%20Knuckle%29.md) |
 | 백열 장갑 (White-Hot Gauntlet) | [백열 장갑 (White-Hot Gauntlet)](백열%20장갑%20%28White-Hot%20Gauntlet%29.md) |
+| 보이지 않는 살모사 와이어 손가락 건틀릿 (Invisible Viper-Wire Finger Gauntlet) | [보이지 않는 살모사 와이어 손가락 건틀릿 (Invisible Viper-Wire Finger Gauntlet)](보이지%20않는%20살모사%20와이어%20손가락%20건틀릿%20%28Invisible%20Viper-Wire%20Finger%20Gauntlet%29.md) |
 | 블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw) | [블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw)](블러드%20클로%20'녹스하운드의%20송곳니'%20%28Kalisa%20Noxhound's%20Blood%20Claw%29.md) |
 | 석화의 주먹 (Petrifying Fist) | [석화의 주먹 (Petrifying Fist)](석화의%20주먹%20%28Petrifying%20Fist%29.md) |
 | 아다만티움 너클 (Adamantium Knuckle) | [아다만티움 너클 (Adamantium Knuckle)](아다만티움%20너클%20%28Adamantium%20Knuckle%29.md) |
@@ -31,6 +32,7 @@
 | 어둠 단검 '섀도우클로의 갈퀴' (Lora Shadowclaw's Dark Dagger Rake of Shadowclaw) | [어둠 단검 '섀도우클로의 갈퀴' (Lora Shadowclaw's Dark Dagger Rake of Shadowclaw)](어둠%20단검%20'섀도우클로의%20갈퀴'%20%28Lora%20Shadowclaw's%20Dark%20Dagger%20Rake%20of%20Shadowclaw%29.md) |
 | 연금술사의 건틀릿 (Alchemist's Gauntlet) | [연금술사의 건틀릿 (Alchemist's Gauntlet)](연금술사의%20건틀릿%20%28Alchemist's%20Gauntlet%29.md) |
 | 연쇄 점화 글러브 '이그나이트' (Damien Nostrad's Ignite Glove) | [연쇄 점화 글러브 '이그나이트' (Damien Nostrad's Ignite Glove)](연쇄%20점화%20글러브%20'이그나이트'%20%28Damien%20Nostrad's%20Ignite%20Glove%29.md) |
+| 영하 판별 냉혈 해부 장갑 (Sub-Zero Diagnostic Cold-Blood Dissection Gloves) | [영하 판별 냉혈 해부 장갑 (Sub-Zero Diagnostic Cold-Blood Dissection Gloves)](영하%20판별%20냉혈%20해부%20장갑%20%28Sub-Zero%20Diagnostic%20Cold-Blood%20Dissection%20Gloves%29.md) |
 | 오우거 슬레이어 (Ogre Slayer) | [오우거 슬레이어 (Ogre Slayer)](오우거%20슬레이어%20%28Ogre%20Slayer%29.md) |
 | 오우거의 너클 '블랙투스의 파쇄' (Victor Blacktusk's Knuckle of Ogre) | [오우거의 너클 '블랙투스의 파쇄' (Victor Blacktusk's Knuckle of Ogre)](오우거의%20너클%20'블랙투스의%20파쇄'%20%28Victor%20Blacktusk's%20Knuckle%20of%20Ogre%29.md) |
 | 울프하운드의 달빛 발톱 (Moonlit Claws of the Wolfhound) | [울프하운드의 달빛 발톱 (Moonlit Claws of the Wolfhound)](울프하운드의%20달빛%20발톱%20%28Moonlit%20Claws%20of%20the%20Wolfhound%29.md) |
@@ -39,6 +41,7 @@
 | 증폭의 건틀릿 (Gauntlet of Amplification) | [증폭의 건틀릿 (Gauntlet of Amplification)](증폭의%20건틀릿%20%28Gauntlet%20of%20Amplification%29.md) |
 | 진화 연구의 마도 건틀릿 (Ironwill's Evolution Gauntlet) | [진화 연구의 마도 건틀릿 (Ironwill's Evolution Gauntlet)](진화%20연구의%20마도%20건틀릿%20%28Ironwill's%20Evolution%20Gauntlet%29.md) |
 | 집행자의 클로 (Executor's Claw) | [집행자의 클로 (Executor's Claw)](집행자의%20클로%20%28Executor's%20Claw%29.md) |
+| 크루엔투스의 뼈-박힌 야수 쇠발톱 (Bone-Studded Beast Iron Claws of Cruentus) | [크루엔투스의 뼈-박힌 야수 쇠발톱 (Bone-Studded Beast Iron Claws of Cruentus)](크루엔투스의%20뼈-박힌%20야수%20쇠발톱%20%28Bone-Studded%20Beast%20Iron%20Claws%20of%20Cruentus%29.md) |
 | 크림슨 클로(Crimson Claw) | [크림슨 클로(Crimson Claw)](크림슨%20클로%28Crimson%20Claw%29.md) |
 | 타이탄의 주먹 (Fist of Titan) | [타이탄의 주먹 (Fist of Titan)](타이탄의%20주먹%20%28Fist%20of%20Titan%29.md) |
 | 파도의 건틀릿(Gauntlet of Surge) | [파도의 건틀릿(Gauntlet of Surge)](파도의%20건틀릿%28Gauntlet%20of%20Surge%29.md) |

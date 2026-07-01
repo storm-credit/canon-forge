@@ -6,7 +6,7 @@
 
 # 📚 특수마도구·마력핵
 
-## 항목 (94)
+## 항목 (106)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -21,6 +21,7 @@
 | 공리주의적 족쇄 — 마나 데미지 동기화 쇠사슬 (Utilitarian Shackle Chain of Mana-Damage Synchronization) | [공리주의적 족쇄 — 마나 데미지 동기화 쇠사슬 (Utilitarian Shackle Chain of Mana-Damage Synchronization)](공리주의적%20족쇄%20—%20마나%20데미지%20동기화%20쇠사슬%20%28Utilitarian%20Shackle%20Chain%20of%20Mana-Damage%20Synchronization%29.md) |
 | 공포를 마시는 영혼의 오르골 (Music Box of the Fear-Drinking Soul) | [공포를 마시는 영혼의 오르골 (Music Box of the Fear-Drinking Soul)](공포를%20마시는%20영혼의%20오르골%20%28Music%20Box%20of%20the%20Fear-Drinking%20Soul%29.md) |
 | 굴절 저격 마석 세트 (Pinball Ricochet Relay Stones) | [굴절 저격 마석 세트 (Pinball Ricochet Relay Stones)](굴절%20저격%20마석%20세트%20%28Pinball%20Ricochet%20Relay%20Stones%29.md) |
+| 기압 맥류 관측 마도 청진기 (Atmospheric Pulse Divination Stethoscope) | [기압 맥류 관측 마도 청진기 (Atmospheric Pulse Divination Stethoscope)](기압%20맥류%20관측%20마도%20청진기%20%28Atmospheric%20Pulse%20Divination%20Stethoscope%29.md) |
 | 깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask) | [깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask)](깨지지%20않는%20영하의%20플라스크%20%28Unbreakable%20Below-Zero%20Flask%29.md) |
 | 꺼지지 않는 지핵의 점화 플러그 (Spark-Plug of the Unquenchable Core) | [꺼지지 않는 지핵의 점화 플러그 (Spark-Plug of the Unquenchable Core)](꺼지지%20않는%20지핵의%20점화%20플러그%20%28Spark-Plug%20of%20the%20Unquenchable%20Core%29.md) |
 | 끊지 못한 실의 은제 가위 (Silver Shears of the Uncut Thread) | [끊지 못한 실의 은제 가위 (Silver Shears of the Uncut Thread)](끊지%20못한%20실의%20은제%20가위%20%28Silver%20Shears%20of%20the%20Uncut%20Thread%29.md) |
@@ -41,13 +42,16 @@
 | 마도공학 백과 - 제7코어 중력 증폭기 (7th Core Gravity Amplifier) | [마도공학 백과 - 제7코어 중력 증폭기 (7th Core Gravity Amplifier)](마도공학백과-제7코어중력증폭기.md) |
 | 마력 증폭 지향성 신호 나팔 (Directional Amplified Signal Horn) | [마력 증폭 지향성 신호 나팔 (Directional Amplified Signal Horn)](마력%20증폭%20지향성%20신호%20나팔%20%28Directional%20Amplified%20Signal%20Horn%29.md) |
 | 마력핵 (Core Stones) | [마력핵 (Core Stones)](마력핵%20%28Core%20Stones%29.md) |
+| 마찰 소거의 빙설 활주 발목 봉인 (Frictionless Glacier Ankle Seals) | [마찰 소거의 빙설 활주 발목 봉인 (Frictionless Glacier Ankle Seals)](마찰%20소거의%20빙설%20활주%20발목%20봉인%20%28Frictionless%20Glacier%20Ankle%20Seals%29.md) |
 | 맹독 시약 크로스 벨트 (Toxic Reagent Cross-Belt) | [맹독 시약 크로스 벨트 (Toxic Reagent Cross-Belt)](맹독%20시약%20크로스%20벨트%20%28Toxic%20Reagent%20Cross-Belt%29.md) |
+| 맹세의 얼음 족쇄 환 (Oath-Ice Shackle Ring) | [맹세의 얼음 족쇄 환 (Oath-Ice Shackle Ring)](맹세의%20얼음%20족쇄%20환%20%28Oath-Ice%20Shackle%20Ring%29.md) |
 | 모래시계 지형 기어 팔찌 한 쌍 (Hourglass-Geomancer Gear Bracelet Pair) | [모래시계 지형 기어 팔찌 한 쌍 (Hourglass-Geomancer Gear Bracelet Pair)](모래시계%20지형%20기어%20팔찌%20한%20쌍%20%28Hourglass-Geomancer%20Gear%20Bracelet%20Pair%29.md) |
 | 미완방정식의 크로니아 단안경 (Chronia Monocle of the Unfinished Equation) | [미완방정식의 크로니아 단안경 (Chronia Monocle of the Unfinished Equation)](미완방정식의%20크로니아%20단안경%20%28Chronia%20Monocle%20of%20the%20Unfinished%20Equation%29.md) |
 | 미완의 최종 피험체 기록 코어 (Incomplete Final Subject Archive Core) | [미완의 최종 피험체 기록 코어 (Incomplete Final Subject Archive Core)](미완의%20최종%20피험체%20기록%20코어%20%28Incomplete%20Final%20Subject%20Archive%20Core%29.md) |
 | 바늘이 꺾인 에어오스의 회중시계 (Bent Pocket-Watch of Aeos) | [바늘이 꺾인 에어오스의 회중시계 (Bent Pocket-Watch of Aeos)](바늘이%20꺾인%20에어오스의%20회중시계%20%28Bent%20Pocket-Watch%20of%20Aeos%29.md) |
 | 발렌티아의 허공 보관함 (Valentia's Void Arsenal) | [발렌티아의 허공 보관함 (Valentia's Void Arsenal)](발렌티아의%20허공%20보관함%20%28Valentia's%20Void%20Arsenal%29.md) |
 | 뱅가드의 백번 작전 수첩 (Vanguard's Hundred-Move Tactical Codex) | [뱅가드의 백번 작전 수첩 (Vanguard's Hundred-Move Tactical Codex)](뱅가드의%20백번%20작전%20수첩%20%28Vanguard's%20Hundred-Move%20Tactical%20Codex%29.md) |
+| 벨라멘툼의 얼어붙은 사자(使者) 흑비둘기 (Frozen Messenger Raven of Velamentum) | [벨라멘툼의 얼어붙은 사자(使者) 흑비둘기 (Frozen Messenger Raven of Velamentum)](벨라멘툼의%20얼어붙은%20사자%28使者%29%20흑비둘기%20%28Frozen%20Messenger%20Raven%20of%20Velamentum%29.md) |
 | 별빛 점멸 수정 거울 (Starlight Signal Mirror) | [별빛 점멸 수정 거울 (Starlight Signal Mirror)](별빛%20점멸%20수정%20거울%20%28Starlight%20Signal%20Mirror%29.md) |
 | 병참선 격파 초연산 주판 (Hyper-Calculation Abacus of Supply-Line Severance) | [병참선 격파 초연산 주판 (Hyper-Calculation Abacus of Supply-Line Severance)](병참선%20격파%20초연산%20주판%20%28Hyper-Calculation%20Abacus%20of%20Supply-Line%20Severance%29.md) |
 | 부서진 금장 모래시계 (Shattered Gilded Hourglass) | [부서진 금장 모래시계 (Shattered Gilded Hourglass)](부서진%20금장%20모래시계%20%28Shattered%20Gilded%20Hourglass%29.md) |
@@ -64,7 +68,10 @@
 | 암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle) | [암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle)](암흑%20서명%20암호%20스크롤%20다발%20%28Shadowcode%20Cipher-Scroll%20Bundle%29.md) |
 | 암흑 파장 거울 파편 (Dark-Wave Mirror Shard) | [암흑 파장 거울 파편 (Dark-Wave Mirror Shard)](암흑%20파장%20거울%20파편%20%28Dark-Wave%20Mirror%20Shard%29.md) |
 | 양자 얽힘의 마나 트럼프 카드 (Quantum-Entangled Mana Trump Cards) | [양자 얽힘의 마나 트럼프 카드 (Quantum-Entangled Mana Trump Cards)](양자%20얽힘의%20마나%20트럼프%20카드%20%28Quantum-Entangled%20Mana%20Trump%20Cards%29.md) |
+| 어골 속삭임 통신 바늘 (Fish-Bone Whisper Needle) | [어골 속삭임 통신 바늘 (Fish-Bone Whisper Needle)](어골%20속삭임%20통신%20바늘%20%28Fish-Bone%20Whisper%20Needle%29.md) |
+| 어음 송신 마도 문서함 (Bill-Transfer Arcane Dispatch Case) | [어음 송신 마도 문서함 (Bill-Transfer Arcane Dispatch Case)](어음%20송신%20마도%20문서함%20%28Bill-Transfer%20Arcane%20Dispatch%20Case%29.md) |
 | 에테리움 산소통 '하늘의 숨' (Ether-Breather Canister) | [에테리움 산소통 '하늘의 숨' (Ether-Breather Canister)](에테리움%20산소통%20'하늘의%20숨'%20%28Ether-Breather%20Canister%29.md) |
+| 역속박 전투 완박대 (Reverse-Bind Combat Arm Strap) | [역속박 전투 완박대 (Reverse-Bind Combat Arm Strap)](역속박%20전투%20완박대%20%28Reverse-Bind%20Combat%20Arm%20Strap%29.md) |
 | 연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation) | [연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation)](연산의%20은제%20회중시계%20%28Silver%20Pocket%20Watch%20of%20Probability%20Calculation%29.md) |
 | 영구 축복 인장봉 (Permanent Blessing Seal Rod) | [영구 축복 인장봉 (Permanent Blessing Seal Rod)](영구%20축복%20인장봉%20%28Permanent%20Blessing%20Seal%20Rod%29.md) |
 | 오스카의 낙인 위장 마도 단안경 (Stigma-Veil Arcane Monocle of Oscar) | [오스카의 낙인 위장 마도 단안경 (Stigma-Veil Arcane Monocle of Oscar)](오스카의%20낙인%20위장%20마도%20단안경%20%28Stigma-Veil%20Arcane%20Monocle%20of%20Oscar%29.md) |
@@ -78,9 +85,12 @@
 | 은빛 육면체의 이지스 코어 (Hexahedron Core of Silver Aegis) | [은빛 육면체의 이지스 코어 (Hexahedron Core of Silver Aegis)](은빛%20육면체의%20이지스%20코어%20%28Hexahedron%20Core%20of%20Silver%20Aegis%29.md) |
 | 은빛 척수액 주사기형 영혼 추출 코어 (Silver Syringe Core of Soul Extractor) | [은빛 척수액 주사기형 영혼 추출 코어 (Silver Syringe Core of Soul Extractor)](은빛%20척수액%20주사기형%20영혼%20추출%20코어%20%28Silver%20Syringe%20Core%20of%20Soul%20Extractor%29.md) |
 | 응축된 뇌운의 배터리 코어 (Condensed Thundercloud Battery Core) | [응축된 뇌운의 배터리 코어 (Condensed Thundercloud Battery Core)](응축된%20뇌운의%20배터리%20코어%20%28Condensed%20Thundercloud%20Battery%20Core%29.md) |
+| 이동식 육각 프리즘 분광 계산기 (Mobile Hexagonal Prism Spectral Calculator) | [이동식 육각 프리즘 분광 계산기 (Mobile Hexagonal Prism Spectral Calculator)](이동식%20육각%20프리즘%20분광%20계산기%20%28Mobile%20Hexagonal%20Prism%20Spectral%20Calculator%29.md) |
+| 이세나의 코어 부유 지휘 좌 (Isena's Core Levitation Command Throne) | [이세나의 코어 부유 지휘 좌 (Isena's Core Levitation Command Throne)](이세나의%20코어%20부유%20지휘%20좌%20%28Isena's%20Core%20Levitation%20Command%20Throne%29.md) |
 | 적열 마석 코어 (Incandescent Manastone Core) | [적열 마석 코어 (Incandescent Manastone Core)](적열%20마석%20코어%20%28Incandescent%20Manastone%20Core%29.md) |
 | 전장 독해 예지경 (Battlefield-Reading Foresight Spectacles) | [전장 독해 예지경 (Battlefield-Reading Foresight Spectacles)](전장%20독해%20예지경%20%28Battlefield-Reading%20Foresight%20Spectacles%29.md) |
 | 전장 연산 회중시계 '틱-톡 학살의 초침' (Battlefield Calculation Pocket Watch 'Tick-Tock Massacre Hand') | [전장 연산 회중시계 '틱-톡 학살의 초침' (Battlefield Calculation Pocket Watch 'Tick-Tock Massacre Hand')](전장%20연산%20회중시계%20'틱-톡%20학살의%20초침'%20%28Battlefield%20Calculation%20Pocket%20Watch%20Tick-Tock%20Massacre%20Hand%29.md) |
+| 전장 전시 마도 수정구 (Battlefield Arcane Surveillance Orb) | [전장 전시 마도 수정구 (Battlefield Arcane Surveillance Orb)](전장%20전시%20마도%20수정구%20%28Battlefield%20Arcane%20Surveillance%20Orb%29.md) |
 | 조로 봉인의 에테르 채무 완대 (Ether-Debt Brace of Senescence-Seal) | [조로 봉인의 에테르 채무 완대 (Ether-Debt Brace of Senescence-Seal)](조로%20봉인의%20에테르%20채무%20완대%20%28Ether-Debt%20Brace%20of%20Senescence-Seal%29.md) |
 | 지맥 직결 신경 접합 코어 (Leyline-Direct Neural Junction Core) | [지맥 직결 신경 접합 코어 (Leyline-Direct Neural Junction Core)](지맥%20직결%20신경%20접합%20코어%20%28Leyline-Direct%20Neural%20Junction%20Core%29.md) |
 | 지진파 공명 암호 크리스탈 (Seismic Resonance Crypto-Crystal) | [지진파 공명 암호 크리스탈 (Seismic Resonance Crypto-Crystal)](지진파%20공명%20암호%20크리스탈%20%28Seismic%20Resonance%20Crypto-Crystal%29.md) |
@@ -100,6 +110,8 @@
 | 포르말린 진공 밀봉 강철 플라스크 (Formalin Vacuum-Seal Steel Flask) | [포르말린 진공 밀봉 강철 플라스크 (Formalin Vacuum-Seal Steel Flask)](포르말린%20진공%20밀봉%20강철%20플라스크%20%28Formalin%20Vacuum-Seal%20Steel%20Flask%29.md) |
 | 폭풍신의 갇힌 숨결 (Caged Breath of the Storm-God) | [폭풍신의 갇힌 숨결 (Caged Breath of the Storm-God)](폭풍신의%20갇힌%20숨결%20%28Caged%20Breath%20of%20the%20Storm-God%29.md) |
 | 폭풍의 안장과 은마갑 (Tempest Saddle & Silver Barding) | [폭풍의 안장과 은마갑 (Tempest Saddle & Silver Barding)](폭풍의%20안장과%20은마갑%20%28Tempest%20Saddle%20&%20Silver%20Barding%29.md) |
+| 폴라리스의 예지 우편 얼음 거울 (Prophetic Postal Ice Mirror of Polaris) | [폴라리스의 예지 우편 얼음 거울 (Prophetic Postal Ice Mirror of Polaris)](폴라리스의%20예지%20우편%20얼음%20거울%20%28Prophetic%20Postal%20Ice%20Mirror%20of%20Polaris%29.md) |
+| 풍서 코르크 전령 바이알 (Wind-Scroll Cork Courier Vial) | [풍서 코르크 전령 바이알 (Wind-Scroll Cork Courier Vial)](풍서%20코르크%20전령%20바이알%20%28Wind-Scroll%20Cork%20Courier%20Vial%29.md) |
 | 혈묵 봉인 잉크병 (Blood-Ink Sealed Vial) | [혈묵 봉인 잉크병 (Blood-Ink Sealed Vial)](혈묵%20봉인%20잉크병%20%28Blood-Ink%20Sealed%20Vial%29.md) |
 | 혈서 집행 결재 법판 (Blood-Signed Execution Verdict Tablet) | [혈서 집행 결재 법판 (Blood-Signed Execution Verdict Tablet)](혈서%20집행%20결재%20법판%20%28Blood-Signed%20Execution%20Verdict%20Tablet%29.md) |
 | 화이어포지의 흑요 집게 파편 (Shard of the Obsidian Pincers) | [화이어포지의 흑요 집게 파편 (Shard of the Obsidian Pincers)](화이어포지의%20흑요%20집게%20파편%20%28Shard%20of%20the%20Obsidian%20Pincers%29.md) |

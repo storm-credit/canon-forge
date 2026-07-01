@@ -6,18 +6,21 @@
 
 # 📚 투구·얼굴
 
-## 항목 (49)
+## 항목 (54)
 
 | 아이템 | 링크 |
 |--------|------|
 | 갈드위누스의 메모리 글래스 단안경 (Memory Glass Monocle of Galdwynus) | [갈드위누스의 메모리 글래스 단안경 (Memory Glass Monocle of Galdwynus)](갈드위누스의%20메모리%20글래스%20단안경%20%28Memory%20Glass%20Monocle%20of%20Galdwynus%29.md) |
+| 강철 어금니의 빙철 맹인 투구 (Blind-Helm of the Steel Fang, Forged in Permafrost Iron) | [강철 어금니의 빙철 맹인 투구 (Blind-Helm of the Steel Fang, Forged in Permafrost Iron)](강철%20어금니의%20빙철%20맹인%20투구%20%28Blind-Helm%20of%20the%20Steel%20Fang,%20Forged%20in%20Permafrost%20Iron%29.md) |
 | 검은 역린의 비룡두개골 투구 (Black Reverse-Scale Wyvern Skull Helm) | [검은 역린의 비룡두개골 투구 (Black Reverse-Scale Wyvern Skull Helm)](검은%20역린의%20비룡두개골%20투구%20%28Black%20Reverse-Scale%20Wyvern%20Skull%20Helm%29.md) |
 | 고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate) | [고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate)](고문관의%20가시나무%20철갑%20%28Torturer's%20Iron-Thorn%20Plate%29.md) |
 | 관성 무효화의 소형 버클러 (Buckler of Inertial Nullification) | [관성 무효화의 소형 버클러 (Buckler of Inertial Nullification)](관성%20무효화의%20소형%20버클러%20%28Buckler%20of%20Inertial%20Nullification%29.md) |
+| 광자 케이블 신경 동조 두정관 (Photon-Cable Neural-Sync Crown) | [광자 케이블 신경 동조 두정관 (Photon-Cable Neural-Sync Crown)](광자%20케이블%20신경%20동조%20두정관%20%28Photon-Cable%20Neural-Sync%20Crown%29.md) |
 | 극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles) | [극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles)](극연산%20뇌파%20동기%20금테%20안경%20%28Hyper-Calc%20Synaptic%20Gold-Framed%20Spectacles%29.md) |
 | 금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles) | [금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles)](금선%20증강현실%20전장%20렌즈%20안경%20%28Battlefield%20AR%20Tactical%20Lens%20Spectacles%29.md) |
 | 납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator) | [납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator)](납과%20가죽의%20죽음%20방독면%20%28Lead-Leather%20Death%20Respirator%29.md) |
 | 뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm) | [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](뇌진%20선봉의%20투구%20%28Thunder-Vanguard's%20Crest%20Helm%29.md) |
+| 독기 차단 방랑자 마스크 (Toxin-Ward Vagrant's Muzzle) | [독기 차단 방랑자 마스크 (Toxin-Ward Vagrant's Muzzle)](독기%20차단%20방랑자%20마스크%20%28Toxin-Ward%20Vagrant's%20Muzzle%29.md) |
 | 동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles) | [동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles)](동상%20괴사%20은폐%20두꺼운%20뿔테%20안경%20%28Frostbitten%20Necrosis-Concealing%20Thick%20Horn-Rimmed%20Spectacles%29.md) |
 | 룬 원석 각막 보호경 (Rune-Ore Corneal Protector) | [룬 원석 각막 보호경 (Rune-Ore Corneal Protector)](룬%20원석%20각막%20보호경%20%28Rune-Ore%20Corneal%20Protector%29.md) |
 | 마나 차폐 모래그물 슈마그 (Mana-Sealed Sand-Net Shemagh of Dunesar) | [마나 차폐 모래그물 슈마그 (Mana-Sealed Sand-Net Shemagh of Dunesar)](마나%20차폐%20모래그물%20슈마그%20%28Mana-Sealed%20Sand-Net%20Shemagh%20of%20Dunesar%29.md) |
@@ -27,12 +30,14 @@
 | 박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel) | [박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel)](박제된%20철성%20밀폐%20헬름%20%28Iron-Sealed%20Helm%20of%20Taxidermied%20Steel%29.md) |
 | 밤과부의 독무 망사 베일 (Toxic-Mist Widow's Veil) | [밤과부의 독무 망사 베일 (Toxic-Mist Widow's Veil)](밤과부의%20독무%20망사%20베일%20%28Toxic-Mist%20Widow's%20Veil%29.md) |
 | 백사자의 전투 투구 (Battle Helm of the White Lion) | [백사자의 전투 투구 (Battle Helm of the White Lion)](백사자의%20전투%20투구%20%28Battle%20Helm%20of%20the%20White%20Lion%29.md) |
+| 백야 투시 빙안 눈가리개 (White-Night Sight Glacial Eye-Band) | [백야 투시 빙안 눈가리개 (White-Night Sight Glacial Eye-Band)](백야%20투시%20빙안%20눈가리개%20%28White-Night%20Sight%20Glacial%20Eye-Band%29.md) |
 | 봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless) | [봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless)](봉인%20안대%20—%20눈먼%20자의%20검은%20가죽%20%28Sealing%20Eyepatch%20of%20the%20Sightless%29.md) |
 | 불굴의 밀봉 요새 투구 (Indomitable Fortress Sealed Helm) | [불굴의 밀봉 요새 투구 (Indomitable Fortress Sealed Helm)](불굴의%20밀봉%20요새%20투구%20%28Indomitable%20Fortress%20Sealed%20Helm%29.md) |
 | 붉은 기하학 문양 사막 슈마그 터번 (Red Geometric-Pattern Desert Shemagh Turban) | [붉은 기하학 문양 사막 슈마그 터번 (Red Geometric-Pattern Desert Shemagh Turban)](붉은%20기하학%20문양%20사막%20슈마그%20터번%20%28Red%20Geometric-Pattern%20Desert%20Shemagh%20Turban%29.md) |
 | 비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles) | [비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles)](비틀린%20심연%20오염%20원형%20안경%20%28Twisted%20Abyss-Tainted%20Round%20Spectacles%29.md) |
 | 상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch) | [상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch)](상어악귀%20훈장%20안대%20%28Shark-Demon%20Trophy%20Eyepatch%29.md) |
 | 섬광 조준 안전 고글 (Signal-Flash Targeting Safety Goggles) | [섬광 조준 안전 고글 (Signal-Flash Targeting Safety Goggles)](섬광%20조준%20안전%20고글%20%28Signal-Flash%20Targeting%20Safety%20Goggles%29.md) |
+| 성역 수문장의 빙철 전장 투구 (Permafrost-Iron Battlehelm of the Sanctum Gatekeeper) | [성역 수문장의 빙철 전장 투구 (Permafrost-Iron Battlehelm of the Sanctum Gatekeeper)](성역%20수문장의%20빙철%20전장%20투구%20%28Permafrost-Iron%20Battlehelm%20of%20the%20Sanctum%20Gatekeeper%29.md) |
 | 순백의 외교관 실크 (Pristine Silk of the Envoy) | [순백의 외교관 실크 (Pristine Silk of the Envoy)](순백의%20외교관%20실크%20%28Pristine%20Silk%20of%20the%20Envoy%29.md) |
 | 시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina) | [시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina)](시안%20기계%20의안%20'루미나의%20눈'%20%28Cyan%20Machina%20Oculus%20—%20Eye%20of%20Lumina%29.md) |
 | 신탁 귀울림의 수도 두건 (Oracle Hearing-Scar Cowl) | [신탁 귀울림의 수도 두건 (Oracle Hearing-Scar Cowl)](신탁%20귀울림의%20수도%20두건%20%28Oracle%20Hearing-Scar%20Cowl%29.md) |

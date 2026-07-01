@@ -2,7 +2,7 @@
 정본명: 화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/08.장갑·손목/화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm).md"
-검증상태: 신규 생성 (2026-07-02)
+검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-07-02)
 ---
 
 # 🛡️ 화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm)

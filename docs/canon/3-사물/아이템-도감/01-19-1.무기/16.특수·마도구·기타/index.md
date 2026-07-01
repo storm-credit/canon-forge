@@ -6,11 +6,12 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (227)
+## 항목 (233)
 
 | 아이템 | 링크 |
 |--------|------|
 | 7조약 봉인 계약서 (Seven-Clause Covenant Seal) | [7조약 봉인 계약서 (Seven-Clause Covenant Seal)](7조약%20봉인%20계약서%20%28Seven-Clause%20Covenant%20Seal%29.md) |
+| 강림 촉매 초록 앰플 — 마나 억제 해방제 (Arts-Catalyst Green Ampoule — Mana-Inhibitor Release) | [강림 촉매 초록 앰플 — 마나 억제 해방제 (Arts-Catalyst Green Ampoule — Mana-Inhibitor Release)](강림%20촉매%20초록%20앰플%20—%20마나%20억제%20해방제%20%28Arts-Catalyst%20Green%20Ampoule%20—%20Mana-Inhibitor%20Release%29.md) |
 | 강철 글씨의 기록 첨필 (Steelin's Iron Inscription Stylus) | [강철 글씨의 기록 첨필 (Steelin's Iron Inscription Stylus)](강철%20글씨의%20기록%20첨필%20%28Steelin's%20Iron%20Inscription%20Stylus%29.md) |
 | 강철 요새의 뜯겨진 철골 기둥(Steel Pillar of Fortress) | [강철 요새의 뜯겨진 철골 기둥(Steel Pillar of Fortress)](강철%20요새의%20뜯겨진%20철골%20기둥%28Steel%20Pillar%20of%20Fortress%29.md) |
 | 겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell) | [겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell)](겔루울루스의%20쌍인부%20-%20염옥과%20빙옥%20%28Twin%20Axes%20of%20Inferno%20and%20Glacial-Hell%29.md) |
@@ -97,6 +98,7 @@
 | 속삭이는 공허 아크타르 | [속삭이는 공허 아크타르](속삭이는공허아크타르.md) |
 | 솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree) | [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](솔라비드의%20움트는%20세계수%20묘목%20%28Sapling%20of%20Solavid's%20Sprouting%20World%20Tree%29.md) |
 | 쇠사슬의 생체 연금 사슬 (Ironchain's Bioalchemy Chain) | [쇠사슬의 생체 연금 사슬 (Ironchain's Bioalchemy Chain)](쇠사슬의%20생체%20연금%20사슬%20%28Ironchain's%20Bioalchemy%20Chain%29.md) |
+| 수면 독침 발사기 — 베인의 로건 진정기 (Sleep-Toxin Dart Caster — Bane's Logan Pacifier) | [수면 독침 발사기 — 베인의 로건 진정기 (Sleep-Toxin Dart Caster — Bane's Logan Pacifier)](수면%20독침%20발사기%20—%20베인의%20로건%20진정기%20%28Sleep-Toxin%20Dart%20Caster%20—%20Bane's%20Logan%20Pacifier%29.md) |
 | 수식의 마도펜 '로직' (Theodore Velic's Logic Pen) | [수식의 마도펜 '로직' (Theodore Velic's Logic Pen)](수식의%20마도펜%20'로직'%20%28Theodore%20Velic's%20Logic%20Pen%29.md) |
 | 순교자의 기름 촛대 '이그니스 일루전' (Martyr's Oil Candelabra 'Ignis Illusion') | [순교자의 기름 촛대 '이그니스 일루전' (Martyr's Oil Candelabra 'Ignis Illusion')](순교자의%20기름%20촛대%20'이그니스%20일루전'%20%28Martyr's%20Oil%20Candelabra%20'Ignis%20Illusion'%29.md) |
 | 순수 강철의 기계 세례 침 (Roland Steel's Iron Baptism Needle) | [순수 강철의 기계 세례 침 (Roland Steel's Iron Baptism Needle)](순수%20강철의%20기계%20세례%20침%20%28Roland%20Steel's%20Iron%20Baptism%20Needle%29.md) |
@@ -109,8 +111,10 @@
 | 신기루의 거울 (Mirror of Mirage) | [신기루의 거울 (Mirror of Mirage)](신기루의%20거울%20%28Mirror%20of%20Mirage%29.md) |
 | 실바인의 가시 구속 넝쿨 (Sylvain's Thorn Binding Vine) | [실바인의 가시 구속 넝쿨 (Sylvain's Thorn Binding Vine)](실바인의%20가시%20구속%20넝쿨%20%28Sylvain's%20Thorn%20Binding%20Vine%29.md) |
 | 실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia) | [실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia)](실피아의%20덧없는%20은빛%20부채%20%28Silver-Dust%20Fan%20of%20Sylphia%29.md) |
+| 심문관의 얼음 결박 쇠사슬 (Inquisitor's Ice-Binding Shackle Chains) | [심문관의 얼음 결박 쇠사슬 (Inquisitor's Ice-Binding Shackle Chains)](심문관의%20얼음%20결박%20쇠사슬%20%28Inquisitor's%20Ice-Binding%20Shackle%20Chains%29.md) |
 | 심연 봉인의 가시 쇠사슬 (Abyss-Seal Spiked Iron Chains) | [심연 봉인의 가시 쇠사슬 (Abyss-Seal Spiked Iron Chains)](심연%20봉인의%20가시%20쇠사슬%20%28Abyss-Seal%20Spiked%20Iron%20Chains%29.md) |
 | 심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control) | [심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control)](심연%20통제의%20오라클%20매트릭스%20%28Oracle%20Matrix%20of%20Abyssal%20Control%29.md) |
+| 심연의 닻 (Abyssal Anchor) | [심연의 닻 (Abyssal Anchor)](심연의%20닻%20%28Abyssal%20Anchor%29.md) |
 | 심연의 류트(Lute of the Abyss) | [심연의 류트(Lute of the Abyss)](심연의%20류트%28Lute%20of%20the%20Abyss%29.md) |
 | 심연호의 꺾인 타륜(Broken Helm of Abyss) | [심연호의 꺾인 타륜(Broken Helm of Abyss)](심연호의%20꺾인%20타륜%28Broken%20Helm%20of%20Abyss%29.md) |
 | 심판의 계산기 (Judgment Calculator) | [심판의 계산기 (Judgment Calculator)](심판의%20계산기%20%28Judgment%20Calculator%29.md) |
@@ -141,6 +145,7 @@
 | 역병의 주사기 '나이트포그의 독실험' (Damian Nightfog's Syringe of Plague) | [역병의 주사기 '나이트포그의 독실험' (Damian Nightfog's Syringe of Plague)](역병의%20주사기%20'나이트포그의%20독실험'%20%28Damian%20Nightfog's%20Syringe%20of%20Plague%29.md) |
 | 연금 플라스크 '오션플라스크의 별빛' (Erina Oceanflask's Alchemy Flask Starlight of Oceanflask) | [연금 플라스크 '오션플라스크의 별빛' (Erina Oceanflask's Alchemy Flask Starlight of Oceanflask)](연금%20플라스크%20'오션플라스크의%20별빛'%20%28Erina%20Oceanflask's%20Alchemy%20Flask%20Starlight%20of%20Oceanflask%29.md) |
 | 연금술사의 유탄 발사기 (Alchemist's Grenade Launcher) | [연금술사의 유탄 발사기 (Alchemist's Grenade Launcher)](연금술사의%20유탄%20발사기%20%28Alchemist's%20Grenade%20Launcher%29.md) |
+| 연막 폭발 갈고리 투척기 (Smoke-Burst Grapple Caster) | [연막 폭발 갈고리 투척기 (Smoke-Burst Grapple Caster)](연막%20폭발%20갈고리%20투척기%20%28Smoke-Burst%20Grapple%20Caster%29.md) |
 | 연성 마법 큐브 '프리즘' (Cedric Penrose's Magic Cube) | [연성 마법 큐브 '프리즘' (Cedric Penrose's Magic Cube)](연성%20마법%20큐브%20'프리즘'%20%28Cedric%20Penrose's%20Magic%20Cube%29.md) |
 | 영원 회귀의 시간 모래시계 (Hourglass of Eternal Recurrence) | [영원 회귀의 시간 모래시계 (Hourglass of Eternal Recurrence)](영원%20회귀의%20시간%20모래시계%20%28Hourglass%20of%20Eternal%20Recurrence%29.md) |
 | 영원의 깃펜 (Quill of Eternity) | [영원의 깃펜 (Quill of Eternity)](영원의%20깃펜%20%28Quill%20of%20Eternity%29.md) |
@@ -163,6 +168,7 @@
 | 운명의 태엽침 — 크로니아의 부러진 시침 (Shattered Hour-Hand of Chronia, Needle of Fate) | [운명의 태엽침 — 크로니아의 부러진 시침 (Shattered Hour-Hand of Chronia, Needle of Fate)](운명의%20태엽침%20—%20크로니아의%20부러진%20시침%20%28Shattered%20Hour-Hand%20of%20Chronia,%20Needle%20of%20Fate%29.md) |
 | 울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling) | [울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling)](울부짖는%20마름모꼴%20빙금%20피리%20%28Rhombus%20Ice-Flute%20of%20Howling%29.md) |
 | 울부짖는 태양 칼루멘 | [울부짖는 태양 칼루멘](울부짖는태양칼루멘.md) |
+| 월광 침묵 은탄 약통 (Moonlight Silent Silver-Bullet Canister) | [월광 침묵 은탄 약통 (Moonlight Silent Silver-Bullet Canister)](월광%20침묵%20은탄%20약통%20%28Moonlight%20Silent%20Silver-Bullet%20Canister%29.md) |
 | 위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament) | [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](위버의%20비탄%20실패%20릴%20%28Spindle%20Reel%20of%20Weaver's%20Lament%29.md) |
 | 위선의 램프 (Lamp of Hypocrisy) | [위선의 램프 (Lamp of Hypocrisy)](위선의%20램프%20%28Lamp%20of%20Hypocrisy%29.md) |
 | 은빛 부채 (Silver Fan) | [은빛 부채 (Silver Fan)](은빛%20부채%20%28Silver%20Fan%29.md) |

@@ -6,12 +6,13 @@
 
 # 📚 지팡이·완드
 
-## 항목 (162)
+## 항목 (165)
 
 | 아이템 | 링크 |
 |--------|------|
 | 강제 숙성 부패 시간 가속 완드 (Time-Acceleration Wand of Forced Senescent Decay) | [강제 숙성 부패 시간 가속 완드 (Time-Acceleration Wand of Forced Senescent Decay)](강제%20숙성%20부패%20시간%20가속%20완드%20%28Time-Acceleration%20Wand%20of%20Forced%20Senescent%20Decay%29.md) |
 | 강철 복음의 교리 완드 (Steelbringer's Iron Doctrine Wand) | [강철 복음의 교리 완드 (Steelbringer's Iron Doctrine Wand)](강철%20복음의%20교리%20완드%20%28Steelbringer's%20Iron%20Doctrine%20Wand%29.md) |
+| 겔라벤투스의 저주 흑골 지팡이 (Hex-Bone Staff of Gelaventus) | [겔라벤투스의 저주 흑골 지팡이 (Hex-Bone Staff of Gelaventus)](겔라벤투스의%20저주%20흑골%20지팡이%20%28Hex-Bone%20Staff%20of%20Gelaventus%29.md) |
 | 겨울 밤의 별 지팡이 (Staff of Winter's Eve) | [겨울 밤의 별 지팡이 (Staff of Winter's Eve)](겨울%20밤의%20별%20지팡이%20%28Staff%20of%20Winter's%20Eve%29.md) |
 | 결계의 수정 지팡이 '생텀 크리스탈' (Celestine Ward's Sanctum Crystal) | [결계의 수정 지팡이 '생텀 크리스탈' (Celestine Ward's Sanctum Crystal)](결계의%20수정%20지팡이%20'생텀%20크리스탈'%20%28Celestine%20Ward's%20Sanctum%20Crystal%29.md) |
 | 고통의 해골 완드 (Skull Wand of Agony) | [고통의 해골 완드 (Skull Wand of Agony)](고통의%20해골%20완드%20%28Skull%20Wand%20of%20Agony%29.md) |
@@ -87,6 +88,7 @@
 | 스네이크 스컬 지팡이 (Staff of Snake Skull) | [스네이크 스컬 지팡이 (Staff of Snake Skull)](스네이크%20스컬%20지팡이%20%28Staff%20of%20Snake%20Skull%29.md) |
 | 스카이 완드 (Sky Wand) | [스카이 완드 (Sky Wand)](스카이%20완드%20%28Sky%20Wand%29.md) |
 | 스톰브링거 (Stormbringer) | [스톰브링거 (Stormbringer)](스톰브링거%20%28Stormbringer%29.md) |
+| 시간의 조수를 짚는 예언마녀의 흑산호 지팡이 (Black Coral Cane of the Tide-Reading Oracle) | [시간의 조수를 짚는 예언마녀의 흑산호 지팡이 (Black Coral Cane of the Tide-Reading Oracle)](시간의%20조수를%20짚는%20예언마녀의%20흑산호%20지팡이%20%28Black%20Coral%20Cane%20of%20the%20Tide-Reading%20Oracle%29.md) |
 | 시길럼 (Sigillum) | [시길럼 (Sigillum)](시길럼%20%28Sigillum%29.md) |
 | 신비의 결정 지팡이 '네레우스의 파도' (Tide of Nereus) | [신비의 결정 지팡이 '네레우스의 파도' (Tide of Nereus)](신비의%20결정%20지팡이%20'네레우스의%20파도'%20%28Tide%20of%20Nereus%29.md) |
 | 신성 지팡이 '타이드윈드의 별빛' (Nereid Tidewind's Sacred Staff Starlight of Tidewind) | [신성 지팡이 '타이드윈드의 별빛' (Nereid Tidewind's Sacred Staff Starlight of Tidewind)](신성%20지팡이%20'타이드윈드의%20별빛'%20%28Nereid%20Tidewind's%20Sacred%20Staff%20Starlight%20of%20Tidewind%29.md) |
@@ -156,6 +158,7 @@
 | 테르시오의 성장 (Holy Staff of Tercio) | [테르시오의 성장 (Holy Staff of Tercio)](테르시오의%20성장%20%28Holy%20Staff%20of%20Tercio%29.md) |
 | 통제와 심연의 지배 홀 (Scepter of Control and Abyssal Dominion) | [통제와 심연의 지배 홀 (Scepter of Control and Abyssal Dominion)](통제와%20심연의%20지배%20홀%20%28Scepter%20of%20Control%20and%20Abyssal%20Dominion%29.md) |
 | 폭풍 지팡이 '템페스트의 별무리' (Eric Tempestcall's Tempest Staff Cluster of Tempest) | [폭풍 지팡이 '템페스트의 별무리' (Eric Tempestcall's Tempest Staff Cluster of Tempest)](폭풍%20지팡이%20'템페스트의%20별무리'%20%28Eric%20Tempestcall's%20Tempest%20Staff%20Cluster%20of%20Tempest%29.md) |
+| 폴라리스 대예언가의 성좌 지팡이 (Constellation Staff of the Grand Oracle Polaris) | [폴라리스 대예언가의 성좌 지팡이 (Constellation Staff of the Grand Oracle Polaris)](폴라리스%20대예언가의%20성좌%20지팡이%20%28Constellation%20Staff%20of%20the%20Grand%20Oracle%20Polaris%29.md) |
 | 풀베리온의 지휘관 포효 지팡이 (Commander's Roar-Baton of Pulverion) | [풀베리온의 지휘관 포효 지팡이 (Commander's Roar-Baton of Pulverion)](풀베리온의%20지휘관%20포효%20지팡이%20%28Commander's%20Roar-Baton%20of%20Pulverion%29.md) |
 | 프로메테아의 기억의 빛 완드 (Wand of Remembered Light) | [프로메테아의 기억의 빛 완드 (Wand of Remembered Light)](프로메테아의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 프리셀리아 노르다리스의 기억의 빛 완드 (Wand of Remembered Light) | [프리셀리아 노르다리스의 기억의 빛 완드 (Wand of Remembered Light)](프리셀리아%20노르다리스의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |

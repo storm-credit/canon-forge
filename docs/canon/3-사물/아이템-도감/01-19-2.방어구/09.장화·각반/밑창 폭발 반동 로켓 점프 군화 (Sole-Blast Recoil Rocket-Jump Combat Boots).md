@@ -2,7 +2,7 @@
 정본명: 밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/09.장화·각반/밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots).md"
-검증상태: 신규 생성 (2026-07-02)
+검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-07-02)
 ---
 
 # 🛡️ 밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots)

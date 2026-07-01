@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (59)
+## 항목 (60)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -66,6 +66,7 @@
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
 | 판금 갑옷 (Plate Armor) | [판금 갑옷 (Plate Armor)](판금%20갑옷%20%28Plate%20Armor%29.md) |
 | 폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights) | [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](폭풍%20기사단의%20단독%20수장%20갑주%20%28Sole-Commander%20Plate%20of%20the%20Storm%20Knights%29.md) |
+| 흑요석 선봉대 파괴의 반흉갑 (Obsidian Vanguard Devastation Demi-Plate) | [흑요석 선봉대 파괴의 반흉갑 (Obsidian Vanguard Devastation Demi-Plate)](흑요석%20선봉대%20파괴의%20반흉갑%20%28Obsidian%20Vanguard%20Devastation%20Demi-Plate%29.md) |
 | 흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate) | [흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate)](흑요석%20천공%20흉갑%20%28Core-Pierced%20Obsidian%20Breastplate%29.md) |
 | 흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard) | [흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard)](흑요철%20전선%20전신%20중갑%20%28Iron-Bone%20Full%20Plate%20of%20the%20Vanguard%29.md) |
 | 흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat) | [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](흡음%28Sound-Absorbing%29%20처리된%20흑박쥐%20피박%20갑주%20%28Blood-Foil%20Armor%20of%20the%20Dark-Bat%29.md) |

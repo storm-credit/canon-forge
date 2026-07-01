@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (58)
+## 항목 (60)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -36,6 +36,7 @@
 | 붉은 폭풍 돌격 망토 (Red Storm Assault Cloak) | [붉은 폭풍 돌격 망토 (Red Storm Assault Cloak)](붉은%20폭풍%20돌격%20망토%20%28Red%20Storm%20Assault%20Cloak%29.md) |
 | 비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils) | [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](비탄의%20넝쿨손%20구호%20망토%20%28Mantle%20of%20Sorrow's%20Tendrils%29.md) |
 | 빛바랜 올빼미 망토 (Faded Cloak of the Owl) | [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](빛바랜%20올빼미%20망토%20%28Faded%20Cloak%20of%20the%20Owl%29.md) |
+| 서리 늑대 영체 뼈 망토 (Spectral Frost-Wolf Bone Cloak) | [서리 늑대 영체 뼈 망토 (Spectral Frost-Wolf Bone Cloak)](서리%20늑대%20영체%20뼈%20망토%20%28Spectral%20Frost-Wolf%20Bone%20Cloak%29.md) |
 | 선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum) | [선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum)](선혈이%20물든%20아르젠툼%20은빛%20망토%20%28Blood-Soaked%20Silver%20Cloak%20of%20Argentum%29.md) |
 | 솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment) | [솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment)](솔라리스%20처단의%20붉은%20서코트%20%28Crimson%20Surcoat%20of%20Solaris%20Judgment%29.md) |
 | 순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds) | [순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds)](순간%20엇갈림의%20회중%20망토%20%28Pocket-Watch%20Cloak%20of%20Split%20Seconds%29.md) |
@@ -64,6 +65,7 @@
 | 크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak) | [크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak)](크라켄의%20먹물%20젤리%20망토%20%28Squid-Ink%20Jelly%20Cloak%29.md) |
 | 태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse) | [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](태양풍을%20흡수하는%20일식%28Eclipse%29의%20베일%20%28Veil%20of%20Eclipse%29.md) |
 | 투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void) | [투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void)](투명화%20마법%20도료가%20발린%20위장%20망토%20%28Camouflage%20Cloak%20of%20the%20Void%29.md) |
+| 풍륜 윙 슈트 (Wind-Wheel Wing Suit) | [풍륜 윙 슈트 (Wind-Wheel Wing Suit)](풍륜%20윙%20슈트%20%28Wind-Wheel%20Wing%20Suit%29.md) |
 | 해진 잿빛 망토 (Tattered Ashen Cloak) | [해진 잿빛 망토 (Tattered Ashen Cloak)](해진%20잿빛%20망토%20%28Tattered%20Ashen%20Cloak%29.md) |
 | 황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower) | [황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower)](황금%20태엽%20역행%20코트%20%28Reverse-Gear%20Golden%20Coat%20of%20the%20Time%20Tower%29.md) |
 | 흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler) | [흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler)](흉갑이%20없는%20투사의%20망토%20%28Cloak%20of%20the%20Bare-Chested%20Brawler%29.md) |

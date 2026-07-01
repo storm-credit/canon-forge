@@ -6,7 +6,7 @@
 
 # 📚 방패
 
-## 항목 (50)
+## 항목 (51)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -19,6 +19,7 @@
 | 그레이트 오크 실드 (Great Oak Shield) | [그레이트 오크 실드 (Great Oak Shield)](그레이트%20오크%20실드%20%28Great%20Oak%20Shield%29.md) |
 | 녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise) | [녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise)](녹아내린%20흑요석의%20파비스%20방패%20%28Melted%20Obsidian%20Pavise%29.md) |
 | 닉스이지스의 불침 대방패 - 에버글레이드 (Impenetrable Great-Shield, Everglade) | [닉스이지스의 불침 대방패 - 에버글레이드 (Impenetrable Great-Shield, Everglade)](닉스이지스의%20불침%20대방패%20-%20에버글레이드%20%28Impenetrable%20Great-Shield,%20Everglade%29.md) |
+| 닻 박힌 강철 방탑 대방패 (Anchored Iron Bastion Tower Shield) | [닻 박힌 강철 방탑 대방패 (Anchored Iron Bastion Tower Shield)](닻%20박힌%20강철%20방탑%20대방패%20%28Anchored%20Iron%20Bastion%20Tower%20Shield%29.md) |
 | 대산호 방패 (Great Coral Shield) | [대산호 방패 (Great Coral Shield)](대산호%20방패%20%28Great%20Coral%20Shield%29.md) |
 | 대지수호의 방패검 (Shield-sword of Earth Guard) | [대지수호의 방패검 (Shield-sword of Earth Guard)](대지수호의%20방패검%20%28Shield-sword%20of%20Earth%20Guard%29.md) |
 | 대형 방패 - 실드워드의 철벽 (Aegis of Shieldward) | [대형 방패 - 실드워드의 철벽 (Aegis of Shieldward)](대형%20방패%20-%20실드워드의%20철벽%20%28Aegis%20of%20Shieldward%29.md) |

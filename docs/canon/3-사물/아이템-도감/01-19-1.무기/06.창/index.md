@@ -6,12 +6,13 @@
 
 # 📚 창
 
-## 항목 (82)
+## 항목 (83)
 
 | 아이템 | 링크 |
 |--------|------|
 | 가디언 랜스 (Guardian Lance) | [가디언 랜스 (Guardian Lance)](가디언%20랜스%20%28Guardian%20Lance%29.md) |
 | 가디언의 랜스 (Guardian's Lance) | [가디언의 랜스 (Guardian's Lance)](가디언의%20랜스%20%28Guardian's%20Lance%29.md) |
+| 갑판 도약 작살창 '적함 통과제' (Boarding Harpoon Lance 'Enemy-Deck Passcard') | [갑판 도약 작살창 '적함 통과제' (Boarding Harpoon Lance 'Enemy-Deck Passcard')](갑판%20도약%20작살창%20'적함%20통과제'%20%28Boarding%20Harpoon%20Lance%20'Enemy-Deck%20Passcard'%29.md) |
 | 강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun) | [강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun)](강철%20폭발%20삼지창과%20작살포%20%28Exploding%20Trident%20&%20Auto-Harpoon%20Gun%29.md) |
 | 게이볼그 (Gae Bolg) | [게이볼그 (Gae Bolg)](게이볼그%20%28Gae%20Bolg%29.md) |
 | 고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash') | [고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash')](고대%20포식룡의%20작살%20창%20'샤크투스%20크래시'%20%28Predator's%20Harpoon%20'Sharktooth%20Crash'%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 머리장식
 
-## 항목 (21)
+## 항목 (23)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -15,8 +15,10 @@
 | 네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign) | [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](네크로폴리스%20망자의%20골제관%20%28Bone%20Diadem%20of%20the%20Necropolis%20Sovereign%29.md) |
 | 노르다리스의 청백 서리관 (Pale-Blue Frost Coronet of Nordaris) | [노르다리스의 청백 서리관 (Pale-Blue Frost Coronet of Nordaris)](노르다리스의%20청백%20서리관%20%28Pale-Blue%20Frost%20Coronet%20of%20Nordaris%29.md) |
 | 녹아내린 태양의 가시 왕관 (Melting Crown of Sol) | [녹아내린 태양의 가시 왕관 (Melting Crown of Sol)](녹아내린%20태양의%20가시%20왕관%20%28Melting%20Crown%20of%20Sol%29.md) |
+| 눈보라 주술사단 제1영매 뼈 관 (First-Medium Bone Crown of the Blizzard Shamans) | [눈보라 주술사단 제1영매 뼈 관 (First-Medium Bone Crown of the Blizzard Shamans)](눈보라%20주술사단%20제1영매%20뼈%20관%20%28First-Medium%20Bone%20Crown%20of%20the%20Blizzard%20Shamans%29.md) |
 | 대속의 가시관 (Crown of Vicarious Thorns) | [대속의 가시관 (Crown of Vicarious Thorns)](대속의%20가시관%20%28Crown%20of%20Vicarious%20Thorns%29.md) |
 | 동토의 여제(Empress) 티아라 | [동토의 여제(Empress) 티아라](동토의%20여제%28Empress%29%20티아라.md) |
+| 백야의 성모관 영원한 눈꽃 성관 (Holy Crown of the White Night Mother - Eternal Snowflake Diadem) | [백야의 성모관 영원한 눈꽃 성관 (Holy Crown of the White Night Mother - Eternal Snowflake Diadem)](백야의%20성모관%20영원한%20눈꽃%20성관%20%28Holy%20Crown%20of%20the%20White%20Night%20Mother%20-%20Eternal%20Snowflake%20Diadem%29.md) |
 | 복수의 황혼 가면 (Twilight Mask of Vengeance) | [복수의 황혼 가면 (Twilight Mask of Vengeance)](복수의%20황혼%20가면%20%28Twilight%20Mask%20of%20Vengeance%29.md) |
 | 성단의 에메랄드 점멸 후광 (Emerald Stellar Cluster Halo) | [성단의 에메랄드 점멸 후광 (Emerald Stellar Cluster Halo)](성단의%20에메랄드%20점멸%20후광%20%28Emerald%20Stellar%20Cluster%20Halo%29.md) |
 | 성채의 티아라 (Tiara of Acropolis) | [성채의 티아라 (Tiara of Acropolis)](성채의%20티아라%20%28Tiara%20of%20Acropolis%29.md) |

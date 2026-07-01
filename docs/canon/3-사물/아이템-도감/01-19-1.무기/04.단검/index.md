@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (124)
+## 항목 (128)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -30,6 +30,7 @@
 | 녹티스의 은광 램프 & 스텔라 스틸레토 (Silver Lamp of Noctis & Stellar Stiletto) | [녹티스의 은광 램프 & 스텔라 스틸레토 (Silver Lamp of Noctis & Stellar Stiletto)](녹티스의%20은광%20램프%20&%20스텔라%20스틸레토%20%28Silver%20Lamp%20of%20Noctis%20&%20Stellar%20Stiletto%29.md) |
 | 늑대 이빨 (Wolf Tooth) | [늑대 이빨 (Wolf Tooth)](늑대%20이빨%20%28Wolf%20Tooth%29.md) |
 | 니힐 (Nihil) | [니힐 (Nihil)](니힐%20%28Nihil%29.md) |
+| 달밤의 침묵 단검 (Silent Dagger of the Moonlit Night) | [달밤의 침묵 단검 (Silent Dagger of the Moonlit Night)](달밤의%20침묵%20단검%20%28Silent%20Dagger%20of%20the%20Moonlit%20Night%29.md) |
 | 달빛을 베어낸 단검(Moon-severing Daggers) | [달빛을 베어낸 단검(Moon-severing Daggers)](달빛을%20베어낸%20단검%28Moon-severing%20Daggers%29.md) |
 | 데미우르고스의 낙하 단검 (Falling Blade of 데미우르고스) | [데미우르고스의 낙하 단검 (Falling Blade of 데미우르고스)](데미우르고스의%20낙하%20단검%20%28Falling%20Blade%20of%20데미우르고스%29.md) |
 | 독니 단검 (Fang Dagger) | [독니 단검 (Fang Dagger)](독니%20단검%20%28Fang%20Dagger%29.md) |
@@ -61,6 +62,7 @@
 | 벨리우스의 뇌전 단검 (Thunder Dagger of Velius) | [벨리우스의 뇌전 단검 (Thunder Dagger of Velius)](벨리우스의%20뇌전%20단검%20%28Thunder%20Dagger%20of%20Velius%29.md) |
 | 보급관의 단도 (Supply Master's Shiv) | [보급관의 단도 (Supply Master's Shiv)](보급관의%20단도%20%28Supply%20Master's%20Shiv%29.md) |
 | 불꽃 단검 '이클립스의 화염' (Dorian Eclipse's Flame Dagger Fire of Eclipse) | [불꽃 단검 '이클립스의 화염' (Dorian Eclipse's Flame Dagger Fire of Eclipse)](불꽃%20단검%20'이클립스의%20화염'%20%28Dorian%20Eclipse's%20Flame%20Dagger%20Fire%20of%20Eclipse%29.md) |
+| 빙혈 마비독 단검 (Ice-Blood Paralysis Venom Dagger) | [빙혈 마비독 단검 (Ice-Blood Paralysis Venom Dagger)](빙혈%20마비독%20단검%20%28Ice-Blood%20Paralysis%20Venom%20Dagger%29.md) |
 | 사일런투스의 집행 단검 - 흑요석 어금니 (Obsidian Fang, Hush-Blade) | [사일런투스의 집행 단검 - 흑요석 어금니 (Obsidian Fang, Hush-Blade)](사일런투스의%20집행%20단검%20-%20흑요석%20어금니%20%28Obsidian%20Fang,%20Hush-Blade%29.md) |
 | 산호독 암살 단검 '블랙샤크의 이빨' (Coral-Poison Karambit 'Fang of Blackshark') | [산호독 암살 단검 '블랙샤크의 이빨' (Coral-Poison Karambit 'Fang of Blackshark')](산호독%20암살%20단검%20'블랙샤크의%20이빨'%20%28Coral-Poison%20Karambit%20'Fang%20of%20Blackshark'%29.md) |
 | 상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis) | [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](상그비스의%20적화선인장%20단검%20%28Crimson-Cactus%20Daggers%20of%20Sangvis%29.md) |
@@ -107,6 +109,7 @@
 | 질풍의 단검 '레이븐글로우의 속도' (Milo Ravenglow's Dagger of Gale) | [질풍의 단검 '레이븐글로우의 속도' (Milo Ravenglow's Dagger of Gale)](질풍의%20단검%20'레이븐글로우의%20속도'%20%28Milo%20Ravenglow's%20Dagger%20of%20Gale%29.md) |
 | 차원 절단검, 보이드 베인 (Void Bane) | [차원 절단검, 보이드 베인 (Void Bane)](차원%20절단검,%20보이드%20베인%20%28Void%20Bane%29.md) |
 | 침묵의 단검 (Silent Dagger) | [침묵의 단검 (Silent Dagger)](침묵의%20단검%20%28Silent%20Dagger%29.md) |
+| 침묵의 동결 단검 - 리멘 (Silent Freezing Dagger, Limen) | [침묵의 동결 단검 - 리멘 (Silent Freezing Dagger, Limen)](침묵의%20동결%20단검%20-%20리멘%20%28Silent%20Freezing%20Dagger,%20Limen%29.md) |
 | 침묵의 비수 (Silent Fang) | [침묵의 비수 (Silent Fang)](침묵의%20비수%20%28Silent%20Fang%29.md) |
 | 칼 카마인의 독침 단도 (Poison-Fanged Blade of 칼 카마인) | [칼 카마인의 독침 단도 (Poison-Fanged Blade of 칼 카마인)](칼%20카마인의%20독침%20단도%20%28Poison-Fanged%20Blade%20of%20칼%20카마인%29.md) |
 | 커스드 쏜 (Cursed Thorn) | [커스드 쏜 (Cursed Thorn)](커스드%20쏜%20%28Cursed%20Thorn%29.md) |
@@ -122,6 +125,7 @@
 | 페너스 알라릭의 독침 단도 (Poison-Fanged Blade of 페너스 알라릭) | [페너스 알라릭의 독침 단도 (Poison-Fanged Blade of 페너스 알라릭)](페너스%20알라릭의%20독침%20단도%20%28Poison-Fanged%20Blade%20of%20페너스%20알라릭%29.md) |
 | 페두스히엠스의 계약 단검과 롱소드 - 유언장 (Testament) | [페두스히엠스의 계약 단검과 롱소드 - 유언장 (Testament)](페두스히엠스의%20계약%20단검과%20롱소드%20-%20유언장%20%28Testament%29.md) |
 | 폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger) | [폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger)](폭음%20봉인%20근접%20단검%20%28Blast-Sealed%20Close-Range%20Dagger%29.md) |
+| 풍압 서핑 단검 '기류의 발판' (Airflow Foothold Dagger) | [풍압 서핑 단검 '기류의 발판' (Airflow Foothold Dagger)](풍압%20서핑%20단검%20'기류의%20발판'%20%28Airflow%20Foothold%20Dagger%29.md) |
 | 프로스트 팡 (Frost Fang) | [프로스트 팡 (Frost Fang)](프로스트%20팡%20%28Frost%20Fang%29.md) |
 | 프로스트 대거 / 아이스 대거 | [프로스트 대거 / 아이스 대거](프로스트대거아이스대거.md) |
 | 항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea) | [항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea)](항해%20단검%20'포가튼시의%20별빛'%20%28Marek%20Forgottensea's%20Naval%20Dagger%20Starlight%20of%20Forgottensea%29.md) |

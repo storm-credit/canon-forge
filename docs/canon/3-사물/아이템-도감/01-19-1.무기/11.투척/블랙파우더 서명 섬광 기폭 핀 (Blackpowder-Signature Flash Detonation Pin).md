@@ -2,7 +2,7 @@
 정본명: 블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/11.투척/블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin).md"
-검증상태: 신규 생성 (2026-07-02)
+검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-07-02)
 ---
 
 # 🗡️ 블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin)

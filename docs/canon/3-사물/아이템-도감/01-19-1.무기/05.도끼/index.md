@@ -6,7 +6,7 @@
 
 # 📚 도끼
 
-## 항목 (17)
+## 항목 (18)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 비탄을 삼키는 흑은 쌍날도끼 (Sorrow-Eating Black-Silver Twin Axes) | [비탄을 삼키는 흑은 쌍날도끼 (Sorrow-Eating Black-Silver Twin Axes)](비탄을%20삼키는%20흑은%20쌍날도끼%20%28Sorrow-Eating%20Black-Silver%20Twin%20Axes%29.md) |
 | 아홉 번 쪼개진 태초의 벌목 도끼(Axe of the Primeval Fall) | [아홉 번 쪼개진 태초의 벌목 도끼(Axe of the Primeval Fall)](아홉%20번%20쪼개진%20태초의%20벌목%20도끼%28Axe%20of%20the%20Primeval%20Fall%29.md) |
 | 오케아나의 심해를 가르는 쌍도끼 | [오케아나의 심해를 가르는 쌍도끼](오케아나의심해를가르는쌍도끼.md) |
+| 이그니겔루의 빙염 도끼 - 프로스트 팽 (Frost-Fang Axe of Ignigelu) | [이그니겔루의 빙염 도끼 - 프로스트 팽 (Frost-Fang Axe of Ignigelu)](이그니겔루의%20빙염%20도끼%20-%20프로스트%20팽%20%28Frost-Fang%20Axe%20of%20Ignigelu%29.md) |
 | 이그니겔루의 폭염빙 도끼 - 옵시디언 엣지 (Obsidian Edge Axe of Ignigelu) | [이그니겔루의 폭염빙 도끼 - 옵시디언 엣지 (Obsidian Edge Axe of Ignigelu)](이그니겔루의%20폭염빙%20도끼%20-%20옵시디언%20엣지%20%28Obsidian%20Edge%20Axe%20of%20Ignigelu%29.md) |
 | 잿빛 망령의 풀무 벨트(Bellows of the Gray Ghost) | [잿빛 망령의 풀무 벨트(Bellows of the Gray Ghost)](잿빛%20망령의%20풀무%20벨트%28Bellows%20of%20the%20Gray%20Ghost%29.md) |
 | 천둥의 도끼 토르마르 (Axe of Thormar) | [천둥의 도끼 토르마르 (Axe of Thormar)](천둥의%20도끼%20토르마르%20%28Axe%20of%20Thormar%29.md) |
