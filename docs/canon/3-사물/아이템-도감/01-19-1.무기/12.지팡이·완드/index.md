@@ -6,7 +6,7 @@
 
 # 📚 지팡이·완드
 
-## 항목 (158)
+## 항목 (159)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -118,6 +118,7 @@
 | 우로보로스의 기억의 빛 완드 (Wand of Remembered Light) | [우로보로스의 기억의 빛 완드 (Wand of Remembered Light)](우로보로스의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 월하의 지팡이 '페일문의 환영' (Ezra Pailmoon's Staff of Under the Moon) | [월하의 지팡이 '페일문의 환영' (Ezra Pailmoon's Staff of Under the Moon)](월하의%20지팡이%20'페일문의%20환영'%20%28Ezra%20Pailmoon's%20Staff%20of%20Under%20the%20Moon%29.md) |
 | 위상 붕괴 홀로그램 블레이드 (Void-Phase Blade) | [위상 붕괴 홀로그램 블레이드 (Void-Phase Blade)](위상%20붕괴%20홀로그램%20블레이드%20%28Void-Phase%20Blade%29.md) |
+| 율법 집행의 공소장 두루마리 (Indictment Scroll of Law Enforcement) | [율법 집행의 공소장 두루마리 (Indictment Scroll of Law Enforcement)](율법%20집행의%20공소장%20두루마리%20%28Indictment%20Scroll%20of%20Law%20Enforcement%29.md) |
 | 의식을 갉아먹는 환접의 지팡이 (Illusionary Staff of the Mind-Moth) | [의식을 갉아먹는 환접의 지팡이 (Illusionary Staff of the Mind-Moth)](의식을%20갉아먹는%20환접의%20지팡이%20%28Illusionary%20Staff%20of%20the%20Mind-Moth%29.md) |
 | 이그드라실의 기억의 빛 완드 (Wand of Remembered Light) | [이그드라실의 기억의 빛 완드 (Wand of Remembered Light)](이그드라실의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 자유로운 나비의 환영 지팡이 (Illusionary Staff of the Free Butterfly) | [자유로운 나비의 환영 지팡이 (Illusionary Staff of the Free Butterfly)](자유로운%20나비의%20환영%20지팡이%20%28Illusionary%20Staff%20of%20the%20Free%20Butterfly%29.md) |

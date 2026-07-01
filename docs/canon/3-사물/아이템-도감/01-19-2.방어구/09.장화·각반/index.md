@@ -6,7 +6,7 @@
 
 # 📚 장화·각반
 
-## 항목 (12)
+## 항목 (13)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -20,5 +20,6 @@
 | 장화 (Boots) | [장화 (Boots)](장화%20%28Boots%29.md) |
 | 절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots) | [절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots)](절연의%20비행%20자기장%20장화%20%28Insulated%20Flight%20Magnetic-Boots%29.md) |
 | 절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves) | [절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves)](절연의%20청룡%20비늘%20장화%20%28Insulated%20Azure%20Dragon%20Greaves%29.md) |
+| 중력 차단 저격수 부츠 (Gravity-Nullifying Sniper Boots) | [중력 차단 저격수 부츠 (Gravity-Nullifying Sniper Boots)](중력%20차단%20저격수%20부츠%20%28Gravity-Nullifying%20Sniper%20Boots%29.md) |
 | 특수 우레탄 강화 코일 장화 (Urethane Coil-Boots) | [특수 우레탄 강화 코일 장화 (Urethane Coil-Boots)](특수%20우레탄%20강화%20코일%20장화%20%28Urethane%20Coil-Boots%29.md) |
 | 피에 젖은 투지의 각반 (Greaves of Blood-soaked Resolve) | [피에 젖은 투지의 각반 (Greaves of Blood-soaked Resolve)](피에%20젖은%20투지의%20각반%20%28Greaves%20of%20Blood-soaked%20Resolve%29.md) |

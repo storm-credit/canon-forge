@@ -6,7 +6,7 @@
 
 # 📚 방패
 
-## 항목 (48)
+## 항목 (49)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -50,6 +50,7 @@
 | 짐승의 타워실드 (Beast Tower Shield) | [짐승의 타워실드 (Beast Tower Shield)](짐승의%20타워실드%20%28Beast%20Tower%20Shield%29.md) |
 | 철벽의 수문장 대방패 (Greatshield of the Bastion Gatekeeper) | [철벽의 수문장 대방패 (Greatshield of the Bastion Gatekeeper)](철벽의%20수문장%20대방패%20%28Greatshield%20of%20the%20Bastion%20Gatekeeper%29.md) |
 | 철의 장벽 방패 (Iron Bulwark Shield) | [철의 장벽 방패 (Iron Bulwark Shield)](철의%20장벽%20방패%20%28Iron%20Bulwark%20Shield%29.md) |
+| 카멜로스의 공성 대방패 (Siege Rampart of Cameloth) | [카멜로스의 공성 대방패 (Siege Rampart of Cameloth)](카멜로스의%20공성%20대방패%20%28Siege%20Rampart%20of%20Cameloth%29.md) |
 | 타락 천사의 일식 방패 에이지스 (Eclipse Shield of Fallen Angel: Aegis) | [타락 천사의 일식 방패 에이지스 (Eclipse Shield of Fallen Angel: Aegis)](타락%20천사의%20일식%20방패%20에이지스%20%28Eclipse%20Shield%20of%20Fallen%20Angel%20Aegis%29.md) |
 | 페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens) | [페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens)](페루스덴스의%20영혼-결착%20대방패%20%28Soul-Bind%20Tower%20Shield%20of%20Ferrusdens%29.md) |
 | 포르티스의 영원한 대지 수호 방패 (Eternal Earth-Aegis of Fortis) | [포르티스의 영원한 대지 수호 방패 (Eternal Earth-Aegis of Fortis)](포르티스의%20영원한%20대지%20수호%20방패%20%28Eternal%20Earth-Aegis%20of%20Fortis%29.md) |

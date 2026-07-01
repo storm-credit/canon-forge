@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (48)
+## 항목 (50)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -25,6 +25,7 @@
 | 망각의 짐(Burden of Oblivion) 플레이트 | [망각의 짐(Burden of Oblivion) 플레이트](망각의%20짐%28Burden%20of%20Oblivion%29%20플레이트.md) |
 | 맹수왕의 사슬 흉갑 (Chainmail of the Beast King) | [맹수왕의 사슬 흉갑 (Chainmail of the Beast King)](맹수왕의%20사슬%20흉갑%20%28Chainmail%20of%20the%20Beast%20King%29.md) |
 | 몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily) | [몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily)](몰락한%20백합의%20은빛%20흉갑%20%28Silver%20Corcelet%20of%20the%20Fallen%20Lily%29.md) |
+| 무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate) | [무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate)](무광%20저거너트%20전신%20중갑%20%28Matte-Black%20Juggernaut%20Full%20Plate%29.md) |
 | 백사자의 흉갑 (Cuirass of the White Lion) | [백사자의 흉갑 (Cuirass of the White Lion)](백사자의%20흉갑%20%28Cuirass%20of%20the%20White%20Lion%29.md) |
 | 블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren) | [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](블러드혼%20부락%20붕괴벽의%20대갑주%20%28Collapsed-Wall%20Great%20Armor%20of%20Bloodhorn%20Warren%29.md) |
 | 비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor) | [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](비룡%20비늘의%20화강암%20대갑%20%28Dragon-Scale%20Granite%20Greatarmor%29.md) |
@@ -49,6 +50,7 @@
 | 진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations) | [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](진동을%20먹어%20치우는%20단층대%28Fault-Line%29%20판금%20갑주%20%28Fault-Line%20Plate%20Armor%20that%20Devours%20Vibrations%29.md) |
 | 창공의 조류 비늘 흉갑 (Scale Armor of the Firmament) | [창공의 조류 비늘 흉갑 (Scale Armor of the Firmament)](창공의%20조류%20비늘%20흉갑%20%28Scale%20Armor%20of%20the%20Firmament%29.md) |
 | 천년 암반의 대갑주 (Great Armor of Millennium Bedrock) | [천년 암반의 대갑주 (Great Armor of Millennium Bedrock)](천년%20암반의%20대갑주%20%28Great%20Armor%20of%20Millennium%20Bedrock%29.md) |
+| 철갑 참호 전신 갑주 (Ironclad Trench Full Plate of Ferrum) | [철갑 참호 전신 갑주 (Ironclad Trench Full Plate of Ferrum)](철갑%20참호%20전신%20갑주%20%28Ironclad%20Trench%20Full%20Plate%20of%20Ferrum%29.md) |
 | 초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass) | [초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass)](초고열%20흡수형%20샐러맨더%20코팅%20흉갑%20%28Heat-Sink%20Salamander%20Cuirass%29.md) |
 | 침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight) | [침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight)](침묵하는%20기사의%20강철판%20%28Steel%20Plate%20of%20the%20Silenced%20Knight%29.md) |
 | 카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth) | [카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth)](카멜로스의%20판금%20전신%20요새%20%28Fortress%20Plate%20of%20Cameloth%29.md) |

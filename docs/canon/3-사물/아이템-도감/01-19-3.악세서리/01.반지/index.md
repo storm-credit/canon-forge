@@ -6,13 +6,14 @@
 
 # 📚 반지
 
-## 항목 (11)
+## 항목 (12)
 
 | 아이템 | 링크 |
 |--------|------|
 | 반지 (Rings) | [반지 (Rings)](01.반지.md) |
 | 12좌표의 파수꾼 인장 반지 (Twelve-Coordinate Signet of the Clockwork Warden) | [12좌표의 파수꾼 인장 반지 (Twelve-Coordinate Signet of the Clockwork Warden)](12좌표의%20파수꾼%20인장%20반지%20%28Twelve-Coordinate%20Signet%20of%20the%20Clockwork%20Warden%29.md) |
 | 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar) | [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](듀네사르의%20축성%28Fortification%29%20금가루%20반지%20%28Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar%29.md) |
+| 마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet) | [마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet)](마나%20스레드%20수렴%20인장%20반지%20%28Mana%20Thread%20Convergence%20Signet%29.md) |
 | 무게 중심의 마그넷 링 (Magnet Ring of Gravity Base) | [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](무게%20중심의%20마그넷%20링%20%28Magnet%20Ring%20of%20Gravity%20Base%29.md) |
 | 솔라리스의 무통(無痛) 신경 반지 (Ring of Nerve-Dead Perseverance) | [솔라리스의 무통(無痛) 신경 반지 (Ring of Nerve-Dead Perseverance)](솔라리스의%20무통%28無痛%29%20신경%20반지%20%28Ring%20of%20Nerve-Dead%20Perseverance%29.md) |
 | 신용 불량의 낙인 인장 (Signet Ring of Default) | [신용 불량의 낙인 인장 (Signet Ring of Default)](신용%20불량의%20낙인%20인장%20%28Signet%20Ring%20of%20Default%29.md) |

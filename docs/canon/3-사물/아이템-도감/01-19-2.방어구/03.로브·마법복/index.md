@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (138)
+## 항목 (139)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -76,6 +76,7 @@
 | 선혈 응고의 타르 롱코트 (Tar-Longcoat of Blood Coagulation) | [선혈 응고의 타르 롱코트 (Tar-Longcoat of Blood Coagulation)](선혈%20응고의%20타르%20롱코트%20%28Tar-Longcoat%20of%20Blood%20Coagulation%29.md) |
 | 선혈 직조의 적혈 아머 (Crimson-Blood Woven Armor) | [선혈 직조의 적혈 아머 (Crimson-Blood Woven Armor)](선혈%20직조의%20적혈%20아머%20%28Crimson-Blood%20Woven%20Armor%29.md) |
 | 설표의 기둥 치마 (Pillar-Skirt of the Snow Leopard) | [설표의 기둥 치마 (Pillar-Skirt of the Snow Leopard)](설표의%20기둥%20치마%20%28Pillar-Skirt%20of%20the%20Snow%20Leopard%29.md) |
+| 성흔 대사제복 (Stigmata High Priest's Vestment) | [성흔 대사제복 (Stigmata High Priest's Vestment)](성흔%20대사제복%20%28Stigmata%20High%20Priest's%20Vestment%29.md) |
 | 세레니아 마리온의 천공 방패 (Shield of the Firmament) | [세레니아 마리온의 천공 방패 (Shield of the Firmament)](세레니아%20마리온의%20천공%20방패%20%28Shield%20of%20the%20Firmament%29.md) |
 | 속박 룬을 튕겨내는 거부(Refusal)의 비단 코트 (Silk Coat of Refusal that Repels Binding Runes) | [속박 룬을 튕겨내는 거부(Refusal)의 비단 코트 (Silk Coat of Refusal that Repels Binding Runes)](속박%20룬을%20튕겨내는%20거부%28Refusal%29의%20비단%20코트%20%28Silk%20Coat%20of%20Refusal%20that%20Repels%20Binding%20Runes%29.md) |
 | 수정 가루를 덧입힌 잿빛 캐시미어 숄 (Ash Cashmere Shawl) | [수정 가루를 덧입힌 잿빛 캐시미어 숄 (Ash Cashmere Shawl)](수정%20가루를%20덧입힌%20잿빛%20캐시미어%20숄%20%28Ash%20Cashmere%20Shawl%29.md) |

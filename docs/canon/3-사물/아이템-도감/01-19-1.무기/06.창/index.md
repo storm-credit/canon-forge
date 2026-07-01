@@ -6,7 +6,7 @@
 
 # 📚 창
 
-## 항목 (79)
+## 항목 (80)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -22,6 +22,7 @@
 | 뇌절 (Lightning Cutter) | [뇌절 (Lightning Cutter)](뇌절%20%28Lightning%20Cutter%29.md) |
 | 단분자 회오리 창(Monofilament Gale Spear) | [단분자 회오리 창(Monofilament Gale Spear)](단분자%20회오리%20창%28Monofilament%20Gale%20Spear%29.md) |
 | 대지의 창 테라 스피어 (Terra Spear) | [대지의 창 테라 스피어 (Terra Spear)](대지의%20창%20테라%20스피어%20%28Terra%20Spear%29.md) |
+| 대지혈맥 동기화 철창 (Tellus-Sync Earth-Vein Iron Spike) | [대지혈맥 동기화 철창 (Tellus-Sync Earth-Vein Iron Spike)](대지혈맥%20동기화%20철창%20%28Tellus-Sync%20Earth-Vein%20Iron%20Spike%29.md) |
 | 드라코니우스의 혈분쇄창 (Blood-Crushing Lance of Drakonius) | [드라코니우스의 혈분쇄창 (Blood-Crushing Lance of Drakonius)](드라코니우스의%20혈분쇄창%20%28Blood-Crushing%20Lance%20of%20Drakonius%29.md) |
 | 락 브레이커 (Rock Breaker) | [락 브레이커 (Rock Breaker)](락%20브레이커%20%28Rock%20Breaker%29.md) |
 | 맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness') | [맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness')](맹독%20성게가시%20랜스%20'피어서%20옵%20다크니스'%20%28Urchin-Spike%20Lance%20'Piercer%20of%20Darkness'%29.md) |

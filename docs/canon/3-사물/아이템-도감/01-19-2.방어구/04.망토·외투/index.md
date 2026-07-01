@@ -6,13 +6,14 @@
 
 # 📚 망토·외투
 
-## 항목 (47)
+## 항목 (48)
 
 | 아이템 | 링크 |
 |--------|------|
 | 골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket) | [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](골드마켓의%20누더기%20망토%20%28Ragged%20Cloak%20of%20Goldmarket%29.md) |
 | 공허 거미의 그림자 망토 (Void-Spider Shadow Cloak) | [공허 거미의 그림자 망토 (Void-Spider Shadow Cloak)](공허%20거미의%20그림자%20망토%20%28Void-Spider%20Shadow%20Cloak%29.md) |
 | 그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation) | [그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation)](그림자%20동화의%20잿빛%20실크%20망토%20%28Ash-Silk%20Cloak%20of%20Shadow%20Assimilation%29.md) |
+| 기워 입은 수선 학포 (Mended Academy Mantle) | [기워 입은 수선 학포 (Mended Academy Mantle)](기워%20입은%20수선%20학포%20%28Mended%20Academy%20Mantle%29.md) |
 | 끝없는 욕망의 장물 코트(Coat of the Fence) | [끝없는 욕망의 장물 코트(Coat of the Fence)](끝없는%20욕망의%20장물%20코트%28Coat%20of%20the%20Fence%29.md) |
 | 내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption) | [내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption)](내부%20진동을%20흡수하는%20방음성%20둔갑%20망토%20%28Soundproof%20Cloak%20of%20Vibration%20Absorption%29.md) |
 | 돌풍의 비행 망토 (Flight Cloak of the Gale) | [돌풍의 비행 망토 (Flight Cloak of the Gale)](돌풍의%20비행%20망토%20%28Flight%20Cloak%20of%20the%20Gale%29.md) |

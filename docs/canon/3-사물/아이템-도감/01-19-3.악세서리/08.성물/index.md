@@ -6,12 +6,13 @@
 
 # 📚 성물
 
-## 항목 (25)
+## 항목 (27)
 
 | 아이템 | 링크 |
 |--------|------|
 | 성물 (Holy Relics) | [성물 (Holy Relics)](09.성물.md) |
 | 균형 심판의 저울 향로 (Scale Censer of Balance Judgement) | [균형 심판의 저울 향로 (Scale Censer of Balance Judgement)](균형%20심판의%20저울%20향로%20%28Scale%20Censer%20of%20Balance%20Judgement%29.md) |
+| 기억의 피눈물 비망록 (Inkblood Memory Codex) | [기억의 피눈물 비망록 (Inkblood Memory Codex)](기억의%20피눈물%20비망록%20%28Inkblood%20Memory%20Codex%29.md) |
 | 등대지기의 향로 (Censer of the Beacon) | [등대지기의 향로 (Censer of the Beacon)](등대지기의%20향로%20%28Censer%20of%20the%20Beacon%29.md) |
 | 루센트의 마지막 기도서 (Final Prayer Book of Lucent) | [루센트의 마지막 기도서 (Final Prayer Book of Lucent)](루센트의%20마지막%20기도서%20%28Final%20Prayer%20Book%20of%20Lucent%29.md) |
 | 루센트의 빛바랜 은빛 십자가 (Faded Silver Cross of Lucent) | [루센트의 빛바랜 은빛 십자가 (Faded Silver Cross of Lucent)](루센트의%20빛바랜%20은빛%20십자가%20%28Faded%20Silver%20Cross%20of%20Lucent%29.md) |
@@ -35,3 +36,4 @@
 | 풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis) | [풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis)](풀비스의%20썩어붙은%20유골성배%20%28Rotten%20Bone-Chalice%20of%20Pulvis%29.md) |
 | 플라멜의 잿빛 귀걸이 봉인 케이스 (Sealed Case of Flamel's Ashen Earring) | [플라멜의 잿빛 귀걸이 봉인 케이스 (Sealed Case of Flamel's Ashen Earring)](플라멜의%20잿빛%20귀걸이%20봉인%20케이스%20%28Sealed%20Case%20of%20Flamel's%20Ashen%20Earring%29.md) |
 | 핏빛 불꽃이 서린 반마족의 검은 호른 (Bloodflame Horn of the Half-Demon, Dark Hollow Catalyst) | [핏빛 불꽃이 서린 반마족의 검은 호른 (Bloodflame Horn of the Half-Demon, Dark Hollow Catalyst)](핏빛%20불꽃이%20서린%20반마족의%20검은%20호른%20%28Bloodflame%20Horn%20of%20the%20Half-Demon,%20Dark%20Hollow%20Catalyst%29.md) |
+| 혈전의 마도 메아리 뿔피리 (Crimson-Front Arcane Echo War Horn) | [혈전의 마도 메아리 뿔피리 (Crimson-Front Arcane Echo War Horn)](혈전의%20마도%20메아리%20뿔피리%20%28Crimson-Front%20Arcane%20Echo%20War%20Horn%29.md) |
