@@ -6,7 +6,7 @@
 
 # 📚 성물
 
-## 항목 (31)
+## 항목 (32)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -33,6 +33,7 @@
 | 일루미나스의 광휘가 깃든 금잔 (Chalice of Illuminas' Radiance) | [일루미나스의 광휘가 깃든 금잔 (Chalice of Illuminas' Radiance)](일루미나스의%20광휘가%20깃든%20금잔%20%28Chalice%20of%20Illuminas'%20Radiance%29.md) |
 | 일식의 모래시계 향로 (Hourglass Censer of Solar Eclipse) | [일식의 모래시계 향로 (Hourglass Censer of Solar Eclipse)](일식의%20모래시계%20향로%20%28Hourglass%20Censer%20of%20Solar%20Eclipse%29.md) |
 | 재로 덮인 뱃머리 향로 (Ash-Covered Bow Censer) | [재로 덮인 뱃머리 향로 (Ash-Covered Bow Censer)](재로%20덮인%20뱃머리%20향로%20%28Ash-Covered%20Bow%20Censer%29.md) |
+| 전장 수집 양피지 장부 (Field Harvest Ledger of Remnants) | [전장 수집 양피지 장부 (Field Harvest Ledger of Remnants)](전장%20수집%20양피지%20장부%20%28Field%20Harvest%20Ledger%20of%20Remnants%29.md) |
 | 종교백과 - 오르도스의 십자가 헌법전 (Cruciform Codex of Ordos) | [종교백과 - 오르도스의 십자가 헌법전 (Cruciform Codex of Ordos)](종교백과%20-%20오르도스의%20십자가%20헌법전%20%28Cruciform%20Codex%20of%20Ordos%29.md) |
 | 종교백과 - 최초 성가의 백금 향로 (Platinum Censer of the First Hymn) | [종교백과 - 최초 성가의 백금 향로 (Platinum Censer of the First Hymn)](종교백과%20-%20최초%20성가의%20백금%20향로%20%28Platinum%20Censer%20of%20the%20First%20Hymn%29.md) |
 | 태양 교단의 심판 성화 (Solar Judgment Flame Icon) | [태양 교단의 심판 성화 (Solar Judgment Flame Icon)](태양%20교단의%20심판%20성화%20%28Solar%20Judgment%20Flame%20Icon%29.md) |

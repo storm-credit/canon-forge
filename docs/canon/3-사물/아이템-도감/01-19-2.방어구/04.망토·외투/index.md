@@ -6,12 +6,13 @@
 
 # 📚 망토·외투
 
-## 항목 (55)
+## 항목 (57)
 
 | 아이템 | 링크 |
 |--------|------|
 | 골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket) | [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](골드마켓의%20누더기%20망토%20%28Ragged%20Cloak%20of%20Goldmarket%29.md) |
 | 공허 거미의 그림자 망토 (Void-Spider Shadow Cloak) | [공허 거미의 그림자 망토 (Void-Spider Shadow Cloak)](공허%20거미의%20그림자%20망토%20%28Void-Spider%20Shadow%20Cloak%29.md) |
+| 군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy) | [군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy)](군청%20폭풍%20밀봉%20장교%20롱코트%20%28Storm-Sealed%20Admiral's%20Long%20Coat%20of%20Deep%20Navy%29.md) |
 | 그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation) | [그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation)](그림자%20동화의%20잿빛%20실크%20망토%20%28Ash-Silk%20Cloak%20of%20Shadow%20Assimilation%29.md) |
 | 기워 입은 수선 학포 (Mended Academy Mantle) | [기워 입은 수선 학포 (Mended Academy Mantle)](기워%20입은%20수선%20학포%20%28Mended%20Academy%20Mantle%29.md) |
 | 끝없는 욕망의 장물 코트(Coat of the Fence) | [끝없는 욕망의 장물 코트(Coat of the Fence)](끝없는%20욕망의%20장물%20코트%28Coat%20of%20the%20Fence%29.md) |
@@ -54,6 +55,7 @@
 | 절연된 참모의 망토 (Insulated Cloak of the Staff) | [절연된 참모의 망토 (Insulated Cloak of the Staff)](절연된%20참모의%20망토%20%28Insulated%20Cloak%20of%20the%20Staff%29.md) |
 | 지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe) | [지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe)](지맥%20황제의%20착좌%20흑요%20장포%20%28Leyline%20Emperor's%20Seated%20Obsidian%20Robe%29.md) |
 | 창백한 밤성운의 베일 (Veil of the Pale Nebula) | [창백한 밤성운의 베일 (Veil of the Pale Nebula)](창백한%20밤성운의%20베일%20%28Veil%20of%20the%20Pale%20Nebula%29.md) |
+| 칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat) | [칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat)](칠흑%20까마귀%20깃털%20장의사%20롱코트%20%28Corvid%20Undertaker's%20Longcoat%29.md) |
 | 칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition) | [칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition)](칠흑%20박학의%20지식인%20코트%20%28Jet-Black%20Scholar's%20Coat%20of%20Erudition%29.md) |
 | 침묵의 흑막 베일 (Silent Veil of the Void) | [침묵의 흑막 베일 (Silent Veil of the Void)](침묵의%20흑막%20베일%20%28Silent%20Veil%20of%20the%20Void%29.md) |
 | 카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale) | [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](카멜레온%20용린의%20심연%20망토%20%28Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale%29.md) |

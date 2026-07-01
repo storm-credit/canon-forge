@@ -6,7 +6,7 @@
 
 # 📚 특수마도구·마력핵
 
-## 항목 (60)
+## 항목 (66)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,8 @@
 | 가변형 마나-증기 동력 융합로 (Variable Mana-Steam Fusion Core) | [가변형 마나-증기 동력 융합로 (Variable Mana-Steam Fusion Core)](가변형%20마나-증기%20동력%20융합로%20%28Variable%20Mana-Steam%20Fusion%20Core%29.md) |
 | 강제 공생 위장막 포자 도포기 (Forced Symbiotic Camouflage Spore Applicator) | [강제 공생 위장막 포자 도포기 (Forced Symbiotic Camouflage Spore Applicator)](강제%20공생%20위장막%20포자%20도포기%20%28Forced%20Symbiotic%20Camouflage%20Spore%20Applicator%29.md) |
 | 강제 인식 링크 발신 손목대 (Forced Brain-Sync Wrist Transmitter) | [강제 인식 링크 발신 손목대 (Forced Brain-Sync Wrist Transmitter)](강제%20인식%20링크%20발신%20손목대%20%28Forced%20Brain-Sync%20Wrist%20Transmitter%29.md) |
+| 개량 씨앗 허리 주머니 벨트 (Improved Seed Pouch Belt of the Field Medic) | [개량 씨앗 허리 주머니 벨트 (Improved Seed Pouch Belt of the Field Medic)](개량%20씨앗%20허리%20주머니%20벨트%20%28Improved%20Seed%20Pouch%20Belt%20of%20the%20Field%20Medic%29.md) |
+| 거울 도약의 이동형 수정 표식 (Warp-Mark Mirror Crystal of Passage) | [거울 도약의 이동형 수정 표식 (Warp-Mark Mirror Crystal of Passage)](거울%20도약의%20이동형%20수정%20표식%20%28Warp-Mark%20Mirror%20Crystal%20of%20Passage%29.md) |
 | 고막 공명 마석 (Eardrum Resonance Manastone) | [고막 공명 마석 (Eardrum Resonance Manastone)](고막%20공명%20마석%20%28Eardrum%20Resonance%20Manastone%29.md) |
 | 굴절 저격 마석 세트 (Pinball Ricochet Relay Stones) | [굴절 저격 마석 세트 (Pinball Ricochet Relay Stones)](굴절%20저격%20마석%20세트%20%28Pinball%20Ricochet%20Relay%20Stones%29.md) |
 | 끊지 못한 실의 은제 가위 (Silver Shears of the Uncut Thread) | [끊지 못한 실의 은제 가위 (Silver Shears of the Uncut Thread)](끊지%20못한%20실의%20은제%20가위%20%28Silver%20Shears%20of%20the%20Uncut%20Thread%29.md) |
@@ -37,10 +39,13 @@
 | 불면의 뇌수 회중시계 (Sleepless Brain's Pocket Watch) | [불면의 뇌수 회중시계 (Sleepless Brain's Pocket Watch)](불면의%20뇌수%20회중시계%20%28Sleepless%20Brain's%20Pocket%20Watch%29.md) |
 | 상업 연금술 전투 은화 '아르젠 코인' (Argen Combat Coins of Commercial Alchemy) | [상업 연금술 전투 은화 '아르젠 코인' (Argen Combat Coins of Commercial Alchemy)](상업%20연금술%20전투%20은화%20'아르젠%20코인'%20%28Argen%20Combat%20Coins%20of%20Commercial%20Alchemy%29.md) |
 | 성흔 봉인 붕대 (Stigmata Sealing Bandage) | [성흔 봉인 붕대 (Stigmata Sealing Bandage)](성흔%20봉인%20붕대%20%28Stigmata%20Sealing%20Bandage%29.md) |
+| 속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission) | [속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission)](속삭임의%20막간%20흑색%20부채%20%28Black%20Fan%20of%20the%20Whispering%20Intermission%29.md) |
 | 시신경 억제 앰플 '의안의 밤' (Retinal-Suppression Ampoule — Night of the Machina Eye) | [시신경 억제 앰플 '의안의 밤' (Retinal-Suppression Ampoule — Night of the Machina Eye)](시신경%20억제%20앰플%20'의안의%20밤'%20%28Retinal-Suppression%20Ampoule%20—%20Night%20of%20the%20Machina%20Eye%29.md) |
+| 심연 종양 배양 핵 (Abyssal Tumor Culture Core) | [심연 종양 배양 핵 (Abyssal Tumor Culture Core)](심연%20종양%20배양%20핵%20%28Abyssal%20Tumor%20Culture%20Core%29.md) |
 | 심장이 굳은 룬 용광로의 모루 조각 (Petrified Anvil of the Runeforge) | [심장이 굳은 룬 용광로의 모루 조각 (Petrified Anvil of the Runeforge)](심장이%20굳은%20룬%20용광로의%20모루%20조각%20%28Petrified%20Anvil%20of%20the%20Runeforge%29.md) |
 | 아드레날린 혼합 응고제 주사기 (Adrenaline Compound Coagulant Syringe) | [아드레날린 혼합 응고제 주사기 (Adrenaline Compound Coagulant Syringe)](아드레날린%20혼합%20응고제%20주사기%20%28Adrenaline%20Compound%20Coagulant%20Syringe%29.md) |
 | 암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle) | [암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle)](암흑%20서명%20암호%20스크롤%20다발%20%28Shadowcode%20Cipher-Scroll%20Bundle%29.md) |
+| 암흑 파장 거울 파편 (Dark-Wave Mirror Shard) | [암흑 파장 거울 파편 (Dark-Wave Mirror Shard)](암흑%20파장%20거울%20파편%20%28Dark-Wave%20Mirror%20Shard%29.md) |
 | 양자 얽힘의 마나 트럼프 카드 (Quantum-Entangled Mana Trump Cards) | [양자 얽힘의 마나 트럼프 카드 (Quantum-Entangled Mana Trump Cards)](양자%20얽힘의%20마나%20트럼프%20카드%20%28Quantum-Entangled%20Mana%20Trump%20Cards%29.md) |
 | 에테리움 산소통 '하늘의 숨' (Ether-Breather Canister) | [에테리움 산소통 '하늘의 숨' (Ether-Breather Canister)](에테리움%20산소통%20'하늘의%20숨'%20%28Ether-Breather%20Canister%29.md) |
 | 연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation) | [연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation)](연산의%20은제%20회중시계%20%28Silver%20Pocket%20Watch%20of%20Probability%20Calculation%29.md) |
@@ -60,6 +65,7 @@
 | 지맥 직결 신경 접합 코어 (Leyline-Direct Neural Junction Core) | [지맥 직결 신경 접합 코어 (Leyline-Direct Neural Junction Core)](지맥%20직결%20신경%20접합%20코어%20%28Leyline-Direct%20Neural%20Junction%20Core%29.md) |
 | 천둥이 서린 부러진 창끝 (Shattered Spear-tip of Thunder) | [천둥이 서린 부러진 창끝 (Shattered Spear-tip of Thunder)](천둥이%20서린%20부러진%20창끝%20%28Shattered%20Spear-tip%20of%20Thunder%29.md) |
 | 충격파 분산 탄띠 (Shock-Stack Dispersal Bandolier) | [충격파 분산 탄띠 (Shock-Stack Dispersal Bandolier)](충격파%20분산%20탄띠%20%28Shock-Stack%20Dispersal%20Bandolier%29.md) |
+| 침묵 압박의 은제 회중시계 (Silver Pocket Watch of Silent Pressure) | [침묵 압박의 은제 회중시계 (Silver Pocket Watch of Silent Pressure)](침묵%20압박의%20은제%20회중시계%20%28Silver%20Pocket%20Watch%20of%20Silent%20Pressure%29.md) |
 | 침묵의 고주파 마석 (High-Frequency Silent Core) | [침묵의 고주파 마석 (High-Frequency Silent Core)](침묵의%20고주파%20마석%20%28High-Frequency%20Silent%20Core%29.md) |
 | 카이저의 최후 칙서 파편 (Fragment of the Kaiser's Last Edict) | [카이저의 최후 칙서 파편 (Fragment of the Kaiser's Last Edict)](카이저의%20최후%20칙서%20파편%20%28Fragment%20of%20the%20Kaiser's%20Last%20Edict%29.md) |
 | 퀀텀 브릿지 의식망 수신기 (Quantum Bridge Consciousness-Web Receiver) | [퀀텀 브릿지 의식망 수신기 (Quantum Bridge Consciousness-Web Receiver)](퀀텀%20브릿지%20의식망%20수신기%20%28Quantum%20Bridge%20Consciousness-Web%20Receiver%29.md) |

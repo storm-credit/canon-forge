@@ -6,7 +6,7 @@
 
 # 📚 반지
 
-## 항목 (24)
+## 항목 (25)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar) | [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](듀네사르의%20축성%28Fortification%29%20금가루%20반지%20%28Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar%29.md) |
 | 드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis) | [드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis)](드라코니스%20동남부%20총사령관%20인장%20반지%20%28Supreme%20Commander's%20Signet%20of%20Draconis%29.md) |
 | 마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet) | [마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet)](마나%20스레드%20수렴%20인장%20반지%20%28Mana%20Thread%20Convergence%20Signet%29.md) |
+| 망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke) | [망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke)](망각의%20연기%20진주%20반지%20%28Pearl%20Ring%20of%20Oblivion%20Smoke%29.md) |
 | 무게 중심의 마그넷 링 (Magnet Ring of Gravity Base) | [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](무게%20중심의%20마그넷%20링%20%28Magnet%20Ring%20of%20Gravity%20Base%29.md) |
 | 사냥꾼의 인장 반지 (Signet Ring of the Hunter's Mark) | [사냥꾼의 인장 반지 (Signet Ring of the Hunter's Mark)](사냥꾼의%20인장%20반지%20%28Signet%20Ring%20of%20the%20Hunter's%20Mark%29.md) |
 | 살기 응집의 맹수 인장 반지 (Beast-Signet Ring of Bloodlust Convergence) | [살기 응집의 맹수 인장 반지 (Beast-Signet Ring of Bloodlust Convergence)](살기%20응집의%20맹수%20인장%20반지%20%28Beast-Signet%20Ring%20of%20Bloodlust%20Convergence%29.md) |

@@ -6,13 +6,14 @@
 
 # 📚 목걸이·팬던트
 
-## 항목 (24)
+## 항목 (25)
 
 | 아이템 | 링크 |
 |--------|------|
 | 목걸이 (Necklaces) | [목걸이 (Necklaces)](02.목걸이.md) |
 | 팬던트 (Pendants) | [팬던트 (Pendants)](03.팬던트.md) |
 | 골드레이븐의 전리품 황금 나침반 펜던트 (Treasure-North Compass Pendant of Goldraven) | [골드레이븐의 전리품 황금 나침반 펜던트 (Treasure-North Compass Pendant of Goldraven)](골드레이븐의%20전리품%20황금%20나침반%20펜던트%20%28Treasure-North%20Compass%20Pendant%20of%20Goldraven%29.md) |
+| 낙인 봉인의 은빛 수정 초커 (Silver Crystal Choker of Brand Seal) | [낙인 봉인의 은빛 수정 초커 (Silver Crystal Choker of Brand Seal)](낙인%20봉인의%20은빛%20수정%20초커%20%28Silver%20Crystal%20Choker%20of%20Brand%20Seal%29.md) |
 | 마신의 핏빛 코어 펜던트 (Blood Core Pendant of the Demon God) | [마신의 핏빛 코어 펜던트 (Blood Core Pendant of the Demon God)](마신의%20핏빛%20코어%20펜던트%20%28Blood%20Core%20Pendant%20of%20the%20Demon%20God%29.md) |
 | 말라붙은 배신자의 피목걸이 (Blood-Vial Necklace of Traitors) | [말라붙은 배신자의 피목걸이 (Blood-Vial Necklace of Traitors)](말라붙은%20배신자의%20피목걸이%20%28Blood-Vial%20Necklace%20of%20Traitors%29.md) |
 | 맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity) | [맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity)](맹목적%20모성애의%20심장%20펜던트%20%28Heart%20Pendant%20of%20Blind%20Maternity%29.md) |

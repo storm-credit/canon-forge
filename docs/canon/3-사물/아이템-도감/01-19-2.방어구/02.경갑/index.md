@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (37)
+## 항목 (39)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,6 +18,7 @@
 | 고대 짐승 털가죽 반쪽 요갑 (Primordial Beast Half-Pelt Wrap) | [고대 짐승 털가죽 반쪽 요갑 (Primordial Beast Half-Pelt Wrap)](고대%20짐승%20털가죽%20반쪽%20요갑%20%28Primordial%20Beast%20Half-Pelt%20Wrap%29.md) |
 | 굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog) | [굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog)](굶주린%20들개의%20조악한%20사슬%20가죽%20%28Crude%20Chain-Leather%20of%20Starving%20Wild-Dog%29.md) |
 | 그림자 포식자의 가죽 (Leather of Shadow Eater) | [그림자 포식자의 가죽 (Leather of Shadow Eater)](그림자%20포식자의%20가죽%20%28Leather%20of%20Shadow%20Eater%29.md) |
+| 그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron) | [그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron)](그을음%20찐%20마도공학%20전투%20가죽%20앞치마%20%28Soot-Caked%20Magitek%20Combat%20Leather%20Apron%29.md) |
 | 까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster) | [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](까마귀%20깃털%20장식된%20검은%20가죽%20롱코트%20%28Raven-Feathered%20Leather%20Duster%29.md) |
 | 내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat) | [내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat)](내폭%28Anti-Blast%29%20화학처리된%20넝마%20가죽%20코트%20%28Blast-Resistant%20Chemical%20Rag-Coat%29.md) |
 | 눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast) | [눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast)](눈사태의%20짐승%20가죽%20요갑%20%28Pelt%20of%20the%20Avalanche%20Beast%29.md) |
@@ -26,6 +27,7 @@
 | 망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion) | [망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion)](망각의%20연성%20가죽%20부츠%20%28Soft-Leather%20Boots%20of%20Oblivion%29.md) |
 | 무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit) | [무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit)](무소음%20공기역학%20가죽%20슈트%20%28Aerodynamic%20Silence%20Leather%20Suit%29.md) |
 | 밤안개의 가죽 외투 (Leather Cloak of Nightfog) | [밤안개의 가죽 외투 (Leather Cloak of Nightfog)](밤안개의%20가죽%20외투%20%28Leather%20Cloak%20of%20Nightfog%29.md) |
+| 번개 전도체 합금 초경량 아머 슈트 (Lightning-Conductor Alloy Ultra-Light Armor Suit) | [번개 전도체 합금 초경량 아머 슈트 (Lightning-Conductor Alloy Ultra-Light Armor Suit)](번개%20전도체%20합금%20초경량%20아머%20슈트%20%28Lightning-Conductor%20Alloy%20Ultra-Light%20Armor%20Suit%29.md) |
 | 부리형 방독면과 고무-가죽 혼합 로브 (Beaked Gas Mask & Vulca-Leather Robe) | [부리형 방독면과 고무-가죽 혼합 로브 (Beaked Gas Mask & Vulca-Leather Robe)](부리형%20방독면과%20고무-가죽%20혼합%20로브%20%28Beaked%20Gas%20Mask%20&%20Vulca-Leather%20Robe%29.md) |
 | 비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak) | [비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak)](비바람%20찢는%20쐐기형%20망토와%20가죽%20조끼%20%28Gale-Rending%20Wedge%20Cloak%29.md) |
 | 빙뇌의 가죽 각반 (Leggings of Ice-Thunder) | [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](빙뇌의%20가죽%20각반%20%28Leggings%20of%20Ice-Thunder%29.md) |

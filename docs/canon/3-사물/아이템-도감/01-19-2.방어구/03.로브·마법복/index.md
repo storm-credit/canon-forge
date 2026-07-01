@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (143)
+## 항목 (144)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -58,6 +58,7 @@
 | 백 만권의 기록이 새겨진 마법 상쇄(Dispel)의 오버코트 (Dispel Overcoat Engraved with a Million Archives) | [백 만권의 기록이 새겨진 마법 상쇄(Dispel)의 오버코트 (Dispel Overcoat Engraved with a Million Archives)](백%20만권의%20기록이%20새겨진%20마법%20상쇄%28Dispel%29의%20오버코트%20%28Dispel%20Overcoat%20Engraved%20with%20a%20Million%20Archives%29.md) |
 | 백골 기사단의 무명형틀 (Nameless Pillory of the Bone Knights) | [백골 기사단의 무명형틀 (Nameless Pillory of the Bone Knights)](백골%20기사단의%20무명형틀%20%28Nameless%20Pillory%20of%20the%20Bone%20Knights%29.md) |
 | 백골 집사들의 뼈무덤 카라페이스 (Bone-Mound Carapace) | [백골 집사들의 뼈무덤 카라페이스 (Bone-Mound Carapace)](백골%20집사들의%20뼈무덤%20카라페이스%20%28Bone-Mound%20Carapace%29.md) |
+| 별자리 시간 룬 딥블루 로브 (Constellation-Rune Deep-Blue Robe of the Chrono-Scholar) | [별자리 시간 룬 딥블루 로브 (Constellation-Rune Deep-Blue Robe of the Chrono-Scholar)](별자리%20시간%20룬%20딥블루%20로브%20%28Constellation-Rune%20Deep-Blue%20Robe%20of%20the%20Chrono-Scholar%29.md) |
 | 별자리의 점자 로브 (Braille Robe of the Constellations) | [별자리의 점자 로브 (Braille Robe of the Constellations)](별자리의%20점자%20로브%20%28Braille%20Robe%20of%20the%20Constellations%29.md) |
 | 보일러메이커의 다중결합 단열 수트 (Boilermaker's Thermo-Suit) | [보일러메이커의 다중결합 단열 수트 (Boilermaker's Thermo-Suit)](보일러메이커의%20다중결합%20단열%20수트%20%28Boilermaker's%20Thermo-Suit%29.md) |
 | 부식 면역성 포자 주머니 방호복 (Spore-Cushion Hazmat) | [부식 면역성 포자 주머니 방호복 (Spore-Cushion Hazmat)](부식%20면역성%20포자%20주머니%20방호복%20%28Spore-Cushion%20Hazmat%29.md) |

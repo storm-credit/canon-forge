@@ -6,13 +6,14 @@
 
 # 📚 부적
 
-## 항목 (27)
+## 항목 (29)
 
 | 아이템 | 링크 |
 |--------|------|
 | 부적 (Amulets) | [부적 (Amulets)](08.부적.md) |
 | 골격 산화 억제 마도 지지대 (Bone-Oxidation Suppression Brace) | [골격 산화 억제 마도 지지대 (Bone-Oxidation Suppression Brace)](골격%20산화%20억제%20마도%20지지대%20%28Bone-Oxidation%20Suppression%20Brace%29.md) |
 | 골밀도 이탈 억제 석회화 붕대 (Calcification-Suppression Binding) | [골밀도 이탈 억제 석회화 붕대 (Calcification-Suppression Binding)](골밀도%20이탈%20억제%20석회화%20붕대%20%28Calcification-Suppression%20Binding%29.md) |
+| 과전류 역류 억제 진정 인장 (Overcurrent Feedback Suppression Signet) | [과전류 역류 억제 진정 인장 (Overcurrent Feedback Suppression Signet)](과전류%20역류%20억제%20진정%20인장%20%28Overcurrent%20Feedback%20Suppression%20Signet%29.md) |
 | 광전사의 눈덩이 부적 (Berserker's Snowball Charm) | [광전사의 눈덩이 부적 (Berserker's Snowball Charm)](광전사의%20눈덩이%20부적%20%28Berserker's%20Snowball%20Charm%29.md) |
 | 기생 채무 억제 수피 결박대 (Parasitic-Debt Suppressor Bark-Bind) | [기생 채무 억제 수피 결박대 (Parasitic-Debt Suppressor Bark-Bind)](기생%20채무%20억제%20수피%20결박대%20%28Parasitic-Debt%20Suppressor%20Bark-Bind%29.md) |
 | 끊어진 칠흑의 활시위 (Torn Ebony Bowstring) | [끊어진 칠흑의 활시위 (Torn Ebony Bowstring)](끊어진%20칠흑의%20활시위%20%28Torn%20Ebony%20Bowstring%29.md) |
@@ -31,6 +32,7 @@
 | 세포 해체 억제 마나 결속대 (Cell-Dissolution Suppression Mana Brace) | [세포 해체 억제 마나 결속대 (Cell-Dissolution Suppression Mana Brace)](세포%20해체%20억제%20마나%20결속대%20%28Cell-Dissolution%20Suppression%20Mana%20Brace%29.md) |
 | 어머니 세계수의 씨앗 낭 (Seed Pouch of the Mother Worldtree) | [어머니 세계수의 씨앗 낭 (Seed Pouch of the Mother Worldtree)](어머니%20세계수의%20씨앗%20낭%20%28Seed%20Pouch%20of%20the%20Mother%20Worldtree%29.md) |
 | 이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers) | [이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers)](이름%20없는%20병사들의%20진흙%20부적%20%28Mud%20Talisman%20of%20the%20Nameless%20Soldiers%29.md) |
+| 전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen) | [전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen)](전사자%20군번줄%20애도%20부적%20%28Dog%20Tag%20Mourning%20Charm%20of%20the%20Fallen%29.md) |
 | 체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather) | [체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather)](체온%20동기화%20빛%20깃털%20%28Warmth-Sync%20Glowing%20Feather%29.md) |
 | 코르디스 가문의 야성 주술 문신 인장 (Wild Rune Tattoo Seal of House Cordis) | [코르디스 가문의 야성 주술 문신 인장 (Wild Rune Tattoo Seal of House Cordis)](코르디스%20가문의%20야성%20주술%20문신%20인장%20%28Wild%20Rune%20Tattoo%20Seal%20of%20House%20Cordis%29.md) |
 | 폭풍 기사단의 서약석 (Oath Stone of the Storm Knights) | [폭풍 기사단의 서약석 (Oath Stone of the Storm Knights)](폭풍%20기사단의%20서약석%20%28Oath%20Stone%20of%20the%20Storm%20Knights%29.md) |

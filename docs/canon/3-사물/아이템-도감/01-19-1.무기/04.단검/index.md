@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (117)
+## 항목 (120)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -58,6 +58,7 @@
 | 베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum) | [베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum)](베네눔의%20살을%20파고드는%20가시%20달린%20주사기%20단검%20%28Thorned%20Syringe-Dagger%20of%20Venenum%29.md) |
 | 벤토리시스의 비풍 단검 세트 (Wind-Flight Daggers of Ventoricis) | [벤토리시스의 비풍 단검 세트 (Wind-Flight Daggers of Ventoricis)](벤토리시스의%20비풍%20단검%20세트%20%28Wind-Flight%20Daggers%20of%20Ventoricis%29.md) |
 | 벨라멘툼의 영혼잡이 단검 - 스틱스 (Soul-Reaper Dagger, Styx) | [벨라멘툼의 영혼잡이 단검 - 스틱스 (Soul-Reaper Dagger, Styx)](벨라멘툼의%20영혼잡이%20단검%20-%20스틱스%20%28Soul-Reaper%20Dagger,%20Styx%29.md) |
+| 벨리우스의 뇌전 단검 (Thunder Dagger of Velius) | [벨리우스의 뇌전 단검 (Thunder Dagger of Velius)](벨리우스의%20뇌전%20단검%20%28Thunder%20Dagger%20of%20Velius%29.md) |
 | 보급관의 단도 (Supply Master's Shiv) | [보급관의 단도 (Supply Master's Shiv)](보급관의%20단도%20%28Supply%20Master's%20Shiv%29.md) |
 | 불꽃 단검 '이클립스의 화염' (Dorian Eclipse's Flame Dagger Fire of Eclipse) | [불꽃 단검 '이클립스의 화염' (Dorian Eclipse's Flame Dagger Fire of Eclipse)](불꽃%20단검%20'이클립스의%20화염'%20%28Dorian%20Eclipse's%20Flame%20Dagger%20Fire%20of%20Eclipse%29.md) |
 | 사일런투스의 집행 단검 - 흑요석 어금니 (Obsidian Fang, Hush-Blade) | [사일런투스의 집행 단검 - 흑요석 어금니 (Obsidian Fang, Hush-Blade)](사일런투스의%20집행%20단검%20-%20흑요석%20어금니%20%28Obsidian%20Fang,%20Hush-Blade%29.md) |
@@ -65,6 +66,7 @@
 | 상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis) | [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](상그비스의%20적화선인장%20단검%20%28Crimson-Cactus%20Daggers%20of%20Sangvis%29.md) |
 | 생명 약탈자의 메스 (Scalpel of the Life Stealer) | [생명 약탈자의 메스 (Scalpel of the Life Stealer)](생명%20약탈자의%20메스%20%28Scalpel%20of%20the%20Life%20Stealer%29.md) |
 | 샤크 투스 대거 (Shark Tooth Dagger) | [샤크 투스 대거 (Shark Tooth Dagger)](샤크%20투스%20대거%20%28Shark%20Tooth%20Dagger%29.md) |
+| 섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger) | [섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger)](섬광%20반투명%20대동맥%20단검%20%28Translucent%20Flash%20Artery%20Dagger%29.md) |
 | 셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크) | [셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크)](셰릴%20블레이크의%20그림자%20단검%20%28Shadow%20Dagger%20of%20셰릴%20블레이크%29.md) |
 | 속삭임의 쌍단검 (Daggers of Whispers) | [속삭임의 쌍단검 (Daggers of Whispers)](속삭임의%20쌍단검%20%28Daggers%20of%20Whispers%29.md) |
 | 속삭임의 흑요석 단검 (Obsidian Dagger of Whispers) | [속삭임의 흑요석 단검 (Obsidian Dagger of Whispers)](속삭임의%20흑요석%20단검%20%28Obsidian%20Dagger%20of%20Whispers%29.md) |
@@ -122,6 +124,7 @@
 | 항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea) | [항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea)](항해%20단검%20'포가튼시의%20별빛'%20%28Marek%20Forgottensea's%20Naval%20Dagger%20Starlight%20of%20Forgottensea%29.md) |
 | 해독의 단검 (Chloe Dren's Dagger of Decoding) | [해독의 단검 (Chloe Dren's Dagger of Decoding)](해독의%20단검%20%28Chloe%20Dren's%20Dagger%20of%20Decoding%29.md) |
 | 행운의 단검 (Dagger of Luck) | [행운의 단검 (Dagger of Luck)](행운의%20단검%20%28Dagger%20of%20Luck%29.md) |
+| 혈생체 해부 메스 (Hemobiomatic Dissection Scalpel) | [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](혈생체%20해부%20메스%20%28Hemobiomatic%20Dissection%20Scalpel%29.md) |
 | 환영의 단검 (Dagger of Phantom) | [환영의 단검 (Dagger of Phantom)](환영의%20단검%20%28Dagger%20of%20Phantom%29.md) |
 | 환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger) | [환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)](환영의%20풍압%20단검%20'트윈%20스왈로우'%20%28Twin%20Swallow%20Dagger%29.md) |
 | 회계사의 만년필 (Accountant's Pen) | [회계사의 만년필 (Accountant's Pen)](회계사의%20만년필%20%28Accountant's%20Pen%29.md) |

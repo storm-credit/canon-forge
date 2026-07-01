@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (53)
+## 항목 (55)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -24,6 +24,7 @@
 | 단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail) | [단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail)](단죄자의%20안감%20가시%20사슬갑옷%20%28Penitent's%20Thorn-Chainmail%29.md) |
 | 만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash) | [만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash)](만년%20용암재의%20폭주%20갑옷%20%28Armor%20of%20Millennial%20Magma-Ash%29.md) |
 | 망각의 짐(Burden of Oblivion) 플레이트 | [망각의 짐(Burden of Oblivion) 플레이트](망각의%20짐%28Burden%20of%20Oblivion%29%20플레이트.md) |
+| 망령 원한 갑주 (Wraith-Grudge Spirit Armor) | [망령 원한 갑주 (Wraith-Grudge Spirit Armor)](망령%20원한%20갑주%20%28Wraith-Grudge%20Spirit%20Armor%29.md) |
 | 맹수왕의 사슬 흉갑 (Chainmail of the Beast King) | [맹수왕의 사슬 흉갑 (Chainmail of the Beast King)](맹수왕의%20사슬%20흉갑%20%28Chainmail%20of%20the%20Beast%20King%29.md) |
 | 몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily) | [몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily)](몰락한%20백합의%20은빛%20흉갑%20%28Silver%20Corcelet%20of%20the%20Fallen%20Lily%29.md) |
 | 무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate) | [무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate)](무광%20저거너트%20전신%20중갑%20%28Matte-Black%20Juggernaut%20Full%20Plate%29.md) |
@@ -56,6 +57,7 @@
 | 초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass) | [초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass)](초고열%20흡수형%20샐러맨더%20코팅%20흉갑%20%28Heat-Sink%20Salamander%20Cuirass%29.md) |
 | 침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight) | [침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight)](침묵하는%20기사의%20강철판%20%28Steel%20Plate%20of%20the%20Silenced%20Knight%29.md) |
 | 카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth) | [카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth)](카멜로스의%20판금%20전신%20요새%20%28Fortress%20Plate%20of%20Cameloth%29.md) |
+| 카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate) | [카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate)](카운터버스트%20자폭%20흉갑%20%28Counter-Burst%20Self-Detonation%20Breastplate%29.md) |
 | 태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern) | [태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern)](태고%20비룡의%20탄화%20판금갑%20%28Carbonized%20Plate%20of%20the%20Ancient%20Wyvern%29.md) |
 | 태양 수호갑 (Aegis of the Sun-Guard) | [태양 수호갑 (Aegis of the Sun-Guard)](태양%20수호갑%20%28Aegis%20of%20the%20Sun-Guard%29.md) |
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
