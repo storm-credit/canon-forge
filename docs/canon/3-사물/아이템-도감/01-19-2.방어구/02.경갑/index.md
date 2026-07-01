@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (41)
+## 항목 (43)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -21,6 +21,7 @@
 | 그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron) | [그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron)](그을음%20찐%20마도공학%20전투%20가죽%20앞치마%20%28Soot-Caked%20Magitek%20Combat%20Leather%20Apron%29.md) |
 | 글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane) | [글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane)](글라스페인의%20산독%20연성%20가죽%20전투%20코트%20%28Acid-Alchemic%20Tanned%20Battle%20Coat%20of%20Glasspane%29.md) |
 | 까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster) | [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](까마귀%20깃털%20장식된%20검은%20가죽%20롱코트%20%28Raven-Feathered%20Leather%20Duster%29.md) |
+| 까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor) | [까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor)](까마귀뼈%20엮음%20부두%20갑옷%20%28Corvid%20Bone%20Voodoo%20Armor%29.md) |
 | 내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat) | [내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat)](내폭%28Anti-Blast%29%20화학처리된%20넝마%20가죽%20코트%20%28Blast-Resistant%20Chemical%20Rag-Coat%29.md) |
 | 눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast) | [눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast)](눈사태의%20짐승%20가죽%20요갑%20%28Pelt%20of%20the%20Avalanche%20Beast%29.md) |
 | 마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron) | [마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron)](마그마%20담금의%20흑요%20단조%20앞치마%20%28Obsidian%20Magma-Quench%20Forge%20Apron%29.md) |
@@ -33,6 +34,7 @@
 | 비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak) | [비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak)](비바람%20찢는%20쐐기형%20망토와%20가죽%20조끼%20%28Gale-Rending%20Wedge%20Cloak%29.md) |
 | 빙뇌의 가죽 각반 (Leggings of Ice-Thunder) | [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](빙뇌의%20가죽%20각반%20%28Leggings%20of%20Ice-Thunder%29.md) |
 | 빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood) | [빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood)](빛먹는%20거미줄%20투구망과%20가죽복%20%28Light-Devouring%20Silk%20Hood%29.md) |
+| 암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness) | [암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness)](암반%20파편%20흡착%20반신%20충격%20수용%20흉대%20%28Rock-Fragment%20Absorption%20Half-Torso%20Impact%20Harness%29.md) |
 | 에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate) | [에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate)](에메랄드%20백금%20비행%20하프-코르셋%20갑주%20%28Emerald-Platinum%20Aerial%20Half-Corset%20Plate%29.md) |
 | 에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit) | [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](에테리움%20강화%20가죽%20비행%20수트%20%28Ether-Reinforced%20Leather%20Flight%20Suit%29.md) |
 | 열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat) | [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](열을%20삼키는%20코어%28Core%29%20흡수%20백곰%20가죽%20%28Core-Absorbing%20White-Bear%20Hide%20that%20Devours%20Heat%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (145)
+## 항목 (148)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -34,6 +34,7 @@
 | 레비아탄(Leviathan) 갑각 비늘 트렌치코트 | [레비아탄(Leviathan) 갑각 비늘 트렌치코트](레비아탄%28Leviathan%29%20갑각%20비늘%20트렌치코트.md) |
 | 로브 (Robes) | [로브 (Robes)](로브%20%28Robes%29.md) |
 | 마그마 도금 흑철(Dark-Iron) 강화복 (Magma-Plated Dark-Iron Exosuit) | [마그마 도금 흑철(Dark-Iron) 강화복 (Magma-Plated Dark-Iron Exosuit)](마그마%20도금%20흑철%28Dark-Iron%29%20강화복%20%28Magma-Plated%20Dark-Iron%20Exosuit%29.md) |
+| 마나 생태계 수석 재판관 예복 (Grand Justicar's Robe of the Mana Ecosystem) | [마나 생태계 수석 재판관 예복 (Grand Justicar's Robe of the Mana Ecosystem)](마나%20생태계%20수석%20재판관%20예복%20%28Grand%20Justicar's%20Robe%20of%20the%20Mana%20Ecosystem%29.md) |
 | 마법복 (Mystic Garb) | [마법복 (Mystic Garb)](마법복%20%28Mystic%20Garb%29.md) |
 | 망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust) | [망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust)](망각의%20고대%20드래곤%20가루%20예복%20%28Vestment%20of%20Oblivion%20Ancient%20Dragon%20Dust%29.md) |
 | 망각의 먹물 로브 (Robes of Oblivion Ink) | [망각의 먹물 로브 (Robes of Oblivion Ink)](망각의%20먹물%20로브%20%28Robes%20of%20Oblivion%20Ink%29.md) |
@@ -127,6 +128,7 @@
 | 정제로의 가죽 앞치마 (Refiner's Hearth-Apron) | [정제로의 가죽 앞치마 (Refiner's Hearth-Apron)](정제로의%20가죽%20앞치마%20%28Refiner's%20Hearth-Apron%29.md) |
 | 중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity) | [중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity)](중력을%20역방향으로%20흩는%20은하수%20드레스%20%28Milky%20Way%20Dress%20that%20Disperses%20Gravity%29.md) |
 | 증거 보전의 은빛 제복 (Uniform of Evidence Preservation) | [증거 보전의 은빛 제복 (Uniform of Evidence Preservation)](증거%20보전의%20은빛%20제복%20%28Uniform%20of%20Evidence%20Preservation%29.md) |
+| 지식 통제관의 광휘 학자 로브 (Luminous Scholar's Robe of the Knowledge Warden) | [지식 통제관의 광휘 학자 로브 (Luminous Scholar's Robe of the Knowledge Warden)](지식%20통제관의%20광휘%20학자%20로브%20%28Luminous%20Scholar's%20Robe%20of%20the%20Knowledge%20Warden%29.md) |
 | 진리와 아카식의 로브 (Robe of Akashic Truth) | [진리와 아카식의 로브 (Robe of Akashic Truth)](진리와%20아카식의%20로브%20%28Robe%20of%20Akashic%20Truth%29.md) |
 | 창공의 비행갑 강층기류 코트 (Aero-Stream Coat) | [창공의 비행갑 강층기류 코트 (Aero-Stream Coat)](창공의%20비행갑%20강층기류%20코트%20%28Aero-Stream%20Coat%29.md) |
 | 채무자의 원한 코트 (Overcoat of Debtor's Grudge) | [채무자의 원한 코트 (Overcoat of Debtor's Grudge)](채무자의%20원한%20코트%20%28Overcoat%20of%20Debtor's%20Grudge%29.md) |
@@ -148,6 +150,7 @@
 | 폭염 차단 강선 코트 (Blast-Proof Rifled Coat) | [폭염 차단 강선 코트 (Blast-Proof Rifled Coat)](폭염%20차단%20강선%20코트%20%28Blast-Proof%20Rifled%20Coat%29.md) |
 | 폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess) | [폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess)](폭우를%20머금은%20여신의%20젖은%20숄%20%28Wet%20Shawl%20of%20the%20Rain-Goddess%29.md) |
 | 풍향계의 깃털 코트 (Feather Coat of the Vane) | [풍향계의 깃털 코트 (Feather Coat of the Vane)](풍향계의%20깃털%20코트%20%28Feather%20Coat%20of%20the%20Vane%29.md) |
+| 피와 먹물로 오염된 심연 사제 누더기 (Blood-and-Ink-Stained Abyssal Priest Rags) | [피와 먹물로 오염된 심연 사제 누더기 (Blood-and-Ink-Stained Abyssal Priest Rags)](피와%20먹물로%20오염된%20심연%20사제%20누더기%20%28Blood-and-Ink-Stained%20Abyssal%20Priest%20Rags%29.md) |
 | 합금 규격 전략 코트 (Alloy-Standard Tactical Coat) | [합금 규격 전략 코트 (Alloy-Standard Tactical Coat)](합금%20규격%20전략%20코트%20%28Alloy-Standard%20Tactical%20Coat%29.md) |
 | 현자의 예지망투 (Mantle of Sage's Foresight) | [현자의 예지망투 (Mantle of Sage's Foresight)](현자의%20예지망투%20%28Mantle%20of%20Sage's%20Foresight%29.md) |
 | 현자의 필사본 숄 (Shawl of the Sage's Manuscript) | [현자의 필사본 숄 (Shawl of the Sage's Manuscript)](현자의%20필사본%20숄%20%28Shawl%20of%20the%20Sage's%20Manuscript%29.md) |

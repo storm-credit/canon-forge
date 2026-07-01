@@ -6,7 +6,7 @@
 
 # 📚 오브·마법서
 
-## 항목 (55)
+## 항목 (56)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -42,6 +42,7 @@
 | 에이드리언 네레우스의 저주받은 고대어 마도서 (Ancient Cursed Grimoire) | [에이드리언 네레우스의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](에이드리언%20네레우스의%20저주받은%20고대어%20마도서%20%28Ancient%20Cursed%20Grimoire%29.md) |
 | 엘드리치 톰 (Nadia Eldrich's Eldritch Tome) | [엘드리치 톰 (Nadia Eldrich's Eldritch Tome)](엘드리치%20톰%20%28Nadia%20Eldrich's%20Eldritch%20Tome%29.md) |
 | 엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire) | [엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](엘리아스%20루미나르의%20저주받은%20고대어%20마도서%20%28Ancient%20Cursed%20Grimoire%29.md) |
+| 엘리아스의 심연 서지학 마도서 (Abyssal Bibliographic Grimoire of Elias) | [엘리아스의 심연 서지학 마도서 (Abyssal Bibliographic Grimoire of Elias)](엘리아스의%20심연%20서지학%20마도서%20%28Abyssal%20Bibliographic%20Grimoire%20of%20Elias%29.md) |
 | 연구 마법서 '딥노어의 별무리' (Elias Deepknower's Research Book Cluster of Deepknower) | [연구 마법서 '딥노어의 별무리' (Elias Deepknower's Research Book Cluster of Deepknower)](연구%20마법서%20'딥노어의%20별무리'%20%28Elias%20Deepknower's%20Research%20Book%20Cluster%20of%20Deepknower%29.md) |
 | 예속의 오브 (Orb of Subjugation) | [예속의 오브 (Orb of Subjugation)](예속의%20오브%20%28Orb%20of%20Subjugation%29.md) |
 | 오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity) | [오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity)](오브류%20-%20톱니바퀴%20지팡이%20이터니티%20%28Cog-Staff%20Eternity%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (204)
+## 항목 (205)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -65,6 +65,7 @@
 | 메갈로돈의 공명 호각 (Whistle of Megalodon) | [메갈로돈의 공명 호각 (Whistle of Megalodon)](메갈로돈의%20공명%20호각%20%28Whistle%20of%20Megalodon%29.md) |
 | 몽마의 남은 눈물 (Tear of the Succubus) | [몽마의 남은 눈물 (Tear of the Succubus)](몽마의%20남은%20눈물%20%28Tear%20of%20the%20Succubus%29.md) |
 | [무기] | [[무기]](무기.md) |
+| 무너진 신전의 공명하는 종유석 (Resonating Stalactite of the Collapsed Temple) | [무너진 신전의 공명하는 종유석 (Resonating Stalactite of the Collapsed Temple)](무너진%20신전의%20공명하는%20종유석%20%28Resonating%20Stalactite%20of%20the%20Collapsed%20Temple%29.md) |
 | 무명(無名)의 그림자망토 (Cloak of the Nameless) | [무명(無名)의 그림자망토 (Cloak of the Nameless)](무명%28無名%29의%20그림자망토%20%28Cloak%20of%20the%20Nameless%29.md) |
 | 무통증의 구속 마스크 (Pain-Numbing Restraint Mask) | [무통증의 구속 마스크 (Pain-Numbing Restraint Mask)](무통증의%20구속%20마스크%20%28Pain-Numbing%20Restraint%20Mask%29.md) |
 | 무한 탄창의 병참 탄약고 (Infinite Munition Satchel) | [무한 탄창의 병참 탄약고 (Infinite Munition Satchel)](무한%20탄창의%20병참%20탄약고%20%28Infinite%20Munition%20Satchel%29.md) |

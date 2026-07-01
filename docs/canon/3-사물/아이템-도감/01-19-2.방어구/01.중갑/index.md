@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (57)
+## 항목 (59)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -22,6 +22,7 @@
 | 뇌운의 엽장 (Mail of Thundercloud) | [뇌운의 엽장 (Mail of Thundercloud)](뇌운의%20엽장%20%28Mail%20of%20Thundercloud%29.md) |
 | 단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate) | [단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate)](단열의%20검붉은%20코뿔소%20판갑%20%28Insulated%20Crimson%20Rhino-Plate%29.md) |
 | 단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail) | [단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail)](단죄자의%20안감%20가시%20사슬갑옷%20%28Penitent's%20Thorn-Chainmail%29.md) |
+| 딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine) | [딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine)](딥포지%20심갱의%20발톱%20자국%20전신%20판갑%20%28Claw-Scarred%20Deep-Forge%20Full%20Plate%29.md) |
 | 만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash) | [만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash)](만년%20용암재의%20폭주%20갑옷%20%28Armor%20of%20Millennial%20Magma-Ash%29.md) |
 | 망각의 짐(Burden of Oblivion) 플레이트 | [망각의 짐(Burden of Oblivion) 플레이트](망각의%20짐%28Burden%20of%20Oblivion%29%20플레이트.md) |
 | 망령 원한 갑주 (Wraith-Grudge Spirit Armor) | [망령 원한 갑주 (Wraith-Grudge Spirit Armor)](망령%20원한%20갑주%20%28Wraith-Grudge%20Spirit%20Armor%29.md) |
@@ -49,6 +50,7 @@
 | 이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless) | [이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless)](이름%20잃은%20방벽의%20전신갑%20%28Bulwark%20Plate%20of%20the%20Nameless%29.md) |
 | 적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino) | [적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino)](적린%28Red-scale%29%20코뿔소의%20뚫리지%20않는%20플레이트%20%28Unpierceable%20Plate%20of%20the%20Red-Scale%20Rhino%29.md) |
 | 절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud) | [절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud)](절연된%20뇌운의%20하프%20플레이트%20%28Insulated%20Half-Plate%20of%20the%20Thundercloud%29.md) |
+| 죄업의 흑철 타락 체갑 (Corrupted Black-Iron Carapace of Taken Sins) | [죄업의 흑철 타락 체갑 (Corrupted Black-Iron Carapace of Taken Sins)](죄업의%20흑철%20타락%20체갑%20%28Corrupted%20Black-Iron%20Carapace%20of%20Taken%20Sins%29.md) |
 | 중력을 거스르는 현무암 흉갑 (Breastplate of Gravity-Defying Basalt) | [중력을 거스르는 현무암 흉갑 (Breastplate of Gravity-Defying Basalt)](중력을%20거스르는%20현무암%20흉갑%20%28Breastplate%20of%20Gravity-Defying%20Basalt%29.md) |
 | 지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein) | [지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein)](지하%20광맥의%20압착%20흉갑%20%28Breastplate%20of%20the%20Quartz%20Vein%29.md) |
 | 진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations) | [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](진동을%20먹어%20치우는%20단층대%28Fault-Line%29%20판금%20갑주%20%28Fault-Line%20Plate%20Armor%20that%20Devours%20Vibrations%29.md) |

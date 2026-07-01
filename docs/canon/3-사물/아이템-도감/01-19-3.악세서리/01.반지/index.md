@@ -6,7 +6,7 @@
 
 # 📚 반지
 
-## 항목 (27)
+## 항목 (29)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar) | [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](듀네사르의%20축성%28Fortification%29%20금가루%20반지%20%28Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar%29.md) |
 | 드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis) | [드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis)](드라코니스%20동남부%20총사령관%20인장%20반지%20%28Supreme%20Commander's%20Signet%20of%20Draconis%29.md) |
 | 마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet) | [마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet)](마나%20스레드%20수렴%20인장%20반지%20%28Mana%20Thread%20Convergence%20Signet%29.md) |
+| 마나 파동 감지의 재판관 인장 반지 (Justicar's Signet Ring of Mana-Wave Detection) | [마나 파동 감지의 재판관 인장 반지 (Justicar's Signet Ring of Mana-Wave Detection)](마나%20파동%20감지의%20재판관%20인장%20반지%20%28Justicar's%20Signet%20Ring%20of%20Mana-Wave%20Detection%29.md) |
 | 망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke) | [망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke)](망각의%20연기%20진주%20반지%20%28Pearl%20Ring%20of%20Oblivion%20Smoke%29.md) |
 | 무게 중심의 마그넷 링 (Magnet Ring of Gravity Base) | [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](무게%20중심의%20마그넷%20링%20%28Magnet%20Ring%20of%20Gravity%20Base%29.md) |
 | 빛을 삼키는 달무리의 고리 (Ring of the Light-Swallowing Halo) | [빛을 삼키는 달무리의 고리 (Ring of the Light-Swallowing Halo)](빛을%20삼키는%20달무리의%20고리%20%28Ring%20of%20the%20Light-Swallowing%20Halo%29.md) |
@@ -33,6 +34,7 @@
 | 저주받은 혈염의 인장 (Cursed Signet of Bloodflame) | [저주받은 혈염의 인장 (Cursed Signet of Bloodflame)](저주받은%20혈염의%20인장%20%28Cursed%20Signet%20of%20Bloodflame%29.md) |
 | 전쟁광의 인장 반지 (Signet of the Warmonger) | [전쟁광의 인장 반지 (Signet of the Warmonger)](전쟁광의%20인장%20반지%20%28Signet%20of%20the%20Warmonger%29.md) |
 | 지핵석의 반지 (Ring of the Core-Mantle) | [지핵석의 반지 (Ring of the Core-Mantle)](지핵석의%20반지%20%28Ring%20of%20the%20Core-Mantle%29.md) |
+| 포지마스터 그림자 코어의 성흔 각인 반지 (Stigma Brand Ring of the Forgemaster's Shadow Core) | [포지마스터 그림자 코어의 성흔 각인 반지 (Stigma Brand Ring of the Forgemaster's Shadow Core)](포지마스터%20그림자%20코어의%20성흔%20각인%20반지%20%28Stigma%20Brand%20Ring%20of%20the%20Forgemaster's%20Shadow%20Core%29.md) |
 | 피의 맹세 황제 인장 반지 (Emperor's Blood-Oath Signet Ring) | [피의 맹세 황제 인장 반지 (Emperor's Blood-Oath Signet Ring)](피의%20맹세%20황제%20인장%20반지%20%28Emperor's%20Blood-Oath%20Signet%20Ring%29.md) |
 | 피의 장부 인장 반지 (Signet Ring of the Blood Ledger) | [피의 장부 인장 반지 (Signet Ring of the Blood Ledger)](피의%20장부%20인장%20반지%20%28Signet%20Ring%20of%20the%20Blood%20Ledger%29.md) |
 | 현실 좌표 고착의 라벤더 봉인환 (Lavender Seal-Ring of Reality Anchoring) | [현실 좌표 고착의 라벤더 봉인환 (Lavender Seal-Ring of Reality Anchoring)](현실%20좌표%20고착의%20라벤더%20봉인환%20%28Lavender%20Seal-Ring%20of%20Reality%20Anchoring%29.md) |

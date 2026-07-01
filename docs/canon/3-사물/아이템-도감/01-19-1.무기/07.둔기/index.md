@@ -6,7 +6,7 @@
 
 # 📚 둔기
 
-## 항목 (84)
+## 항목 (85)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -88,6 +88,7 @@
 | 태양의 망치 솔라리스 (Solaris Hammer) | [태양의 망치 솔라리스 (Solaris Hammer)](태양의%20망치%20솔라리스%20%28Solaris%20Hammer%29.md) |
 | 토나르 (Tonar) | [토나르 (Tonar)](토나르%20%28Tonar%29.md) |
 | 파쇄의 철퇴 (Mace of Destruction) | [파쇄의 철퇴 (Mace of Destruction)](파쇄의%20철퇴%20%28Mace%20of%20Destruction%29.md) |
+| 페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus) | [페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus)](페란투스의%20단야%20전쟁%20망치%20%28War-Forge%20Hammer%20of%20Ferrantus%29.md) |
 | 폭풍의 철퇴 '레이븐스톰의 파괴' (Edward Ravenstorm's Mace of Storm) | [폭풍의 철퇴 '레이븐스톰의 파괴' (Edward Ravenstorm's Mace of Storm)](폭풍의%20철퇴%20'레이븐스톰의%20파괴'%20%28Edward%20Ravenstorm's%20Mace%20of%20Storm%29.md) |
 | 해방자의 적열 해머 (Redheat Hammer of the Liberator) | [해방자의 적열 해머 (Redheat Hammer of the Liberator)](해방자의%20적열%20해머%20%28Redheat%20Hammer%20of%20the%20Liberator%29.md) |
 | 해석의 망치 (Hammer of Interpretation) | [해석의 망치 (Hammer of Interpretation)](해석의%20망치%20%28Hammer%20of%20Interpretation%29.md) |

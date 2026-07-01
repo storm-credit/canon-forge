@@ -6,20 +6,29 @@
 
 # 📚 투구·얼굴
 
-## 항목 (38)
+## 항목 (49)
 
 | 아이템 | 링크 |
 |--------|------|
+| 갈드위누스의 메모리 글래스 단안경 (Memory Glass Monocle of Galdwynus) | [갈드위누스의 메모리 글래스 단안경 (Memory Glass Monocle of Galdwynus)](갈드위누스의%20메모리%20글래스%20단안경%20%28Memory%20Glass%20Monocle%20of%20Galdwynus%29.md) |
 | 검은 역린의 비룡두개골 투구 (Black Reverse-Scale Wyvern Skull Helm) | [검은 역린의 비룡두개골 투구 (Black Reverse-Scale Wyvern Skull Helm)](검은%20역린의%20비룡두개골%20투구%20%28Black%20Reverse-Scale%20Wyvern%20Skull%20Helm%29.md) |
 | 고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate) | [고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate)](고문관의%20가시나무%20철갑%20%28Torturer's%20Iron-Thorn%20Plate%29.md) |
 | 관성 무효화의 소형 버클러 (Buckler of Inertial Nullification) | [관성 무효화의 소형 버클러 (Buckler of Inertial Nullification)](관성%20무효화의%20소형%20버클러%20%28Buckler%20of%20Inertial%20Nullification%29.md) |
 | 극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles) | [극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles)](극연산%20뇌파%20동기%20금테%20안경%20%28Hyper-Calc%20Synaptic%20Gold-Framed%20Spectacles%29.md) |
+| 금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles) | [금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles)](금선%20증강현실%20전장%20렌즈%20안경%20%28Battlefield%20AR%20Tactical%20Lens%20Spectacles%29.md) |
+| 납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator) | [납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator)](납과%20가죽의%20죽음%20방독면%20%28Lead-Leather%20Death%20Respirator%29.md) |
 | 뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm) | [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](뇌진%20선봉의%20투구%20%28Thunder-Vanguard's%20Crest%20Helm%29.md) |
+| 동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles) | [동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles)](동상%20괴사%20은폐%20두꺼운%20뿔테%20안경%20%28Frostbitten%20Necrosis-Concealing%20Thick%20Horn-Rimmed%20Spectacles%29.md) |
+| 룬 원석 각막 보호경 (Rune-Ore Corneal Protector) | [룬 원석 각막 보호경 (Rune-Ore Corneal Protector)](룬%20원석%20각막%20보호경%20%28Rune-Ore%20Corneal%20Protector%29.md) |
+| 마나 차폐 모래그물 슈마그 (Mana-Sealed Sand-Net Shemagh of Dunesar) | [마나 차폐 모래그물 슈마그 (Mana-Sealed Sand-Net Shemagh of Dunesar)](마나%20차폐%20모래그물%20슈마그%20%28Mana-Sealed%20Sand-Net%20Shemagh%20of%20Dunesar%29.md) |
 | 마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold) | [마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold)](마력%20집중형%20금속%20안대%20%28Mana-Focusing%20Metal%20Blindfold%29.md) |
+| 마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas) | [마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas)](마키나스%20가문의%20구리%20파이프%20방진%20전투%20고글%20%28Copper-Pipe%20Combat%20Dust-Goggles%20of%20House%20Machinas%29.md) |
 | 맹진의 뿔투구 (Horned Helm of Rush) | [맹진의 뿔투구 (Horned Helm of Rush)](맹진의%20뿔투구%20%28Horned%20Helm%20of%20Rush%29.md) |
 | 박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel) | [박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel)](박제된%20철성%20밀폐%20헬름%20%28Iron-Sealed%20Helm%20of%20Taxidermied%20Steel%29.md) |
 | 밤과부의 독무 망사 베일 (Toxic-Mist Widow's Veil) | [밤과부의 독무 망사 베일 (Toxic-Mist Widow's Veil)](밤과부의%20독무%20망사%20베일%20%28Toxic-Mist%20Widow's%20Veil%29.md) |
 | 백사자의 전투 투구 (Battle Helm of the White Lion) | [백사자의 전투 투구 (Battle Helm of the White Lion)](백사자의%20전투%20투구%20%28Battle%20Helm%20of%20the%20White%20Lion%29.md) |
+| 봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless) | [봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless)](봉인%20안대%20—%20눈먼%20자의%20검은%20가죽%20%28Sealing%20Eyepatch%20of%20the%20Sightless%29.md) |
+| 불굴의 밀봉 요새 투구 (Indomitable Fortress Sealed Helm) | [불굴의 밀봉 요새 투구 (Indomitable Fortress Sealed Helm)](불굴의%20밀봉%20요새%20투구%20%28Indomitable%20Fortress%20Sealed%20Helm%29.md) |
 | 붉은 기하학 문양 사막 슈마그 터번 (Red Geometric-Pattern Desert Shemagh Turban) | [붉은 기하학 문양 사막 슈마그 터번 (Red Geometric-Pattern Desert Shemagh Turban)](붉은%20기하학%20문양%20사막%20슈마그%20터번%20%28Red%20Geometric-Pattern%20Desert%20Shemagh%20Turban%29.md) |
 | 비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles) | [비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles)](비틀린%20심연%20오염%20원형%20안경%20%28Twisted%20Abyss-Tainted%20Round%20Spectacles%29.md) |
 | 상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch) | [상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch)](상어악귀%20훈장%20안대%20%28Shark-Demon%20Trophy%20Eyepatch%29.md) |
@@ -27,6 +36,7 @@
 | 순백의 외교관 실크 (Pristine Silk of the Envoy) | [순백의 외교관 실크 (Pristine Silk of the Envoy)](순백의%20외교관%20실크%20%28Pristine%20Silk%20of%20the%20Envoy%29.md) |
 | 시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina) | [시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina)](시안%20기계%20의안%20'루미나의%20눈'%20%28Cyan%20Machina%20Oculus%20—%20Eye%20of%20Lumina%29.md) |
 | 신탁 귀울림의 수도 두건 (Oracle Hearing-Scar Cowl) | [신탁 귀울림의 수도 두건 (Oracle Hearing-Scar Cowl)](신탁%20귀울림의%20수도%20두건%20%28Oracle%20Hearing-Scar%20Cowl%29.md) |
+| 심층 갱도 고성능 손전등 안전모 (High-Power Lamp Safety Helm of the Deep Shaft) | [심층 갱도 고성능 손전등 안전모 (High-Power Lamp Safety Helm of the Deep Shaft)](심층%20갱도%20고성능%20손전등%20안전모%20%28High-Power%20Lamp%20Safety%20Helm%20of%20the%20Deep%20Shaft%29.md) |
 | 심판의 태양 바이저 (Judgment Solar Visor) | [심판의 태양 바이저 (Judgment Solar Visor)](심판의%20태양%20바이저%20%28Judgment%20Solar%20Visor%29.md) |
 | 야생 살쾡이의 얼룩 가죽 후드 (Spotted Leather Hood of the Wild Wildcat) | [야생 살쾡이의 얼룩 가죽 후드 (Spotted Leather Hood of the Wild Wildcat)](야생%20살쾡이의%20얼룩%20가죽%20후드%20%28Spotted%20Leather%20Hood%20of%20the%20Wild%20Wildcat%29.md) |
 | 얼굴 가리개 (Visors) | [얼굴 가리개 (Visors)](얼굴%20가리개%20%28Visors%29.md) |
@@ -41,6 +51,7 @@
 | 창공 파일럿 방풍 고글 (Stratosphere Pilot Windproof Goggles) | [창공 파일럿 방풍 고글 (Stratosphere Pilot Windproof Goggles)](창공%20파일럿%20방풍%20고글%20%28Stratosphere%20Pilot%20Windproof%20Goggles%29.md) |
 | 천근의 진지 투구 (Helm of the Heavy Trench) | [천근의 진지 투구 (Helm of the Heavy Trench)](천근의%20진지%20투구%20%28Helm%20of%20the%20Heavy%20Trench%29.md) |
 | 초음속 강하 비늘 헬멧 (Supersonic-Dive Scale Helm) | [초음속 강하 비늘 헬멧 (Supersonic-Dive Scale Helm)](초음속%20강하%20비늘%20헬멧%20%28Supersonic-Dive%20Scale%20Helm%29.md) |
+| 코덱시아 다중 렌즈 스캔 안경 (Codexia Multi-Lens Scan Spectacles) | [코덱시아 다중 렌즈 스캔 안경 (Codexia Multi-Lens Scan Spectacles)](코덱시아%20다중%20렌즈%20스캔%20안경%20%28Codexia%20Multi-Lens%20Scan%20Spectacles%29.md) |
 | 크림슨 연구소의 독연무 방호 고글 (Toxin-Miasma Protective Goggles of the Crimson Lab) | [크림슨 연구소의 독연무 방호 고글 (Toxin-Miasma Protective Goggles of the Crimson Lab)](크림슨%20연구소의%20독연무%20방호%20고글%20%28Toxin-Miasma%20Protective%20Goggles%20of%20the%20Crimson%20Lab%29.md) |
 | 태양 성왕의 황금 투구 (Golden Helm of the Solar Sovereign) | [태양 성왕의 황금 투구 (Golden Helm of the Solar Sovereign)](태양%20성왕의%20황금%20투구%20%28Golden%20Helm%20of%20the%20Solar%20Sovereign%29.md) |
 | 투구 (Helms) | [투구 (Helms)](투구%20%28Helms%29.md) |

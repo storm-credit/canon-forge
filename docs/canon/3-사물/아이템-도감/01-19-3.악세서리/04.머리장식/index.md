@@ -6,7 +6,7 @@
 
 # 📚 머리장식
 
-## 항목 (20)
+## 항목 (21)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -24,6 +24,7 @@
 | 아르카디아 황실 제국관 (Crown of the Arcadia Empire) | [아르카디아 황실 제국관 (Crown of the Arcadia Empire)](아르카디아%20황실%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md) |
 | 월식의 은가루 비녀 (Silver-Dust Hairpin of Lunar Eclipse) | [월식의 은가루 비녀 (Silver-Dust Hairpin of Lunar Eclipse)](월식의%20은가루%20비녀%20%28Silver-Dust%20Hairpin%20of%20Lunar%20Eclipse%29.md) |
 | 조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn) | [조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn)](조각난%20여명의%20부러진%20후광%20%28Broken%20Halo%20of%20Fragmented%20Dawn%29.md) |
+| 종교백과 - 꿰뚫린 심장의 무음 제례 머리띠 (Headband of the Silent Ritual of the Pierced Heart) | [종교백과 - 꿰뚫린 심장의 무음 제례 머리띠 (Headband of the Silent Ritual of the Pierced Heart)](종교백과%20-%20꿰뚫린%20심장의%20무음%20제례%20머리띠%20%28Headband%20of%20the%20Silent%20Ritual%20of%20the%20Pierced%20Heart%29.md) |
 | 종교백과 - 은폐의 황륜 (Golden Halo of Concealment) | [종교백과 - 은폐의 황륜 (Golden Halo of Concealment)](종교백과%20-%20은폐의%20황륜%20%28Golden%20Halo%20of%20Concealment%29.md) |
 | 창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark) | [창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark)](창공%20성궤의%20황금%20제독관%20%28Admiral's%20Crown%20of%20the%20Zenith%20Ark%29.md) |
 | 카이저의 왕관 파편 (Fragment of the Kaiser's Crown) | [카이저의 왕관 파편 (Fragment of the Kaiser's Crown)](카이저의%20왕관%20파편%20%28Fragment%20of%20the%20Kaiser's%20Crown%29.md) |
