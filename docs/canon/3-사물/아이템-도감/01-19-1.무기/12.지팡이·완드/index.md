@@ -6,10 +6,11 @@
 
 # 📚 지팡이·완드
 
-## 항목 (160)
+## 항목 (162)
 
 | 아이템 | 링크 |
 |--------|------|
+| 강제 숙성 부패 시간 가속 완드 (Time-Acceleration Wand of Forced Senescent Decay) | [강제 숙성 부패 시간 가속 완드 (Time-Acceleration Wand of Forced Senescent Decay)](강제%20숙성%20부패%20시간%20가속%20완드%20%28Time-Acceleration%20Wand%20of%20Forced%20Senescent%20Decay%29.md) |
 | 강철 복음의 교리 완드 (Steelbringer's Iron Doctrine Wand) | [강철 복음의 교리 완드 (Steelbringer's Iron Doctrine Wand)](강철%20복음의%20교리%20완드%20%28Steelbringer's%20Iron%20Doctrine%20Wand%29.md) |
 | 겨울 밤의 별 지팡이 (Staff of Winter's Eve) | [겨울 밤의 별 지팡이 (Staff of Winter's Eve)](겨울%20밤의%20별%20지팡이%20%28Staff%20of%20Winter's%20Eve%29.md) |
 | 결계의 수정 지팡이 '생텀 크리스탈' (Celestine Ward's Sanctum Crystal) | [결계의 수정 지팡이 '생텀 크리스탈' (Celestine Ward's Sanctum Crystal)](결계의%20수정%20지팡이%20'생텀%20크리스탈'%20%28Celestine%20Ward's%20Sanctum%20Crystal%29.md) |
@@ -110,6 +111,7 @@
 | 에르민 티르의 야수 대퇴골 지팡이 (Beast Femur Staff of Ermin Tyr) | [에르민 티르의 야수 대퇴골 지팡이 (Beast Femur Staff of Ermin Tyr)](에르민%20티르의%20야수%20대퇴골%20지팡이%20%28Beast%20Femur%20Staff%20of%20Ermin%20Tyr%29.md) |
 | 에르윈의 얽힌 뿌리 지팡이 (Staff of Entangled Roots) | [에르윈의 얽힌 뿌리 지팡이 (Staff of Entangled Roots)](에르윈의%20얽힌%20뿌리%20지팡이%20%28Staff%20of%20Entangled%20Roots%29.md) |
 | 에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist) | [에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist)](에테리아의%20잊혀진%20안개%20지팡이%20%28Staff%20of%20Etheria's%20Forgotten%20Mist%29.md) |
+| 에테리아의 황금 향연 담뱃대 (Gilded Mist-Pipe of Etheria) | [에테리아의 황금 향연 담뱃대 (Gilded Mist-Pipe of Etheria)](에테리아의%20황금%20향연%20담뱃대%20%28Gilded%20Mist-Pipe%20of%20Etheria%29.md) |
 | 엘리안 시르의 기억의 빛 완드 (Wand of Remembered Light) | [엘리안 시르의 기억의 빛 완드 (Wand of Remembered Light)](엘리안%20시르의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 연기의 지팡이 (Staff of Smoke) | [연기의 지팡이 (Staff of Smoke)](연기의%20지팡이%20%28Staff%20of%20Smoke%29.md) |
 | 영원의 태엽장치 지팡이 (Eternal Clockwork Staff of Chronia) | [영원의 태엽장치 지팡이 (Eternal Clockwork Staff of Chronia)](영원의%20태엽장치%20지팡이%20%28Eternal%20Clockwork%20Staff%20of%20Chronia%29.md) |

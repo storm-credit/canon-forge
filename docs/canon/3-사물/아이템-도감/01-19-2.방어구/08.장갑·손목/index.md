@@ -6,7 +6,7 @@
 
 # 📚 장갑·손목
 
-## 항목 (31)
+## 항목 (35)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,9 @@
 | 관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression) | [관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression)](관절%20파열%20억제%20강철%20붕대%20%28Steel%20Binding%20Straps%20of%20Joint-Rupture%20Suppression%29.md) |
 | 구속의 잔재 철장갑 (Plate of the Remaining Shackles) | [구속의 잔재 철장갑 (Plate of the Remaining Shackles)](구속의%20잔재%20철장갑%20%28Plate%20of%20the%20Remaining%20Shackles%29.md) |
 | 기화의 홍강 건틀릿 (Vaporflesh Crimson Gauntlets) | [기화의 홍강 건틀릿 (Vaporflesh Crimson Gauntlets)](기화의%20홍강%20건틀릿%20%28Vaporflesh%20Crimson%20Gauntlets%29.md) |
+| 내열 폭약공 손가락 보호 가죽 장갑 (Heat-Resistant Demolitionist Finger-Guard Gauntlets) | [내열 폭약공 손가락 보호 가죽 장갑 (Heat-Resistant Demolitionist Finger-Guard Gauntlets)](내열%20폭약공%20손가락%20보호%20가죽%20장갑%20%28Heat-Resistant%20Demolitionist%20Finger-Guard%20Gauntlets%29.md) |
+| 뇌전 도관 황동 파이프 중장갑 (Thunder-Conduit Brass-Pipe Gauntlets) | [뇌전 도관 황동 파이프 중장갑 (Thunder-Conduit Brass-Pipe Gauntlets)](뇌전%20도관%20황동%20파이프%20중장갑%20%28Thunder-Conduit%20Brass-Pipe%20Gauntlets%29.md) |
+| 드래곤블러드 주입 용암관절 흑철 의수 (Dragon-Blood Infused Lava-Joint Dark-Iron Prosthetic Arms) | [드래곤블러드 주입 용암관절 흑철 의수 (Dragon-Blood Infused Lava-Joint Dark-Iron Prosthetic Arms)](드래곤블러드%20주입%20용암관절%20흑철%20의수%20%28Dragon-Blood%20Infused%20Lava-Joint%20Dark-Iron%20Prosthetic%20Arms%29.md) |
 | 마도 신경 통신 백색 실크 장갑 (Neuro-Signal White Silk Gauntlets) | [마도 신경 통신 백색 실크 장갑 (Neuro-Signal White Silk Gauntlets)](마도%20신경%20통신%20백색%20실크%20장갑%20%28Neuro-Signal%20White%20Silk%20Gauntlets%29.md) |
 | 매의 눈먼 깃털 장갑 (Falcon's Blind Plume Gloves) | [매의 눈먼 깃털 장갑 (Falcon's Blind Plume Gloves)](매의%20눈먼%20깃털%20장갑%20%28Falcon's%20Blind%20Plume%20Gloves%29.md) |
 | 백골 반투명 장갑(Leviathan Bone Plating) | [백골 반투명 장갑(Leviathan Bone Plating)](백골%20반투명%20장갑%28Leviathan%20Bone%20Plating%29.md) |
@@ -29,6 +32,7 @@
 | 용광로 마찰 건틀릿 '참호의 화로' (Forge-Friction Gauntlet of the Trench Furnace) | [용광로 마찰 건틀릿 '참호의 화로' (Forge-Friction Gauntlet of the Trench Furnace)](용광로%20마찰%20건틀릿%20'참호의%20화로'%20%28Forge-Friction%20Gauntlet%20of%20the%20Trench%20Furnace%29.md) |
 | 위장 재 장갑 (Ash Camouflage Gauntlets) | [위장 재 장갑 (Ash Camouflage Gauntlets)](위장%20재%20장갑%20%28Ash%20Camouflage%20Gauntlets%29.md) |
 | 음속 진동 골절 억제 손목 강화 테이프 (Sonic-Vibration Fracture Suppression Wrist Reinforcement Wraps) | [음속 진동 골절 억제 손목 강화 테이프 (Sonic-Vibration Fracture Suppression Wrist Reinforcement Wraps)](음속%20진동%20골절%20억제%20손목%20강화%20테이프%20%28Sonic-Vibration%20Fracture%20Suppression%20Wrist%20Reinforcement%20Wraps%29.md) |
+| 인대 봉합 강철 팔 보호대 (Tendon-Suture Steel Arm Guards) | [인대 봉합 강철 팔 보호대 (Tendon-Suture Steel Arm Guards)](인대%20봉합%20강철%20팔%20보호대%20%28Tendon-Suture%20Steel%20Arm%20Guards%29.md) |
 | 장갑 (Gauntlets) | [장갑 (Gauntlets)](장갑%20%28Gauntlets%29.md) |
 | 지진 핵의 건틀릿 (Gauntlets of the Quake Core) | [지진 핵의 건틀릿 (Gauntlets of the Quake Core)](지진%20핵의%20건틀릿%20%28Gauntlets%20of%20the%20Quake%20Core%29.md) |
 | 초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor) | [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](초경량%28Ultra-light%29%20태양은%20합금%20장갑%20%28Solar-Silver%20Alloy%20Armor%29.md) |

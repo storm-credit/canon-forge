@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (57)
+## 항목 (58)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -58,6 +58,7 @@
 | 칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat) | [칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat)](칠흑%20까마귀%20깃털%20장의사%20롱코트%20%28Corvid%20Undertaker's%20Longcoat%29.md) |
 | 칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition) | [칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition)](칠흑%20박학의%20지식인%20코트%20%28Jet-Black%20Scholar's%20Coat%20of%20Erudition%29.md) |
 | 침묵의 흑막 베일 (Silent Veil of the Void) | [침묵의 흑막 베일 (Silent Veil of the Void)](침묵의%20흑막%20베일%20%28Silent%20Veil%20of%20the%20Void%29.md) |
+| 침잠하는 자의 방한 백사 두건 망토 (Hoarfrost Cowl-Cloak of the Sinking Wanderer) | [침잠하는 자의 방한 백사 두건 망토 (Hoarfrost Cowl-Cloak of the Sinking Wanderer)](침잠하는%20자의%20방한%20백사%20두건%20망토%20%28Hoarfrost%20Cowl-Cloak%20of%20the%20Sinking%20Wanderer%29.md) |
 | 카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale) | [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](카멜레온%20용린의%20심연%20망토%20%28Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale%29.md) |
 | 카멜레온의 환영 장막 (Illusionary Veil of the Chameleon) | [카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](카멜레온의%20환영%20장막%20%28Illusionary%20Veil%20of%20the%20Chameleon%29.md) |
 | 크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak) | [크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak)](크라켄의%20먹물%20젤리%20망토%20%28Squid-Ink%20Jelly%20Cloak%29.md) |

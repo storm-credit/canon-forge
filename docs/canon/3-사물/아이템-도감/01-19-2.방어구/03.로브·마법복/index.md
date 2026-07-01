@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (144)
+## 항목 (145)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -25,6 +25,7 @@
 | 눈먼 여명의 순례 예복 (Blind Dawn Pilgrim Vestment) | [눈먼 여명의 순례 예복 (Blind Dawn Pilgrim Vestment)](눈먼%20여명의%20순례%20예복%20%28Blind%20Dawn%20Pilgrim%20Vestment%29.md) |
 | 다이아몬드 코팅 백색 실크 가운 (Diamond-Coated White Silk Gown) | [다이아몬드 코팅 백색 실크 가운 (Diamond-Coated White Silk Gown)](다이아몬드%20코팅%20백색%20실크%20가운%20%28Diamond-Coated%20White%20Silk%20Gown%29.md) |
 | 다중 겹 보호 코트 (Multi-Layer Protection Coat) | [다중 겹 보호 코트 (Multi-Layer Protection Coat)](다중%20겹%20보호%20코트%20%28Multi-Layer%20Protection%20Coat%29.md) |
+| 달빛을 엮은 잿빛 환영 프릴 드레스 (Ash-Veil Moonweave Frill Dress) | [달빛을 엮은 잿빛 환영 프릴 드레스 (Ash-Veil Moonweave Frill Dress)](달빛을%20엮은%20잿빛%20환영%20프릴%20드레스%20%28Ash-Veil%20Moonweave%20Frill%20Dress%29.md) |
 | 담금질된 영구 불연 앞치마 (Tempered Asbestos Apron) | [담금질된 영구 불연 앞치마 (Tempered Asbestos Apron)](담금질된%20영구%20불연%20앞치마%20%28Tempered%20Asbestos%20Apron%29.md) |
 | 도주와 교환의 신기루 코르셋 (Mirage-Corset of Exchange) | [도주와 교환의 신기루 코르셋 (Mirage-Corset of Exchange)](도주와%20교환의%20신기루%20코르셋%20%28Mirage-Corset%20of%20Exchange%29.md) |
 | 독나비의 위장 모포 (Camouflage Blanket of the Poison-Butterfly) | [독나비의 위장 모포 (Camouflage Blanket of the Poison-Butterfly)](독나비의%20위장%20모포%20%28Camouflage%20Blanket%20of%20the%20Poison-Butterfly%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 장화·각반
 
-## 항목 (18)
+## 항목 (19)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -20,6 +20,7 @@
 | 순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots) | [순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots)](순례자의%20투박한%20짚신%20장화%20%28Pilgrim's%20Crude%20Straw%20Boots%29.md) |
 | 십자가 구원자의 맨발 (Barefeet of the Savior) | [십자가 구원자의 맨발 (Barefeet of the Savior)](십자가%20구원자의%20맨발%20%28Barefeet%20of%20the%20Savior%29.md) |
 | 음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave) | [음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave)](음속을%20가르는%20공기역학%20부츠%20%28Aerodynamic%20Boots%20of%20Sonic-Cleave%29.md) |
+| 응압-반작용 추진 장화 (Pressure-Recoil Thruster Boots) | [응압-반작용 추진 장화 (Pressure-Recoil Thruster Boots)](응압-반작용%20추진%20장화%20%28Pressure-Recoil%20Thruster%20Boots%29.md) |
 | 장화 (Boots) | [장화 (Boots)](장화%20%28Boots%29.md) |
 | 절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots) | [절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots)](절연의%20비행%20자기장%20장화%20%28Insulated%20Flight%20Magnetic-Boots%29.md) |
 | 절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves) | [절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves)](절연의%20청룡%20비늘%20장화%20%28Insulated%20Azure%20Dragon%20Greaves%29.md) |

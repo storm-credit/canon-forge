@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/03.마르쿠스코르부스.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07.율리우스아우렐리우스"
+              "title": "03.마르쿠스코르부스"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/03.마르쿠스코르부스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "07.율리우스아우렐리우스 의 백링크"
+              "title": "03.마르쿠스코르부스 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/03.마르쿠스코르부스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "07.율리우스아우렐리우스 의 나가는 링크"
+              "title": "03.마르쿠스코르부스 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md",
+                "file": "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/03.마르쿠스코르부스.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07.율리우스아우렐리우스 의 개요"
+              "title": "03.마르쿠스코르부스 의 개요"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "f248a313db3089d6",
   "lastOpenFiles": [
-    "3-사물/아이템-도감/01-19-3.악세서리/01.반지/망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/심연 종양 배양 핵 (Abyssal Tumor Culture Core).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/침묵 압박의 은제 회중시계 (Silver Pocket Watch of Silent Pressure).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/08.성물/전장 수집 양피지 장부 (Field Harvest Ledger of Remnants).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/07.부적/과전류 역류 억제 진정 인장 (Overcurrent Feedback Suppression Signet).md",
-    "3-사물/아이템-도감/01-19-2.방어구/01.중갑/카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/07.부적/전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/암흑 파장 거울 파편 (Dark-Wave Mirror Shard).md",
-    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles).md",
-    "3-사물/아이템-도감/01-19-2.방어구/03.로브·마법복/별자리 시간 룬 딥블루 로브 (Constellation-Rune Deep-Blue Robe of the Chrono-Scholar).md",
-    "3-사물/아이템-도감/01-19-2.방어구/04.망토·외투/군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy).md",
-    "3-사물/아이템-도감/01-19-2.방어구/02.경갑/그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron).md",
-    "3-사물/아이템-도감/01-19-1.무기/04.단검/섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/개량 씨앗 허리 주머니 벨트 (Improved Seed Pouch Belt of the Field Medic).md",
-    "3-사물/아이템-도감/01-19-2.방어구/04.망토·외투/칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission).md",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/거울 도약의 이동형 수정 표식 (Warp-Mark Mirror Crystal of Passage).md",
-    "3-사물/아이템-도감/01-19-1.무기/04.단검/혈생체 해부 메스 (Hemobiomatic Dissection Scalpel).md",
-    "3-사물/아이템-도감/01-19-2.방어구/07.견갑/코스믹 드래곤골 황실 견갑 (Cosmic Dragonbone Imperial Pauldron).md",
-    "3-사물/아이템-도감/01-19-1.무기/04.단검/벨리우스의 뇌전 단검 (Thunder Dagger of Velius).md",
-    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/섬광 조준 안전 고글 (Signal-Flash Targeting Safety Goggles).md",
-    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/피 묻은 생명 인도자의 밀짚모자 (Bloodstained Straw Hat of the Life-Guide).md",
-    "3-사물/아이템-도감/01-19-2.방어구/02.경갑/번개 전도체 합금 초경량 아머 슈트 (Lightning-Conductor Alloy Ultra-Light Armor Suit).md",
-    "3-사물/아이템-도감/01-19-2.방어구/01.중갑/망령 원한 갑주 (Wraith-Grudge Spirit Armor).md",
-    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/황동 톱니 마도 단안경 (Brass-Gear Arcane Monocle).md",
-    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/자정의 장례식 챙 모자 (Midnight Funeral Wide-Brimmed Hat).md",
+    "4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/8.바스티안그레이딥.md",
+    "4-인물/영웅-백과/01-14-3.소환영웅/3.영웅급/03.라르칸아르다니스.md",
+    "4-인물/영웅-백과/01-14-2.현존영웅/7.무소속영웅/03.카이만볼란드.md",
+    "4-인물/영웅-백과/01-14-1.성장영웅/1.에테르대륙/자유도시연합/루시엔아르카나.md",
+    "4-인물/영웅-백과/01-14-1.성장영웅/1.에테르대륙/마법협회/세리안웨버.md",
+    "0-헌법/크로니클-로드맵.md",
+    "1-시스템/동반수-백과/index.md",
+    "1-시스템/동반수-백과/4.전설의수호수와빙의마구.md",
+    "1-시스템/동반수-백과/2.조련사계급및동반수등급.md",
+    "4-인물/영웅-백과/01-14-3.소환영웅/기원급/01.이그드라실.md",
+    "4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/03.아르테니아플라멜.md",
+    "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/02.크세노스아르카디아.md",
+    "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/10.세라피나녹티스.md",
+    "4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/08.세릴실피아.md",
+    "3-사물/아이템-도감.md",
+    "3-사물/몬스터-백과.md",
+    "3-사물/동반수-백과.md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/(소리 없는 기도)(Arts - 정적의 안식처).md",
+    "3-사물/아이템-도감/01-19-1.무기/06.창/가디언의 랜스 (Guardian's Lance).md",
+    "3-사물/아이템-도감/01-19-1.무기/09.낫/선혈의 갈증 대낫 카르밀라 (Great Scythe of Blood-Thirst Carmilla).md",
+    "3-사물/아이템-도감/01-19-1.무기/14.건틀릿·클로/블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw).md",
+    "3-사물/아이템-도감/01-19-1.무기/14.건틀릿·클로/기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet).md",
+    "3-사물/아이템-도감/01-19-2.방어구/03.로브·마법복/광자 거울 튜닉 (Photon Mirror Tunic).md",
+    "3-사물/아이템-도감/01-19-2.방어구/07.견갑/뇌우 역류의 피뢰침 견갑 (Pauldrons of the Lightning Rod).md",
+    "3-사물/아이템-도감/01-19-2.방어구/07.견갑/검은 불곰 가죽 편측 견갑 (Black Bear-Hide Half-Pauldron).md",
+    "3-사물/아이템-도감/01-19-3.악세서리/01.반지/마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet).md",
+    "3-사물/아이템-도감/01-19-2.방어구/06.투구·얼굴/초음속 강하 비늘 헬멧 (Supersonic-Dive Scale Helm).md.tmp.9868.3da4bec30437",
+    "3-사물/아이템-도감/01-19-3.악세서리/02.목걸이·팬던트/맹독 페로몬 봉인의 벨벳 초커 (Venom-Pheromone Sealed Velvet Choker).md.tmp.9868.af7d9368c221",
+    "3-사물/아이템-도감/01-19-2.방어구/01.중갑/암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor).md.tmp.9868.4059f94364ac",
     "3-사물/아이템-도감/01-19-3.악세서리/07.부적/내장 파열 봉인의 응급 연금 복대 (Emergency Alchemic Girdle of Visceral Rupture Seal).md.tmp.61388.59a03005cc80",
     "3-사물/아이템-도감/01-19-3.악세서리/01.반지/드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis).md.tmp.61388.a82db5d88dc8",
     "3-사물/아이템-도감/01-19-2.방어구/04.망토·외투/붉은 폭풍 돌격 망토 (Red Storm Assault Cloak).md.tmp.61388.03b03a4c2fc6",
     "3-사물/아이템-도감/01-19-2.방어구/09.장화·각반/지맥을 밟는 화강암 군화 (Granite War-Boots of Ley-Line Treading).md.tmp.61388.ca6974e4fecd",
     "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/충격파 분산 탄띠 (Shock-Stack Dispersal Bandolier).md.tmp.61388.3b1fa8e05daa",
     "3-사물/아이템-도감/01-19-2.방어구/08.장갑·손목/타임 붐바 만창 축전 완갑 (Ten-Thousand-Shot Vambrace of Time-Bombardment).md.tmp.61388.033c0231ef47",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/혈묵 봉인 잉크병 (Blood-Ink Sealed Vial).md.tmp.61388.fee64183b3b4",
-    "3-사물/아이템-도감/01-19-1.무기/16.특수·마도구·기타/7조약 봉인 계약서 (Seven-Clause Covenant Seal).md.tmp.61388.52cc76a2a91c",
-    "3-사물/아이템-도감/01-19-2.방어구/03.로브·마법복/심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire).md.tmp.61388.2c8a46224817",
-    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/강제 인식 링크 발신 손목대 (Forced Brain-Sync Wrist Transmitter).md.tmp.61388.1f75e981aaa8"
+    "3-사물/아이템-도감/01-19-3.악세서리/10.특수마도구·마력핵/혈묵 봉인 잉크병 (Blood-Ink Sealed Vial).md.tmp.61388.fee64183b3b4"
   ]
 }

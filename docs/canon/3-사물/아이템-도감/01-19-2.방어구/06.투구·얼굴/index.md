@@ -6,17 +6,21 @@
 
 # 📚 투구·얼굴
 
-## 항목 (29)
+## 항목 (38)
 
 | 아이템 | 링크 |
 |--------|------|
+| 검은 역린의 비룡두개골 투구 (Black Reverse-Scale Wyvern Skull Helm) | [검은 역린의 비룡두개골 투구 (Black Reverse-Scale Wyvern Skull Helm)](검은%20역린의%20비룡두개골%20투구%20%28Black%20Reverse-Scale%20Wyvern%20Skull%20Helm%29.md) |
 | 고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate) | [고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate)](고문관의%20가시나무%20철갑%20%28Torturer's%20Iron-Thorn%20Plate%29.md) |
 | 관성 무효화의 소형 버클러 (Buckler of Inertial Nullification) | [관성 무효화의 소형 버클러 (Buckler of Inertial Nullification)](관성%20무효화의%20소형%20버클러%20%28Buckler%20of%20Inertial%20Nullification%29.md) |
 | 극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles) | [극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles)](극연산%20뇌파%20동기%20금테%20안경%20%28Hyper-Calc%20Synaptic%20Gold-Framed%20Spectacles%29.md) |
 | 뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm) | [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](뇌진%20선봉의%20투구%20%28Thunder-Vanguard's%20Crest%20Helm%29.md) |
+| 마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold) | [마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold)](마력%20집중형%20금속%20안대%20%28Mana-Focusing%20Metal%20Blindfold%29.md) |
 | 맹진의 뿔투구 (Horned Helm of Rush) | [맹진의 뿔투구 (Horned Helm of Rush)](맹진의%20뿔투구%20%28Horned%20Helm%20of%20Rush%29.md) |
 | 박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel) | [박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel)](박제된%20철성%20밀폐%20헬름%20%28Iron-Sealed%20Helm%20of%20Taxidermied%20Steel%29.md) |
+| 밤과부의 독무 망사 베일 (Toxic-Mist Widow's Veil) | [밤과부의 독무 망사 베일 (Toxic-Mist Widow's Veil)](밤과부의%20독무%20망사%20베일%20%28Toxic-Mist%20Widow's%20Veil%29.md) |
 | 백사자의 전투 투구 (Battle Helm of the White Lion) | [백사자의 전투 투구 (Battle Helm of the White Lion)](백사자의%20전투%20투구%20%28Battle%20Helm%20of%20the%20White%20Lion%29.md) |
+| 붉은 기하학 문양 사막 슈마그 터번 (Red Geometric-Pattern Desert Shemagh Turban) | [붉은 기하학 문양 사막 슈마그 터번 (Red Geometric-Pattern Desert Shemagh Turban)](붉은%20기하학%20문양%20사막%20슈마그%20터번%20%28Red%20Geometric-Pattern%20Desert%20Shemagh%20Turban%29.md) |
 | 비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles) | [비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles)](비틀린%20심연%20오염%20원형%20안경%20%28Twisted%20Abyss-Tainted%20Round%20Spectacles%29.md) |
 | 상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch) | [상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch)](상어악귀%20훈장%20안대%20%28Shark-Demon%20Trophy%20Eyepatch%29.md) |
 | 섬광 조준 안전 고글 (Signal-Flash Targeting Safety Goggles) | [섬광 조준 안전 고글 (Signal-Flash Targeting Safety Goggles)](섬광%20조준%20안전%20고글%20%28Signal-Flash%20Targeting%20Safety%20Goggles%29.md) |
@@ -27,11 +31,16 @@
 | 야생 살쾡이의 얼룩 가죽 후드 (Spotted Leather Hood of the Wild Wildcat) | [야생 살쾡이의 얼룩 가죽 후드 (Spotted Leather Hood of the Wild Wildcat)](야생%20살쾡이의%20얼룩%20가죽%20후드%20%28Spotted%20Leather%20Hood%20of%20the%20Wild%20Wildcat%29.md) |
 | 얼굴 가리개 (Visors) | [얼굴 가리개 (Visors)](얼굴%20가리개%20%28Visors%29.md) |
 | 은빛 맹약의 전선 투구 (Silver-Oath Frontline Helm) | [은빛 맹약의 전선 투구 (Silver-Oath Frontline Helm)](은빛%20맹약의%20전선%20투구%20%28Silver-Oath%20Frontline%20Helm%29.md) |
+| 은월 광차단 침투 안대 (Silver-Moon Photoseal Infiltration Blindfold) | [은월 광차단 침투 안대 (Silver-Moon Photoseal Infiltration Blindfold)](은월%20광차단%20침투%20안대%20%28Silver-Moon%20Photoseal%20Infiltration%20Blindfold%29.md) |
 | 이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles) | [이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles)](이카루스의%20시선%20산소%20차단%20파일럿%20고글%20%28Gaze-of-Icarus%20Anoxia-Seal%20Pilot%20Goggles%29.md) |
 | 자색 결정 안대 (Violet Crystal Eyepatch) | [자색 결정 안대 (Violet Crystal Eyepatch)](자색%20결정%20안대%20%28Violet%20Crystal%20Eyepatch%29.md) |
 | 자정의 장례식 챙 모자 (Midnight Funeral Wide-Brimmed Hat) | [자정의 장례식 챙 모자 (Midnight Funeral Wide-Brimmed Hat)](자정의%20장례식%20챙%20모자%20%28Midnight%20Funeral%20Wide-Brimmed%20Hat%29.md) |
+| 적린 코뿔소 두개골 전투 투구 (Red-Scale Rhino Skull Battle Helm) | [적린 코뿔소 두개골 전투 투구 (Red-Scale Rhino Skull Battle Helm)](적린%20코뿔소%20두개골%20전투%20투구%20%28Red-Scale%20Rhino%20Skull%20Battle%20Helm%29.md) |
+| 질서의 은테 이중 렌즈 안경 (Silver-Frame Twin-Lens Spectacles of Order) | [질서의 은테 이중 렌즈 안경 (Silver-Frame Twin-Lens Spectacles of Order)](질서의%20은테%20이중%20렌즈%20안경%20%28Silver-Frame%20Twin-Lens%20Spectacles%20of%20Order%29.md) |
+| 창공 지휘관의 푸른 깃털 모자 (Azure Feather Commander's Hat of Sky Ascent) | [창공 지휘관의 푸른 깃털 모자 (Azure Feather Commander's Hat of Sky Ascent)](창공%20지휘관의%20푸른%20깃털%20모자%20%28Azure%20Feather%20Commander's%20Hat%20of%20Sky%20Ascent%29.md) |
 | 창공 파일럿 방풍 고글 (Stratosphere Pilot Windproof Goggles) | [창공 파일럿 방풍 고글 (Stratosphere Pilot Windproof Goggles)](창공%20파일럿%20방풍%20고글%20%28Stratosphere%20Pilot%20Windproof%20Goggles%29.md) |
 | 천근의 진지 투구 (Helm of the Heavy Trench) | [천근의 진지 투구 (Helm of the Heavy Trench)](천근의%20진지%20투구%20%28Helm%20of%20the%20Heavy%20Trench%29.md) |
+| 초음속 강하 비늘 헬멧 (Supersonic-Dive Scale Helm) | [초음속 강하 비늘 헬멧 (Supersonic-Dive Scale Helm)](초음속%20강하%20비늘%20헬멧%20%28Supersonic-Dive%20Scale%20Helm%29.md) |
 | 크림슨 연구소의 독연무 방호 고글 (Toxin-Miasma Protective Goggles of the Crimson Lab) | [크림슨 연구소의 독연무 방호 고글 (Toxin-Miasma Protective Goggles of the Crimson Lab)](크림슨%20연구소의%20독연무%20방호%20고글%20%28Toxin-Miasma%20Protective%20Goggles%20of%20the%20Crimson%20Lab%29.md) |
 | 태양 성왕의 황금 투구 (Golden Helm of the Solar Sovereign) | [태양 성왕의 황금 투구 (Golden Helm of the Solar Sovereign)](태양%20성왕의%20황금%20투구%20%28Golden%20Helm%20of%20the%20Solar%20Sovereign%29.md) |
 | 투구 (Helms) | [투구 (Helms)](투구%20%28Helms%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (120)
+## 항목 (123)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -89,6 +89,7 @@
 | 우르-바하무트의 낙하 단검 (Falling Blade of 우르-바하무트) | [우르-바하무트의 낙하 단검 (Falling Blade of 우르-바하무트)](우르-바하무트의%20낙하%20단검%20%28Falling%20Blade%20of%20우르-바하무트%29.md) |
 | 움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra) | [움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra)](움브라의%20빛을%20삼키는%20흡광%28Absorption%29%20쌍단검%20%28Light-Devouring%20Dual%20Daggers%20of%20Umbra%29.md) |
 | 원한 추적의 단검 '잭의 시선' (Jack's Gaze) | [원한 추적의 단검 '잭의 시선' (Jack's Gaze)](원한%20추적의%20단검%20'잭의%20시선'%20%28Jack's%20Gaze%29.md) |
+| 월박 식도 절개도 (Moonfoil Carotid-Sever Blade) | [월박 식도 절개도 (Moonfoil Carotid-Sever Blade)](월박%20식도%20절개도%20%28Moonfoil%20Carotid-Sever%20Blade%29.md) |
 | 유령 그림자 단검 (Shade's Ghost Dagger) | [유령 그림자 단검 (Shade's Ghost Dagger)](유령%20그림자%20단검%20%28Shade's%20Ghost%20Dagger%29.md) |
 | 유령의 단검 (Phantom Dagger) | [유령의 단검 (Phantom Dagger)](유령의%20단검%20%28Phantom%20Dagger%29.md) |
 | 은닉된 단검 '바이퍼' (Amalia Novak's Concealed Dagger Viper) | [은닉된 단검 '바이퍼' (Amalia Novak's Concealed Dagger Viper)](은닉된%20단검%20'바이퍼'%20%28Amalia%20Novak's%20Concealed%20Dagger%20Viper%29.md) |
@@ -119,6 +120,7 @@
 | 펄서 다크스타의 낙하 단검 (Falling Blade of 펄서 다크스타) | [펄서 다크스타의 낙하 단검 (Falling Blade of 펄서 다크스타)](펄서%20다크스타의%20낙하%20단검%20%28Falling%20Blade%20of%20펄서%20다크스타%29.md) |
 | 페너스 알라릭의 독침 단도 (Poison-Fanged Blade of 페너스 알라릭) | [페너스 알라릭의 독침 단도 (Poison-Fanged Blade of 페너스 알라릭)](페너스%20알라릭의%20독침%20단도%20%28Poison-Fanged%20Blade%20of%20페너스%20알라릭%29.md) |
 | 페두스히엠스의 계약 단검과 롱소드 - 유언장 (Testament) | [페두스히엠스의 계약 단검과 롱소드 - 유언장 (Testament)](페두스히엠스의%20계약%20단검과%20롱소드%20-%20유언장%20%28Testament%29.md) |
+| 폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger) | [폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger)](폭음%20봉인%20근접%20단검%20%28Blast-Sealed%20Close-Range%20Dagger%29.md) |
 | 프로스트 팡 (Frost Fang) | [프로스트 팡 (Frost Fang)](프로스트%20팡%20%28Frost%20Fang%29.md) |
 | 프로스트 대거 / 아이스 대거 | [프로스트 대거 / 아이스 대거](프로스트대거아이스대거.md) |
 | 항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea) | [항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea)](항해%20단검%20'포가튼시의%20별빛'%20%28Marek%20Forgottensea's%20Naval%20Dagger%20Starlight%20of%20Forgottensea%29.md) |
@@ -129,4 +131,5 @@
 | 환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger) | [환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)](환영의%20풍압%20단검%20'트윈%20스왈로우'%20%28Twin%20Swallow%20Dagger%29.md) |
 | 회계사의 만년필 (Accountant's Pen) | [회계사의 만년필 (Accountant's Pen)](회계사의%20만년필%20%28Accountant's%20Pen%29.md) |
 | 회오리 쌍단검 (Whirlwind Twin Daggers) | [회오리 쌍단검 (Whirlwind Twin Daggers)](회오리%20쌍단검%20%28Whirlwind%20Twin%20Daggers%29.md) |
+| 흑야 인대절단 단분자 암살검 (Black-Night Monomolecular Tendon-Sever Blade) | [흑야 인대절단 단분자 암살검 (Black-Night Monomolecular Tendon-Sever Blade)](흑야%20인대절단%20단분자%20암살검%20%28Black-Night%20Monomolecular%20Tendon-Sever%20Blade%29.md) |
 | 흡혈의 메스 (Vampiric Scalpel) | [흡혈의 메스 (Vampiric Scalpel)](흡혈의%20메스%20%28Vampiric%20Scalpel%29.md) |

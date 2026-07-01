@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (201)
+## 항목 (204)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,6 +18,7 @@
 | 거짓말쟁이의 연막 구슬 (Liar's Smoke-bomb) | [거짓말쟁이의 연막 구슬 (Liar's Smoke-bomb)](거짓말쟁이의%20연막%20구슬%20%28Liar's%20Smoke-bomb%29.md) |
 | 고대 미로의 나침반 (Compass of the Ancient Labyrinth) | [고대 미로의 나침반 (Compass of the Ancient Labyrinth)](고대%20미로의%20나침반%20%28Compass%20of%20the%20Ancient%20Labyrinth%29.md) |
 | 고대 별자리의 해반 (Astrolabe of the Ancients) | [고대 별자리의 해반 (Astrolabe of the Ancients)](고대%20별자리의%20해반%20%28Astrolabe%20of%20the%20Ancients%29.md) |
+| 공중에 묶인 무중력의 족쇄 (Gravity-Nullifying Shackle of the Sky) | [공중에 묶인 무중력의 족쇄 (Gravity-Nullifying Shackle of the Sky)](공중에%20묶인%20무중력의%20족쇄%20%28Gravity-Nullifying%20Shackle%20of%20the%20Sky%29.md) |
 | 공허를 채우는 황금빛 양피지 마도서 옴니버스 (Golden Parchment Tome of the Void: Omnibus) | [공허를 채우는 황금빛 양피지 마도서 옴니버스 (Golden Parchment Tome of the Void: Omnibus)](공허를%20채우는%20황금빛%20양피지%20마도서%20옴니버스%20%28Golden%20Parchment%20Tome%20of%20the%20Void%20Omnibus%29.md) |
 | 관측자의 다이아몬드 안대 (Observer's Diamond Eyepatch) | [관측자의 다이아몬드 안대 (Observer's Diamond Eyepatch)](관측자의%20다이아몬드%20안대%20%28Observer's%20Diamond%20Eyepatch%29.md) |
 | 광기 제어의 철 이빨 (Iron Teeth of Madness-Control) | [광기 제어의 철 이빨 (Iron Teeth of Madness-Control)](광기%20제어의%20철%20이빨%20%28Iron%20Teeth%20of%20Madness-Control%29.md) |
@@ -70,6 +71,7 @@
 | 바람의 은빛 나침반 (Compass of Zephyr) | [바람의 은빛 나침반 (Compass of Zephyr)](바람의%20은빛%20나침반%20%28Compass%20of%20Zephyr%29.md) |
 | 반중력 앵커 건틀릿 (Anti-Gravity Anchor Gauntlet) | [반중력 앵커 건틀릿 (Anti-Gravity Anchor Gauntlet)](반중력%20앵커%20건틀릿%20%28Anti-Gravity%20Anchor%20Gauntlet%29.md) |
 | 방염 부식 코팅 구리스 (Flame-proof Anti-Corrosion Grease) | [방염 부식 코팅 구리스 (Flame-proof Anti-Corrosion Grease)](방염%20부식%20코팅%20구리스%20%28Flame-proof%20Anti-Corrosion%20Grease%29.md) |
+| 방향을 잃은 나침반의 모래시계 (Hourglass of the Lost Compass) | [방향을 잃은 나침반의 모래시계 (Hourglass of the Lost Compass)](방향을%20잃은%20나침반의%20모래시계%20%28Hourglass%20of%20the%20Lost%20Compass%29.md) |
 | 배신자의 족쇄 코인 (Shackled Coin of the Traitor) | [배신자의 족쇄 코인 (Shackled Coin of the Traitor)](배신자의%20족쇄%20코인%20%28Shackled%20Coin%20of%20the%20Traitor%29.md) |
 | 백상아리의 핏빛 모노클 (Blood-Monocle of the Great White) | [백상아리의 핏빛 모노클 (Blood-Monocle of the Great White)](백상아리의%20핏빛%20모노클%20%28Blood-Monocle%20of%20the%20Great%20White%29.md) |
 | 베렌가의 심장 박동 팔찌 (Bracelet of Berenga's Pulse) | [베렌가의 심장 박동 팔찌 (Bracelet of Berenga's Pulse)](베렌가의%20심장%20박동%20팔찌%20%28Bracelet%20of%20Berenga's%20Pulse%29.md) |
@@ -114,6 +116,7 @@
 | 아우리온 황가의 번개 각인 (Mark of the Aurion) | [아우리온 황가의 번개 각인 (Mark of the Aurion)](아우리온%20황가의%20번개%20각인%20%28Mark%20of%20the%20Aurion%29.md) |
 | 아카식 마도서의 눈물 젖은 페이지 (Torn Page of the Akashic Tome) | [아카식 마도서의 눈물 젖은 페이지 (Torn Page of the Akashic Tome)](아카식%20마도서의%20눈물%20젖은%20페이지%20%28Torn%20Page%20of%20the%20Akashic%20Tome%29.md) |
 | 알파 울프의 송곳니 피리 (Fang Flute of the Alpha Wolf) | [알파 울프의 송곳니 피리 (Fang Flute of the Alpha Wolf)](알파%20울프의%20송곳니%20피리%20%28Fang%20Flute%20of%20the%20Alpha%20Wolf%29.md) |
+| 얼어붙은 짐승의 안구 점안석 (Frozen Beast's Ocular Stone) | [얼어붙은 짐승의 안구 점안석 (Frozen Beast's Ocular Stone)](얼어붙은%20짐승의%20안구%20점안석%20%28Frozen%20Beast's%20Ocular%20Stone%29.md) |
 | 에베르 시안 망원 렌즈 (Telescopic Lens of Eber-Cyan) | [에베르 시안 망원 렌즈 (Telescopic Lens of Eber-Cyan)](에베르%20시안%20망원%20렌즈%20%28Telescopic%20Lens%20of%20Eber-Cyan%29.md) |
 | 여신의 거울 파편 (Shard of the Goddess's Mirror) | [여신의 거울 파편 (Shard of the Goddess's Mirror)](여신의%20거울%20파편%20%28Shard%20of%20the%20Goddess's%20Mirror%29.md) |
 | 역방향 기억 추출 잉크 (Reverse-Memory Extract Ink) | [역방향 기억 추출 잉크 (Reverse-Memory Extract Ink)](역방향%20기억%20추출%20잉크%20%28Reverse-Memory%20Extract%20Ink%29.md) |

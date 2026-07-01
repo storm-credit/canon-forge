@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (39)
+## 항목 (41)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -19,6 +19,7 @@
 | 굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog) | [굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog)](굶주린%20들개의%20조악한%20사슬%20가죽%20%28Crude%20Chain-Leather%20of%20Starving%20Wild-Dog%29.md) |
 | 그림자 포식자의 가죽 (Leather of Shadow Eater) | [그림자 포식자의 가죽 (Leather of Shadow Eater)](그림자%20포식자의%20가죽%20%28Leather%20of%20Shadow%20Eater%29.md) |
 | 그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron) | [그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron)](그을음%20찐%20마도공학%20전투%20가죽%20앞치마%20%28Soot-Caked%20Magitek%20Combat%20Leather%20Apron%29.md) |
+| 글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane) | [글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane)](글라스페인의%20산독%20연성%20가죽%20전투%20코트%20%28Acid-Alchemic%20Tanned%20Battle%20Coat%20of%20Glasspane%29.md) |
 | 까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster) | [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](까마귀%20깃털%20장식된%20검은%20가죽%20롱코트%20%28Raven-Feathered%20Leather%20Duster%29.md) |
 | 내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat) | [내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat)](내폭%28Anti-Blast%29%20화학처리된%20넝마%20가죽%20코트%20%28Blast-Resistant%20Chemical%20Rag-Coat%29.md) |
 | 눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast) | [눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast)](눈사태의%20짐승%20가죽%20요갑%20%28Pelt%20of%20the%20Avalanche%20Beast%29.md) |
@@ -47,5 +48,6 @@
 | 타다 남은 잿빛 가죽 코트 (Charred Ash-Leather Coat) | [타다 남은 잿빛 가죽 코트 (Charred Ash-Leather Coat)](타다%20남은%20잿빛%20가죽%20코트%20%28Charred%20Ash-Leather%20Coat%29.md) |
 | 탐식의 가죽 앞치마 (Leather Apron of Voracity) | [탐식의 가죽 앞치마 (Leather Apron of Voracity)](탐식의%20가죽%20앞치마%20%28Leather%20Apron%20of%20Voracity%29.md) |
 | 피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt) | [피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt)](피로%20물든%20알파의%20목가죽%20%28Blood-Soaked%20Alpha%20Pelt%29.md) |
+| 핏빛 비늘 처형자의 붉은 가죽 흉갑 (Blood-Scale Executioner's Crimson Leather Breastplate) | [핏빛 비늘 처형자의 붉은 가죽 흉갑 (Blood-Scale Executioner's Crimson Leather Breastplate)](핏빛%20비늘%20처형자의%20붉은%20가죽%20흉갑%20%28Blood-Scale%20Executioner's%20Crimson%20Leather%20Breastplate%29.md) |
 | 혈맥 압착 마도 허리띠 (Hemoic Pressure Magitech Belt) | [혈맥 압착 마도 허리띠 (Hemoic Pressure Magitech Belt)](혈맥%20압착%20마도%20허리띠%20%28Hemoic%20Pressure%20Magitech%20Belt%29.md) |
 | 흙먼지 절은 현장 가죽 코트 (Field-Worn Leather Duster of the Excavation Front) | [흙먼지 절은 현장 가죽 코트 (Field-Worn Leather Duster of the Excavation Front)](흙먼지%20절은%20현장%20가죽%20코트%20%28Field-Worn%20Leather%20Duster%20of%20the%20Excavation%20Front%29.md) |

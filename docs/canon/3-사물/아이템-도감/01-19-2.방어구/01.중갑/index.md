@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (55)
+## 항목 (57)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -41,6 +41,7 @@
 | 순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim) | [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](순례자의%20은청색%20사자%20중갑%20%28Silver-blue%20Lion%20Plate%20of%20Pilgrim%29.md) |
 | 스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss) | [스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss)](스스로%20입은%20심연의%20갑주%20%28Self-Worn%20Carapace%20of%20the%20Abyss%29.md) |
 | 심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate) | [심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate)](심해압%20견딤식%20은염강%20판금갑수%20%28Abyssal-Pressure%20Silver-Salt%20Plate%29.md) |
+| 암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor) | [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](암석%20비늘%20철벽%20대갑주%20%28Stonescale%20Ironwall%20Greatarmor%29.md) |
 | 오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton) | [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](오르도스%20방위군%20기동%20외골격%20%28Ordos%20Defense%20Mobile%20Exoskeleton%29.md) |
 | 요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate) | [요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate)](요새화%20융합%20풀-플레이트%20%28Fortified%20Fusion%20Full-Plate%29.md) |
 | 용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross) | [용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross)](용광로%20화집%20타오르는%20십자%20중갑%20%28Crucible%20Armor%20of%20Blazing%20Cross%29.md) |
@@ -63,5 +64,6 @@
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
 | 판금 갑옷 (Plate Armor) | [판금 갑옷 (Plate Armor)](판금%20갑옷%20%28Plate%20Armor%29.md) |
 | 폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights) | [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](폭풍%20기사단의%20단독%20수장%20갑주%20%28Sole-Commander%20Plate%20of%20the%20Storm%20Knights%29.md) |
+| 흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate) | [흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate)](흑요석%20천공%20흉갑%20%28Core-Pierced%20Obsidian%20Breastplate%29.md) |
 | 흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard) | [흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard)](흑요철%20전선%20전신%20중갑%20%28Iron-Bone%20Full%20Plate%20of%20the%20Vanguard%29.md) |
 | 흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat) | [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](흡음%28Sound-Absorbing%29%20처리된%20흑박쥐%20피박%20갑주%20%28Blood-Foil%20Armor%20of%20the%20Dark-Bat%29.md) |
