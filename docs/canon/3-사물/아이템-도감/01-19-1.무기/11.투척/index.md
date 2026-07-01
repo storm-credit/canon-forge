@@ -6,9 +6,14 @@
 
 # 📚 투척
 
-## 항목 (2)
+## 항목 (7)
 
 | 아이템 | 링크 |
 |--------|------|
 | 데스티니 카드 (Destiny Card) | [데스티니 카드 (Destiny Card)](데스티니%20카드%20%28Destiny%20Card%29.md) |
+| 별빛 섬광탄 (Starlight Flash-Bang) | [별빛 섬광탄 (Starlight Flash-Bang)](별빛%20섬광탄%20%28Starlight%20Flash-Bang%29.md) |
+| 육절의 그림자 비수 (Shadow Stilettos of the Six-Kill) | [육절의 그림자 비수 (Shadow Stilettos of the Six-Kill)](육절의%20그림자%20비수%20%28Shadow%20Stilettos%20of%20the%20Six-Kill%29.md) |
+| 은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers) | [은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers)](은장%20무음%20투척%20단검%20%28Silver-Mounted%20Silent%20Throwing%20Daggers%29.md) |
 | 천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony) | [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](천%20개의%20비명%20투척%20플라스크%20아고니%20%28Flask%20of%20A%20Thousand%20Screams%20Agony%29.md) |
+| 황금 동전 코인 결계 (Golden Coin of Boundary Reversal) | [황금 동전 코인 결계 (Golden Coin of Boundary Reversal)](황금%20동전%20코인%20결계%20%28Golden%20Coin%20of%20Boundary%20Reversal%29.md) |
+| 흑연 암흑 연막 플라스크 (Abyssal Smoke Flask of Void) | [흑연 암흑 연막 플라스크 (Abyssal Smoke Flask of Void)](흑연%20암흑%20연막%20플라스크%20%28Abyssal%20Smoke%20Flask%20of%20Void%29.md) |

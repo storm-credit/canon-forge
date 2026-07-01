@@ -6,10 +6,11 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (205)
+## 항목 (214)
 
 | 아이템 | 링크 |
 |--------|------|
+| 7조약 봉인 계약서 (Seven-Clause Covenant Seal) | [7조약 봉인 계약서 (Seven-Clause Covenant Seal)](7조약%20봉인%20계약서%20%28Seven-Clause%20Covenant%20Seal%29.md) |
 | 강철 글씨의 기록 첨필 (Steelin's Iron Inscription Stylus) | [강철 글씨의 기록 첨필 (Steelin's Iron Inscription Stylus)](강철%20글씨의%20기록%20첨필%20%28Steelin's%20Iron%20Inscription%20Stylus%29.md) |
 | 강철 요새의 뜯겨진 철골 기둥(Steel Pillar of Fortress) | [강철 요새의 뜯겨진 철골 기둥(Steel Pillar of Fortress)](강철%20요새의%20뜯겨진%20철골%20기둥%28Steel%20Pillar%20of%20Fortress%29.md) |
 | 겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell) | [겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell)](겔루울루스의%20쌍인부%20-%20염옥과%20빙옥%20%28Twin%20Axes%20of%20Inferno%20and%20Glacial-Hell%29.md) |
@@ -22,6 +23,8 @@
 | 공허의 잉크병(Inkwell of Null) | [공허의 잉크병(Inkwell of Null)](공허의%20잉크병%28Inkwell%20of%20Null%29.md) |
 | 과거의 영광을 비추는 고대 석판 (Ancient Slate Illuminating the Glory of the Past) | [과거의 영광을 비추는 고대 석판 (Ancient Slate Illuminating the Glory of the Past)](과거의%20영광을%20비추는%20고대%20석판%20%28Ancient%20Slate%20Illuminating%20the%20Glory%20of%20the%20Past%29.md) |
 | 그린 블러드 쿠크리(Greenblood Kukri) | [그린 블러드 쿠크리(Greenblood Kukri)](그린%20블러드%20쿠크리%28Greenblood%20Kukri%29.md) |
+| 그림자 공간 단절 와이어 (Shadow-Severance Wire) | [그림자 공간 단절 와이어 (Shadow-Severance Wire)](그림자%20공간%20단절%20와이어%20%28Shadow-Severance%20Wire%29.md) |
+| 극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table) | [극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table)](극전술%20환영%20입체진%20지휘%20테이블%20%28Omni-Tactics%20Holographic%20Command%20Table%29.md) |
 | 글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus) | [글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus)](글리파투스의%20각인%20방치%20정%20%28Engraving%20Chisel%20of%20Glyphatus%29.md) |
 | 글자가 전부 지워진 양피지 파편(Ashes of Words) | [글자가 전부 지워진 양피지 파편(Ashes of Words)](글자가%20전부%20지워진%20양피지%20파편%28Ashes%20of%20Words%29.md) |
 | 기계식 공학 배낭(Engineer's Backpack) | [기계식 공학 배낭(Engineer's Backpack)](기계식%20공학%20배낭%28Engineer's%20Backpack%29.md) |
@@ -41,9 +44,11 @@
 | 레닥션 (Redaction) | [레닥션 (Redaction)](레닥션%20%28Redaction%29.md) |
 | 레닥션 (Redaction) | [레닥션 (Redaction)](레닥션%20%28Redaction%29_3.md) |
 | 루나스트라의 월식 쌍겸 (Eclipse Dual-Scythes of Lunastra) | [루나스트라의 월식 쌍겸 (Eclipse Dual-Scythes of Lunastra)](루나스트라의%20월식%20쌍겸%20%28Eclipse%20Dual-Scythes%20of%20Lunastra%29.md) |
+| 루벨라이트 측량 자와 각도기 세트 (Rubelite Survey Ruler & Protractor Set) | [루벨라이트 측량 자와 각도기 세트 (Rubelite Survey Ruler & Protractor Set)](루벨라이트%20측량%20자와%20각도기%20세트%20%28Rubelite%20Survey%20Ruler%20&%20Protractor%20Set%29.md) |
 | 리바이어던의 수정 해골 (Crystal Skull of the Leviathan) | [리바이어던의 수정 해골 (Crystal Skull of the Leviathan)](리바이어던의%20수정%20해골%20%28Crystal%20Skull%20of%20the%20Leviathan%29.md) |
 | 마녀의 무한 국자 '미라클 레이들' (Isabella Lucretia's Witch's Ladle) | [마녀의 무한 국자 '미라클 레이들' (Isabella Lucretia's Witch's Ladle)](마녀의%20무한%20국자%20'미라클%20레이들'%20%28Isabella%20Lucretia's%20Witch's%20Ladle%29.md) |
 | 마도 암 아수라 (Magitek Arm Asura) | [마도 암 아수라 (Magitek Arm Asura)](마도%20암%20아수라%20%28Magitek%20Arm%20Asura%29.md) |
+| 마력 각인 은폐 서신 (Mana-Imprinted Invisible Script) | [마력 각인 은폐 서신 (Mana-Imprinted Invisible Script)](마력%20각인%20은폐%20서신%20%28Mana-Imprinted%20Invisible%20Script%29.md) |
 | 마법 계산기 (Magic Calculator) | [마법 계산기 (Magic Calculator)](마법%20계산기%20%28Magic%20Calculator%29.md) |
 | 만년설의 깃펜 (Richard Hailstone's Quill of Permafrost) | [만년설의 깃펜 (Richard Hailstone's Quill of Permafrost)](만년설의%20깃펜%20%28Richard%20Hailstone's%20Quill%20of%20Permafrost%29.md) |
 | 만년필 (Fountain Pen) | [만년필 (Fountain Pen)](만년필%20%28Fountain%20Pen%29.md) |
@@ -136,6 +141,7 @@
 | 영원의 모래시계 (Hourglass of Eternity) | [영원의 모래시계 (Hourglass of Eternity)](영원의%20모래시계%20%28Hourglass%20of%20Eternity%29.md) |
 | 영혼 구속의 빛사슬 '레코드 체인' (Karina Lightchain's Record Chain) | [영혼 구속의 빛사슬 '레코드 체인' (Karina Lightchain's Record Chain)](영혼%20구속의%20빛사슬%20'레코드%20체인'%20%28Karina%20Lightchain's%20Record%20Chain%29.md) |
 | 영혼 등불 '소울 랜턴' (Lina Shadowsoul's Soul Lantern) | [영혼 등불 '소울 랜턴' (Lina Shadowsoul's Soul Lantern)](영혼%20등불%20'소울%20랜턴'%20%28Lina%20Shadowsoul's%20Soul%20Lantern%29.md) |
+| 영혼 서명 귀환지 (Soul-Signature Ledger) | [영혼 서명 귀환지 (Soul-Signature Ledger)](영혼%20서명%20귀환지%20%28Soul-Signature%20Ledger%29.md) |
 | 영혼의 등불 (Lantern of Souls) | [영혼의 등불 (Lantern of Souls)](영혼의%20등불%20%28Lantern%20of%20Souls%29.md) |
 | 오르펠리안의 부식 앰플 벨트 (Corrosion Ampoule Belt of the Crimson Lab's Final Subject) | [오르펠리안의 부식 앰플 벨트 (Corrosion Ampoule Belt of the Crimson Lab's Final Subject)](오르펠리안의%20부식%20앰플%20벨트%20%28Corrosion%20Ampoule%20Belt%20of%20the%20Crimson%20Lab's%20Final%20Subject%29.md) |
 | 오리지널 마력 플라스크 폭탄(Original Flask of Doom) | [오리지널 마력 플라스크 폭탄(Original Flask of Doom)](오리지널%20마력%20플라스크%20폭탄%28Original%20Flask%20of%20Doom%29.md) |
@@ -160,11 +166,13 @@
 | 잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time) | [잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time)](잊혀진%20시간의%20파쇄%20곡괭이-탐사등%20%28Pickaxe-Lantern%20of%20Forgotten%20Time%29.md) |
 | 자율 골렘 지휘봉 (Mecharis' Autonomous Command Rod) | [자율 골렘 지휘봉 (Mecharis' Autonomous Command Rod)](자율%20골렘%20지휘봉%20%28Mecharis'%20Autonomous%20Command%20Rod%29.md) |
 | 자이언트 시린지 (Giant Syringe) | [자이언트 시린지 (Giant Syringe)](자이언트%20시린지%20%28Giant%20Syringe%29.md) |
+| 재앙 사자후의 마나 증폭 마석 (Catastrophe-Broadcast Mana Amplifier) | [재앙 사자후의 마나 증폭 마석 (Catastrophe-Broadcast Mana Amplifier)](재앙%20사자후의%20마나%20증폭%20마석%20%28Catastrophe-Broadcast%20Mana%20Amplifier%29.md) |
 | 저주의 바늘 '쉐이드마스터의 실' (Nicholas Shademaster's Needle of Curse) | [저주의 바늘 '쉐이드마스터의 실' (Nicholas Shademaster's Needle of Curse)](저주의%20바늘%20'쉐이드마스터의%20실'%20%28Nicholas%20Shademaster's%20Needle%20of%20Curse%29.md) |
 | 저주의 바늘 (Needle of Curse) | [저주의 바늘 (Needle of Curse)](저주의%20바늘%20%28Needle%20of%20Curse%29.md) |
 | 적색 뇌관 투척기 (Crimson Detonator) | [적색 뇌관 투척기 (Crimson Detonator)](적색%20뇌관%20투척기%20%28Crimson%20Detonator%29.md) |
 | 전설급 대빙부 - 윈터베인 (Legendary Great-Axe Winterbane) | [전설급 대빙부 - 윈터베인 (Legendary Great-Axe Winterbane)](전설급%20대빙부%20-%20윈터베인%20%28Legendary%20Great-Axe%20Winterbane%29.md) |
 | 전율의 사자후 깃대(Standard of Roaring Lion) | [전율의 사자후 깃대(Standard of Roaring Lion)](전율의%20사자후%20깃대%28Standard%20of%20Roaring%20Lion%29.md) |
+| 전자기파 마킹 신호탄 (Magnetic Marker Flare) | [전자기파 마킹 신호탄 (Magnetic Marker Flare)](전자기파%20마킹%20신호탄%20%28Magnetic%20Marker%20Flare%29.md) |
 | 전장의 메스 (Battlefield Scalpel) | [전장의 메스 (Battlefield Scalpel)](전장의%20메스%20%28Battlefield%20Scalpel%29.md) |
 | 조류의 쌍갈고리 (Tides' Twin Boarding Hooks) | [조류의 쌍갈고리 (Tides' Twin Boarding Hooks)](조류의%20쌍갈고리%20%28Tides'%20Twin%20Boarding%20Hooks%29.md) |
 | 지옥의 횃불 (Torch of Hell) | [지옥의 횃불 (Torch of Hell)](지옥의%20횃불%20%28Torch%20of%20Hell%29.md) |
@@ -211,6 +219,7 @@
 | 화염의 연방진(Matrix of Blaze) | [화염의 연방진(Matrix of Blaze)](화염의%20연방진%28Matrix%20of%20Blaze%29.md) |
 | 화염지옥의 집게 (Pincers of the Inferno) | [화염지옥의 집게 (Pincers of the Inferno)](화염지옥의%20집게%20%28Pincers%20of%20the%20Inferno%29.md) |
 | 환상의 거울 (Mirror of Illusion) | [환상의 거울 (Mirror of Illusion)](환상의%20거울%20%28Mirror%20of%20Illusion%29.md) |
+| 황금 서명 깃펜 (Golden Signing Quill) | [황금 서명 깃펜 (Golden Signing Quill)](황금%20서명%20깃펜%20%28Golden%20Signing%20Quill%29.md) |
 | 황혼의 낙뢰장 (Staff of Twilight's Bolt) | [황혼의 낙뢰장 (Staff of Twilight's Bolt)](황혼의%20낙뢰장%20%28Staff%20of%20Twilight's%20Bolt%29.md) |
 | 회색의 랜턴 (Grey Lantern) | [회색의 랜턴 (Grey Lantern)](회색의%20랜턴%20%28Grey%20Lantern%29.md) |
 | 휴대용 심연 발리스타 '블랙 오르카' (Abyssal Ballista 'Black Orca') | [휴대용 심연 발리스타 '블랙 오르카' (Abyssal Ballista 'Black Orca')](휴대용%20심연%20발리스타%20'블랙%20오르카'%20%28Abyssal%20Ballista%20'Black%20Orca'%29.md) |

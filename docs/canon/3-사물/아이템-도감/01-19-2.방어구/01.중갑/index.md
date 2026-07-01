@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (50)
+## 항목 (52)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,6 +18,7 @@
 | 거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon) | [거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon)](거수%20다곤의%20화석%20갑옷%20%28Fossilized%20Carapace%20of%20Dagon%29.md) |
 | 그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre) | [그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre)](그을린%20전귀의%20융해%20저항갑%20%28Charred%20Melting-Resistant%20Armor%20of%20the%20War%20Ogre%29.md) |
 | 까마귀 깃의 흑철 흉갑 (Blackplate of the Raven's Feather) | [까마귀 깃의 흑철 흉갑 (Blackplate of the Raven's Feather)](까마귀%20깃의%20흑철%20흉갑%20%28Blackplate%20of%20the%20Raven's%20Feather%29.md) |
+| 노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine) | [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](노예%20광산의%20용접%20흉갑%20%28Welded%20Breastplate%20of%20the%20Slave%20Mine%29.md) |
 | 뇌운의 엽장 (Mail of Thundercloud) | [뇌운의 엽장 (Mail of Thundercloud)](뇌운의%20엽장%20%28Mail%20of%20Thundercloud%29.md) |
 | 단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate) | [단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate)](단열의%20검붉은%20코뿔소%20판갑%20%28Insulated%20Crimson%20Rhino-Plate%29.md) |
 | 단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail) | [단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail)](단죄자의%20안감%20가시%20사슬갑옷%20%28Penitent's%20Thorn-Chainmail%29.md) |
@@ -59,4 +60,5 @@
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
 | 판금 갑옷 (Plate Armor) | [판금 갑옷 (Plate Armor)](판금%20갑옷%20%28Plate%20Armor%29.md) |
 | 폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights) | [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](폭풍%20기사단의%20단독%20수장%20갑주%20%28Sole-Commander%20Plate%20of%20the%20Storm%20Knights%29.md) |
+| 흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard) | [흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard)](흑요철%20전선%20전신%20중갑%20%28Iron-Bone%20Full%20Plate%20of%20the%20Vanguard%29.md) |
 | 흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat) | [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](흡음%28Sound-Absorbing%29%20처리된%20흑박쥐%20피박%20갑주%20%28Blood-Foil%20Armor%20of%20the%20Dark-Bat%29.md) |

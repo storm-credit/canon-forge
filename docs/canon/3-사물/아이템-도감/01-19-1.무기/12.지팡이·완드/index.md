@@ -6,7 +6,7 @@
 
 # 📚 지팡이·완드
 
-## 항목 (159)
+## 항목 (160)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -136,6 +136,7 @@
 | 차원의 열쇠 (Key of Dimension) | [차원의 열쇠 (Key of Dimension)](차원의%20열쇠%20%28Key%20of%20Dimension%29.md) |
 | 창백한 지팡이 (Pale Staff) | [창백한 지팡이 (Pale Staff)](창백한%20지팡이%20%28Pale%20Staff%29.md) |
 | 창세의 빙정 지팡이 - 영원의 횃불 (Ice-Crystal Staff of Genesis, Torch of Eternity) | [창세의 빙정 지팡이 - 영원의 횃불 (Ice-Crystal Staff of Genesis, Torch of Eternity)](창세의%20빙정%20지팡이%20-%20영원의%20횃불%20%28Ice-Crystal%20Staff%20of%20Genesis,%20Torch%20of%20Eternity%29.md) |
+| 채권자의 가시 지팡이 (Thorn Cane of the Creditor) | [채권자의 가시 지팡이 (Thorn Cane of the Creditor)](채권자의%20가시%20지팡이%20%28Thorn%20Cane%20of%20the%20Creditor%29.md) |
 | 천공의 닻 지팡이 '아에투스의 사슬' (Staff of the Celestial Anchor) | [천공의 닻 지팡이 '아에투스의 사슬' (Staff of the Celestial Anchor)](천공의%20닻%20지팡이%20'아에투스의%20사슬'%20%28Staff%20of%20the%20Celestial%20Anchor%29.md) |
 | 천구의 지팡이 '셀레스티아' (Artemis Lumen's Staff of Celestial Sphere) | [천구의 지팡이 '셀레스티아' (Artemis Lumen's Staff of Celestial Sphere)](천구의%20지팡이%20'셀레스티아'%20%28Artemis%20Lumen's%20Staff%20of%20Celestial%20Sphere%29.md) |
 | 천둥새의 부리 지팡이 '썬더콜러' (Thunderbird's Beak Staff 'Thunder Caller') | [천둥새의 부리 지팡이 '썬더콜러' (Thunderbird's Beak Staff 'Thunder Caller')](천둥새의%20부리%20지팡이%20'썬더콜러'%20%28Thunderbird's%20Beak%20Staff%20'Thunder%20Caller'%29.md) |

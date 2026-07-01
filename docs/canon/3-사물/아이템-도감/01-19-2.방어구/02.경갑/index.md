@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (29)
+## 항목 (30)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -31,6 +31,7 @@
 | 열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat) | [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](열을%20삼키는%20코어%28Core%29%20흡수%20백곰%20가죽%20%28Core-Absorbing%20White-Bear%20Hide%20that%20Devours%20Heat%29.md) |
 | 이클립스의 잔상 가죽 띠 (Leather Belt of Eclipse Afterimage) | [이클립스의 잔상 가죽 띠 (Leather Belt of Eclipse Afterimage)](이클립스의%20잔상%20가죽%20띠%20%28Leather%20Belt%20of%20Eclipse%20Afterimage%29.md) |
 | 잿가루 환영의 가죽 갑주 (Armor of Ash Illusion) | [잿가루 환영의 가죽 갑주 (Armor of Ash Illusion)](잿가루%20환영의%20가죽%20갑주%20%28Armor%20of%20Ash%20Illusion%29.md) |
+| 절연 뇌격 전투복 (Insulated Thunder Combat Suit) | [절연 뇌격 전투복 (Insulated Thunder Combat Suit)](절연%20뇌격%20전투복%20%28Insulated%20Thunder%20Combat%20Suit%29.md) |
 | 정신 오염 방벽 가죽 코트 (Mental-Aegis Trench Coat) | [정신 오염 방벽 가죽 코트 (Mental-Aegis Trench Coat)](정신%20오염%20방벽%20가죽%20코트%20%28Mental-Aegis%20Trench%20Coat%29.md) |
 | 지저 벌레의 케블라 분비물 가죽 (Kevlar-Silk Hide of the Under-Worm) | [지저 벌레의 케블라 분비물 가죽 (Kevlar-Silk Hide of the Under-Worm)](지저%20벌레의%20케블라%20분비물%20가죽%20%28Kevlar-Silk%20Hide%20of%20the%20Under-Worm%29.md) |
 | 천공의 날개깃 경갑 (Light-Armor of the Zenith Wing-Feather) | [천공의 날개깃 경갑 (Light-Armor of the Zenith Wing-Feather)](천공의%20날개깃%20경갑%20%28Light-Armor%20of%20the%20Zenith%20Wing-Feather%29.md) |

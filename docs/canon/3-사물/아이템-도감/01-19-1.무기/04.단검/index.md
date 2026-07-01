@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (111)
+## 항목 (115)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -37,6 +37,7 @@
 | 독사의 송곳니 (Fang of Viper) | [독사의 송곳니 (Fang of Viper)](독사의%20송곳니%20%28Fang%20of%20Viper%29.md) |
 | 독사의 어금니 '바이퍼 팽' (Calix Xenos's Viper Fang) | [독사의 어금니 '바이퍼 팽' (Calix Xenos's Viper Fang)](독사의%20어금니%20'바이퍼%20팽'%20%28Calix%20Xenos's%20Viper%20Fang%29.md) |
 | 독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper) | [독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper)](독사의%20춤추는%20쌍날%20단검%20'독무'%20%28Dancing%20Twin-Daggers%20of%20Viper%29.md) |
+| 뒷골목 타짜의 홀수 단검 (Odd-Numbered Dagger of the Backstreet Gambler) | [뒷골목 타짜의 홀수 단검 (Odd-Numbered Dagger of the Backstreet Gambler)](뒷골목%20타짜의%20홀수%20단검%20%28Odd-Numbered%20Dagger%20of%20the%20Backstreet%20Gambler%29.md) |
 | 디오스쿠로이의 낙하 단검 (Falling Blade of 디오스쿠로이) | [디오스쿠로이의 낙하 단검 (Falling Blade of 디오스쿠로이)](디오스쿠로이의%20낙하%20단검%20%28Falling%20Blade%20of%20디오스쿠로이%29.md) |
 | 라그나 솔의 낙하 단검 (Falling Blade of 라그나 솔) | [라그나 솔의 낙하 단검 (Falling Blade of 라그나 솔)](라그나%20솔의%20낙하%20단검%20%28Falling%20Blade%20of%20라그나%20솔%29.md) |
 | 라이트닝 대거 (Lightning Dagger) | [라이트닝 대거 (Lightning Dagger)](라이트닝%20대거%20%28Lightning%20Dagger%29.md) |
@@ -87,10 +88,13 @@
 | 유령 그림자 단검 (Shade's Ghost Dagger) | [유령 그림자 단검 (Shade's Ghost Dagger)](유령%20그림자%20단검%20%28Shade's%20Ghost%20Dagger%29.md) |
 | 유령의 단검 (Phantom Dagger) | [유령의 단검 (Phantom Dagger)](유령의%20단검%20%28Phantom%20Dagger%29.md) |
 | 은닉된 단검 '바이퍼' (Amalia Novak's Concealed Dagger Viper) | [은닉된 단검 '바이퍼' (Amalia Novak's Concealed Dagger Viper)](은닉된%20단검%20'바이퍼'%20%28Amalia%20Novak's%20Concealed%20Dagger%20Viper%29.md) |
+| 은빛 비수에 새겨진 강제 서약 (Hidden Pact on a Silver Dagger) | [은빛 비수에 새겨진 강제 서약 (Hidden Pact on a Silver Dagger)](은빛%20비수에%20새겨진%20강제%20서약%20%28Hidden%20Pact%20on%20a%20Silver%20Dagger%29.md) |
+| 은장 단검 '뒷골목의 이빨' (Backstreet Fang Silver Dagger) | [은장 단검 '뒷골목의 이빨' (Backstreet Fang Silver Dagger)](은장%20단검%20'뒷골목의%20이빨'%20%28Backstreet%20Fang%20Silver%20Dagger%29.md) |
 | 은장검 퓨리티 (Silver Dagger Purity) | [은장검 퓨리티 (Silver Dagger Purity)](은장검%20퓨리티%20%28Silver%20Dagger%20Purity%29.md) |
 | 의무 연금술 메스 '스칼펠' (Luke Heidel's Scalpel Dagger) | [의무 연금술 메스 '스칼펠' (Luke Heidel's Scalpel Dagger)](의무%20연금술%20메스%20'스칼펠'%20%28Luke%20Heidel's%20Scalpel%20Dagger%29.md) |
 | 이단의 비수, 녹슨 자비 (Rust Mercy) | [이단의 비수, 녹슨 자비 (Rust Mercy)](이단의%20비수,%20녹슨%20자비%20%28Rust%20Mercy%29.md) |
 | 일루미나스의 낙하 단검 (Falling Blade of 일루미나스) | [일루미나스의 낙하 단검 (Falling Blade of 일루미나스)](일루미나스의%20낙하%20단검%20%28Falling%20Blade%20of%20일루미나스%29.md) |
+| 전장 도살의 전투 단검 (Combat Dagger of Battlefield Slaughter) | [전장 도살의 전투 단검 (Combat Dagger of Battlefield Slaughter)](전장%20도살의%20전투%20단검%20%28Combat%20Dagger%20of%20Battlefield%20Slaughter%29.md) |
 | 절망이 깃든 공허의 뼈단검 (Bone Dagger of the Despair-Void) | [절망이 깃든 공허의 뼈단검 (Bone Dagger of the Despair-Void)](절망이%20깃든%20공허의%20뼈단검%20%28Bone%20Dagger%20of%20the%20Despair-Void%29.md) |
 | 정찰 단검 '딥스토커의 별빛' (Kael Deepstalker's Recon Dagger Starlight of Deepstalker) | [정찰 단검 '딥스토커의 별빛' (Kael Deepstalker's Recon Dagger Starlight of Deepstalker)](정찰%20단검%20'딥스토커의%20별빛'%20%28Kael%20Deepstalker's%20Recon%20Dagger%20Starlight%20of%20Deepstalker%29.md) |
 | 조각칼 세트 (Carving Knife Set) | [조각칼 세트 (Carving Knife Set)](조각칼%20세트%20%28Carving%20Knife%20Set%29.md) |

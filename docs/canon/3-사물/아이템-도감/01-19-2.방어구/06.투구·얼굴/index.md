@@ -6,15 +6,17 @@
 
 # 📚 투구·얼굴
 
-## 항목 (16)
+## 항목 (18)
 
 | 아이템 | 링크 |
 |--------|------|
 | 고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate) | [고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate)](고문관의%20가시나무%20철갑%20%28Torturer's%20Iron-Thorn%20Plate%29.md) |
 | 관성 무효화의 소형 버클러 (Buckler of Inertial Nullification) | [관성 무효화의 소형 버클러 (Buckler of Inertial Nullification)](관성%20무효화의%20소형%20버클러%20%28Buckler%20of%20Inertial%20Nullification%29.md) |
+| 극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles) | [극연산 뇌파 동기 금테 안경 (Hyper-Calc Synaptic Gold-Framed Spectacles)](극연산%20뇌파%20동기%20금테%20안경%20%28Hyper-Calc%20Synaptic%20Gold-Framed%20Spectacles%29.md) |
 | 뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm) | [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](뇌진%20선봉의%20투구%20%28Thunder-Vanguard's%20Crest%20Helm%29.md) |
 | 맹진의 뿔투구 (Horned Helm of Rush) | [맹진의 뿔투구 (Horned Helm of Rush)](맹진의%20뿔투구%20%28Horned%20Helm%20of%20Rush%29.md) |
 | 박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel) | [박제된 철성 밀폐 헬름 (Iron-Sealed Helm of Taxidermied Steel)](박제된%20철성%20밀폐%20헬름%20%28Iron-Sealed%20Helm%20of%20Taxidermied%20Steel%29.md) |
+| 백사자의 전투 투구 (Battle Helm of the White Lion) | [백사자의 전투 투구 (Battle Helm of the White Lion)](백사자의%20전투%20투구%20%28Battle%20Helm%20of%20the%20White%20Lion%29.md) |
 | 순백의 외교관 실크 (Pristine Silk of the Envoy) | [순백의 외교관 실크 (Pristine Silk of the Envoy)](순백의%20외교관%20실크%20%28Pristine%20Silk%20of%20the%20Envoy%29.md) |
 | 신탁 귀울림의 수도 두건 (Oracle Hearing-Scar Cowl) | [신탁 귀울림의 수도 두건 (Oracle Hearing-Scar Cowl)](신탁%20귀울림의%20수도%20두건%20%28Oracle%20Hearing-Scar%20Cowl%29.md) |
 | 심판의 태양 바이저 (Judgment Solar Visor) | [심판의 태양 바이저 (Judgment Solar Visor)](심판의%20태양%20바이저%20%28Judgment%20Solar%20Visor%29.md) |

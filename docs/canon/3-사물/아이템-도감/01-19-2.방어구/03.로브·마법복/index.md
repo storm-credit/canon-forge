@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (139)
+## 항목 (140)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -96,6 +96,7 @@
 | 신경 차단을 막는 투명화(Cloaking) 깃털 로브 (Cloaking Feather-Robe that Defies Nerve Block) | [신경 차단을 막는 투명화(Cloaking) 깃털 로브 (Cloaking Feather-Robe that Defies Nerve Block)](신경%20차단을%20막는%20투명화%28Cloaking%29%20깃털%20로브%20%28Cloaking%20Feather-Robe%20that%20Defies%20Nerve%20Block%29.md) |
 | 신성 위상의 수의 (Shroud of Sacred Phase) | [신성 위상의 수의 (Shroud of Sacred Phase)](신성%20위상의%20수의%20%28Shroud%20of%20Sacred%20Phase%29.md) |
 | 실프의 속삭임 발찌 (Anklet of Sylph's Whisper) | [실프의 속삭임 발찌 (Anklet of Sylph's Whisper)](실프의%20속삭임%20발찌%20%28Anklet%20of%20Sylph's%20Whisper%29.md) |
+| 심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire) | [심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire)](심야의%20무영%20고딕%20암살복%20%28Midnight%20Vantablack%20Gothic%20Assassin's%20Attire%29.md) |
 | 심연 해류의 아쿠아 숄 (Aqua Shawl of Abyssal Currents) | [심연 해류의 아쿠아 숄 (Aqua Shawl of Abyssal Currents)](심연%20해류의%20아쿠아%20숄%20%28Aqua%20Shawl%20of%20Abyssal%20Currents%29.md) |
 | 심해 왕국 제1마법사단 예복 (Deep-Kingdom First Mage Corps Vestment) | [심해 왕국 제1마법사단 예복 (Deep-Kingdom First Mage Corps Vestment)](심해%20왕국%20제1마법사단%20예복%20%28Deep-Kingdom%20First%20Mage%20Corps%20Vestment%29.md) |
 | 심해어의 액체 방벽 후드 (Liquid Camouflage Hood of the Deep) | [심해어의 액체 방벽 후드 (Liquid Camouflage Hood of the Deep)](심해어의%20액체%20방벽%20후드%20%28Liquid%20Camouflage%20Hood%20of%20the%20Deep%29.md) |
