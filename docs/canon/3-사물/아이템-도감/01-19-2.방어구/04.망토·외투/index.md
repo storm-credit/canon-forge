@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (44)
+## 항목 (45)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -42,6 +42,7 @@
 | 역광의 위장 망토 (Camouflage Cloak of Backlight) | [역광의 위장 망토 (Camouflage Cloak of Backlight)](역광의%20위장%20망토%20%28Camouflage%20Cloak%20of%20Backlight%29.md) |
 | 역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field) | [역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field)](역장%20파생%20숄%20'패러데이의%20장막'%20%28Faraday%20Mantle%20Force-Field%29.md) |
 | 외투 (Surcoats) | [외투 (Surcoats)](외투%20%28Surcoats%29.md) |
+| 욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire) | [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](욕망%20흡착의%20은사%20코트%20%28Silver-Thread%20Coat%20of%20Desire%29.md) |
 | 월식의 망토 (Cloak of Lunar Eclipse) | [월식의 망토 (Cloak of Lunar Eclipse)](월식의%20망토%20%28Cloak%20of%20Lunar%20Eclipse%29.md) |
 | 이성의 재봉선 망토 (Cape of the Thread of Reason) | [이성의 재봉선 망토 (Cape of the Thread of Reason)](이성의%20재봉선%20망토%20%28Cape%20of%20the%20Thread%20of%20Reason%29.md) |
 | 재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano) | [재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano)](재앙이%20깃든%20화산의%20망토%20%28Cloak%20of%20the%20Calamitous%20Volcano%29.md) |

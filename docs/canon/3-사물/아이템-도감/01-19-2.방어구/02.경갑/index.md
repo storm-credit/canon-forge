@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (28)
+## 항목 (29)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -19,6 +19,7 @@
 | 까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster) | [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](까마귀%20깃털%20장식된%20검은%20가죽%20롱코트%20%28Raven-Feathered%20Leather%20Duster%29.md) |
 | 내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat) | [내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat)](내폭%28Anti-Blast%29%20화학처리된%20넝마%20가죽%20코트%20%28Blast-Resistant%20Chemical%20Rag-Coat%29.md) |
 | 눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast) | [눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast)](눈사태의%20짐승%20가죽%20요갑%20%28Pelt%20of%20the%20Avalanche%20Beast%29.md) |
+| 마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron) | [마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron)](마그마%20담금의%20흑요%20단조%20앞치마%20%28Obsidian%20Magma-Quench%20Forge%20Apron%29.md) |
 | 말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer) | [말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer)](말라붙은%20심연%20포식자의%20가죽%20피막%20%28Desiccated%20Hide%20of%20the%20Abyssal%20Devourer%29.md) |
 | 망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion) | [망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion)](망각의%20연성%20가죽%20부츠%20%28Soft-Leather%20Boots%20of%20Oblivion%29.md) |
 | 무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit) | [무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit)](무소음%20공기역학%20가죽%20슈트%20%28Aerodynamic%20Silence%20Leather%20Suit%29.md) |

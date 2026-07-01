@@ -6,7 +6,7 @@
 
 # 📚 장갑·손목
 
-## 항목 (10)
+## 항목 (11)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 손목 보호대 (Bracers) | [손목 보호대 (Bracers)](손목%20보호대%20%28Bracers%29.md) |
 | 순백의 맹세 건틀릿 (Gauntlets of the White Vow) | [순백의 맹세 건틀릿 (Gauntlets of the White Vow)](순백의%20맹세%20건틀릿%20%28Gauntlets%20of%20the%20White%20Vow%29.md) |
 | 순풍의 항해사 장갑 (Tailwind Navigator’s Gloves) | [순풍의 항해사 장갑 (Tailwind Navigator’s Gloves)](순풍의%20항해사%20장갑%20%28Tailwind%20Navigator’s%20Gloves%29.md) |
+| 아이언하트의 용광로 건틀릿 (Forge Gauntlets of Ironheart) | [아이언하트의 용광로 건틀릿 (Forge Gauntlets of Ironheart)](아이언하트의%20용광로%20건틀릿%20%28Forge%20Gauntlets%20of%20Ironheart%29.md) |
 | 장갑 (Gauntlets) | [장갑 (Gauntlets)](장갑%20%28Gauntlets%29.md) |
 | 지진 핵의 건틀릿 (Gauntlets of the Quake Core) | [지진 핵의 건틀릿 (Gauntlets of the Quake Core)](지진%20핵의%20건틀릿%20%28Gauntlets%20of%20the%20Quake%20Core%29.md) |
 | 초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor) | [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](초경량%28Ultra-light%29%20태양은%20합금%20장갑%20%28Solar-Silver%20Alloy%20Armor%29.md) |

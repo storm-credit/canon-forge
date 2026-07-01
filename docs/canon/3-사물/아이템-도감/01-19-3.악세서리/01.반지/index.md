@@ -6,7 +6,7 @@
 
 # 📚 반지
 
-## 항목 (9)
+## 항목 (10)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -17,5 +17,6 @@
 | 신용 불량의 낙인 인장 (Signet Ring of Default) | [신용 불량의 낙인 인장 (Signet Ring of Default)](신용%20불량의%20낙인%20인장%20%28Signet%20Ring%20of%20Default%29.md) |
 | 심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal) | [심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal)](심연%20봉쇄의%20인장%20반지%20%28Signet%20Ring%20of%20Abyssal%20Seal%29.md) |
 | 억압된 족쇄 링 (Shackle Ring of the Repressed) | [억압된 족쇄 링 (Shackle Ring of the Repressed)](억압된%20족쇄%20링%20%28Shackle%20Ring%20of%20the%20Repressed%29.md) |
+| 저주받은 혈염의 인장 (Cursed Signet of Bloodflame) | [저주받은 혈염의 인장 (Cursed Signet of Bloodflame)](저주받은%20혈염의%20인장%20%28Cursed%20Signet%20of%20Bloodflame%29.md) |
 | 전쟁광의 인장 반지 (Signet of the Warmonger) | [전쟁광의 인장 반지 (Signet of the Warmonger)](전쟁광의%20인장%20반지%20%28Signet%20of%20the%20Warmonger%29.md) |
 | 지핵석의 반지 (Ring of the Core-Mantle) | [지핵석의 반지 (Ring of the Core-Mantle)](지핵석의%20반지%20%28Ring%20of%20the%20Core-Mantle%29.md) |
