@@ -6,22 +6,31 @@
 
 # 📚 반지
 
-## 항목 (15)
+## 항목 (24)
 
 | 아이템 | 링크 |
 |--------|------|
 | 반지 (Rings) | [반지 (Rings)](01.반지.md) |
 | 12좌표의 파수꾼 인장 반지 (Twelve-Coordinate Signet of the Clockwork Warden) | [12좌표의 파수꾼 인장 반지 (Twelve-Coordinate Signet of the Clockwork Warden)](12좌표의%20파수꾼%20인장%20반지%20%28Twelve-Coordinate%20Signet%20of%20the%20Clockwork%20Warden%29.md) |
+| 감각 소각 억제 흑철 인장 반지 (Black Iron Signet of Sensory Burn Suppression) | [감각 소각 억제 흑철 인장 반지 (Black Iron Signet of Sensory Burn Suppression)](감각%20소각%20억제%20흑철%20인장%20반지%20%28Black%20Iron%20Signet%20of%20Sensory%20Burn%20Suppression%29.md) |
 | 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar) | [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](듀네사르의%20축성%28Fortification%29%20금가루%20반지%20%28Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar%29.md) |
+| 드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis) | [드라코니스 동남부 총사령관 인장 반지 (Supreme Commander's Signet of Draconis)](드라코니스%20동남부%20총사령관%20인장%20반지%20%28Supreme%20Commander's%20Signet%20of%20Draconis%29.md) |
 | 마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet) | [마나 스레드 수렴 인장 반지 (Mana Thread Convergence Signet)](마나%20스레드%20수렴%20인장%20반지%20%28Mana%20Thread%20Convergence%20Signet%29.md) |
 | 무게 중심의 마그넷 링 (Magnet Ring of Gravity Base) | [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](무게%20중심의%20마그넷%20링%20%28Magnet%20Ring%20of%20Gravity%20Base%29.md) |
 | 사냥꾼의 인장 반지 (Signet Ring of the Hunter's Mark) | [사냥꾼의 인장 반지 (Signet Ring of the Hunter's Mark)](사냥꾼의%20인장%20반지%20%28Signet%20Ring%20of%20the%20Hunter's%20Mark%29.md) |
+| 살기 응집의 맹수 인장 반지 (Beast-Signet Ring of Bloodlust Convergence) | [살기 응집의 맹수 인장 반지 (Beast-Signet Ring of Bloodlust Convergence)](살기%20응집의%20맹수%20인장%20반지%20%28Beast-Signet%20Ring%20of%20Bloodlust%20Convergence%29.md) |
+| 성흔 억제의 백은 신경 반지 (Silver Nerve Ring of Stigmata Suppression) | [성흔 억제의 백은 신경 반지 (Silver Nerve Ring of Stigmata Suppression)](성흔%20억제의%20백은%20신경%20반지%20%28Silver%20Nerve%20Ring%20of%20Stigmata%20Suppression%29.md) |
 | 솔라리스의 무통(無痛) 신경 반지 (Ring of Nerve-Dead Perseverance) | [솔라리스의 무통(無痛) 신경 반지 (Ring of Nerve-Dead Perseverance)](솔라리스의%20무통%28無痛%29%20신경%20반지%20%28Ring%20of%20Nerve-Dead%20Perseverance%29.md) |
 | 스톤블레이드 가문 차남 봉인 인장 (Second-Son Sealing Signet of House Stoneblade) | [스톤블레이드 가문 차남 봉인 인장 (Second-Son Sealing Signet of House Stoneblade)](스톤블레이드%20가문%20차남%20봉인%20인장%20%28Second-Son%20Sealing%20Signet%20of%20House%20Stoneblade%29.md) |
 | 신용 불량의 낙인 인장 (Signet Ring of Default) | [신용 불량의 낙인 인장 (Signet Ring of Default)](신용%20불량의%20낙인%20인장%20%28Signet%20Ring%20of%20Default%29.md) |
 | 심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal) | [심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal)](심연%20봉쇄의%20인장%20반지%20%28Signet%20Ring%20of%20Abyssal%20Seal%29.md) |
+| 아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross) | [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](아츠%20교차의%20시간%20각인%20반지%20%28Chrono-Engraved%20Ring%20of%20the%20Art-Cross%29.md) |
 | 억압된 족쇄 링 (Shackle Ring of the Repressed) | [억압된 족쇄 링 (Shackle Ring of the Repressed)](억압된%20족쇄%20링%20%28Shackle%20Ring%20of%20the%20Repressed%29.md) |
+| 엘도라 왕가의 뿌리 인장 반지 (Root Signet of House Eldora) | [엘도라 왕가의 뿌리 인장 반지 (Root Signet of House Eldora)](엘도라%20왕가의%20뿌리%20인장%20반지%20%28Root%20Signet%20of%20House%20Eldora%29.md) |
 | 저주받은 혈염의 인장 (Cursed Signet of Bloodflame) | [저주받은 혈염의 인장 (Cursed Signet of Bloodflame)](저주받은%20혈염의%20인장%20%28Cursed%20Signet%20of%20Bloodflame%29.md) |
 | 전쟁광의 인장 반지 (Signet of the Warmonger) | [전쟁광의 인장 반지 (Signet of the Warmonger)](전쟁광의%20인장%20반지%20%28Signet%20of%20the%20Warmonger%29.md) |
 | 지핵석의 반지 (Ring of the Core-Mantle) | [지핵석의 반지 (Ring of the Core-Mantle)](지핵석의%20반지%20%28Ring%20of%20the%20Core-Mantle%29.md) |
+| 피의 맹세 황제 인장 반지 (Emperor's Blood-Oath Signet Ring) | [피의 맹세 황제 인장 반지 (Emperor's Blood-Oath Signet Ring)](피의%20맹세%20황제%20인장%20반지%20%28Emperor's%20Blood-Oath%20Signet%20Ring%29.md) |
 | 피의 장부 인장 반지 (Signet Ring of the Blood Ledger) | [피의 장부 인장 반지 (Signet Ring of the Blood Ledger)](피의%20장부%20인장%20반지%20%28Signet%20Ring%20of%20the%20Blood%20Ledger%29.md) |
+| 현실 좌표 고착의 라벤더 봉인환 (Lavender Seal-Ring of Reality Anchoring) | [현실 좌표 고착의 라벤더 봉인환 (Lavender Seal-Ring of Reality Anchoring)](현실%20좌표%20고착의%20라벤더%20봉인환%20%28Lavender%20Seal-Ring%20of%20Reality%20Anchoring%29.md) |
+| 황제의 마나 각인 인장반지 (Imperial Mana-Brand Signet Ring) | [황제의 마나 각인 인장반지 (Imperial Mana-Brand Signet Ring)](황제의%20마나%20각인%20인장반지%20%28Imperial%20Mana-Brand%20Signet%20Ring%29.md) |

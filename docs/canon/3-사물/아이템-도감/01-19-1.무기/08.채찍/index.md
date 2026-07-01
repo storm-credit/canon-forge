@@ -6,16 +6,18 @@
 
 # 📚 채찍
 
-## 항목 (16)
+## 항목 (18)
 
 | 아이템 | 링크 |
 |--------|------|
 | 가시 덩굴의 속박 '브라이어 채찍' (Khaled Briarson's Briar Whip) | [가시 덩굴의 속박 '브라이어 채찍' (Khaled Briarson's Briar Whip)](가시%20덩굴의%20속박%20'브라이어%20채찍'%20%28Khaled%20Briarson's%20Briar%20Whip%29.md) |
+| 강제 해독의 성수 채찍 (Holy-Water Whip of Forced Detoxification) | [강제 해독의 성수 채찍 (Holy-Water Whip of Forced Detoxification)](강제%20해독의%20성수%20채찍%20%28Holy-Water%20Whip%20of%20Forced%20Detoxification%29.md) |
 | 고대 왕의 채찍 (Marcos Ruin's Whip of Ancient King) | [고대 왕의 채찍 (Marcos Ruin's Whip of Ancient King)](고대%20왕의%20채찍%20%28Marcos%20Ruin's%20Whip%20of%20Ancient%20King%29.md) |
 | 루나의 은빛혈관(Silver-Vein) 나노-채찍 (Nano-Whip of the Silver Vein of Runa) | [루나의 은빛혈관(Silver-Vein) 나노-채찍 (Nano-Whip of the Silver Vein of Runa)](루나의%20은빛혈관%28Silver-Vein%29%20나노-채찍%20%28Nano-Whip%20of%20the%20Silver%20Vein%20of%20Runa%29.md) |
 | 비명의 채찍 (Whip of Screams) | [비명의 채찍 (Whip of Screams)](비명의%20채찍%20%28Whip%20of%20Screams%29.md) |
 | 사슬 채찍 '어비스체인의 별빛' (Talia Abysschain's Chain Whip Starlight of Abysschain) | [사슬 채찍 '어비스체인의 별빛' (Talia Abysschain's Chain Whip Starlight of Abysschain)](사슬%20채찍%20'어비스체인의%20별빛'%20%28Talia%20Abysschain's%20Chain%20Whip%20Starlight%20of%20Abysschain%29.md) |
 | 시리우스의 강철 마수 채찍 (Steel Beast-Whip of Sirius) | [시리우스의 강철 마수 채찍 (Steel Beast-Whip of Sirius)](시리우스의%20강철%20마수%20채찍%20%28Steel%20Beast-Whip%20of%20Sirius%29.md) |
+| 아우렐리안 폭압 가속 채찍 (Aurelian Blast-Surge Riding Whip) | [아우렐리안 폭압 가속 채찍 (Aurelian Blast-Surge Riding Whip)](아우렐리안%20폭압%20가속%20채찍%20%28Aurelian%20Blast-Surge%20Riding%20Whip%29.md) |
 | 아이언 채찍 (Iron Whip) | [아이언 채찍 (Iron Whip)](아이언%20채찍%20%28Iron%20Whip%29.md) |
 | 영혼 불꽃 채찍 (Soul Flame Whip) | [영혼 불꽃 채찍 (Soul Flame Whip)](영혼%20불꽃%20채찍%20%28Soul%20Flame%20Whip%29.md) |
 | 장미 가시 채찍 '다스크의 장미' (Violetta Dusk's Thorn Whip of Rose) | [장미 가시 채찍 '다스크의 장미' (Violetta Dusk's Thorn Whip of Rose)](장미%20가시%20채찍%20'다스크의%20장미'%20%28Violetta%20Dusk's%20Thorn%20Whip%20of%20Rose%29.md) |

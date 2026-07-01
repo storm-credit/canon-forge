@@ -6,7 +6,7 @@
 
 # 📚 창
 
-## 항목 (80)
+## 항목 (82)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -46,6 +46,7 @@
 | 심해 쌍단창 '딥글라이더의 별빛' (Gideon Deepglider's Deep Spear Starlight of Deepglider) | [심해 쌍단창 '딥글라이더의 별빛' (Gideon Deepglider's Deep Spear Starlight of Deepglider)](심해%20쌍단창%20'딥글라이더의%20별빛'%20%28Gideon%20Deepglider's%20Deep%20Spear%20Starlight%20of%20Deepglider%29.md) |
 | 심해의 처형자 (Executioner of Abyss) | [심해의 처형자 (Executioner of Abyss)](심해의%20처형자%20%28Executioner%20of%20Abyss%29.md) |
 | 아스트라 미스트의 심해 작살 (Abyssal Harpoon of 아스트라 미스트) | [아스트라 미스트의 심해 작살 (Abyssal Harpoon of 아스트라 미스트)](아스트라%20미스트의%20심해%20작살%20%28Abyssal%20Harpoon%20of%20아스트라%20미스트%29.md) |
+| 아우렐리안의 태양을 꿰뚫는 창 (Sun-Piercing Lance of Aurelian) | [아우렐리안의 태양을 꿰뚫는 창 (Sun-Piercing Lance of Aurelian)](아우렐리안의%20태양을%20꿰뚫는%20창%20%28Sun-Piercing%20Lance%20of%20Aurelian%29.md) |
 | 아우렐리안의 태양을 꿰뚫는 창 | [아우렐리안의 태양을 꿰뚫는 창](아우렐리안의태양을꿰뚫는창.md) |
 | 야수왕의 창 (Spear of Beast King) | [야수왕의 창 (Spear of Beast King)](야수왕의%20창%20%28Spear%20of%20Beast%20King%29.md) |
 | 에리아누스의 창월(蒼月) 파장창 (Azure-Moon Pulse Staff of Erianus) | [에리아누스의 창월(蒼月) 파장창 (Azure-Moon Pulse Staff of Erianus)](에리아누스의%20창월%28蒼月%29%20파장창%20%28Azure-Moon%20Pulse%20Staff%20of%20Erianus%29.md) |
@@ -64,6 +65,7 @@
 | 창공의 랜스 (Lance of Zenith) | [창공의 랜스 (Lance of Zenith)](창공의%20랜스%20%28Lance%20of%20Zenith%29.md) |
 | 창공의 창 (Spear of the Firmament) | [창공의 창 (Spear of the Firmament)](창공의%20창%20%28Spear%20of%20the%20Firmament%29.md) |
 | 창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis) | [창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)](창세를%20조율하는%20엘도라의%20가지%20%28Branch%20of%20Eldora%20Tuning%20Genesis%29.md) |
+| 처단의 백염 돌격창 (White-Flame Assault Lance of Condemnation) | [처단의 백염 돌격창 (White-Flame Assault Lance of Condemnation)](처단의%20백염%20돌격창%20%28White-Flame%20Assault%20Lance%20of%20Condemnation%29.md) |
 | 천공의 랜스 (Lance of the Sky) | [천공의 랜스 (Lance of the Sky)](천공의%20랜스%20%28Lance%20of%20the%20Sky%29.md) |
 | 천공의 지배자 (Ruler of the Sky) | [천공의 지배자 (Ruler of the Sky)](천공의%20지배자%20%28Ruler%20of%20the%20Sky%29.md) |
 | 천둥을 가두는 마도 뇌창 '블리츠브링어' (Blitzbringer Spear) | [천둥을 가두는 마도 뇌창 '블리츠브링어' (Blitzbringer Spear)](천둥을%20가두는%20마도%20뇌창%20'블리츠브링어'%20%28Blitzbringer%20Spear%29.md) |

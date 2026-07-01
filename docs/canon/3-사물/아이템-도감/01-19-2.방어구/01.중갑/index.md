@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (52)
+## 항목 (53)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -28,6 +28,7 @@
 | 몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily) | [몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily)](몰락한%20백합의%20은빛%20흉갑%20%28Silver%20Corcelet%20of%20the%20Fallen%20Lily%29.md) |
 | 무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate) | [무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate)](무광%20저거너트%20전신%20중갑%20%28Matte-Black%20Juggernaut%20Full%20Plate%29.md) |
 | 백사자의 흉갑 (Cuirass of the White Lion) | [백사자의 흉갑 (Cuirass of the White Lion)](백사자의%20흉갑%20%28Cuirass%20of%20the%20White%20Lion%29.md) |
+| 백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate) | [백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate)](백은%20성교관%20풀%20플레이트%20%28Silver-White%20Inquisitor%20Full%20Plate%29.md) |
 | 블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren) | [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](블러드혼%20부락%20붕괴벽의%20대갑주%20%28Collapsed-Wall%20Great%20Armor%20of%20Bloodhorn%20Warren%29.md) |
 | 비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor) | [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](비룡%20비늘의%20화강암%20대갑%20%28Dragon-Scale%20Granite%20Greatarmor%29.md) |
 | 빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection) | [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](빛을%20반환하는%20아르젠툼%20풀%20플레이트%20%28Argentum%20Full%20Plate%20of%20Light-Reflection%29.md) |

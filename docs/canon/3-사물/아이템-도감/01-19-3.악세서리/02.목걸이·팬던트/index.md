@@ -6,7 +6,7 @@
 
 # 📚 목걸이·팬던트
 
-## 항목 (23)
+## 항목 (24)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -26,6 +26,7 @@
 | 에리안의 혼이 담긴 나침반 목걸이 (Compass Pendant of Elian’s Soul) | [에리안의 혼이 담긴 나침반 목걸이 (Compass Pendant of Elian’s Soul)](에리안의%20혼이%20담긴%20나침반%20목걸이%20%28Compass%20Pendant%20of%20Elian’s%20Soul%29.md) |
 | 열팽창 밸브 초커 (Thermal-Expansion Valve Choker) | [열팽창 밸브 초커 (Thermal-Expansion Valve Choker)](열팽창%20밸브%20초커%20%28Thermal-Expansion%20Valve%20Choker%29.md) |
 | 적열의 심장 펜던트 (Pendant of the Red-Heat Heart) | [적열의 심장 펜던트 (Pendant of the Red-Heat Heart)](적열의%20심장%20펜던트%20%28Pendant%20of%20the%20Red-Heat%20Heart%29.md) |
+| 전장 나팔 텔레파시 (Horn of Battlefield Telepathy) | [전장 나팔 텔레파시 (Horn of Battlefield Telepathy)](전장%20나팔%20텔레파시%20%28Horn%20of%20Battlefield%20Telepathy%29.md) |
 | 종교백과 - 최초 모래시계의 여신가루 목걸이 (Amulet of the First Hourglass Dust) | [종교백과 - 최초 모래시계의 여신가루 목걸이 (Amulet of the First Hourglass Dust)](종교백과%20-%20최초%20모래시계의%20여신가루%20목걸이%20%28Amulet%20of%20the%20First%20Hourglass%20Dust%29.md) |
 | 지진 핵 결정 목걸이 (Necklace of the Seismic Core-Crystal) | [지진 핵 결정 목걸이 (Necklace of the Seismic Core-Crystal)](지진%20핵%20결정%20목걸이%20%28Necklace%20of%20the%20Seismic%20Core-Crystal%29.md) |
 | 진실을 말하는 루비 초커 (Ruby Choker of Confession) | [진실을 말하는 루비 초커 (Ruby Choker of Confession)](진실을%20말하는%20루비%20초커%20%28Ruby%20Choker%20of%20Confession%29.md) |

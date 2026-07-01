@@ -6,12 +6,14 @@
 
 # 📚 투척
 
-## 항목 (7)
+## 항목 (9)
 
 | 아이템 | 링크 |
 |--------|------|
+| 대공 투척 원판 '산성화의 낙진' (Anti-Air Acid-Rain Throwing Disc) | [대공 투척 원판 '산성화의 낙진' (Anti-Air Acid-Rain Throwing Disc)](대공%20투척%20원판%20'산성화의%20낙진'%20%28Anti-Air%20Acid-Rain%20Throwing%20Disc%29.md) |
 | 데스티니 카드 (Destiny Card) | [데스티니 카드 (Destiny Card)](데스티니%20카드%20%28Destiny%20Card%29.md) |
 | 별빛 섬광탄 (Starlight Flash-Bang) | [별빛 섬광탄 (Starlight Flash-Bang)](별빛%20섬광탄%20%28Starlight%20Flash-Bang%29.md) |
+| 야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade) | [야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade)](야생%20환각%20맹독%20연무탄%20%28Wilderness%20Hallucinogen%20Toxin%20Smokegrenade%29.md) |
 | 육절의 그림자 비수 (Shadow Stilettos of the Six-Kill) | [육절의 그림자 비수 (Shadow Stilettos of the Six-Kill)](육절의%20그림자%20비수%20%28Shadow%20Stilettos%20of%20the%20Six-Kill%29.md) |
 | 은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers) | [은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers)](은장%20무음%20투척%20단검%20%28Silver-Mounted%20Silent%20Throwing%20Daggers%29.md) |
 | 천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony) | [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](천%20개의%20비명%20투척%20플라스크%20아고니%20%28Flask%20of%20A%20Thousand%20Screams%20Agony%29.md) |

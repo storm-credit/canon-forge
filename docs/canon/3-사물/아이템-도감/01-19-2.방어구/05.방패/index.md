@@ -6,7 +6,7 @@
 
 # 📚 방패
 
-## 항목 (49)
+## 항목 (50)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -35,6 +35,7 @@
 | 발테리온 실드포트의 미완성 직검 (Unfinished Blade of 발테리온 실드포트) | [발테리온 실드포트의 미완성 직검 (Unfinished Blade of 발테리온 실드포트)](발테리온%20실드포트의%20미완성%20직검%20%28Unfinished%20Blade%20of%20발테리온%20실드포트%29.md) |
 | 베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield) | [베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield)](베르누이의%20단열%20실드%20코르셋%20%28Corset%20of%20Bernoulli's%20Adiabatic%20Shield%29.md) |
 | 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield) | [빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)](빛의%20방패%20'브라이트실드'%20%28Theon%20Brightshield's%20Brightshield%29.md) |
+| 성역의 빛 원형 방패 (Sanctuary Radiance Buckler) | [성역의 빛 원형 방패 (Sanctuary Radiance Buckler)](성역의%20빛%20원형%20방패%20%28Sanctuary%20Radiance%20Buckler%29.md) |
 | 순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal) | [순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal)](순교자%20듀란달의%20무명%20대방패%20%28Nameless%20Greatshield%20of%20Durandal%29.md) |
 | 실드포트의 요새 방패 (Fortress Shield of Shieldfort) | [실드포트의 요새 방패 (Fortress Shield of Shieldfort)](실드포트의%20요새%20방패%20%28Fortress%20Shield%20of%20Shieldfort%29.md) |
 | 쌍면의 거울 방패 (Shield of Two Faces) | [쌍면의 거울 방패 (Shield of Two Faces)](쌍면의%20거울%20방패%20%28Shield%20of%20Two%20Faces%29.md) |

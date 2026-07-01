@@ -6,7 +6,7 @@
 
 # 📚 오브·마법서
 
-## 항목 (54)
+## 항목 (55)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -27,6 +27,7 @@
 | 백수정 유리구슬(Crystal of Destiny) | [백수정 유리구슬(Crystal of Destiny)](백수정%20유리구슬%28Crystal%20of%20Destiny%29.md) |
 | 별의 수정구 '스타 데이터' (Silen Rana's Star Crystal Orb) | [별의 수정구 '스타 데이터' (Silen Rana's Star Crystal Orb)](별의%20수정구%20'스타%20데이터'%20%28Silen%20Rana's%20Star%20Crystal%20Orb%29.md) |
 | 분류의 마도서 '카탈로그' (Clarissa Noq's Catalogue Tome) | [분류의 마도서 '카탈로그' (Clarissa Noq's Catalogue Tome)](분류의%20마도서%20'카탈로그'%20%28Clarissa%20Noq's%20Catalogue%20Tome%29.md) |
+| 브레인 싱크 비행 정찰 마도서 군 (Brain-Sync Aerial Surveillance Grimoire Fleet) | [브레인 싱크 비행 정찰 마도서 군 (Brain-Sync Aerial Surveillance Grimoire Fleet)](브레인%20싱크%20비행%20정찰%20마도서%20군%20%28Brain-Sync%20Aerial%20Surveillance%20Grimoire%20Fleet%29.md) |
 | 비밀을 속삭이는 심연의 금서 (Forbidden Book of the Abyss Whispering Secrets) | [비밀을 속삭이는 심연의 금서 (Forbidden Book of the Abyss Whispering Secrets)](비밀을%20속삭이는%20심연의%20금서%20%28Forbidden%20Book%20of%20the%20Abyss%20Whispering%20Secrets%29.md) |
 | 사자의 서 (Book of the Dead) | [사자의 서 (Book of the Dead)](사자의%20서%20%28Book%20of%20the%20Dead%29.md) |
 | 산 자의 가죽장정 마도서(Tome of the Skinned) | [산 자의 가죽장정 마도서(Tome of the Skinned)](산%20자의%20가죽장정%20마도서%28Tome%20of%20the%20Skinned%29.md) |

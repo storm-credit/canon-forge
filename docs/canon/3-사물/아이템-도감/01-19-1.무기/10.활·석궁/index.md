@@ -6,7 +6,7 @@
 
 # 📚 활·석궁
 
-## 항목 (48)
+## 항목 (49)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -44,6 +44,7 @@
 | 여명의 활 (Bow of Dawn) | [여명의 활 (Bow of Dawn)](여명의%20활%20%28Bow%20of%20Dawn%29.md) |
 | 와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind) | [와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind)](와일드윈드의%20숨결%20%28Rendra%20Wildwind's%20Breath%20of%20Wildwind%29.md) |
 | 은빛 달의 투사궁 (Projection Bow of the Silver Moon) | [은빛 달의 투사궁 (Projection Bow of the Silver Moon)](은빛%20달의%20투사궁%20%28Projection%20Bow%20of%20the%20Silver%20Moon%29.md) |
+| 진공 응축 화살통 — 제망의 퀴버 (Vacuum-Compressed Quiver of the Zephyr) | [진공 응축 화살통 — 제망의 퀴버 (Vacuum-Compressed Quiver of the Zephyr)](진공%20응축%20화살통%20—%20제망의%20퀴버%20%28Vacuum-Compressed%20Quiver%20of%20the%20Zephyr%29.md) |
 | 창공을 찢는 풍차궁 '제피론' (Windmill Bow of Firmament: Zephyron) | [창공을 찢는 풍차궁 '제피론' (Windmill Bow of Firmament: Zephyron)](창공을%20찢는%20풍차궁%20'제피론'%20%28Windmill%20Bow%20of%20Firmament%20Zephyron%29.md) |
 | 천공궁 브릴리언트 아퀼라 (Sky-Bow: Brilliant Aquila) | [천공궁 브릴리언트 아퀼라 (Sky-Bow: Brilliant Aquila)](천공궁%20브릴리언트%20아퀼라%20%28Sky-Bow%20Brilliant%20Aquila%29.md) |
 | 천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge) | [천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge)](천공의%20저격궁%20'별빛%20쐐기'%20%28Sniper%20Bow%20of%20the%20Firmament%20Starlight%20Wedge%29.md) |

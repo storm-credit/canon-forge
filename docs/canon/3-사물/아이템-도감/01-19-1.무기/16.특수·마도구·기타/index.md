@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (214)
+## 항목 (219)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -61,6 +61,7 @@
 | 무한의 잉크병 (Edwin Rosfelt's Inkwell of Infinity) | [무한의 잉크병 (Edwin Rosfelt's Inkwell of Infinity)](무한의%20잉크병%20%28Edwin%20Rosfelt's%20Inkwell%20of%20Infinity%29.md) |
 | 무한의 플라스크 (Infinite Flask) | [무한의 플라스크 (Infinite Flask)](무한의%20플라스크%20%28Infinite%20Flask%29.md) |
 | 미스트랄 와이어 런처 (Mistral Wire Launcher) | [미스트랄 와이어 런처 (Mistral Wire Launcher)](미스트랄%20와이어%20런처%20%28Mistral%20Wire%20Launcher%29.md) |
+| 방벽 횃불 릴레이 지휘 신호패 (Wall-Torch Relay Command Signal Token) | [방벽 횃불 릴레이 지휘 신호패 (Wall-Torch Relay Command Signal Token)](방벽%20횃불%20릴레이%20지휘%20신호패%20%28Wall-Torch%20Relay%20Command%20Signal%20Token%29.md) |
 | 방전 스패너(Discharge Wrench) | [방전 스패너(Discharge Wrench)](방전%20스패너%28Discharge%20Wrench%29.md) |
 | 백야의 락픽(Skeleton Lockpick) | [백야의 락픽(Skeleton Lockpick)](백야의%20락픽%28Skeleton%20Lockpick%29.md) |
 | 백은의 약초 바구니(Silver Herbal Basket) | [백은의 약초 바구니(Silver Herbal Basket)](백은의%20약초%20바구니%28Silver%20Herbal%20Basket%29.md) |
@@ -119,6 +120,7 @@
 | 아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis) | [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](아스트랄리스의%20운석%20파편%28Meteor%29%20아스트롤라베%20%28Astrolabe%20of%20Meteor%20Shards%20of%20Astralis%29.md) |
 | 아이언하트의 깨진 모루 (Shattered Anvil of Ironheart) | [아이언하트의 깨진 모루 (Shattered Anvil of Ironheart)](아이언하트의%20깨진%20모루%20%28Shattered%20Anvil%20of%20Ironheart%29.md) |
 | 아이테르눔의 무덤(Tomb) 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum) | [아이테르눔의 무덤(Tomb) 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum)](아이테르눔의%20무덤%28Tomb%29%20기록이%20적인%20거대%20석판%20%28Giant%20Stone%20Tablet%20Inscribed%20with%20Tomb%20Records%20of%20Aeternum%29.md) |
+| 아카식 기록 만년필 (Akashic Archiving Fountain Pen) | [아카식 기록 만년필 (Akashic Archiving Fountain Pen)](아카식%20기록%20만년필%20%28Akashic%20Archiving%20Fountain%20Pen%29.md) |
 | 아카식 램프 (Armando Veller's Akashic Lamp) | [아카식 램프 (Armando Veller's Akashic Lamp)](아카식%20램프%20%28Armando%20Veller's%20Akashic%20Lamp%29.md) |
 | 아카식 만년필 (Akashic Pen) | [아카식 만년필 (Akashic Pen)](아카식%20만년필%20%28Akashic%20Pen%29.md) |
 | 아케론의 분노 (Wrath of Acheron) | [아케론의 분노 (Wrath of Acheron)](아케론의%20분노%20%28Wrath%20of%20Acheron%29.md) |
@@ -160,12 +162,15 @@
 | 위선의 램프 (Lamp of Hypocrisy) | [위선의 램프 (Lamp of Hypocrisy)](위선의%20램프%20%28Lamp%20of%20Hypocrisy%29.md) |
 | 은빛 부채 (Silver Fan) | [은빛 부채 (Silver Fan)](은빛%20부채%20%28Silver%20Fan%29.md) |
 | 이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus) | [이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus)](이그니투스의%20저주받은%20늑골장%20%28Cursed%20Rib-Lance%20of%20Ignitus%29.md) |
+| 이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor) | [이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor)](이단%20심판관의%20검은%20묵주망%20%28Black%20Rosary%20Net%20of%20the%20Heresy%20Inquisitor%29.md) |
+| 이단심문의 자물쇠 성서 (Padlocked Scripture of the Inquisitor) | [이단심문의 자물쇠 성서 (Padlocked Scripture of the Inquisitor)](이단심문의%20자물쇠%20성서%20%28Padlocked%20Scripture%20of%20the%20Inquisitor%29.md) |
 | 이자벨라의 피 묻은 회계 장부 - 저당(Mortgage) | [이자벨라의 피 묻은 회계 장부 - 저당(Mortgage)](이자벨라의%20피%20묻은%20회계%20장부%20-%20저당%28Mortgage%29.md) |
 | 인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis) | [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](인쿠디스의%20형상기억%20분쇄마치%20%28Shape-Memory%20Crusher%20of%20Incudis%29.md) |
 | 잊혀진 시간의 유적 탐사등 (Ruins Exploration Lantern of Forgotten Time) | [잊혀진 시간의 유적 탐사등 (Ruins Exploration Lantern of Forgotten Time)](잊혀진%20시간의%20유적%20탐사등%20%28Ruins%20Exploration%20Lantern%20of%20Forgotten%20Time%29.md) |
 | 잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time) | [잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time)](잊혀진%20시간의%20파쇄%20곡괭이-탐사등%20%28Pickaxe-Lantern%20of%20Forgotten%20Time%29.md) |
 | 자율 골렘 지휘봉 (Mecharis' Autonomous Command Rod) | [자율 골렘 지휘봉 (Mecharis' Autonomous Command Rod)](자율%20골렘%20지휘봉%20%28Mecharis'%20Autonomous%20Command%20Rod%29.md) |
 | 자이언트 시린지 (Giant Syringe) | [자이언트 시린지 (Giant Syringe)](자이언트%20시린지%20%28Giant%20Syringe%29.md) |
+| 작열 마도 이륜 '아르카나 잔재' (Arcana-Remnant Searing Magitech Bike) | [작열 마도 이륜 '아르카나 잔재' (Arcana-Remnant Searing Magitech Bike)](작열%20마도%20이륜%20'아르카나%20잔재'%20%28Arcana-Remnant%20Searing%20Magitech%20Bike%29.md) |
 | 재앙 사자후의 마나 증폭 마석 (Catastrophe-Broadcast Mana Amplifier) | [재앙 사자후의 마나 증폭 마석 (Catastrophe-Broadcast Mana Amplifier)](재앙%20사자후의%20마나%20증폭%20마석%20%28Catastrophe-Broadcast%20Mana%20Amplifier%29.md) |
 | 저주의 바늘 '쉐이드마스터의 실' (Nicholas Shademaster's Needle of Curse) | [저주의 바늘 '쉐이드마스터의 실' (Nicholas Shademaster's Needle of Curse)](저주의%20바늘%20'쉐이드마스터의%20실'%20%28Nicholas%20Shademaster's%20Needle%20of%20Curse%29.md) |
 | 저주의 바늘 (Needle of Curse) | [저주의 바늘 (Needle of Curse)](저주의%20바늘%20%28Needle%20of%20Curse%29.md) |

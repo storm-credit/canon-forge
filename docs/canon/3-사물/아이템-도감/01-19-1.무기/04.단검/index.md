@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (115)
+## 항목 (117)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -23,6 +23,7 @@
 | 그림자 송곳니 (Shadow Fang) | [그림자 송곳니 (Shadow Fang)](그림자%20송곳니%20%28Shadow%20Fang%29.md) |
 | 그림자 스텝 쌍단검 (Shadowstep Twin Blades) | [그림자 스텝 쌍단검 (Shadowstep Twin Blades)](그림자%20스텝%20쌍단검%20%28Shadowstep%20Twin%20Blades%29.md) |
 | 그림자 장미 단검 (Shadow Rose Dagger) | [그림자 장미 단검 (Shadow Rose Dagger)](그림자%20장미%20단검%20%28Shadow%20Rose%20Dagger%29.md) |
+| 그림자 처형식의 비수 (Dagger of Shadow Execution Rite) | [그림자 처형식의 비수 (Dagger of Shadow Execution Rite)](그림자%20처형식의%20비수%20%28Dagger%20of%20Shadow%20Execution%20Rite%29.md) |
 | 그림자절단의 단검 (Dagger of Shadowsevering) | [그림자절단의 단검 (Dagger of Shadowsevering)](그림자절단의%20단검%20%28Dagger%20of%20Shadowsevering%29.md) |
 | 넵튠 (Neptune) | [넵튠 (Neptune)](넵튠%20%28Neptune%29.md) |
 | 노크투리아의 자정 안식 단검 (Midnight Repose Daggers of Nocturia) | [노크투리아의 자정 안식 단검 (Midnight Repose Daggers of Nocturia)](노크투리아의%20자정%20안식%20단검%20%28Midnight%20Repose%20Daggers%20of%20Nocturia%29.md) |
@@ -37,6 +38,7 @@
 | 독사의 송곳니 (Fang of Viper) | [독사의 송곳니 (Fang of Viper)](독사의%20송곳니%20%28Fang%20of%20Viper%29.md) |
 | 독사의 어금니 '바이퍼 팽' (Calix Xenos's Viper Fang) | [독사의 어금니 '바이퍼 팽' (Calix Xenos's Viper Fang)](독사의%20어금니%20'바이퍼%20팽'%20%28Calix%20Xenos's%20Viper%20Fang%29.md) |
 | 독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper) | [독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper)](독사의%20춤추는%20쌍날%20단검%20'독무'%20%28Dancing%20Twin-Daggers%20of%20Viper%29.md) |
+| 독초 림보 단검 — 그림자의 어금니 (Toxin-Rimmed Backup Dagger Shadow Fang of Mera) | [독초 림보 단검 — 그림자의 어금니 (Toxin-Rimmed Backup Dagger Shadow Fang of Mera)](독초%20림보%20단검%20—%20그림자의%20어금니%20%28Toxin-Rimmed%20Backup%20Dagger%20Shadow%20Fang%20of%20Mera%29.md) |
 | 뒷골목 타짜의 홀수 단검 (Odd-Numbered Dagger of the Backstreet Gambler) | [뒷골목 타짜의 홀수 단검 (Odd-Numbered Dagger of the Backstreet Gambler)](뒷골목%20타짜의%20홀수%20단검%20%28Odd-Numbered%20Dagger%20of%20the%20Backstreet%20Gambler%29.md) |
 | 디오스쿠로이의 낙하 단검 (Falling Blade of 디오스쿠로이) | [디오스쿠로이의 낙하 단검 (Falling Blade of 디오스쿠로이)](디오스쿠로이의%20낙하%20단검%20%28Falling%20Blade%20of%20디오스쿠로이%29.md) |
 | 라그나 솔의 낙하 단검 (Falling Blade of 라그나 솔) | [라그나 솔의 낙하 단검 (Falling Blade of 라그나 솔)](라그나%20솔의%20낙하%20단검%20%28Falling%20Blade%20of%20라그나%20솔%29.md) |

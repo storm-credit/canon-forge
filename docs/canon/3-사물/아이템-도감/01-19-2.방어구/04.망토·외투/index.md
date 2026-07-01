@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (48)
+## 항목 (55)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -32,8 +32,11 @@
 | 밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky) | [밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky)](밤하늘의%20위장%20은신%20망토%20%28Camouflage%20Cloak%20of%20the%20Night%20Sky%29.md) |
 | 별빛 장막의 칠흑 베일 (Veil of Starlit Onyx) | [별빛 장막의 칠흑 베일 (Veil of Starlit Onyx)](별빛%20장막의%20칠흑%20베일%20%28Veil%20of%20Starlit%20Onyx%29.md) |
 | 불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion) | [불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion)](불가사의한%20운명%20회피의%20베일%20%28Veil%20of%20Inscrutable%20Fate-Evasion%29.md) |
+| 붉은 폭풍 돌격 망토 (Red Storm Assault Cloak) | [붉은 폭풍 돌격 망토 (Red Storm Assault Cloak)](붉은%20폭풍%20돌격%20망토%20%28Red%20Storm%20Assault%20Cloak%29.md) |
 | 비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils) | [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](비탄의%20넝쿨손%20구호%20망토%20%28Mantle%20of%20Sorrow's%20Tendrils%29.md) |
 | 빛바랜 올빼미 망토 (Faded Cloak of the Owl) | [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](빛바랜%20올빼미%20망토%20%28Faded%20Cloak%20of%20the%20Owl%29.md) |
+| 선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum) | [선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum)](선혈이%20물든%20아르젠툼%20은빛%20망토%20%28Blood-Soaked%20Silver%20Cloak%20of%20Argentum%29.md) |
+| 솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment) | [솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment)](솔라리스%20처단의%20붉은%20서코트%20%28Crimson%20Surcoat%20of%20Solaris%20Judgment%29.md) |
 | 순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds) | [순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds)](순간%20엇갈림의%20회중%20망토%20%28Pocket-Watch%20Cloak%20of%20Split%20Seconds%29.md) |
 | 순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr) | [순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr)](순교자의%20피%20묻은%20제국%20망토%20%28Blood-stained%20Empire%20Cloak%20of%20the%20Martyr%29.md) |
 | 순교자의 피맺힌 베일 (Blood-Stained Veil of the Martyr) | [순교자의 피맺힌 베일 (Blood-Stained Veil of the Martyr)](순교자의%20피맺힌%20베일%20%28Blood-Stained%20Veil%20of%20the%20Martyr%29.md) |
@@ -49,12 +52,16 @@
 | 이성의 재봉선 망토 (Cape of the Thread of Reason) | [이성의 재봉선 망토 (Cape of the Thread of Reason)](이성의%20재봉선%20망토%20%28Cape%20of%20the%20Thread%20of%20Reason%29.md) |
 | 재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano) | [재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano)](재앙이%20깃든%20화산의%20망토%20%28Cloak%20of%20the%20Calamitous%20Volcano%29.md) |
 | 절연된 참모의 망토 (Insulated Cloak of the Staff) | [절연된 참모의 망토 (Insulated Cloak of the Staff)](절연된%20참모의%20망토%20%28Insulated%20Cloak%20of%20the%20Staff%29.md) |
+| 지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe) | [지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe)](지맥%20황제의%20착좌%20흑요%20장포%20%28Leyline%20Emperor's%20Seated%20Obsidian%20Robe%29.md) |
 | 창백한 밤성운의 베일 (Veil of the Pale Nebula) | [창백한 밤성운의 베일 (Veil of the Pale Nebula)](창백한%20밤성운의%20베일%20%28Veil%20of%20the%20Pale%20Nebula%29.md) |
+| 칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition) | [칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition)](칠흑%20박학의%20지식인%20코트%20%28Jet-Black%20Scholar's%20Coat%20of%20Erudition%29.md) |
 | 침묵의 흑막 베일 (Silent Veil of the Void) | [침묵의 흑막 베일 (Silent Veil of the Void)](침묵의%20흑막%20베일%20%28Silent%20Veil%20of%20the%20Void%29.md) |
 | 카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale) | [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](카멜레온%20용린의%20심연%20망토%20%28Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale%29.md) |
 | 카멜레온의 환영 장막 (Illusionary Veil of the Chameleon) | [카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](카멜레온의%20환영%20장막%20%28Illusionary%20Veil%20of%20the%20Chameleon%29.md) |
 | 크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak) | [크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak)](크라켄의%20먹물%20젤리%20망토%20%28Squid-Ink%20Jelly%20Cloak%29.md) |
 | 태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse) | [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](태양풍을%20흡수하는%20일식%28Eclipse%29의%20베일%20%28Veil%20of%20Eclipse%29.md) |
 | 투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void) | [투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void)](투명화%20마법%20도료가%20발린%20위장%20망토%20%28Camouflage%20Cloak%20of%20the%20Void%29.md) |
+| 해진 잿빛 망토 (Tattered Ashen Cloak) | [해진 잿빛 망토 (Tattered Ashen Cloak)](해진%20잿빛%20망토%20%28Tattered%20Ashen%20Cloak%29.md) |
 | 황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower) | [황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower)](황금%20태엽%20역행%20코트%20%28Reverse-Gear%20Golden%20Coat%20of%20the%20Time%20Tower%29.md) |
 | 흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler) | [흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler)](흉갑이%20없는%20투사의%20망토%20%28Cloak%20of%20the%20Bare-Chested%20Brawler%29.md) |
+| 흑우 기병 코트 '까마귀의 날개' (Cavalry Coat of the Raven's Wing) | [흑우 기병 코트 '까마귀의 날개' (Cavalry Coat of the Raven's Wing)](흑우%20기병%20코트%20'까마귀의%20날개'%20%28Cavalry%20Coat%20of%20the%20Raven's%20Wing%29.md) |

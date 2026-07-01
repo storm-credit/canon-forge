@@ -6,7 +6,7 @@
 
 # 📚 보석
 
-## 항목 (10)
+## 항목 (11)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -20,3 +20,4 @@
 | 전쟁의 아카이브 구체 (Chronicles of War Sphere) | [전쟁의 아카이브 구체 (Chronicles of War Sphere)](전쟁의%20아카이브%20구체%20%28Chronicles%20of%20War%20Sphere%29.md) |
 | 절대영도의 빙결 원석 (Absolute Zero Glacial Core) | [절대영도의 빙결 원석 (Absolute Zero Glacial Core)](절대영도의%20빙결%20원석%20%28Absolute%20Zero%20Glacial%20Core%29.md) |
 | 종교백과 - 테네브리움의 숨결 파편 보주 (Orb of Tenebrium's Breath Shard) | [종교백과 - 테네브리움의 숨결 파편 보주 (Orb of Tenebrium's Breath Shard)](종교백과%20-%20테네브리움의%20숨결%20파편%20보주%20%28Orb%20of%20Tenebrium's%20Breath%20Shard%29.md) |
+| 태초의 달빛 결정 (Primordial Moonlight Crystal) | [태초의 달빛 결정 (Primordial Moonlight Crystal)](태초의%20달빛%20결정%20%28Primordial%20Moonlight%20Crystal%29.md) |

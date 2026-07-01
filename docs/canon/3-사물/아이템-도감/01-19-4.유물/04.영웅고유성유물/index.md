@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (200)
+## 항목 (201)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -154,6 +154,7 @@
 | 절대 영점 탄도학 조시경 (Absolute-Zero Ballistic Monocle) | [절대 영점 탄도학 조시경 (Absolute-Zero Ballistic Monocle)](절대%20영점%20탄도학%20조시경%20%28Absolute-Zero%20Ballistic%20Monocle%29.md) |
 | 절대 좌표 영점 나침반 (Absolute Zero-Coordinate Compass) | [절대 좌표 영점 나침반 (Absolute Zero-Coordinate Compass)](절대%20좌표%20영점%20나침반%20%28Absolute%20Zero-Coordinate%20Compass%29.md) |
 | 족쇄의 심장 | [족쇄의 심장](족쇄의심장.md) |
+| 존재 좌표 앵커 코어 (Existence-Coordinate Anchor Core) | [존재 좌표 앵커 코어 (Existence-Coordinate Anchor Core)](존재%20좌표%20앵커%20코어%20%28Existence-Coordinate%20Anchor%20Core%29.md) |
 | 종교백과 - 네메시스의 눈먼 주시자 안대 (Blindfold of Nemesis's Watcher) | [종교백과 - 네메시스의 눈먼 주시자 안대 (Blindfold of Nemesis's Watcher)](종교백과%20-%20네메시스의%20눈먼%20주시자%20안대%20%28Blindfold%20of%20Nemesis's%20Watcher%29.md) |
 | 종교백과 - 네메시스의 일그러진 은거울 (Distorted Silver Mirror of Nemesis) | [종교백과 - 네메시스의 일그러진 은거울 (Distorted Silver Mirror of Nemesis)](종교백과%20-%20네메시스의%20일그러진%20은거울%20%28Distorted%20Silver%20Mirror%20of%20Nemesis%29.md) |
 | 종교백과 - 네메시스의 피투성이 뼈 피리 (Bloodied Bone Flute of Nemesis) | [종교백과 - 네메시스의 피투성이 뼈 피리 (Bloodied Bone Flute of Nemesis)](종교백과%20-%20네메시스의%20피투성이%20뼈%20피리%20%28Bloodied%20Bone%20Flute%20of%20Nemesis%29.md) |

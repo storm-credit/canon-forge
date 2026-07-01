@@ -6,7 +6,7 @@
 
 # 📚 화기
 
-## 항목 (24)
+## 항목 (25)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -29,6 +29,7 @@
 | 유성의 소총 성구 (Meteorite Rifle 'Estrella') | [유성의 소총 성구 (Meteorite Rifle 'Estrella')](유성의%20소총%20성구%20%28Meteorite%20Rifle%20'Estrella'%29.md) |
 | 이즈라엘의 월장석 머스킷 - 나이트 리퍼 (Moonstone Long-Rifle, Night-Reaper) | [이즈라엘의 월장석 머스킷 - 나이트 리퍼 (Moonstone Long-Rifle, Night-Reaper)](이즈라엘의%20월장석%20머스킷%20-%20나이트%20리퍼%20%28Moonstone%20Long-Rifle,%20Night-Reaper%29.md) |
 | 인장 분쇄용 대구경 마도 저격총, 아포칼립스 | [인장 분쇄용 대구경 마도 저격총, 아포칼립스](인장분쇄용대구경마도저격총아포칼립스.md) |
+| 조수와 역류 - 쌍단총 스터드 벨트 (Tide & Riptide — Twin Flintlock Stud Belt) | [조수와 역류 - 쌍단총 스터드 벨트 (Tide & Riptide — Twin Flintlock Stud Belt)](조수와%20역류%20-%20쌍단총%20스터드%20벨트%20%28Tide%20&%20Riptide%20—%20Twin%20Flintlock%20Stud%20Belt%29.md) |
 | 템페스트의 벼락쐐기 쌍단총 (Lightning-Wedge Dual Revolvers) | [템페스트의 벼락쐐기 쌍단총 (Lightning-Wedge Dual Revolvers)](템페스트의%20벼락쐐기%20쌍단총%20%28Lightning-Wedge%20Dual%20Revolvers%29.md) |
 | 플라즈마-에테르 드래건 캐논 (Plasma-Ether Cannon) | [플라즈마-에테르 드래건 캐논 (Plasma-Ether Cannon)](플라즈마-에테르%20드래건%20캐논%20%28Plasma-Ether%20Cannon%29.md) |
 | 호신용 마도 권총 (Self-Defense Magic Pistol) | [호신용 마도 권총 (Self-Defense Magic Pistol)](호신용%20마도%20권총%20%28Self-Defense%20Magic%20Pistol%29.md) |

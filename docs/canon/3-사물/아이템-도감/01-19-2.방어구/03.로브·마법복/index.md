@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (140)
+## 항목 (143)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -15,6 +15,7 @@
 | 공허 실크의 드레스 (Dress of Void Silk) | [공허 실크의 드레스 (Dress of Void Silk)](공허%20실크의%20드레스%20%28Dress%20of%20Void%20Silk%29.md) |
 | 광자 거울 튜닉 (Photon Mirror Tunic) | [광자 거울 튜닉 (Photon Mirror Tunic)](광자%20거울%20튜닉%20%28Photon%20Mirror%20Tunic%29.md) |
 | 광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon) | [광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon)](광학%20반사경%20미라주%20고치%20%28Optical%20Reflector%20Mirage%20Cocoon%29.md) |
+| 구름 직조 몽사 시폰 예복 (Dream-Woven Chiffon Vestment of Clouds) | [구름 직조 몽사 시폰 예복 (Dream-Woven Chiffon Vestment of Clouds)](구름%20직조%20몽사%20시폰%20예복%20%28Dream-Woven%20Chiffon%20Vestment%20of%20Clouds%29.md) |
 | 구속의 미스릴 붕대 (Mithril Bandages of Restraint) | [구속의 미스릴 붕대 (Mithril Bandages of Restraint)](구속의%20미스릴%20붕대%20%28Mithril%20Bandages%20of%20Restraint%29.md) |
 | 구원 대주교의 백은 제의 (White-Silver Vestment of the Salvation Archbishop) | [구원 대주교의 백은 제의 (White-Silver Vestment of the Salvation Archbishop)](구원%20대주교의%20백은%20제의%20%28White-Silver%20Vestment%20of%20the%20Salvation%20Archbishop%29.md) |
 | 그림자 녹아내린 기도보 (Cloak of Melted Shadows) | [그림자 녹아내린 기도보 (Cloak of Melted Shadows)](그림자%20녹아내린%20기도보%20%28Cloak%20of%20Melted%20Shadows%29.md) |
@@ -46,6 +47,7 @@
 | 무지성 방벽의 코트 (Coat of the Unthinking Aegis) | [무지성 방벽의 코트 (Coat of the Unthinking Aegis)](무지성%20방벽의%20코트%20%28Coat%20of%20the%20Unthinking%20Aegis%29.md) |
 | 미래를 훔친 자의 차원 로브 (Dimensional Robe of the Future-Thief) | [미래를 훔친 자의 차원 로브 (Dimensional Robe of the Future-Thief)](미래를%20훔친%20자의%20차원%20로브%20%28Dimensional%20Robe%20of%20the%20Future-Thief%29.md) |
 | 미스릴-코르크 복합 구명 흉갑 (Mithril-Cork Buoyant Cuirass) | [미스릴-코르크 복합 구명 흉갑 (Mithril-Cork Buoyant Cuirass)](미스릴-코르크%20복합%20구명%20흉갑%20%28Mithril-Cork%20Buoyant%20Cuirass%29.md) |
+| 바람결의 로브 (Robes of the Windweave) | [바람결의 로브 (Robes of the Windweave)](바람결의%20로브%20%28Robes%20of%20the%20Windweave%29.md) |
 | 박살난 장교의 금박 견갑 코트 (Shattered Officer's Gold-Lace Coat) | [박살난 장교의 금박 견갑 코트 (Shattered Officer's Gold-Lace Coat)](박살난%20장교의%20금박%20견갑%20코트%20%28Shattered%20Officer's%20Gold-Lace%20Coat%29.md) |
 | 박제된 진실의 은테 안경 (Silver-rimmed Glasses of Stuffed Truth) | [박제된 진실의 은테 안경 (Silver-rimmed Glasses of Stuffed Truth)](박제된%20진실의%20은테%20안경%20%28Silver-rimmed%20Glasses%20of%20Stuffed%20Truth%29.md) |
 | 반응형 에테리움 헥사 실드 코트 (Reactive Hexa-Shield Coat) | [반응형 에테리움 헥사 실드 코트 (Reactive Hexa-Shield Coat)](반응형%20에테리움%20헥사%20실드%20코트%20%28Reactive%20Hexa-Shield%20Coat%29.md) |
@@ -144,6 +146,7 @@
 | 폭염 차단 강선 코트 (Blast-Proof Rifled Coat) | [폭염 차단 강선 코트 (Blast-Proof Rifled Coat)](폭염%20차단%20강선%20코트%20%28Blast-Proof%20Rifled%20Coat%29.md) |
 | 폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess) | [폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess)](폭우를%20머금은%20여신의%20젖은%20숄%20%28Wet%20Shawl%20of%20the%20Rain-Goddess%29.md) |
 | 풍향계의 깃털 코트 (Feather Coat of the Vane) | [풍향계의 깃털 코트 (Feather Coat of the Vane)](풍향계의%20깃털%20코트%20%28Feather%20Coat%20of%20the%20Vane%29.md) |
+| 합금 규격 전략 코트 (Alloy-Standard Tactical Coat) | [합금 규격 전략 코트 (Alloy-Standard Tactical Coat)](합금%20규격%20전략%20코트%20%28Alloy-Standard%20Tactical%20Coat%29.md) |
 | 현자의 예지망투 (Mantle of Sage's Foresight) | [현자의 예지망투 (Mantle of Sage's Foresight)](현자의%20예지망투%20%28Mantle%20of%20Sage's%20Foresight%29.md) |
 | 현자의 필사본 숄 (Shawl of the Sage's Manuscript) | [현자의 필사본 숄 (Shawl of the Sage's Manuscript)](현자의%20필사본%20숄%20%28Shawl%20of%20the%20Sage's%20Manuscript%29.md) |
 | 화상 입은 언데드의 닻 사슬 (Rusted Anchor Chains of the Burned Undead) | [화상 입은 언데드의 닻 사슬 (Rusted Anchor Chains of the Burned Undead)](화상%20입은%20언데드의%20닻%20사슬%20%28Rusted%20Anchor%20Chains%20of%20the%20Burned%20Undead%29.md) |
