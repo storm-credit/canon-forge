@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (135)
+## 항목 (138)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -96,6 +96,7 @@
 | 신성 위상의 수의 (Shroud of Sacred Phase) | [신성 위상의 수의 (Shroud of Sacred Phase)](신성%20위상의%20수의%20%28Shroud%20of%20Sacred%20Phase%29.md) |
 | 실프의 속삭임 발찌 (Anklet of Sylph's Whisper) | [실프의 속삭임 발찌 (Anklet of Sylph's Whisper)](실프의%20속삭임%20발찌%20%28Anklet%20of%20Sylph's%20Whisper%29.md) |
 | 심연 해류의 아쿠아 숄 (Aqua Shawl of Abyssal Currents) | [심연 해류의 아쿠아 숄 (Aqua Shawl of Abyssal Currents)](심연%20해류의%20아쿠아%20숄%20%28Aqua%20Shawl%20of%20Abyssal%20Currents%29.md) |
+| 심해 왕국 제1마법사단 예복 (Deep-Kingdom First Mage Corps Vestment) | [심해 왕국 제1마법사단 예복 (Deep-Kingdom First Mage Corps Vestment)](심해%20왕국%20제1마법사단%20예복%20%28Deep-Kingdom%20First%20Mage%20Corps%20Vestment%29.md) |
 | 심해어의 액체 방벽 후드 (Liquid Camouflage Hood of the Deep) | [심해어의 액체 방벽 후드 (Liquid Camouflage Hood of the Deep)](심해어의%20액체%20방벽%20후드%20%28Liquid%20Camouflage%20Hood%20of%20the%20Deep%29.md) |
 | 아르테니아 플라멜의 천공 방패 (Shield of the Firmament) | [아르테니아 플라멜의 천공 방패 (Shield of the Firmament)](아르테니아%20플라멜의%20천공%20방패%20%28Shield%20of%20the%20Firmament%29.md) |
 | 아이언홀드의 숨막히는 구속복 (Suffocating Plate of Ironhold) | [아이언홀드의 숨막히는 구속복 (Suffocating Plate of Ironhold)](아이언홀드의%20숨막히는%20구속복%20%28Suffocating%20Plate%20of%20Ironhold%29.md) |
@@ -131,7 +132,9 @@
 | 칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow) | [칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow)](칠흑%20맹세의%20단죄복%20%28Inquisitor's%20Garb%20of%20Ebon%20Vow%29.md) |
 | 칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress) | [칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress)](칠흑의%20거미줄%20코르셋%20드레스%20%28Abyssal%20Arachnet%20Corset-Dress%29.md) |
 | 크로노스의 재의 로브 (Ash Robe of Chronos) | [크로노스의 재의 로브 (Ash Robe of Chronos)](크로노스의%20재의%20로브%20%28Ash%20Robe%20of%20Chronos%29.md) |
+| 크림슨 연구소의 자기 부식 실험복 (Self-Corroded Labcoat of the Crimson Lab) | [크림슨 연구소의 자기 부식 실험복 (Self-Corroded Labcoat of the Crimson Lab)](크림슨%20연구소의%20자기%20부식%20실험복%20%28Self-Corroded%20Labcoat%20of%20the%20Crimson%20Lab%29.md) |
 | 타임 딜레이(Delay) 양자 캐미솔 | [타임 딜레이(Delay) 양자 캐미솔](타임%20딜레이%28Delay%29%20양자%20캐미솔.md) |
+| 태양 집행관의 불멸 제복 (Eternal Vestment of the Solar Inquisitor) | [태양 집행관의 불멸 제복 (Eternal Vestment of the Solar Inquisitor)](태양%20집행관의%20불멸%20제복%20%28Eternal%20Vestment%20of%20the%20Solar%20Inquisitor%29.md) |
 | 패러데이(Faraday) 마도광 굴절 코트 | [패러데이(Faraday) 마도광 굴절 코트](패러데이%28Faraday%29%20마도광%20굴절%20코트.md) |
 | 폐기된 역장 발생 코일 (Discarded Force-field Coil) | [폐기된 역장 발생 코일 (Discarded Force-field Coil)](폐기된%20역장%20발생%20코일%20%28Discarded%20Force-field%20Coil%29.md) |
 | 포세이돈의 은총이 깃든 흑기 코트 (Black Flag Coat of Poseidon) | [포세이돈의 은총이 깃든 흑기 코트 (Black Flag Coat of Poseidon)](포세이돈의%20은총이%20깃든%20흑기%20코트%20%28Black%20Flag%20Coat%20of%20Poseidon%29.md) |

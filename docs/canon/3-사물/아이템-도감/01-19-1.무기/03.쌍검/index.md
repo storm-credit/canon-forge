@@ -6,10 +6,11 @@
 
 # 📚 쌍검
 
-## 항목 (24)
+## 항목 (25)
 
 | 아이템 | 링크 |
 |--------|------|
+| 그늘진 탐욕의 쌍검 (Daggers of Shaded Greed) | [그늘진 탐욕의 쌍검 (Daggers of Shaded Greed)](그늘진%20탐욕의%20쌍검%20%28Daggers%20of%20Shaded%20Greed%29.md) |
 | 나이트메어 (Nightmare) | [나이트메어 (Nightmare)](나이트메어%20%28Nightmare%29.md) |
 | 녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night) | [녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night)](녹턴의%20쌍검%20밤의%20베일%20%28Twin%20Blades%20of%20Nocturne%20Veil%20of%20Night%29.md) |
 | 데저트 선 & 문 (Desert Sun & Moon) | [데저트 선 & 문 (Desert Sun & Moon)](데저트%20선%20&%20문%20%28Desert%20Sun%20&%20Moon%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 오브·마법서
 
-## 항목 (53)
+## 항목 (54)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,6 +18,7 @@
 | 네크로노미콘 사본 (Necronomicon Copy) | [네크로노미콘 사본 (Necronomicon Copy)](네크로노미콘%20사본%20%28Necronomicon%20Copy%29.md) |
 | 네크로반의 영원 해부학 인피 서책 (Tome of Necrovan's Eternal Anatomy) | [네크로반의 영원 해부학 인피 서책 (Tome of Necrovan's Eternal Anatomy)](네크로반의%20영원%20해부학%20인피%20서책%20%28Tome%20of%20Necrovan's%20Eternal%20Anatomy%29.md) |
 | 대지의 비문 (Tablet of Earth) | [대지의 비문 (Tablet of Earth)](대지의%20비문%20%28Tablet%20of%20Earth%29.md) |
+| 레이븐하트의 혈염 마도서 (Grimoire of Bloodflame of Ravenhart) | [레이븐하트의 혈염 마도서 (Grimoire of Bloodflame of Ravenhart)](레이븐하트의%20혈염%20마도서%20%28Grimoire%20of%20Bloodflame%20of%20Ravenhart%29.md) |
 | 리안 밸런디스의 균형추 오브 (Orb of Equilibrium) | [리안 밸런디스의 균형추 오브 (Orb of Equilibrium)](리안%20밸런디스의%20균형추%20오브%20%28Orb%20of%20Equilibrium%29.md) |
 | 마도공학 장비 - 서밋포지의 절대 도면계 (Blueprint of the Summit) | [마도공학 장비 - 서밋포지의 절대 도면계 (Blueprint of the Summit)](마도공학%20장비%20-%20서밋포지의%20절대%20도면계%20%28Blueprint%20of%20the%20Summit%29.md) |
 | 마력 봉인 기요틴 펜서 '단죄의 혀' (Mana-Sealing Rapier 'Tongue of Judgement') | [마력 봉인 기요틴 펜서 '단죄의 혀' (Mana-Sealing Rapier 'Tongue of Judgement')](마력%20봉인%20기요틴%20펜서%20'단죄의%20혀'%20%28Mana-Sealing%20Rapier%20'Tongue%20of%20Judgement'%29.md) |

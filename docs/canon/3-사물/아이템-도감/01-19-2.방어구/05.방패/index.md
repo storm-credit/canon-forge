@@ -6,7 +6,7 @@
 
 # 📚 방패
 
-## 항목 (47)
+## 항목 (48)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -36,6 +36,7 @@
 | 베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield) | [베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield)](베르누이의%20단열%20실드%20코르셋%20%28Corset%20of%20Bernoulli's%20Adiabatic%20Shield%29.md) |
 | 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield) | [빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)](빛의%20방패%20'브라이트실드'%20%28Theon%20Brightshield's%20Brightshield%29.md) |
 | 순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal) | [순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal)](순교자%20듀란달의%20무명%20대방패%20%28Nameless%20Greatshield%20of%20Durandal%29.md) |
+| 실드포트의 요새 방패 (Fortress Shield of Shieldfort) | [실드포트의 요새 방패 (Fortress Shield of Shieldfort)](실드포트의%20요새%20방패%20%28Fortress%20Shield%20of%20Shieldfort%29.md) |
 | 쌍면의 거울 방패 (Shield of Two Faces) | [쌍면의 거울 방패 (Shield of Two Faces)](쌍면의%20거울%20방패%20%28Shield%20of%20Two%20Faces%29.md) |
 | 아다만티움 타워 실드 (Adamantium Tower Shield) | [아다만티움 타워 실드 (Adamantium Tower Shield)](아다만티움%20타워%20실드%20%28Adamantium%20Tower%20Shield%29.md) |
 | 아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius) | [아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius)](아에기디우스의%20결속%20대방패%20%28Binding%20Tower-Shield%20of%20Aegidius%29.md) |

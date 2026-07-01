@@ -6,7 +6,7 @@
 
 # 📚 건틀릿·클로
 
-## 항목 (36)
+## 항목 (37)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -33,6 +33,7 @@
 | 연쇄 점화 글러브 '이그나이트' (Damien Nostrad's Ignite Glove) | [연쇄 점화 글러브 '이그나이트' (Damien Nostrad's Ignite Glove)](연쇄%20점화%20글러브%20'이그나이트'%20%28Damien%20Nostrad's%20Ignite%20Glove%29.md) |
 | 오우거 슬레이어 (Ogre Slayer) | [오우거 슬레이어 (Ogre Slayer)](오우거%20슬레이어%20%28Ogre%20Slayer%29.md) |
 | 오우거의 너클 '블랙투스의 파쇄' (Victor Blacktusk's Knuckle of Ogre) | [오우거의 너클 '블랙투스의 파쇄' (Victor Blacktusk's Knuckle of Ogre)](오우거의%20너클%20'블랙투스의%20파쇄'%20%28Victor%20Blacktusk's%20Knuckle%20of%20Ogre%29.md) |
+| 울프하운드의 달빛 발톱 (Moonlit Claws of the Wolfhound) | [울프하운드의 달빛 발톱 (Moonlit Claws of the Wolfhound)](울프하운드의%20달빛%20발톱%20%28Moonlit%20Claws%20of%20the%20Wolfhound%29.md) |
 | 이그니스의 지동(地動) 건틀릿 (Seismic Gauntlets of Ignis) | [이그니스의 지동(地動) 건틀릿 (Seismic Gauntlets of Ignis)](이그니스의%20지동%28地動%29%20건틀릿%20%28Seismic%20Gauntlets%20of%20Ignis%29.md) |
 | 증기 피스톤 건틀릿 (Steam Piston Gauntlets) | [증기 피스톤 건틀릿 (Steam Piston Gauntlets)](증기%20피스톤%20건틀릿%20%28Steam%20Piston%20Gauntlets%29.md) |
 | 증폭의 건틀릿 (Gauntlet of Amplification) | [증폭의 건틀릿 (Gauntlet of Amplification)](증폭의%20건틀릿%20%28Gauntlet%20of%20Amplification%29.md) |

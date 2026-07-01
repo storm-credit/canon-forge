@@ -6,11 +6,12 @@
 
 # 📚 한손검
 
-## 항목 (140)
+## 항목 (145)
 
 | 아이템 | 링크 |
 |--------|------|
 | (소리 없는 기도)"(Arts - 정적의 안식처) | [(소리 없는 기도)"(Arts - 정적의 안식처)](%28소리%20없는%20기도%29%28Arts%20-%20정적의%20안식처%29.md) |
+| 가렌 발렌타인의 무명 장검 (Nameless Longsword of Garen Valentine) | [가렌 발렌타인의 무명 장검 (Nameless Longsword of Garen Valentine)](가렌%20발렌타인의%20무명%20장검%20%28Nameless%20Longsword%20of%20Garen%20Valentine%29.md) |
 | 가렌 발렌타인의 미완성 직검 (Unfinished Blade of 가렌 발렌타인) | [가렌 발렌타인의 미완성 직검 (Unfinished Blade of 가렌 발렌타인)](가렌%20발렌타인의%20미완성%20직검%20%28Unfinished%20Blade%20of%20가렌%20발렌타인%29.md) |
 | 갈드위누스의 여백(Margin) 커팅 양피지 검 (Parchment Sword of the Margin-Cutting of Galdwynus) | [갈드위누스의 여백(Margin) 커팅 양피지 검 (Parchment Sword of the Margin-Cutting of Galdwynus)](갈드위누스의%20여백%28Margin%29%20커팅%20양피지%20검%20%28Parchment%20Sword%20of%20the%20Margin-Cutting%20of%20Galdwynus%29.md) |
 | 강철 전략검 (Iron Strategist Blade) | [강철 전략검 (Iron Strategist Blade)](강철%20전략검%20%28Iron%20Strategist%20Blade%29.md) |
@@ -30,6 +31,7 @@
 | 단죄의 대검 '스틸쉐이드의 심판' (Arcana Steelshade's Greatsword of Condemnation) | [단죄의 대검 '스틸쉐이드의 심판' (Arcana Steelshade's Greatsword of Condemnation)](단죄의%20대검%20'스틸쉐이드의%20심판'%20%28Arcana%20Steelshade's%20Greatsword%20of%20Condemnation%29.md) |
 | 라고스 모루의 미완성 직검 (Unfinished Blade of 라고스 모루) | [라고스 모루의 미완성 직검 (Unfinished Blade of 라고스 모루)](라고스%20모루의%20미완성%20직검%20%28Unfinished%20Blade%20of%20라고스%20모루%29.md) |
 | 라그날 벨모어의 여명 성검 (Holy Sword of the Dawn) | [라그날 벨모어의 여명 성검 (Holy Sword of the Dawn)](라그날%20벨모어의%20여명%20성검%20%28Holy%20Sword%20of%20the%20Dawn%29.md) |
+| 라그날 벨모어의 저주의 검 (Cursed Blade of Belmore) | [라그날 벨모어의 저주의 검 (Cursed Blade of Belmore)](라그날%20벨모어의%20저주의%20검%20%28Cursed%20Blade%20of%20Belmore%29.md) |
 | 라비엔느의 은장도 (Silver Stiletto of Illusion) | [라비엔느의 은장도 (Silver Stiletto of Illusion)](라비엔느의%20은장도%20%28Silver%20Stiletto%20of%20Illusion%29.md) |
 | 레가스의 단죄검 (Blade of Condemnation) | [레가스의 단죄검 (Blade of Condemnation)](레가스의%20단죄검%20%28Blade%20of%20Condemnation%29.md) |
 | 로제나 아그니아의 화염 직검 (Flame Sword of 로제나 아그니아) | [로제나 아그니아의 화염 직검 (Flame Sword of 로제나 아그니아)](로제나%20아그니아의%20화염%20직검%20%28Flame%20Sword%20of%20로제나%20아그니아%29.md) |
@@ -44,7 +46,9 @@
 | 바란 스톤스케일의 여명 성검 (Holy Sword of the Dawn) | [바란 스톤스케일의 여명 성검 (Holy Sword of the Dawn)](바란%20스톤스케일의%20여명%20성검%20%28Holy%20Sword%20of%20the%20Dawn%29.md) |
 | 바르톨 아크라이트의 화염 직검 (Flame Sword of 바르톨 아크라이트) | [바르톨 아크라이트의 화염 직검 (Flame Sword of 바르톨 아크라이트)](바르톨%20아크라이트의%20화염%20직검%20%28Flame%20Sword%20of%20바르톨%20아크라이트%29.md) |
 | 바르톨로스 아이언하트의 미완성 직검 (Unfinished Blade of 바르톨로스 아이언하트) | [바르톨로스 아이언하트의 미완성 직검 (Unfinished Blade of 바르톨로스 아이언하트)](바르톨로스%20아이언하트의%20미완성%20직검%20%28Unfinished%20Blade%20of%20바르톨로스%20아이언하트%29.md) |
+| 반수검 - 레이븐하트의 혈염 마검 (Devil-Blade of Ravenhart, Bloodflame) | [반수검 - 레이븐하트의 혈염 마검 (Devil-Blade of Ravenhart, Bloodflame)](반수검%20-%20레이븐하트의%20혈염%20마검%20%28Devil-Blade%20of%20Ravenhart,%20Bloodflame%29.md) |
 | 발레리우스 성검 솔라리스 (Holy Sword Solaris of Valerius) | [발레리우스 성검 솔라리스 (Holy Sword Solaris of Valerius)](발레리우스%20성검%20솔라리스%20%28Holy%20Sword%20Solaris%20of%20Valerius%29.md) |
+| 발테리온 실드포트의 미완성 직검 (Unfinished Blade of Valterion Shieldfort) | [발테리온 실드포트의 미완성 직검 (Unfinished Blade of Valterion Shieldfort)](발테리온%20실드포트의%20미완성%20직검%20%28Unfinished%20Blade%20of%20Valterion%20Shieldfort%29.md) |
 | 버딕트 (Verdict) | [버딕트 (Verdict)](버딕트%20%28Verdict%29.md) |
 | 번개 검 '블랙노바의 섬광' (Corvus Blacknova's Lightning Sword Flash of Blacknova) | [번개 검 '블랙노바의 섬광' (Corvus Blacknova's Lightning Sword Flash of Blacknova)](번개%20검%20'블랙노바의%20섬광'%20%28Corvus%20Blacknova's%20Lightning%20Sword%20Flash%20of%20Blacknova%29.md) |
 | 벨릭스 카스의 미완성 직검 (Unfinished Blade of 벨릭스 카스) | [벨릭스 카스의 미완성 직검 (Unfinished Blade of 벨릭스 카스)](벨릭스%20카스의%20미완성%20직검%20%28Unfinished%20Blade%20of%20벨릭스%20카스%29.md) |
@@ -149,4 +153,5 @@
 | 황혼의 자상(Twilight Puncture) 독니 단도 | [황혼의 자상(Twilight Puncture) 독니 단도](황혼의%20자상%28Twilight%20Puncture%29%20독니%20단도.md) |
 | 휴대용 융탄 마도포 '선플레어' (Handheld M-Cannon 'Sunflare') | [휴대용 융탄 마도포 '선플레어' (Handheld M-Cannon 'Sunflare')](휴대용%20융탄%20마도포%20'선플레어'%20%28Handheld%20M-Cannon%20'Sunflare'%29.md) |
 | 흑류검 비탄 (Sorrow's Edge) | [흑류검 비탄 (Sorrow's Edge)](흑류검%20비탄%20%28Sorrow's%20Edge%29.md) |
+| 흑일륜의 심핵검 — 소각의 바퀴살 (Spoke of Immolation, Core-Blade of the Black Sun) | [흑일륜의 심핵검 — 소각의 바퀴살 (Spoke of Immolation, Core-Blade of the Black Sun)](흑일륜의%20심핵검%20—%20소각의%20바퀴살%20%28Spoke%20of%20Immolation,%20Core-Blade%20of%20the%20Black%20Sun%29.md) |
 | 흡혈검 (Vampiric Sword) | [흡혈검 (Vampiric Sword)](흡혈검%20%28Vampiric%20Sword%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (47)
+## 항목 (48)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -29,6 +29,7 @@
 | 블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren) | [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](블러드혼%20부락%20붕괴벽의%20대갑주%20%28Collapsed-Wall%20Great%20Armor%20of%20Bloodhorn%20Warren%29.md) |
 | 비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor) | [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](비룡%20비늘의%20화강암%20대갑%20%28Dragon-Scale%20Granite%20Greatarmor%29.md) |
 | 빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection) | [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](빛을%20반환하는%20아르젠툼%20풀%20플레이트%20%28Argentum%20Full%20Plate%20of%20Light-Reflection%29.md) |
+| 서밋포지의 룬공학 흉갑 (Runic Engineer's Breastplate of Summitforge) | [서밋포지의 룬공학 흉갑 (Runic Engineer's Breastplate of Summitforge)](서밋포지의%20룬공학%20흉갑%20%28Runic%20Engineer's%20Breastplate%20of%20Summitforge%29.md) |
 | 선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate) | [선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate)](선체%20파편%20직조%20판금%20흉갑%20%28Hull-Fragment%20Woven%20Plate%29.md) |
 | 순결한 성벽의 백은갑 (Platinum Plate of the Chaste Rampart) | [순결한 성벽의 백은갑 (Platinum Plate of the Chaste Rampart)](순결한%20성벽의%20백은갑%20%28Platinum%20Plate%20of%20the%20Chaste%20Rampart%29.md) |
 | 순교자의 재가 박힌 열압 쇄골갑 (Clavicle-Armor of Thermal-Pressure Embedded with Martyr's Ash) | [순교자의 재가 박힌 열압 쇄골갑 (Clavicle-Armor of Thermal-Pressure Embedded with Martyr's Ash)](순교자의%20재가%20박힌%20열압%20쇄골갑%20%28Clavicle-Armor%20of%20Thermal-Pressure%20Embedded%20with%20Martyr's%20Ash%29.md) |

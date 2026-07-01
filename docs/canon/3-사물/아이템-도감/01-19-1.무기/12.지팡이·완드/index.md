@@ -6,7 +6,7 @@
 
 # 📚 지팡이·완드
 
-## 항목 (152)
+## 항목 (158)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -39,6 +39,7 @@
 | 마일라 플로스의 기억의 빛 완드 (Wand of Remembered Light) | [마일라 플로스의 기억의 빛 완드 (Wand of Remembered Light)](마일라%20플로스의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 미다스의 지팡이 (Staff of Midas) | [미다스의 지팡이 (Staff of Midas)](미다스의%20지팡이%20%28Staff%20of%20Midas%29.md) |
 | 미카엘리스 루센트의 기억의 빛 완드 (Wand of Remembered Light) | [미카엘리스 루센트의 기억의 빛 완드 (Wand of Remembered Light)](미카엘리스%20루센트의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
+| 바르헴의 역병 넙다리뼈 성좌 (Femur Scepter of Plague) | [바르헴의 역병 넙다리뼈 성좌 (Femur Scepter of Plague)](바르헴의%20역병%20넙다리뼈%20성좌%20%28Femur%20Scepter%20of%20Plague%29.md) |
 | 바실리온 테크노스의 기억의 빛 완드 (Wand of Remembered Light) | [바실리온 테크노스의 기억의 빛 완드 (Wand of Remembered Light)](바실리온%20테크노스의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 바토바 헬파이어의 기억의 빛 완드 (Wand of Remembered Light) | [바토바 헬파이어의 기억의 빛 완드 (Wand of Remembered Light)](바토바%20헬파이어의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox) | [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](바트록스의%20혈액%20응집%20뼈지팡이%20%28Blood-Coagulating%20Bone%20Staff%20of%20Batrox%29.md) |
@@ -51,6 +52,7 @@
 | 별빛 사도의 신탁 완드 (Miriel Starlight's Celestial Oracle Wand) | [별빛 사도의 신탁 완드 (Miriel Starlight's Celestial Oracle Wand)](별빛%20사도의%20신탁%20완드%20%28Miriel%20Starlight's%20Celestial%20Oracle%20Wand%29.md) |
 | 별의 지팡이 (Star Rod) | [별의 지팡이 (Star Rod)](별의%20지팡이%20%28Star%20Rod%29.md) |
 | 복원의 시간봉 '리와인드' (Lorcan Ferrel's Restoration Wand) | [복원의 시간봉 '리와인드' (Lorcan Ferrel's Restoration Wand)](복원의%20시간봉%20'리와인드'%20%28Lorcan%20Ferrel's%20Restoration%20Wand%29.md) |
+| 부서진 망자의 해골 홀 (Shattered Scepter of the Dead) | [부서진 망자의 해골 홀 (Shattered Scepter of the Dead)](부서진%20망자의%20해골%20홀%20%28Shattered%20Scepter%20of%20the%20Dead%29.md) |
 | 부정을 씻어내는 여명의 지팡이 (Staff of the Cleansing Dawn) | [부정을 씻어내는 여명의 지팡이 (Staff of the Cleansing Dawn)](부정을%20씻어내는%20여명의%20지팡이%20%28Staff%20of%20the%20Cleansing%20Dawn%29.md) |
 | 블랙홀의 낚싯대(Rod of the Black Trench) | [블랙홀의 낚싯대(Rod of the Black Trench)](블랙홀의%20낚싯대%28Rod%20of%20the%20Black%20Trench%29.md) |
 | 비탄의 화로 플레게톤 스태프 (Brazier of Lament: Phlegethon Staff) | [비탄의 화로 플레게톤 스태프 (Brazier of Lament: Phlegethon Staff)](비탄의%20화로%20플레게톤%20스태프%20%28Brazier%20of%20Lament%20Phlegethon%20Staff%29.md) |
@@ -105,9 +107,12 @@
 | 얼음폭풍의 지팡이 크라이오스 (Cryos) | [얼음폭풍의 지팡이 크라이오스 (Cryos)](얼음폭풍의%20지팡이%20크라이오스%20%28Cryos%29.md) |
 | 업화의 소각 지팡이 (Incineration Staff of Hellfire) | [업화의 소각 지팡이 (Incineration Staff of Hellfire)](업화의%20소각%20지팡이%20%28Incineration%20Staff%20of%20Hellfire%29.md) |
 | 에르민 티르의 기억의 빛 완드 (Wand of Remembered Light) | [에르민 티르의 기억의 빛 완드 (Wand of Remembered Light)](에르민%20티르의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
+| 에르민 티르의 야수 대퇴골 지팡이 (Beast Femur Staff of Ermin Tyr) | [에르민 티르의 야수 대퇴골 지팡이 (Beast Femur Staff of Ermin Tyr)](에르민%20티르의%20야수%20대퇴골%20지팡이%20%28Beast%20Femur%20Staff%20of%20Ermin%20Tyr%29.md) |
+| 에르윈의 얽힌 뿌리 지팡이 (Staff of Entangled Roots) | [에르윈의 얽힌 뿌리 지팡이 (Staff of Entangled Roots)](에르윈의%20얽힌%20뿌리%20지팡이%20%28Staff%20of%20Entangled%20Roots%29.md) |
 | 에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist) | [에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist)](에테리아의%20잊혀진%20안개%20지팡이%20%28Staff%20of%20Etheria's%20Forgotten%20Mist%29.md) |
 | 엘리안 시르의 기억의 빛 완드 (Wand of Remembered Light) | [엘리안 시르의 기억의 빛 완드 (Wand of Remembered Light)](엘리안%20시르의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 연기의 지팡이 (Staff of Smoke) | [연기의 지팡이 (Staff of Smoke)](연기의%20지팡이%20%28Staff%20of%20Smoke%29.md) |
+| 영원의 태엽장치 지팡이 (Eternal Clockwork Staff of Chronia) | [영원의 태엽장치 지팡이 (Eternal Clockwork Staff of Chronia)](영원의%20태엽장치%20지팡이%20%28Eternal%20Clockwork%20Staff%20of%20Chronia%29.md) |
 | 오르펠리안 크림소어의 기억의 빛 완드 (Wand of Remembered Light) | [오르펠리안 크림소어의 기억의 빛 완드 (Wand of Remembered Light)](오르펠리안%20크림소어의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 오아시스의 지팡이 (Oasis Staff) | [오아시스의 지팡이 (Oasis Staff)](오아시스의%20지팡이%20%28Oasis%20Staff%29.md) |
 | 우로보로스의 기억의 빛 완드 (Wand of Remembered Light) | [우로보로스의 기억의 빛 완드 (Wand of Remembered Light)](우로보로스의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
@@ -150,6 +155,7 @@
 | 풀베리온의 지휘관 포효 지팡이 (Commander's Roar-Baton of Pulverion) | [풀베리온의 지휘관 포효 지팡이 (Commander's Roar-Baton of Pulverion)](풀베리온의%20지휘관%20포효%20지팡이%20%28Commander's%20Roar-Baton%20of%20Pulverion%29.md) |
 | 프로메테아의 기억의 빛 완드 (Wand of Remembered Light) | [프로메테아의 기억의 빛 완드 (Wand of Remembered Light)](프로메테아의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
 | 프리셀리아 노르다리스의 기억의 빛 완드 (Wand of Remembered Light) | [프리셀리아 노르다리스의 기억의 빛 완드 (Wand of Remembered Light)](프리셀리아%20노르다리스의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |
+| 플라멜의 흑염 지팡이 (Staff of Black Flame) | [플라멜의 흑염 지팡이 (Staff of Black Flame)](플라멜의%20흑염%20지팡이%20%28Staff%20of%20Black%20Flame%29.md) |
 | 플로스니비스의 물방울 지팡이 - 수련의 이슬 (Dewdrop Staff of Water-Lily) | [플로스니비스의 물방울 지팡이 - 수련의 이슬 (Dewdrop Staff of Water-Lily)](플로스니비스의%20물방울%20지팡이%20-%20수련의%20이슬%20%28Dewdrop%20Staff%20of%20Water-Lily%29.md) |
 | 피의 지팡이 '블러드위버의 심장' (Nerissa Bloodweaver's Blood Staff Heart of Bloodweaver) | [피의 지팡이 '블러드위버의 심장' (Nerissa Bloodweaver's Blood Staff Heart of Bloodweaver)](피의%20지팡이%20'블러드위버의%20심장'%20%28Nerissa%20Bloodweaver's%20Blood%20Staff%20Heart%20of%20Bloodweaver%29.md) |
 | 해방을 부르는 불사조의 겁화 (Hellfire of the Phoenix Calling for Liberation) | [해방을 부르는 불사조의 겁화 (Hellfire of the Phoenix Calling for Liberation)](해방을%20부르는%20불사조의%20겁화%20%28Hellfire%20of%20the%20Phoenix%20Calling%20for%20Liberation%29.md) |

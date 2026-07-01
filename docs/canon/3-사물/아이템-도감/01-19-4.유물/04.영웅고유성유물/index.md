@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (198)
+## 항목 (200)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -42,6 +42,7 @@
 | 독점의 맹목 베일 (Veil of Monopoly) | [독점의 맹목 베일 (Veil of Monopoly)](독점의%20맹목%20베일%20%28Veil%20of%20Monopoly%29.md) |
 | 라지엘의 편린 (이단 안구 결합체) | [라지엘의 편린 (이단 안구 결합체)](라지엘의편린.md) |
 | 러시안룰렛 회중시계 (Pocket Watch of Russian Roulette) | [러시안룰렛 회중시계 (Pocket Watch of Russian Roulette)](러시안룰렛%20회중시계%20%28Pocket%20Watch%20of%20Russian%20Roulette%29.md) |
+| 레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound) | [레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound)](레온%20울프하운드의%20달빛%20어금니%20%28Moonlit%20Fang%20of%20the%20Wolfhound%29.md) |
 | 마녀의 식별자 '적사경' (Crimson-Eye Lens) | [마녀의 식별자 '적사경' (Crimson-Eye Lens)](마녀의%20식별자%20'적사경'%20%28Crimson-Eye%20Lens%29.md) |
 | 마도 교통백과 - 음속 진공 보행 단화 (Vacuum Walk Boots) | [마도 교통백과 - 음속 진공 보행 단화 (Vacuum Walk Boots)](마도%20교통백과%20-%20음속%20진공%20보행%20단화%20%28Vacuum%20Walk%20Boots%29.md) |
 | 마도 황국의 부서진 인장 (Shattered Crest of the Empire) | [마도 황국의 부서진 인장 (Shattered Crest of the Empire)](마도%20황국의%20부서진%20인장%20%28Shattered%20Crest%20of%20the%20Empire%29.md) |
@@ -49,6 +50,7 @@
 | 마도공학 백과 - 초연결(Hyper-Linked) 사념의 브레인 헤드셋 | [마도공학 백과 - 초연결(Hyper-Linked) 사념의 브레인 헤드셋](마도공학%20백과%20-%20초연결%28Hyper-Linked%29%20사념의%20브레인%20헤드셋.md) |
 | 마력 연소의 거대 위장관 (Furnace-Gut of Mana Combustion) | [마력 연소의 거대 위장관 (Furnace-Gut of Mana Combustion)](마력%20연소의%20거대%20위장관%20%28Furnace-Gut%20of%20Mana%20Combustion%29.md) |
 | 마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe) | [마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe)](마르지%20않는%20윤활유%20파이프%20%28Inexhaustible%20Lubricant%20Pipe%29.md) |
+| 마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork) | [마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork)](마리온의%20미완성%20인형%20설계도%20%28Unfinished%20Blueprint%20of%20Marion's%20Masterwork%29.md) |
 | 바르마의 침묵 각인 — 말 없는 칙령 (Barma's Silent Seal) | [바르마의 침묵 각인 — 말 없는 칙령 (Barma's Silent Seal)](마법권능.md) |
 | 만능 차원 공구함 '헥스 키 큐브' (Hex-Key Dimensional Box) | [만능 차원 공구함 '헥스 키 큐브' (Hex-Key Dimensional Box)](만능%20차원%20공구함%20'헥스%20키%20큐브'%20%28Hex-Key%20Dimensional%20Box%29.md) |
 | 만물의 먹물 석판 (Ink-Stone Slab of All-Things) | [만물의 먹물 석판 (Ink-Stone Slab of All-Things)](만물의%20먹물%20석판%20%28Ink-Stone%20Slab%20of%20All-Things%29.md) |

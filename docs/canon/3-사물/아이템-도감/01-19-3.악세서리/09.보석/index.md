@@ -6,12 +6,13 @@
 
 # 📚 보석
 
-## 항목 (9)
+## 항목 (10)
 
 | 아이템 | 링크 |
 |--------|------|
 | 보석 (Gems) | [보석 (Gems)](10.보석.md) |
 | 깨어진 바람정령의 유리구슬 (Shattered Wind Spirit Sphere) | [깨어진 바람정령의 유리구슬 (Shattered Wind Spirit Sphere)](깨어진%20바람정령의%20유리구슬%20%28Shattered%20Wind%20Spirit%20Sphere%29.md) |
+| 나이트펄의 금이 간 단검 조각 (Shard of Nightpearl's Dagger) | [나이트펄의 금이 간 단검 조각 (Shard of Nightpearl's Dagger)](나이트펄의%20금이%20간%20단검%20조각%20%28Shard%20of%20Nightpearl's%20Dagger%29.md) |
 | 망각 봉인의 활자핵 구체 (Glyph-Core Orb of Oblivion Seal) | [망각 봉인의 활자핵 구체 (Glyph-Core Orb of Oblivion Seal)](망각%20봉인의%20활자핵%20구체%20%28Glyph-Core%20Orb%20of%20Oblivion%20Seal%29.md) |
 | 목소리 없는 가수의 부서진 악보석 (Broken Music-Stone of the Voiceless Singer) | [목소리 없는 가수의 부서진 악보석 (Broken Music-Stone of the Voiceless Singer)](목소리%20없는%20가수의%20부서진%20악보석%20%28Broken%20Music-Stone%20of%20the%20Voiceless%20Singer%29.md) |
 | 빙점핵 구슬 (Nucleus of the Freezing Point) | [빙점핵 구슬 (Nucleus of the Freezing Point)](빙점핵%20구슬%20%28Nucleus%20of%20the%20Freezing%20Point%29.md) |

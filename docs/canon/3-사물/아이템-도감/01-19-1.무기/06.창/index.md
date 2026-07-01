@@ -6,7 +6,7 @@
 
 # 📚 창
 
-## 항목 (77)
+## 항목 (79)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,6 +18,7 @@
 | 골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐) | [골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐)](골드레이븐의%20심해%20작살%20%28Abyssal%20Harpoon%20of%20골드레이븐%29.md) |
 | 넵튠의 삼지창 (Trident of Neptune) | [넵튠의 삼지창 (Trident of Neptune)](넵튠의%20삼지창%20%28Trident%20of%20Neptune%29.md) |
 | 높은 바람의 창 (Highwind Lance) | [높은 바람의 창 (Highwind Lance)](높은%20바람의%20창%20%28Highwind%20Lance%29.md) |
+| 뇌룡창 볼트리안의 천둥 (Dragon Thunder Lance Voltrian's Thunder) | [뇌룡창 볼트리안의 천둥 (Dragon Thunder Lance Voltrian's Thunder)](뇌룡창%20볼트리안의%20천둥%20%28Dragon%20Thunder%20Lance%20Voltrian's%20Thunder%29.md) |
 | 뇌절 (Lightning Cutter) | [뇌절 (Lightning Cutter)](뇌절%20%28Lightning%20Cutter%29.md) |
 | 단분자 회오리 창(Monofilament Gale Spear) | [단분자 회오리 창(Monofilament Gale Spear)](단분자%20회오리%20창%28Monofilament%20Gale%20Spear%29.md) |
 | 대지의 창 테라 스피어 (Terra Spear) | [대지의 창 테라 스피어 (Terra Spear)](대지의%20창%20테라%20스피어%20%28Terra%20Spear%29.md) |
@@ -80,6 +81,7 @@
 | 포세이돈의 삼지창 (Trident of Poseidon) | [포세이돈의 삼지창 (Trident of Poseidon)](포세이돈의%20삼지창%20%28Trident%20of%20Poseidon%29.md) |
 | 폭풍의 뿔 (Horn of Storm) | [폭풍의 뿔 (Horn of Storm)](폭풍의%20뿔%20%28Horn%20of%20Storm%29.md) |
 | 폴암류 - 징벌창 저지먼트 (Pike of Judgment) | [폴암류 - 징벌창 저지먼트 (Pike of Judgment)](폴암류%20-%20징벌창%20저지먼트%20%28Pike%20of%20Judgment%29.md) |
+| 푸른 뇌명창 천공 (Azure Spear, Zenith) | [푸른 뇌명창 천공 (Azure Spear, Zenith)](푸른%20뇌명창%20천공%20%28Azure%20Spear,%20Zenith%29.md) |
 | 풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale) | [풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](풀미넨투스의%20피뢰%20장창%20-%20게일%20%28Lightning-Rod%20Pike%20of%20Fulminentus,%20Gale%29.md) |
 | 피눈물의 흑창 (Lance of Bloodtears) | [피눈물의 흑창 (Lance of Bloodtears)](피눈물의%20흑창%20%28Lance%20of%20Bloodtears%29.md) |
 | 피닉스 스피어 (Phoenix Spear) | [피닉스 스피어 (Phoenix Spear)](피닉스%20스피어%20%28Phoenix%20Spear%29.md) |

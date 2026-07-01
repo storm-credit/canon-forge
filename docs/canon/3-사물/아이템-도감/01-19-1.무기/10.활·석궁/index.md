@@ -6,7 +6,7 @@
 
 # 📚 활·석궁
 
-## 항목 (46)
+## 항목 (48)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -27,6 +27,7 @@
 | 바람의 속삭임 (Whispering Wind) | [바람의 속삭임 (Whispering Wind)](바람의%20속삭임%20%28Whispering%20Wind%29.md) |
 | 벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus) | [벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus)](벤투스의%20고장력%20다면체%28Polyhedron%29%20장궁%20%28High-Tension%20Polyhedron%20Longbow%20of%20Ventus%29.md) |
 | 별빛 장궁 (Starlight Longbow) | [별빛 장궁 (Starlight Longbow)](별빛%20장궁%20%28Starlight%20Longbow%29.md) |
+| 샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall) | [샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall)](샤를리아%20나이트폴의%20심연%20그림자%20활%20%28Abyssal%20Shadow%20Bow%20of%20Charlia%20Nightfall%29.md) |
 | 선스플리터 (Sunsplitter) | [선스플리터 (Sunsplitter)](선스플리터%20%28Sunsplitter%29.md) |
 | 세계수의 가지 (Branch of the World Tree) | [세계수의 가지 (Branch of the World Tree)](세계수의%20가지%20%28Branch%20of%20the%20World%20Tree%29.md) |
 | 속삭이는 바람 (Windwhisper Bow) | [속삭이는 바람 (Windwhisper Bow)](속삭이는%20바람%20%28Windwhisper%20Bow%29.md) |
@@ -35,6 +36,7 @@
 | 실버 윈드 (Silver Wind) | [실버 윈드 (Silver Wind)](실버%20윈드%20%28Silver%20Wind%29.md) |
 | 실피드 보우 (Sylphid Bow) | [실피드 보우 (Sylphid Bow)](실피드%20보우%20%28Sylphid%20Bow%29.md) |
 | 실피드의 숏보우 (Shortbow of Sylphid) | [실피드의 숏보우 (Shortbow of Sylphid)](실피드의%20숏보우%20%28Shortbow%20of%20Sylphid%29.md) |
+| 심판의 깃털 (Feather of Judgment) | [심판의 깃털 (Feather of Judgment)](심판의%20깃털%20%28Feather%20of%20Judgment%29.md) |
 | 썬더버드 (Thunderbird) | [썬더버드 (Thunderbird)](썬더버드%20%28Thunderbird%29.md) |
 | 아르겐텀 (Argentum) | [아르겐텀 (Argentum)](아르겐텀%20%28Argentum%29.md) |
 | 아르구스 (Argus) | [아르구스 (Argus)](아르구스%20%28Argus%29.md) |

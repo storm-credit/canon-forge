@@ -6,7 +6,7 @@
 
 # 📚 투구·얼굴
 
-## 항목 (8)
+## 항목 (9)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -17,4 +17,5 @@
 | 순백의 외교관 실크 (Pristine Silk of the Envoy) | [순백의 외교관 실크 (Pristine Silk of the Envoy)](순백의%20외교관%20실크%20%28Pristine%20Silk%20of%20the%20Envoy%29.md) |
 | 얼굴 가리개 (Visors) | [얼굴 가리개 (Visors)](얼굴%20가리개%20%28Visors%29.md) |
 | 천근의 진지 투구 (Helm of the Heavy Trench) | [천근의 진지 투구 (Helm of the Heavy Trench)](천근의%20진지%20투구%20%28Helm%20of%20the%20Heavy%20Trench%29.md) |
+| 크림슨 연구소의 독연무 방호 고글 (Toxin-Miasma Protective Goggles of the Crimson Lab) | [크림슨 연구소의 독연무 방호 고글 (Toxin-Miasma Protective Goggles of the Crimson Lab)](크림슨%20연구소의%20독연무%20방호%20고글%20%28Toxin-Miasma%20Protective%20Goggles%20of%20the%20Crimson%20Lab%29.md) |
 | 투구 (Helms) | [투구 (Helms)](투구%20%28Helms%29.md) |

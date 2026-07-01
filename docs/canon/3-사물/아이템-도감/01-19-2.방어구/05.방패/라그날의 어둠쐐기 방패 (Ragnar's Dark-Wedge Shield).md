@@ -83,6 +83,6 @@
 ---
 
 ## 🔗 관련 문서
-- 라그날 벨모어 (Ragnar Belmore)
-- 라그날 벨모어의 저주의 검 (Cursed Blade of Belmore)
-- 피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)
+- [라그날 벨모어 (Ragnar Belmore)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/09.라그날벨모어.md)
+- [라그날 벨모어의 저주의 검 (Cursed Blade of Belmore)](../../01-19-1.무기/01.한손검/라그날 벨모어의 저주의 검 (Cursed Blade of Belmore).md)
+- [피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)](../../01-19-3.악세서리/02.목걸이·팬던트/피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity).md)

@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (110)
+## 항목 (111)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -63,6 +63,7 @@
 | 생명 약탈자의 메스 (Scalpel of the Life Stealer) | [생명 약탈자의 메스 (Scalpel of the Life Stealer)](생명%20약탈자의%20메스%20%28Scalpel%20of%20the%20Life%20Stealer%29.md) |
 | 샤크 투스 대거 (Shark Tooth Dagger) | [샤크 투스 대거 (Shark Tooth Dagger)](샤크%20투스%20대거%20%28Shark%20Tooth%20Dagger%29.md) |
 | 셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크) | [셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크)](셰릴%20블레이크의%20그림자%20단검%20%28Shadow%20Dagger%20of%20셰릴%20블레이크%29.md) |
+| 속삭임의 쌍단검 (Daggers of Whispers) | [속삭임의 쌍단검 (Daggers of Whispers)](속삭임의%20쌍단검%20%28Daggers%20of%20Whispers%29.md) |
 | 속삭임의 흑요석 단검 (Obsidian Dagger of Whispers) | [속삭임의 흑요석 단검 (Obsidian Dagger of Whispers)](속삭임의%20흑요석%20단검%20%28Obsidian%20Dagger%20of%20Whispers%29.md) |
 | 수술용 메스 세트 (Surgical Scalpel Set) | [수술용 메스 세트 (Surgical Scalpel Set)](수술용%20메스%20세트%20%28Surgical%20Scalpel%20Set%29.md) |
 | 순흑의 쌍단검 - 이클립스 & 다크문 (Twin Black Daggers: Eclipse & Darkmoon) | [순흑의 쌍단검 - 이클립스 & 다크문 (Twin Black Daggers: Eclipse & Darkmoon)](순흑의%20쌍단검%20-%20이클립스%20&%20다크문%20%28Twin%20Black%20Daggers%20Eclipse%20&%20Darkmoon%29.md) |

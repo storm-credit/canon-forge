@@ -6,7 +6,7 @@
 
 # 📚 양손검
 
-## 항목 (35)
+## 항목 (38)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -21,6 +21,7 @@
 | 마법 파괴의 흑철검 '아케인 디스럽터' (Tyler Macrit's Arcane Disruptor) | [마법 파괴의 흑철검 '아케인 디스럽터' (Tyler Macrit's Arcane Disruptor)](마법%20파괴의%20흑철검%20'아케인%20디스럽터'%20%28Tyler%20Macrit's%20Arcane%20Disruptor%29.md) |
 | 메갈로돈 (Megalodon) | [메갈로돈 (Megalodon)](메갈로돈%20%28Megalodon%29.md) |
 | 발레리우스의 신성 대검 '차원 찢기' (Greatsword of Valerius: Rift Tear) | [발레리우스의 신성 대검 '차원 찢기' (Greatsword of Valerius: Rift Tear)](발레리우스의%20신성%20대검%20'차원%20찢기'%20%28Greatsword%20of%20Valerius%20Rift%20Tear%29.md) |
+| 발크리온의 너덜너덜한 대검 (Tattered Greatsword of Valkrion) | [발크리온의 너덜너덜한 대검 (Tattered Greatsword of Valkrion)](발크리온의%20너덜너덜한%20대검%20%28Tattered%20Greatsword%20of%20Valkrion%29.md) |
 | 배신자의 대검 (Greatsword of Traitor) | [배신자의 대검 (Greatsword of Traitor)](배신자의%20대검%20%28Greatsword%20of%20Traitor%29.md) |
 | 부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword: Skull Crusher) | [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword: Skull Crusher)](부러진%20파성%20대검%20스컬%20크러셔%20%28Broken%20Siege-Greatsword%20Skull%20Crusher%29.md) |
 | 부패하는 맹세의 대검 '코로시드' (Corrosed) | [부패하는 맹세의 대검 '코로시드' (Corrosed)](부패하는%20맹세의%20대검%20'코로시드'%20%28Corrosed%29.md) |
@@ -32,6 +33,7 @@
 | 순백의 맹세가 서린 대검 (Greatsword Imbued with Pure White Oath) | [순백의 맹세가 서린 대검 (Greatsword Imbued with Pure White Oath)](순백의%20맹세가%20서린%20대검%20%28Greatsword%20Imbued%20with%20Pure%20White%20Oath%29.md) |
 | 순백의 맹세가 서린 성수대검 (Greatsword Imbued with the Pure White Oath) | [순백의 맹세가 서린 성수대검 (Greatsword Imbued with the Pure White Oath)](순백의%20맹세가%20서린%20성수대검%20%28Greatsword%20Imbued%20with%20the%20Pure%20White%20Oath%29.md) |
 | 심연포효의 대검 (Greatsword of Abyssal Roar) | [심연포효의 대검 (Greatsword of Abyssal Roar)](심연포효의%20대검%20%28Greatsword%20of%20Abyssal%20Roar%29.md) |
+| 심판의 빛창 — 아크투루스의 파편검 (Splinter-Sword of Arcturus, Blade of Divine Verdict) | [심판의 빛창 — 아크투루스의 파편검 (Splinter-Sword of Arcturus, Blade of Divine Verdict)](심판의%20빛창%20—%20아크투루스의%20파편검%20%28Splinter-Sword%20of%20Arcturus,%20Blade%20of%20Divine%20Verdict%29.md) |
 | 심해의 닻날검 (Deepwalker's Anchor Blade) | [심해의 닻날검 (Deepwalker's Anchor Blade)](심해의%20닻날검%20%28Deepwalker's%20Anchor%20Blade%29.md) |
 | 아포칼립스 (Apocalypse) | [아포칼립스 (Apocalypse)](아포칼립스%20%28Apocalypse%29.md) |
 | 염옥 대검 이그니스 크럭스 (Hellfire Greatsword: Ignis Crux) | [염옥 대검 이그니스 크럭스 (Hellfire Greatsword: Ignis Crux)](염옥%20대검%20이그니스%20크럭스%20%28Hellfire%20Greatsword%20Ignis%20Crux%29.md) |
@@ -45,3 +47,4 @@
 | 포식자의 대검 (Greatsword of Predator) | [포식자의 대검 (Greatsword of Predator)](포식자의%20대검%20%28Greatsword%20of%20Predator%29.md) |
 | 피닉스 소드 (Phoenix Sword) | [피닉스 소드 (Phoenix Sword)](피닉스%20소드%20%28Phoenix%20Sword%29.md) |
 | 홍염 대검 (Solar Flare Greatsword) | [홍염 대검 (Solar Flare Greatsword)](홍염%20대검%20%28Solar%20Flare%20Greatsword%29.md) |
+| 황혼 종말 — 라미엘의 이중 대검 (Twin Greatswords of Twilight's End) | [황혼 종말 — 라미엘의 이중 대검 (Twin Greatswords of Twilight's End)](황혼%20종말%20—%20라미엘의%20이중%20대검%20%28Twin%20Greatswords%20of%20Twilight's%20End%29.md) |

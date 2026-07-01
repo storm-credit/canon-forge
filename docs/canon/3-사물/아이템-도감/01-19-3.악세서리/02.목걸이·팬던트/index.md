@@ -6,7 +6,7 @@
 
 # 📚 목걸이·팬던트
 
-## 항목 (21)
+## 항목 (22)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -30,4 +30,5 @@
 | 지진 핵 결정 목걸이 (Necklace of the Seismic Core-Crystal) | [지진 핵 결정 목걸이 (Necklace of the Seismic Core-Crystal)](지진%20핵%20결정%20목걸이%20%28Necklace%20of%20the%20Seismic%20Core-Crystal%29.md) |
 | 진실을 말하는 루비 초커 (Ruby Choker of Confession) | [진실을 말하는 루비 초커 (Ruby Choker of Confession)](진실을%20말하는%20루비%20초커%20%28Ruby%20Choker%20of%20Confession%29.md) |
 | 코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity) | [코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity)](코르디스의%20마지막%20이성%20고리%20%28Choker%20of%20Cordis's%20Last%20Sanity%29.md) |
+| 피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity) | [피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)](피와%20눈물이%20얼룩진%20영원의%20펜던트%20%28Tear-stained%20Pendant%20of%20Eternity%29.md) |
 | 환각의 거울 펜던트 미라지 (Hallucination Pendant Mirror: Mirage) | [환각의 거울 펜던트 미라지 (Hallucination Pendant Mirror: Mirage)](환각의%20거울%20펜던트%20미라지%20%28Hallucination%20Pendant%20Mirror%20Mirage%29.md) |

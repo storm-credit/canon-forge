@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (192)
+## 항목 (205)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -50,6 +50,7 @@
 | 망각의 거울 부채 (Fans of Amnesia) | [망각의 거울 부채 (Fans of Amnesia)](망각의%20거울%20부채%20%28Fans%20of%20Amnesia%29.md) |
 | 맹독 여왕의 독침 (Venom Queen's Needles) | [맹독 여왕의 독침 (Venom Queen's Needles)](맹독%20여왕의%20독침%20%28Venom%20Queen's%20Needles%29.md) |
 | 맹인의 약초 바구니(Blind Man's Basket) | [맹인의 약초 바구니(Blind Man's Basket)](맹인의%20약초%20바구니%28Blind%20Man's%20Basket%29.md) |
+| 무지갯빛 혈섬의 부채 (Iridescent Phantom Fan) | [무지갯빛 혈섬의 부채 (Iridescent Phantom Fan)](무지갯빛%20혈섬의%20부채%20%28Iridescent%20Phantom%20Fan%29.md) |
 | 무한 폭락장 금고(Vault of the Stock Crash) | [무한 폭락장 금고(Vault of the Stock Crash)](무한%20폭락장%20금고%28Vault%20of%20the%20Stock%20Crash%29.md) |
 | 무한의 술통 (Keg of Infinity) | [무한의 술통 (Keg of Infinity)](무한의%20술통%20%28Keg%20of%20Infinity%29.md) |
 | 무한의 잉크병 (Edwin Rosfelt's Inkwell of Infinity) | [무한의 잉크병 (Edwin Rosfelt's Inkwell of Infinity)](무한의%20잉크병%20%28Edwin%20Rosfelt's%20Inkwell%20of%20Infinity%29.md) |
@@ -72,6 +73,7 @@
 | 붉은 벨벳의 가시 옥좌(Throne of Thorns) | [붉은 벨벳의 가시 옥좌(Throne of Thorns)](붉은%20벨벳의%20가시%20옥좌%28Throne%20of%20Thorns%29.md) |
 | 비덴의 다안(多眼) 관측 크리스탈 (Multi-Eye Observation Crystal of Viden) | [비덴의 다안(多眼) 관측 크리스탈 (Multi-Eye Observation Crystal of Viden)](비덴의%20다안%28多眼%29%20관측%20크리스탈%20%28Multi-Eye%20Observation%20Crystal%20of%20Viden%29.md) |
 | 비트 v4.0 (Bit v4.0) | [비트 v4.0 (Bit v4.0)](비트%20v4.0%20%28Bit%20v4.0%29.md) |
+| 빛 잃은 심연의 진주 지팡이 (Lusterless Pearl Staff of the Deep) | [빛 잃은 심연의 진주 지팡이 (Lusterless Pearl Staff of the Deep)](빛%20잃은%20심연의%20진주%20지팡이%20%28Lusterless%20Pearl%20Staff%20of%20the%20Deep%29.md) |
 | 사랑의 주사기 (Syringe of Love) | [사랑의 주사기 (Syringe of Love)](사랑의%20주사기%20%28Syringe%20of%20Love%29.md) |
 | 사불룸의 파형(Wave) 증폭 소리굽쇠 (Wave-Amp Tuning Fork of Sabulum) | [사불룸의 파형(Wave) 증폭 소리굽쇠 (Wave-Amp Tuning Fork of Sabulum)](사불룸의%20파형%28Wave%29%20증폭%20소리굽쇠%20%28Wave-Amp%20Tuning%20Fork%20of%20Sabulum%29.md) |
 | 사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium) | [사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium)](사일런티움의%20무거운%20대속%20묵주%20%28Heavy%20Rosary%20of%20Atonement%20of%20Silentium%29.md) |
@@ -92,8 +94,10 @@
 | 숨겨진 칼날 (Hidden Blade) | [숨겨진 칼날 (Hidden Blade)](숨겨진%20칼날%20%28Hidden%20Blade%29.md) |
 | 스코프 (Scope) | [스코프 (Scope)](스코프%20%28Scope%29.md) |
 | 스틱스 강물의 맹독 피(Blood of Styx) | [스틱스 강물의 맹독 피(Blood of Styx)](스틱스%20강물의%20맹독%20피%28Blood%20of%20Styx%29.md) |
+| 시간의 검 카이저 블러드 (Kaiser Blood) | [시간의 검 카이저 블러드 (Kaiser Blood)](시간의%20검%20카이저%20블러드%20%28Kaiser%20Blood%29.md) |
 | 시밀러리티 엄브렐라 (Similarity Umbrella) | [시밀러리티 엄브렐라 (Similarity Umbrella)](시밀러리티%20엄브렐라%20%28Similarity%20Umbrella%29.md) |
 | 신기루의 거울 (Mirror of Mirage) | [신기루의 거울 (Mirror of Mirage)](신기루의%20거울%20%28Mirror%20of%20Mirage%29.md) |
+| 실바인의 가시 구속 넝쿨 (Sylvain's Thorn Binding Vine) | [실바인의 가시 구속 넝쿨 (Sylvain's Thorn Binding Vine)](실바인의%20가시%20구속%20넝쿨%20%28Sylvain's%20Thorn%20Binding%20Vine%29.md) |
 | 실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia) | [실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia)](실피아의%20덧없는%20은빛%20부채%20%28Silver-Dust%20Fan%20of%20Sylphia%29.md) |
 | 심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control) | [심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control)](심연%20통제의%20오라클%20매트릭스%20%28Oracle%20Matrix%20of%20Abyssal%20Control%29.md) |
 | 심연의 류트(Lute of the Abyss) | [심연의 류트(Lute of the Abyss)](심연의%20류트%28Lute%20of%20the%20Abyss%29.md) |
@@ -102,6 +106,7 @@
 | 심판의 깃펜 (Quill of Judgment) | [심판의 깃펜 (Quill of Judgment)](심판의%20깃펜%20%28Quill%20of%20Judgment%29.md) |
 | 심판의 묵주 (Rosary of Judgment) | [심판의 묵주 (Rosary of Judgment)](심판의%20묵주%20%28Rosary%20of%20Judgment%29.md) |
 | 심판의 사슬 (Chain of Judgment) | [심판의 사슬 (Chain of Judgment)](심판의%20사슬%20%28Chain%20of%20Judgment%29.md) |
+| 심판의 조타륜 (Wheel of Judgment) | [심판의 조타륜 (Wheel of Judgment)](심판의%20조타륜%20%28Wheel%20of%20Judgment%29.md) |
 | 심해의 노래 네프탈리 | [심해의 노래 네프탈리](심해의노래네프탈리.md) |
 | 아다만티움 곡괭이 (Adamantine Pickaxe) | [아다만티움 곡괭이 (Adamantine Pickaxe)](아다만티움%20곡괭이%20%28Adamantine%20Pickaxe%29.md) |
 | 아르카디아의 종말 심판장 (Judgment Staff of Arcadia) | [아르카디아의 종말 심판장 (Judgment Staff of Arcadia)](아르카디아의%20종말%20심판장%20%28Judgment%20Staff%20of%20Arcadia%29.md) |
@@ -132,14 +137,17 @@
 | 영혼 구속의 빛사슬 '레코드 체인' (Karina Lightchain's Record Chain) | [영혼 구속의 빛사슬 '레코드 체인' (Karina Lightchain's Record Chain)](영혼%20구속의%20빛사슬%20'레코드%20체인'%20%28Karina%20Lightchain's%20Record%20Chain%29.md) |
 | 영혼 등불 '소울 랜턴' (Lina Shadowsoul's Soul Lantern) | [영혼 등불 '소울 랜턴' (Lina Shadowsoul's Soul Lantern)](영혼%20등불%20'소울%20랜턴'%20%28Lina%20Shadowsoul's%20Soul%20Lantern%29.md) |
 | 영혼의 등불 (Lantern of Souls) | [영혼의 등불 (Lantern of Souls)](영혼의%20등불%20%28Lantern%20of%20Souls%29.md) |
+| 오르펠리안의 부식 앰플 벨트 (Corrosion Ampoule Belt of the Crimson Lab's Final Subject) | [오르펠리안의 부식 앰플 벨트 (Corrosion Ampoule Belt of the Crimson Lab's Final Subject)](오르펠리안의%20부식%20앰플%20벨트%20%28Corrosion%20Ampoule%20Belt%20of%20the%20Crimson%20Lab's%20Final%20Subject%29.md) |
 | 오리지널 마력 플라스크 폭탄(Original Flask of Doom) | [오리지널 마력 플라스크 폭탄(Original Flask of Doom)](오리지널%20마력%20플라스크%20폭탄%28Original%20Flask%20of%20Doom%29.md) |
 | 오버클럭 마력 의수포 '오르테가 암' (Lilian Ortega's Magic Arm Cannon) | [오버클럭 마력 의수포 '오르테가 암' (Lilian Ortega's Magic Arm Cannon)](오버클럭%20마력%20의수포%20'오르테가%20암'%20%28Lilian%20Ortega's%20Magic%20Arm%20Cannon%29.md) |
 | 와이어 폭탄 릴 (Wire Bomb Spool) | [와이어 폭탄 릴 (Wire Bomb Spool)](와이어%20폭탄%20릴%20%28Wire%20Bomb%20Spool%29.md) |
 | 요정의 하프 (Fairy Harp) | [요정의 하프 (Fairy Harp)](요정의%20하프%20%28Fairy%20Harp%29.md) |
 | 용접공의 황금 화염 토치 (Braziersmith's Golden Weld Torch) | [용접공의 황금 화염 토치 (Braziersmith's Golden Weld Torch)](용접공의%20황금%20화염%20토치%20%28Braziersmith's%20Golden%20Weld%20Torch%29.md) |
 | 용해사의 금속 분석봉 (Welter's Alloy Analysis Rod) | [용해사의 금속 분석봉 (Welter's Alloy Analysis Rod)](용해사의%20금속%20분석봉%20%28Welter's%20Alloy%20Analysis%20Rod%29.md) |
+| 운명의 실 얽힌 타래 (Spool of Fate's Thread) | [운명의 실 얽힌 타래 (Spool of Fate's Thread)](운명의%20실%20얽힌%20타래%20%28Spool%20of%20Fate's%20Thread%29.md) |
 | 운명의 천문기 '스탈하트' (Ishyr Starhart's Star Astrolabe) | [운명의 천문기 '스탈하트' (Ishyr Starhart's Star Astrolabe)](운명의%20천문기%20'스탈하트'%20%28Ishyr%20Starhart's%20Star%20Astrolabe%29.md) |
 | 운명의 타로 카드 '나이트폴의 운명' (Alexander Nightfall's Tarot of Fate) | [운명의 타로 카드 '나이트폴의 운명' (Alexander Nightfall's Tarot of Fate)](운명의%20타로%20카드%20'나이트폴의%20운명'%20%28Alexander%20Nightfall's%20Tarot%20of%20Fate%29.md) |
+| 운명의 태엽침 — 크로니아의 부러진 시침 (Shattered Hour-Hand of Chronia, Needle of Fate) | [운명의 태엽침 — 크로니아의 부러진 시침 (Shattered Hour-Hand of Chronia, Needle of Fate)](운명의%20태엽침%20—%20크로니아의%20부러진%20시침%20%28Shattered%20Hour-Hand%20of%20Chronia,%20Needle%20of%20Fate%29.md) |
 | 울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling) | [울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling)](울부짖는%20마름모꼴%20빙금%20피리%20%28Rhombus%20Ice-Flute%20of%20Howling%29.md) |
 | 울부짖는 태양 칼루멘 | [울부짖는 태양 칼루멘](울부짖는태양칼루멘.md) |
 | 위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament) | [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](위버의%20비탄%20실패%20릴%20%28Spindle%20Reel%20of%20Weaver's%20Lament%29.md) |
@@ -175,7 +183,10 @@
 | 크롬강 수준의 갑각질 암석 피부(Chrome-layered Rock Skin) | [크롬강 수준의 갑각질 암석 피부(Chrome-layered Rock Skin)](크롬강%20수준의%20갑각질%20암석%20피부%28Chrome-layered%20Rock%20Skin%29.md) |
 | 타르타로스의 핏빛 메아리 (Blood-Echo of Tartaros) | [타르타로스의 핏빛 메아리 (Blood-Echo of Tartaros)](타르타로스의%20핏빛%20메아리%20%28Blood-Echo%20of%20Tartaros%29.md) |
 | 탐욕의 차원 금고 (Dimensional Vault of Greed) | [탐욕의 차원 금고 (Dimensional Vault of Greed)](탐욕의%20차원%20금고%20%28Dimensional%20Vault%20of%20Greed%29.md) |
+| 태양 수레바퀴의 궤적 (Orbit of the Solar Wheel) | [태양 수레바퀴의 궤적 (Orbit of the Solar Wheel)](태양%20수레바퀴의%20궤적%20%28Orbit%20of%20the%20Solar%20Wheel%29.md) |
 | 태풍을 지적하는 선풍의 목피리(Updraft Flute) | [태풍을 지적하는 선풍의 목피리(Updraft Flute)](태풍을%20지적하는%20선풍의%20목피리%28Updraft%20Flute%29.md) |
+| 테크노스 리마커 — 최종 정리 드릴 (Technos Remarker) | [테크노스 리마커 — 최종 정리 드릴 (Technos Remarker)](테크노스%20리마커%20—%20최종%20정리%20드릴%20%28Technos%20Remarker%29.md) |
+| 테크노스의 공명 스패너 (Technos Resonance Spanner) | [테크노스의 공명 스패너 (Technos Resonance Spanner)](테크노스의%20공명%20스패너%20%28Technos%20Resonance%20Spanner%29.md) |
 | 통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion) | [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](통제와%20심연의%20지배%20옥좌%20%28Throne%20of%20Abyssal%20Dominion%29.md) |
 | 특수 장비 - 운명의 베틀 카르마 (Loom of Karma) | [특수 장비 - 운명의 베틀 카르마 (Loom of Karma)](특수%20장비%20-%20운명의%20베틀%20카르마%20%28Loom%20of%20Karma%29.md) |
 | 티탄의 문 (Gate of Titans) | [티탄의 문 (Gate of Titans)](티탄의%20문%20%28Gate%20of%20Titans%29.md) |
@@ -192,11 +203,13 @@
 | 피의 매혹이 깃든 핏빛 제단 (Crimson Altar Imbued with Blood Charm) | [피의 매혹이 깃든 핏빛 제단 (Crimson Altar Imbued with Blood Charm)](피의%20매혹이%20깃든%20핏빛%20제단%20%28Crimson%20Altar%20Imbued%20with%20Blood%20Charm%29.md) |
 | 피의 철가시 관(Blood Cast Coffin) | [피의 철가시 관(Blood Cast Coffin)](피의%20철가시%20관%28Blood%20Cast%20Coffin%29.md) |
 | 하수구 화학세트 가방(Sewer Chemistry Kit) | [하수구 화학세트 가방(Sewer Chemistry Kit)](하수구%20화학세트%20가방%28Sewer%20Chemistry%20Kit%29.md) |
+| 하이드론의 검은 해일 지팡이 (Hydron's Black-Surge Staff) | [하이드론의 검은 해일 지팡이 (Hydron's Black-Surge Staff)](하이드론의%20검은%20해일%20지팡이%20%28Hydron's%20Black-Surge%20Staff%29.md) |
 | 해저 2만 리의 심연(Tome of Depths) | [해저 2만 리의 심연(Tome of Depths)](해저%202만%20리의%20심연%28Tome%20of%20Depths%29.md) |
 | 행운의 철 주사위 (Lucky Iron Dice) | [행운의 철 주사위 (Lucky Iron Dice)](행운의%20철%20주사위%20%28Lucky%20Iron%20Dice%29.md) |
 | 현자의 돋보기 '스칼라 렌즈' (Esme Rantel's Sage's Magnifier) | [현자의 돋보기 '스칼라 렌즈' (Esme Rantel's Sage's Magnifier)](현자의%20돋보기%20'스칼라%20렌즈'%20%28Esme%20Rantel's%20Sage's%20Magnifier%29.md) |
 | 화산재의 거둥 볼카누스 (Colossal Pillar of Ash: Volcanus) | [화산재의 거둥 볼카누스 (Colossal Pillar of Ash: Volcanus)](화산재의%20거둥%20볼카누스%20%28Colossal%20Pillar%20of%20Ash%20Volcanus%29.md) |
 | 화염의 연방진(Matrix of Blaze) | [화염의 연방진(Matrix of Blaze)](화염의%20연방진%28Matrix%20of%20Blaze%29.md) |
+| 화염지옥의 집게 (Pincers of the Inferno) | [화염지옥의 집게 (Pincers of the Inferno)](화염지옥의%20집게%20%28Pincers%20of%20the%20Inferno%29.md) |
 | 환상의 거울 (Mirror of Illusion) | [환상의 거울 (Mirror of Illusion)](환상의%20거울%20%28Mirror%20of%20Illusion%29.md) |
 | 황혼의 낙뢰장 (Staff of Twilight's Bolt) | [황혼의 낙뢰장 (Staff of Twilight's Bolt)](황혼의%20낙뢰장%20%28Staff%20of%20Twilight's%20Bolt%29.md) |
 | 회색의 랜턴 (Grey Lantern) | [회색의 랜턴 (Grey Lantern)](회색의%20랜턴%20%28Grey%20Lantern%29.md) |

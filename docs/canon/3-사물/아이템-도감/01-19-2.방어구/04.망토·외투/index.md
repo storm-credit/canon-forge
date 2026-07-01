@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (45)
+## 항목 (47)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -44,6 +44,7 @@
 | 외투 (Surcoats) | [외투 (Surcoats)](외투%20%28Surcoats%29.md) |
 | 욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire) | [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](욕망%20흡착의%20은사%20코트%20%28Silver-Thread%20Coat%20of%20Desire%29.md) |
 | 월식의 망토 (Cloak of Lunar Eclipse) | [월식의 망토 (Cloak of Lunar Eclipse)](월식의%20망토%20%28Cloak%20of%20Lunar%20Eclipse%29.md) |
+| 윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream) | [윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream)](윈드스트림의%20사냥%20망토%20%28Hunter's%20Cloak%20of%20Windstream%29.md) |
 | 이성의 재봉선 망토 (Cape of the Thread of Reason) | [이성의 재봉선 망토 (Cape of the Thread of Reason)](이성의%20재봉선%20망토%20%28Cape%20of%20the%20Thread%20of%20Reason%29.md) |
 | 재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano) | [재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano)](재앙이%20깃든%20화산의%20망토%20%28Cloak%20of%20the%20Calamitous%20Volcano%29.md) |
 | 절연된 참모의 망토 (Insulated Cloak of the Staff) | [절연된 참모의 망토 (Insulated Cloak of the Staff)](절연된%20참모의%20망토%20%28Insulated%20Cloak%20of%20the%20Staff%29.md) |
@@ -54,4 +55,5 @@
 | 크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak) | [크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak)](크라켄의%20먹물%20젤리%20망토%20%28Squid-Ink%20Jelly%20Cloak%29.md) |
 | 태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse) | [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](태양풍을%20흡수하는%20일식%28Eclipse%29의%20베일%20%28Veil%20of%20Eclipse%29.md) |
 | 투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void) | [투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void)](투명화%20마법%20도료가%20발린%20위장%20망토%20%28Camouflage%20Cloak%20of%20the%20Void%29.md) |
+| 황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower) | [황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower)](황금%20태엽%20역행%20코트%20%28Reverse-Gear%20Golden%20Coat%20of%20the%20Time%20Tower%29.md) |
 | 흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler) | [흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler)](흉갑이%20없는%20투사의%20망토%20%28Cloak%20of%20the%20Bare-Chested%20Brawler%29.md) |
