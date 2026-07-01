@@ -6,12 +6,14 @@
 
 # 📚 머리장식
 
-## 항목 (13)
+## 항목 (17)
 
 | 아이템 | 링크 |
 |--------|------|
 | 머리장식 (Tiaras) | [머리장식 (Tiaras)](05.머리장식.md) |
+| 광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire) | [광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire)](광명%20제국의%20절대%20황제관%20%28Absolute%20Imperial%20Crown%20of%20the%20Radiant%20Empire%29.md) |
 | 네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign) | [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](네크로폴리스%20망자의%20골제관%20%28Bone%20Diadem%20of%20the%20Necropolis%20Sovereign%29.md) |
+| 녹아내린 태양의 가시 왕관 (Melting Crown of Sol) | [녹아내린 태양의 가시 왕관 (Melting Crown of Sol)](녹아내린%20태양의%20가시%20왕관%20%28Melting%20Crown%20of%20Sol%29.md) |
 | 대속의 가시관 (Crown of Vicarious Thorns) | [대속의 가시관 (Crown of Vicarious Thorns)](대속의%20가시관%20%28Crown%20of%20Vicarious%20Thorns%29.md) |
 | 동토의 여제(Empress) 티아라 | [동토의 여제(Empress) 티아라](동토의%20여제%28Empress%29%20티아라.md) |
 | 복수의 황혼 가면 (Twilight Mask of Vengeance) | [복수의 황혼 가면 (Twilight Mask of Vengeance)](복수의%20황혼%20가면%20%28Twilight%20Mask%20of%20Vengeance%29.md) |
@@ -21,5 +23,7 @@
 | 조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn) | [조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn)](조각난%20여명의%20부러진%20후광%20%28Broken%20Halo%20of%20Fragmented%20Dawn%29.md) |
 | 종교백과 - 은폐의 황륜 (Golden Halo of Concealment) | [종교백과 - 은폐의 황륜 (Golden Halo of Concealment)](종교백과%20-%20은폐의%20황륜%20%28Golden%20Halo%20of%20Concealment%29.md) |
 | 창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark) | [창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark)](창공%20성궤의%20황금%20제독관%20%28Admiral's%20Crown%20of%20the%20Zenith%20Ark%29.md) |
+| 카이저의 왕관 파편 (Fragment of the Kaiser's Crown) | [카이저의 왕관 파편 (Fragment of the Kaiser's Crown)](카이저의%20왕관%20파편%20%28Fragment%20of%20the%20Kaiser's%20Crown%29.md) |
 | 통합의 핏빛 왕관 (Crown of Iron Unification) | [통합의 핏빛 왕관 (Crown of Iron Unification)](통합의%20핏빛%20왕관%20%28Crown%20of%20Iron%20Unification%29.md) |
+| 황혼 이중성의 균열 후광 (Rift Halo of Twilight Duality) | [황혼 이중성의 균열 후광 (Rift Halo of Twilight Duality)](황혼%20이중성의%20균열%20후광%20%28Rift%20Halo%20of%20Twilight%20Duality%29.md) |
 | 흑일륜의 재관 (Ashen Crown of the Black Sun) | [흑일륜의 재관 (Ashen Crown of the Black Sun)](흑일륜의%20재관%20%28Ashen%20Crown%20of%20the%20Black%20Sun%29.md) |

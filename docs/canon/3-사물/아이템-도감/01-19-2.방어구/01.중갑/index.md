@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (45)
+## 항목 (47)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -26,6 +26,7 @@
 | 맹수왕의 사슬 흉갑 (Chainmail of the Beast King) | [맹수왕의 사슬 흉갑 (Chainmail of the Beast King)](맹수왕의%20사슬%20흉갑%20%28Chainmail%20of%20the%20Beast%20King%29.md) |
 | 몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily) | [몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily)](몰락한%20백합의%20은빛%20흉갑%20%28Silver%20Corcelet%20of%20the%20Fallen%20Lily%29.md) |
 | 백사자의 흉갑 (Cuirass of the White Lion) | [백사자의 흉갑 (Cuirass of the White Lion)](백사자의%20흉갑%20%28Cuirass%20of%20the%20White%20Lion%29.md) |
+| 블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren) | [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](블러드혼%20부락%20붕괴벽의%20대갑주%20%28Collapsed-Wall%20Great%20Armor%20of%20Bloodhorn%20Warren%29.md) |
 | 비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor) | [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](비룡%20비늘의%20화강암%20대갑%20%28Dragon-Scale%20Granite%20Greatarmor%29.md) |
 | 빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection) | [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](빛을%20반환하는%20아르젠툼%20풀%20플레이트%20%28Argentum%20Full%20Plate%20of%20Light-Reflection%29.md) |
 | 선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate) | [선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate)](선체%20파편%20직조%20판금%20흉갑%20%28Hull-Fragment%20Woven%20Plate%29.md) |
@@ -54,4 +55,5 @@
 | 태양 수호갑 (Aegis of the Sun-Guard) | [태양 수호갑 (Aegis of the Sun-Guard)](태양%20수호갑%20%28Aegis%20of%20the%20Sun-Guard%29.md) |
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
 | 판금 갑옷 (Plate Armor) | [판금 갑옷 (Plate Armor)](판금%20갑옷%20%28Plate%20Armor%29.md) |
+| 폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights) | [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](폭풍%20기사단의%20단독%20수장%20갑주%20%28Sole-Commander%20Plate%20of%20the%20Storm%20Knights%29.md) |
 | 흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat) | [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](흡음%28Sound-Absorbing%29%20처리된%20흑박쥐%20피박%20갑주%20%28Blood-Foil%20Armor%20of%20the%20Dark-Bat%29.md) |

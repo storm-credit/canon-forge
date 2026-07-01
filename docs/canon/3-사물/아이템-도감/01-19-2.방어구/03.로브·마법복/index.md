@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (132)
+## 항목 (133)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -20,6 +20,7 @@
 | 기적의 타짜 연미복 (Suit of the Jackpot) | [기적의 타짜 연미복 (Suit of the Jackpot)](기적의%20타짜%20연미복%20%28Suit%20of%20the%20Jackpot%29.md) |
 | 까마귀 깃털의 암흑 로브 (Dark-Robe of the Raven Feather) | [까마귀 깃털의 암흑 로브 (Dark-Robe of the Raven Feather)](까마귀%20깃털의%20암흑%20로브%20%28Dark-Robe%20of%20the%20Raven%20Feather%29.md) |
 | 눈꽃 굴절의 광학 미채 드레스 (Optical-Camouflage Dress of Snowflakes) | [눈꽃 굴절의 광학 미채 드레스 (Optical-Camouflage Dress of Snowflakes)](눈꽃%20굴절의%20광학%20미채%20드레스%20%28Optical-Camouflage%20Dress%20of%20Snowflakes%29.md) |
+| 눈먼 여명의 순례 예복 (Blind Dawn Pilgrim Vestment) | [눈먼 여명의 순례 예복 (Blind Dawn Pilgrim Vestment)](눈먼%20여명의%20순례%20예복%20%28Blind%20Dawn%20Pilgrim%20Vestment%29.md) |
 | 다이아몬드 코팅 백색 실크 가운 (Diamond-Coated White Silk Gown) | [다이아몬드 코팅 백색 실크 가운 (Diamond-Coated White Silk Gown)](다이아몬드%20코팅%20백색%20실크%20가운%20%28Diamond-Coated%20White%20Silk%20Gown%29.md) |
 | 다중 겹 보호 코트 (Multi-Layer Protection Coat) | [다중 겹 보호 코트 (Multi-Layer Protection Coat)](다중%20겹%20보호%20코트%20%28Multi-Layer%20Protection%20Coat%29.md) |
 | 담금질된 영구 불연 앞치마 (Tempered Asbestos Apron) | [담금질된 영구 불연 앞치마 (Tempered Asbestos Apron)](담금질된%20영구%20불연%20앞치마%20%28Tempered%20Asbestos%20Apron%29.md) |
