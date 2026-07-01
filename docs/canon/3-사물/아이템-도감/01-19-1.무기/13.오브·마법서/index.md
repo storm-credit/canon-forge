@@ -6,7 +6,7 @@
 
 # 📚 오브·마법서
 
-## 항목 (52)
+## 항목 (53)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -45,6 +45,7 @@
 | 오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity) | [오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity)](오브류%20-%20톱니바퀴%20지팡이%20이터니티%20%28Cog-Staff%20Eternity%29.md) |
 | 오큘러스 (Oculus) | [오큘러스 (Oculus)](오큘러스%20%28Oculus%29.md) |
 | 운명의 수정구 '파툼' (Bellatrix Arqueta's Crystal of Fatum) | [운명의 수정구 '파툼' (Bellatrix Arqueta's Crystal of Fatum)](운명의%20수정구%20'파툼'%20%28Bellatrix%20Arqueta's%20Crystal%20of%20Fatum%29.md) |
+| 은빛의 성서 (Tome of Silver Radiance) | [은빛의 성서 (Tome of Silver Radiance)](은빛의%20성서%20%28Tome%20of%20Silver%20Radiance%29.md) |
 | 절대 이행의 황금 계약서 (Golden Pact of Absolute Enforcement) | [절대 이행의 황금 계약서 (Golden Pact of Absolute Enforcement)](절대%20이행의%20황금%20계약서%20%28Golden%20Pact%20of%20Absolute%20Enforcement%29.md) |
 | 제라드 아트레우스의 저주받은 고대어 마도서 (Ancient Cursed Grimoire) | [제라드 아트레우스의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](제라드%20아트레우스의%20저주받은%20고대어%20마도서%20%28Ancient%20Cursed%20Grimoire%29.md) |
 | 지혜의 서 (Book of Wisdom) | [지혜의 서 (Book of Wisdom)](지혜의%20서%20%28Book%20of%20Wisdom%29.md) |

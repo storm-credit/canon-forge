@@ -6,13 +6,14 @@
 
 # 📚 머리장식
 
-## 항목 (17)
+## 항목 (18)
 
 | 아이템 | 링크 |
 |--------|------|
 | 머리장식 (Tiaras) | [머리장식 (Tiaras)](05.머리장식.md) |
 | 광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire) | [광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire)](광명%20제국의%20절대%20황제관%20%28Absolute%20Imperial%20Crown%20of%20the%20Radiant%20Empire%29.md) |
 | 네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign) | [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](네크로폴리스%20망자의%20골제관%20%28Bone%20Diadem%20of%20the%20Necropolis%20Sovereign%29.md) |
+| 노르다리스의 청백 서리관 (Pale-Blue Frost Coronet of Nordaris) | [노르다리스의 청백 서리관 (Pale-Blue Frost Coronet of Nordaris)](노르다리스의%20청백%20서리관%20%28Pale-Blue%20Frost%20Coronet%20of%20Nordaris%29.md) |
 | 녹아내린 태양의 가시 왕관 (Melting Crown of Sol) | [녹아내린 태양의 가시 왕관 (Melting Crown of Sol)](녹아내린%20태양의%20가시%20왕관%20%28Melting%20Crown%20of%20Sol%29.md) |
 | 대속의 가시관 (Crown of Vicarious Thorns) | [대속의 가시관 (Crown of Vicarious Thorns)](대속의%20가시관%20%28Crown%20of%20Vicarious%20Thorns%29.md) |
 | 동토의 여제(Empress) 티아라 | [동토의 여제(Empress) 티아라](동토의%20여제%28Empress%29%20티아라.md) |

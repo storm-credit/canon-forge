@@ -6,7 +6,7 @@
 
 # 📚 지팡이·완드
 
-## 항목 (151)
+## 항목 (152)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -101,6 +101,7 @@
 | 야생의 치료 지팡이 (Wild Healer's Staff) | [야생의 치료 지팡이 (Wild Healer's Staff)](야생의%20치료%20지팡이%20%28Wild%20Healer's%20Staff%29.md) |
 | 야전 의료 지팡이 (Field Medicus Staff) | [야전 의료 지팡이 (Field Medicus Staff)](야전%20의료%20지팡이%20%28Field%20Medicus%20Staff%29.md) |
 | 언령의 고대어봉 '폴리글롯' (Evrin Hieros's Polyglot Staff) | [언령의 고대어봉 '폴리글롯' (Evrin Hieros's Polyglot Staff)](언령의%20고대어봉%20'폴리글롯'%20%28Evrin%20Hieros's%20Polyglot%20Staff%29.md) |
+| 얼음의 성의 마지막 명령 - 노르다리스의 눈꽃 지팡이 (Snowblossom Staff of the Frost Citadel's Last Decree) | [얼음의 성의 마지막 명령 - 노르다리스의 눈꽃 지팡이 (Snowblossom Staff of the Frost Citadel's Last Decree)](얼음의%20성의%20마지막%20명령%20-%20노르다리스의%20눈꽃%20지팡이%20%28Snowblossom%20Staff%20of%20the%20Frost%20Citadel's%20Last%20Decree%29.md) |
 | 얼음폭풍의 지팡이 크라이오스 (Cryos) | [얼음폭풍의 지팡이 크라이오스 (Cryos)](얼음폭풍의%20지팡이%20크라이오스%20%28Cryos%29.md) |
 | 업화의 소각 지팡이 (Incineration Staff of Hellfire) | [업화의 소각 지팡이 (Incineration Staff of Hellfire)](업화의%20소각%20지팡이%20%28Incineration%20Staff%20of%20Hellfire%29.md) |
 | 에르민 티르의 기억의 빛 완드 (Wand of Remembered Light) | [에르민 티르의 기억의 빛 완드 (Wand of Remembered Light)](에르민%20티르의%20기억의%20빛%20완드%20%28Wand%20of%20Remembered%20Light%29.md) |

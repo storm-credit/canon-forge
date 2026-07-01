@@ -6,7 +6,7 @@
 
 # 📚 둔기
 
-## 항목 (83)
+## 항목 (84)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -56,6 +56,7 @@
 | 성게 가시 철퇴 (Mace of the Abyss) | [성게 가시 철퇴 (Mace of the Abyss)](성게%20가시%20철퇴%20%28Mace%20of%20the%20Abyss%29.md) |
 | 성전의 철퇴 '저스티스 브레이커' (Gavian Holyfaith's Justice Breaker) | [성전의 철퇴 '저스티스 브레이커' (Gavian Holyfaith's Justice Breaker)](성전의%20철퇴%20'저스티스%20브레이커'%20%28Gavian%20Holyfaith's%20Justice%20Breaker%29.md) |
 | 순례자의 빙염 메이스 '프로스트 모운' (Frost-mourn Mace) | [순례자의 빙염 메이스 '프로스트 모운' (Frost-mourn Mace)](순례자의%20빙염%20메이스%20'프로스트%20모운'%20%28Frost-mourn%20Mace%29.md) |
+| 신망치 아스가르 (Divine Hammer Asgar) | [신망치 아스가르 (Divine Hammer Asgar)](신망치%20아스가르%20%28Divine%20Hammer%20Asgar%29.md) |
 | 심문관의 망치 (Xyron Hartman's Inquisitor's Hammer) | [심문관의 망치 (Xyron Hartman's Inquisitor's Hammer)](심문관의%20망치%20%28Xyron%20Hartman's%20Inquisitor's%20Hammer%29.md) |
 | 심연의 망치 둠브링어 (Doombringer) | [심연의 망치 둠브링어 (Doombringer)](심연의%20망치%20둠브링어%20%28Doombringer%29.md) |
 | 심연의 모루 망치 (Anvil-Hammer of the Abyss) | [심연의 모루 망치 (Anvil-Hammer of the Abyss)](심연의%20모루%20망치%20%28Anvil-Hammer%20of%20the%20Abyss%29.md) |

@@ -6,13 +6,14 @@
 
 # 📚 성물
 
-## 항목 (19)
+## 항목 (20)
 
 | 아이템 | 링크 |
 |--------|------|
 | 성물 (Holy Relics) | [성물 (Holy Relics)](09.성물.md) |
 | 균형 심판의 저울 향로 (Scale Censer of Balance Judgement) | [균형 심판의 저울 향로 (Scale Censer of Balance Judgement)](균형%20심판의%20저울%20향로%20%28Scale%20Censer%20of%20Balance%20Judgement%29.md) |
 | 등대지기의 향로 (Censer of the Beacon) | [등대지기의 향로 (Censer of the Beacon)](등대지기의%20향로%20%28Censer%20of%20the%20Beacon%29.md) |
+| 루센트의 마지막 기도서 (Final Prayer Book of Lucent) | [루센트의 마지막 기도서 (Final Prayer Book of Lucent)](루센트의%20마지막%20기도서%20%28Final%20Prayer%20Book%20of%20Lucent%29.md) |
 | 루센트의 빛바랜 은빛 십자가 (Faded Silver Cross of Lucent) | [루센트의 빛바랜 은빛 십자가 (Faded Silver Cross of Lucent)](루센트의%20빛바랜%20은빛%20십자가%20%28Faded%20Silver%20Cross%20of%20Lucent%29.md) |
 | 솔라리스의 눈물, 여명의 성배 (Holy Grail of Dawn) | [솔라리스의 눈물, 여명의 성배 (Holy Grail of Dawn)](솔라리스의%20눈물,%20여명의%20성배%20%28Holy%20Grail%20of%20Dawn%29.md) |
 | 순교자의 비어버린 성배 (Empty Chalice of the Martyr) | [순교자의 비어버린 성배 (Empty Chalice of the Martyr)](순교자의%20비어버린%20성배%20%28Empty%20Chalice%20of%20the%20Martyr%29.md) |

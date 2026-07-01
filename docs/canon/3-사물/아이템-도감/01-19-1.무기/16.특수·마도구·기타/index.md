@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (191)
+## 항목 (192)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -107,6 +107,7 @@
 | 아르카디아의 종말 심판장 (Judgment Staff of Arcadia) | [아르카디아의 종말 심판장 (Judgment Staff of Arcadia)](아르카디아의%20종말%20심판장%20%28Judgment%20Staff%20of%20Arcadia%29.md) |
 | 아비살 캐넌 (Abyssal Cannon) | [아비살 캐넌 (Abyssal Cannon)](아비살%20캐넌%20%28Abyssal%20Cannon%29.md) |
 | 아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis) | [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](아스트랄리스의%20운석%20파편%28Meteor%29%20아스트롤라베%20%28Astrolabe%20of%20Meteor%20Shards%20of%20Astralis%29.md) |
+| 아이언하트의 깨진 모루 (Shattered Anvil of Ironheart) | [아이언하트의 깨진 모루 (Shattered Anvil of Ironheart)](아이언하트의%20깨진%20모루%20%28Shattered%20Anvil%20of%20Ironheart%29.md) |
 | 아이테르눔의 무덤(Tomb) 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum) | [아이테르눔의 무덤(Tomb) 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum)](아이테르눔의%20무덤%28Tomb%29%20기록이%20적인%20거대%20석판%20%28Giant%20Stone%20Tablet%20Inscribed%20with%20Tomb%20Records%20of%20Aeternum%29.md) |
 | 아카식 램프 (Armando Veller's Akashic Lamp) | [아카식 램프 (Armando Veller's Akashic Lamp)](아카식%20램프%20%28Armando%20Veller's%20Akashic%20Lamp%29.md) |
 | 아카식 만년필 (Akashic Pen) | [아카식 만년필 (Akashic Pen)](아카식%20만년필%20%28Akashic%20Pen%29.md) |

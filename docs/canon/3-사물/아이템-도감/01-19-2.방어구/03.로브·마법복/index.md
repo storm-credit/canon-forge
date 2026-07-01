@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (133)
+## 항목 (135)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 광자 거울 튜닉 (Photon Mirror Tunic) | [광자 거울 튜닉 (Photon Mirror Tunic)](광자%20거울%20튜닉%20%28Photon%20Mirror%20Tunic%29.md) |
 | 광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon) | [광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon)](광학%20반사경%20미라주%20고치%20%28Optical%20Reflector%20Mirage%20Cocoon%29.md) |
 | 구속의 미스릴 붕대 (Mithril Bandages of Restraint) | [구속의 미스릴 붕대 (Mithril Bandages of Restraint)](구속의%20미스릴%20붕대%20%28Mithril%20Bandages%20of%20Restraint%29.md) |
+| 구원 대주교의 백은 제의 (White-Silver Vestment of the Salvation Archbishop) | [구원 대주교의 백은 제의 (White-Silver Vestment of the Salvation Archbishop)](구원%20대주교의%20백은%20제의%20%28White-Silver%20Vestment%20of%20the%20Salvation%20Archbishop%29.md) |
 | 그림자 녹아내린 기도보 (Cloak of Melted Shadows) | [그림자 녹아내린 기도보 (Cloak of Melted Shadows)](그림자%20녹아내린%20기도보%20%28Cloak%20of%20Melted%20Shadows%29.md) |
 | 기적의 타짜 연미복 (Suit of the Jackpot) | [기적의 타짜 연미복 (Suit of the Jackpot)](기적의%20타짜%20연미복%20%28Suit%20of%20the%20Jackpot%29.md) |
 | 까마귀 깃털의 암흑 로브 (Dark-Robe of the Raven Feather) | [까마귀 깃털의 암흑 로브 (Dark-Robe of the Raven Feather)](까마귀%20깃털의%20암흑%20로브%20%28Dark-Robe%20of%20the%20Raven%20Feather%29.md) |
@@ -70,6 +71,7 @@
 | 빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle) | [빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle)](빛%20반사%20방지%20은신%20위장%20덧옷%20%28Anti-Reflective%20Camo-Mantle%29.md) |
 | 빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror) | [빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](빛을%20찢는%20깨진%20거울의%20위장코트%20%28Camouflage%20Coat%20of%20the%20Shattered%20Mirror%29.md) |
 | 서리 내린 전술 코트 (Tactical Coat of Frostbite) | [서리 내린 전술 코트 (Tactical Coat of Frostbite)](서리%20내린%20전술%20코트%20%28Tactical%20Coat%20of%20Frostbite%29.md) |
+| 서리 성좌의 군주 예복 (Sovereign's Vestment of the Frost Constellation) | [서리 성좌의 군주 예복 (Sovereign's Vestment of the Frost Constellation)](서리%20성좌의%20군주%20예복%20%28Sovereign's%20Vestment%20of%20the%20Frost%20Constellation%29.md) |
 | 석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons) | [석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons)](석화탄을%20튕겨내는%20불침의%20모래비단%20로브%20%28Impervious%20Sand-Silk%20Robe%20against%20Cannons%29.md) |
 | 선혈 응고의 타르 롱코트 (Tar-Longcoat of Blood Coagulation) | [선혈 응고의 타르 롱코트 (Tar-Longcoat of Blood Coagulation)](선혈%20응고의%20타르%20롱코트%20%28Tar-Longcoat%20of%20Blood%20Coagulation%29.md) |
 | 선혈 직조의 적혈 아머 (Crimson-Blood Woven Armor) | [선혈 직조의 적혈 아머 (Crimson-Blood Woven Armor)](선혈%20직조의%20적혈%20아머%20%28Crimson-Blood%20Woven%20Armor%29.md) |
