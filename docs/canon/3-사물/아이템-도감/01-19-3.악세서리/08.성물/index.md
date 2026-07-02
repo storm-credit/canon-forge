@@ -6,7 +6,7 @@
 
 # 📚 성물
 
-## 항목 (64)
+## 항목 (70)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -24,6 +24,7 @@
 | 망각의 안개 결계 향로 (Censer of the Fog of Forgetfulness) | [망각의 안개 결계 향로 (Censer of the Fog of Forgetfulness)](망각의%20안개%20결계%20향로%20%28Censer%20of%20the%20Fog%20of%20Forgetfulness%29.md) |
 | 맹독을 정화하는 흑진주 염주 (Rosary of the Black Pearl that Purifies Venom) | [맹독을 정화하는 흑진주 염주 (Rosary of the Black Pearl that Purifies Venom)](맹독을%20정화하는%20흑진주%20염주%20%28Rosary%20of%20the%20Black%20Pearl%20that%20Purifies%20Venom%29.md) |
 | 바닥 없는 침전의 나침반 (Compass of the Bottomless Sediment) | [바닥 없는 침전의 나침반 (Compass of the Bottomless Sediment)](바닥%20없는%20침전의%20나침반%20%28Compass%20of%20the%20Bottomless%20Sediment%29.md) |
+| 박애의 성모 성배 브로치 (Brooch-Chalice of the Merciful Mother) | [박애의 성모 성배 브로치 (Brooch-Chalice of the Merciful Mother)](박애의%20성모%20성배%20브로치%20%28Brooch-Chalice%20of%20the%20Merciful%20Mother%29.md) |
 | 배교자의 피를 담은 성배 (Chalice of the Apostate's Blood) | [배교자의 피를 담은 성배 (Chalice of the Apostate's Blood)](배교자의%20피를%20담은%20성배%20%28Chalice%20of%20the%20Apostate's%20Blood%29.md) |
 | 베렌가 영령의 토제 수호 뿔피리 (Clay Guardian Horn of the Berenga Spirit) | [베렌가 영령의 토제 수호 뿔피리 (Clay Guardian Horn of the Berenga Spirit)](베렌가%20영령의%20토제%20수호%20뿔피리%20%28Clay%20Guardian%20Horn%20of%20the%20Berenga%20Spirit%29.md) |
 | 빙화 성모의 정화 향로 (Purification Censer of the Holy Mother of Ice-Flowers) | [빙화 성모의 정화 향로 (Purification Censer of the Holy Mother of Ice-Flowers)](빙화%20성모의%20정화%20향로%20%28Purification%20Censer%20of%20the%20Holy%20Mother%20of%20Ice-Flowers%29.md) |
@@ -33,9 +34,12 @@
 | 솔라리스의 눈물, 여명의 성배 (Holy Grail of Dawn) | [솔라리스의 눈물, 여명의 성배 (Holy Grail of Dawn)](솔라리스의%20눈물,%20여명의%20성배%20%28Holy%20Grail%20of%20Dawn%29.md) |
 | 순교자의 비어버린 성배 (Empty Chalice of the Martyr) | [순교자의 비어버린 성배 (Empty Chalice of the Martyr)](순교자의%20비어버린%20성배%20%28Empty%20Chalice%20of%20the%20Martyr%29.md) |
 | 순교자의 산호 닻 (Coral Anchor of the Martyr) | [순교자의 산호 닻 (Coral Anchor of the Martyr)](순교자의%20산호%20닻%20%28Coral%20Anchor%20of%20the%20Martyr%29.md) |
+| 심연 귀의의 네메시스 교주 봉인 성배 (Nemesis Apostle's Sealed Chalice of Abyssal Return) | [심연 귀의의 네메시스 교주 봉인 성배 (Nemesis Apostle's Sealed Chalice of Abyssal Return)](심연%20귀의의%20네메시스%20교주%20봉인%20성배%20%28Nemesis%20Apostle's%20Sealed%20Chalice%20of%20Abyssal%20Return%29.md) |
 | 심연의 영기 향로벨 (Bell of Abyssal Aura Censer) | [심연의 영기 향로벨 (Bell of Abyssal Aura Censer)](심연의%20영기%20향로벨%20%28Bell%20of%20Abyssal%20Aura%20Censer%29.md) |
 | 심연의 잉크가 담긴 죄악의 성배 (Holy Grail of Sin filled with Abyssal Ink) | [심연의 잉크가 담긴 죄악의 성배 (Holy Grail of Sin filled with Abyssal Ink)](심연의%20잉크가%20담긴%20죄악의%20성배%20%28Holy%20Grail%20of%20Sin%20filled%20with%20Abyssal%20Ink%29.md) |
+| 심연의 호흡 정지 압인 도장 — 심문관의 봉인 (Abyssal-Silence Stamp Seal — Inquisitor's Suppression Signet) | [심연의 호흡 정지 압인 도장 — 심문관의 봉인 (Abyssal-Silence Stamp Seal — Inquisitor's Suppression Signet)](심연의%20호흡%20정지%20압인%20도장%20—%20심문관의%20봉인%20%28Abyssal-Silence%20Stamp%20Seal%20—%20Inquisitor's%20Suppression%20Signet%29.md) |
 | 심판 선고의 손등 십자가 (Dorsal Cross of Condemnation Sentence) | [심판 선고의 손등 십자가 (Dorsal Cross of Condemnation Sentence)](심판%20선고의%20손등%20십자가%20%28Dorsal%20Cross%20of%20Condemnation%20Sentence%29.md) |
+| 얼어붙은 기도의 묵주 (Frozen Prayer Rosary) | [얼어붙은 기도의 묵주 (Frozen Prayer Rosary)](얼어붙은%20기도의%20묵주%20%28Frozen%20Prayer%20Rosary%29.md) |
 | 엘라리엘의 영구 동화된 백단나무 뿌리 조각 (Spliced Root of Sandalwood, Ellariel's Eternal Catalyst) | [엘라리엘의 영구 동화된 백단나무 뿌리 조각 (Spliced Root of Sandalwood, Ellariel's Eternal Catalyst)](엘라리엘의%20영구%20동화된%20백단나무%20뿌리%20조각%20%28Spliced%20Root%20of%20Sandalwood,%20Ellariel's%20Eternal%20Catalyst%29.md) |
 | 원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament) | [원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament)](원혼%20봉인의%20은빛%20자물쇠%20%28Silver%20Padlock%20of%20Bound%20Lament%29.md) |
 | 은단풍의 최면 향로 (Censer of Silver Maple) | [은단풍의 최면 향로 (Censer of Silver Maple)](은단풍의%20최면%20향로%20%28Censer%20of%20Silver%20Maple%29.md) |
@@ -43,6 +47,8 @@
 | 은빛 성배 (Silver Chalice) | [은빛 성배 (Silver Chalice)](은빛%20성배%20%28Silver%20Chalice%29.md) |
 | 응혈의 수정구가 박힌 성배 (Chalice of Clotted Crystal) | [응혈의 수정구가 박힌 성배 (Chalice of Clotted Crystal)](응혈의%20수정구가%20박힌%20성배%20%28Chalice%20of%20Clotted%20Crystal%29.md) |
 | 의심과 배반의 붉은 향로 (Red Censer of Doubt and Betrayal) | [의심과 배반의 붉은 향로 (Red Censer of Doubt and Betrayal)](의심과%20배반의%20붉은%20향로%20%28Red%20Censer%20of%20Doubt%20and%20Betrayal%29.md) |
+| 익복의 성수 — 바다의 교단 복종 성수병 (Drowning Blessing Holy Water — Compliance Vial of the Church of the Sea) | [익복의 성수 — 바다의 교단 복종 성수병 (Drowning Blessing Holy Water — Compliance Vial of the Church of the Sea)](익복의%20성수%20—%20바다의%20교단%20복종%20성수병%20%28Drowning%20Blessing%20Holy%20Water%20—%20Compliance%20Vial%20of%20the%20Church%20of%20the%20Sea%29.md) |
+| 익사체 손가락 뼈 염주 (Drowned-Child Finger-Bone Rosary) | [익사체 손가락 뼈 염주 (Drowned-Child Finger-Bone Rosary)](익사체%20손가락%20뼈%20염주%20%28Drowned-Child%20Finger-Bone%20Rosary%29.md) |
 | 일루미나스의 광휘가 깃든 금잔 (Chalice of Illuminas' Radiance) | [일루미나스의 광휘가 깃든 금잔 (Chalice of Illuminas' Radiance)](일루미나스의%20광휘가%20깃든%20금잔%20%28Chalice%20of%20Illuminas'%20Radiance%29.md) |
 | 일식의 모래시계 향로 (Hourglass Censer of Solar Eclipse) | [일식의 모래시계 향로 (Hourglass Censer of Solar Eclipse)](일식의%20모래시계%20향로%20%28Hourglass%20Censer%20of%20Solar%20Eclipse%29.md) |
 | 재로 덮인 뱃머리 향로 (Ash-Covered Bow Censer) | [재로 덮인 뱃머리 향로 (Ash-Covered Bow Censer)](재로%20덮인%20뱃머리%20향로%20%28Ash-Covered%20Bow%20Censer%29.md) |

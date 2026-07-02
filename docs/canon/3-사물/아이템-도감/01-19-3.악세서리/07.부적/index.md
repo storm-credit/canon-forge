@@ -6,7 +6,7 @@
 
 # 📚 부적
 
-## 항목 (65)
+## 항목 (69)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -17,6 +17,8 @@
 | 골밀도 초과 압축 배출 인장 (Bone-Density Hyper-Compression Discharge Seal) | [골밀도 초과 압축 배출 인장 (Bone-Density Hyper-Compression Discharge Seal)](골밀도%20초과%20압축%20배출%20인장%20%28Bone-Density%20Hyper-Compression%20Discharge%20Seal%29.md) |
 | 과전류 역류 억제 진정 인장 (Overcurrent Feedback Suppression Signet) | [과전류 역류 억제 진정 인장 (Overcurrent Feedback Suppression Signet)](과전류%20역류%20억제%20진정%20인장%20%28Overcurrent%20Feedback%20Suppression%20Signet%29.md) |
 | 광전사의 눈덩이 부적 (Berserker's Snowball Charm) | [광전사의 눈덩이 부적 (Berserker's Snowball Charm)](광전사의%20눈덩이%20부적%20%28Berserker's%20Snowball%20Charm%29.md) |
+| 괴수 계약 인장 야광 타투 (Beast-Pact Luminous Contract Brand Tattoo) | [괴수 계약 인장 야광 타투 (Beast-Pact Luminous Contract Brand Tattoo)](괴수%20계약%20인장%20야광%20타투%20%28Beast-Pact%20Luminous%20Contract%20Brand%20Tattoo%29.md) |
+| 그림자 사냥개의 인장 재 낙인 (Shadow Hound Mark — Ash Brand) | [그림자 사냥개의 인장 재 낙인 (Shadow Hound Mark — Ash Brand)](그림자%20사냥개의%20인장%20재%20낙인%20%28Shadow%20Hound%20Mark%20—%20Ash%20Brand%29.md) |
 | 극지 동기화 혈설 부적 (Polar-Sync Blood-Snow Talisman) | [극지 동기화 혈설 부적 (Polar-Sync Blood-Snow Talisman)](극지%20동기화%20혈설%20부적%20%28Polar-Sync%20Blood-Snow%20Talisman%29.md) |
 | 기생 채무 억제 수피 결박대 (Parasitic-Debt Suppressor Bark-Bind) | [기생 채무 억제 수피 결박대 (Parasitic-Debt Suppressor Bark-Bind)](기생%20채무%20억제%20수피%20결박대%20%28Parasitic-Debt%20Suppressor%20Bark-Bind%29.md) |
 | 끊어진 칠흑의 활시위 (Torn Ebony Bowstring) | [끊어진 칠흑의 활시위 (Torn Ebony Bowstring)](끊어진%20칠흑의%20활시위%20%28Torn%20Ebony%20Bowstring%29.md) |
@@ -32,6 +34,7 @@
 | 바람의 궁수단 단장 휘장 (Wind Rangers Vanguard Insignia) | [바람의 궁수단 단장 휘장 (Wind Rangers Vanguard Insignia)](바람의%20궁수단%20단장%20휘장%20%28Wind%20Rangers%20Vanguard%20Insignia%29.md) |
 | 백색 영면의 폭설 부적 다발 (Sleep-Blizzard Amulet Cluster of White Eternal Rest) | [백색 영면의 폭설 부적 다발 (Sleep-Blizzard Amulet Cluster of White Eternal Rest)](백색%20영면의%20폭설%20부적%20다발%20%28Sleep-Blizzard%20Amulet%20Cluster%20of%20White%20Eternal%20Rest%29.md) |
 | 베르날리스의 야전 씨앗 낭 (Vernalis's Field Seed Pouch) | [베르날리스의 야전 씨앗 낭 (Vernalis's Field Seed Pouch)](베르날리스의%20야전%20씨앗%20낭%20%28Vernalis's%20Field%20Seed%20Pouch%29.md) |
+| 보일러 리미터 해제 과부하 부적 묶음 (Boiler Limiter-Break Overload Amulet Bundle) | [보일러 리미터 해제 과부하 부적 묶음 (Boiler Limiter-Break Overload Amulet Bundle)](보일러%20리미터%20해제%20과부하%20부적%20묶음%20%28Boiler%20Limiter-Break%20Overload%20Amulet%20Bundle%29.md) |
 | 부서진 이단심문소 은총 인장 (Shattered Inquisition Grace Seal) | [부서진 이단심문소 은총 인장 (Shattered Inquisition Grace Seal)](부서진%20이단심문소%20은총%20인장%20%28Shattered%20Inquisition%20Grace%20Seal%29.md) |
 | 부적류 - 에린디르의 생명의 목걸이 (Amulet of Vitality) | [부적류 - 에린디르의 생명의 목걸이 (Amulet of Vitality)](부적류%20-%20에린디르의%20생명의%20목걸이%20%28Amulet%20of%20Vitality%29.md) |
 | 부적류 - 쪼개진 무극의 검집 파편 (Splintered Scabbard of Zenith) | [부적류 - 쪼개진 무극의 검집 파편 (Splintered Scabbard of Zenith)](부적류%20-%20쪼개진%20무극의%20검집%20파편%20%28Splintered%20Scabbard%20of%20Zenith%29.md) |
@@ -47,6 +50,7 @@
 | 석화 침전 억제 지맥 각인 (Petrification-Sedimentation Ley-Seal Inscription) | [석화 침전 억제 지맥 각인 (Petrification-Sedimentation Ley-Seal Inscription)](석화%20침전%20억제%20지맥%20각인%20%28Petrification-Sedimentation%20Ley-Seal%20Inscription%29.md) |
 | 석회화 억제의 쐐기 부적 (Limestone-Suppression Wedge Charm) | [석회화 억제의 쐐기 부적 (Limestone-Suppression Wedge Charm)](석회화%20억제의%20쐐기%20부적%20%28Limestone-Suppression%20Wedge%20Charm%29.md) |
 | 세포 해체 억제 마나 결속대 (Cell-Dissolution Suppression Mana Brace) | [세포 해체 억제 마나 결속대 (Cell-Dissolution Suppression Mana Brace)](세포%20해체%20억제%20마나%20결속대%20%28Cell-Dissolution%20Suppression%20Mana%20Brace%29.md) |
+| 수명 연소 억제 심장 응고 물약 (Lifespan-Burn Suppression Cardiac Coagulant) | [수명 연소 억제 심장 응고 물약 (Lifespan-Burn Suppression Cardiac Coagulant)](수명%20연소%20억제%20심장%20응고%20물약%20%28Lifespan-Burn%20Suppression%20Cardiac%20Coagulant%29.md) |
 | 수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths) | [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](수천%20마리%20불나방이%20갇힌%20점화석%20%28Ignition-Stone%20of%20the%20Thousand%20Captured%20Fire-Moths%29.md) |
 | 순리 결속 설원 늑대 체온 부적 (Soul-Bond Snow Wolf Body-Heat Talisman) | [순리 결속 설원 늑대 체온 부적 (Soul-Bond Snow Wolf Body-Heat Talisman)](순리%20결속%20설원%20늑대%20체온%20부적%20%28Soul-Bond%20Snow%20Wolf%20Body-Heat%20Talisman%29.md) |
 | 아이스세인트 사수단 단장 징표 (Icesaint Archers Captain's Mark) | [아이스세인트 사수단 단장 징표 (Icesaint Archers Captain's Mark)](아이스세인트%20사수단%20단장%20징표%20%28Icesaint%20Archers%20Captain's%20Mark%29.md) |

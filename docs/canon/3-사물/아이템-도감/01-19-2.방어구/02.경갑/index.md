@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (54)
+## 항목 (58)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -32,12 +32,16 @@
 | 망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion) | [망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion)](망각의%20연성%20가죽%20부츠%20%28Soft-Leather%20Boots%20of%20Oblivion%29.md) |
 | 무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit) | [무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit)](무소음%20공기역학%20가죽%20슈트%20%28Aerodynamic%20Silence%20Leather%20Suit%29.md) |
 | 밤안개의 가죽 외투 (Leather Cloak of Nightfog) | [밤안개의 가죽 외투 (Leather Cloak of Nightfog)](밤안개의%20가죽%20외투%20%28Leather%20Cloak%20of%20Nightfog%29.md) |
+| 방탄 중갑 가죽 조끼와 탄띠 (Ballistic Heavy-Leather Vest & Bandolier) | [방탄 중갑 가죽 조끼와 탄띠 (Ballistic Heavy-Leather Vest & Bandolier)](방탄%20중갑%20가죽%20조끼와%20탄띠%20%28Ballistic%20Heavy-Leather%20Vest%20&%20Bandolier%29.md) |
+| 백상아리 가죽 범고래 뼈 부족 비키니 아머 (Great White Shark-Skin Orca-Bone Tribal Bikini Armor) | [백상아리 가죽 범고래 뼈 부족 비키니 아머 (Great White Shark-Skin Orca-Bone Tribal Bikini Armor)](백상아리%20가죽%20범고래%20뼈%20부족%20비키니%20아머%20%28Great%20White%20Shark-Skin%20Orca-Bone%20Tribal%20Bikini%20Armor%29.md) |
 | 번개 전도체 합금 초경량 아머 슈트 (Lightning-Conductor Alloy Ultra-Light Armor Suit) | [번개 전도체 합금 초경량 아머 슈트 (Lightning-Conductor Alloy Ultra-Light Armor Suit)](번개%20전도체%20합금%20초경량%20아머%20슈트%20%28Lightning-Conductor%20Alloy%20Ultra-Light%20Armor%20Suit%29.md) |
 | 부리형 방독면과 고무-가죽 혼합 로브 (Beaked Gas Mask & Vulca-Leather Robe) | [부리형 방독면과 고무-가죽 혼합 로브 (Beaked Gas Mask & Vulca-Leather Robe)](부리형%20방독면과%20고무-가죽%20혼합%20로브%20%28Beaked%20Gas%20Mask%20&%20Vulca-Leather%20Robe%29.md) |
+| 블랙 오퍼레이션 전술 잠수 전투 슈트 (Black-Op Tactical Deep-Dive Combat Suit) | [블랙 오퍼레이션 전술 잠수 전투 슈트 (Black-Op Tactical Deep-Dive Combat Suit)](블랙%20오퍼레이션%20전술%20잠수%20전투%20슈트%20%28Black-Op%20Tactical%20Deep-Dive%20Combat%20Suit%29.md) |
 | 비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak) | [비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak)](비바람%20찢는%20쐐기형%20망토와%20가죽%20조끼%20%28Gale-Rending%20Wedge%20Cloak%29.md) |
 | 빙뇌의 가죽 각반 (Leggings of Ice-Thunder) | [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](빙뇌의%20가죽%20각반%20%28Leggings%20of%20Ice-Thunder%29.md) |
 | 빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood) | [빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood)](빛먹는%20거미줄%20투구망과%20가죽복%20%28Light-Devouring%20Silk%20Hood%29.md) |
 | 스스로 재단한 귀족 가죽 뷔스티에 (Self-Tailored Aristocratic Leather Bustier) | [스스로 재단한 귀족 가죽 뷔스티에 (Self-Tailored Aristocratic Leather Bustier)](스스로%20재단한%20귀족%20가죽%20뷔스티에%20%28Self-Tailored%20Aristocratic%20Leather%20Bustier%29.md) |
+| 심해 고래 가죽 칠흑 경갑 (Abyssal Whale-Hide Black Leather Armor) | [심해 고래 가죽 칠흑 경갑 (Abyssal Whale-Hide Black Leather Armor)](심해%20고래%20가죽%20칠흑%20경갑%20%28Abyssal%20Whale-Hide%20Black%20Leather%20Armor%29.md) |
 | 암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket) | [암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket)](암녹색%20바람%20비늘%20가죽%20재킷%20%28Dark-Green%20Wind-Scale%20Leather%20Jacket%29.md) |
 | 암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness) | [암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness)](암반%20파편%20흡착%20반신%20충격%20수용%20흉대%20%28Rock-Fragment%20Absorption%20Half-Torso%20Impact%20Harness%29.md) |
 | 야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt) | [야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt)](야수%20혈가죽%20전투%20치마%20%28Beast-Blood%20Leather%20Battle%20Skirt%29.md) |

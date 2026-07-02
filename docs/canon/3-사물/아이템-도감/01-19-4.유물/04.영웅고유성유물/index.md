@@ -6,12 +6,13 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (213)
+## 항목 (215)
 
 | 아이템 | 링크 |
 |--------|------|
 | 감정동결의 앰플 펜 (Ampoule Pen of Frozen Empathy) | [감정동결의 앰플 펜 (Ampoule Pen of Frozen Empathy)](감정동결의%20앰플%20펜%20%28Ampoule%20Pen%20of%20Frozen%20Empathy%29.md) |
 | 강제 변이의 송곳니 수액 (Vial of Forced Mutagen-Fang) | [강제 변이의 송곳니 수액 (Vial of Forced Mutagen-Fang)](강제%20변이의%20송곳니%20수액%20%28Vial%20of%20Forced%20Mutagen-Fang%29.md) |
+| 강철 척주 지팡이 — 대제독의 침묵하는 대가 (Admiral's Iron-Spine Walking Staff) | [강철 척주 지팡이 — 대제독의 침묵하는 대가 (Admiral's Iron-Spine Walking Staff)](강철%20척주%20지팡이%20—%20대제독의%20침묵하는%20대가%20%28Admiral's%20Iron-Spine%20Walking%20Staff%29.md) |
 | 거대 수정 공명구 (마더 아티팩트) | [거대 수정 공명구 (마더 아티팩트)](거대수정공명구.md) |
 | 거룩한 크로노스의 모래시계 (Sacred Hourglass of Chronos) | [거룩한 크로노스의 모래시계 (Sacred Hourglass of Chronos)](거룩한%20크로노스의%20모래시계%20%28Sacred%20Hourglass%20of%20Chronos%29.md) |
 | 거짓된 기적의 명주실 (Thread of False Miracles) | [거짓된 기적의 명주실 (Thread of False Miracles)](거짓된%20기적의%20명주실%20%28Thread%20of%20False%20Miracles%29.md) |
@@ -222,4 +223,5 @@
 | 해신의 반음향 모래시계 (Anti-Echo Hourglass of the Sea God) | [해신의 반음향 모래시계 (Anti-Echo Hourglass of the Sea God)](해신의%20반음향%20모래시계%20%28Anti-Echo%20Hourglass%20of%20the%20Sea%20God%29.md) |
 | 혁명군의 녹아내린 나팔 (Melted Horn of the Revolutionist) | [혁명군의 녹아내린 나팔 (Melted Horn of the Revolutionist)](혁명군의%20녹아내린%20나팔%20%28Melted%20Horn%20of%20the%20Revolutionist%29.md) |
 | 형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment) | [형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment)](형벌의%20십자가%20잔해%20파편%20%28Debris%20of%20the%20Cross%20of%20Punishment%29.md) |
+| 황금 의안 — 데 루카의 잃어버린 눈 (Golden Prosthetic Eye of De Luca) | [황금 의안 — 데 루카의 잃어버린 눈 (Golden Prosthetic Eye of De Luca)](황금%20의안%20—%20데%20루카의%20잃어버린%20눈%20%28Golden%20Prosthetic%20Eye%20of%20De%20Luca%29.md) |
 | 황제결재권의 금홀 (Scepter of Imperial Sanction) | [황제결재권의 금홀 (Scepter of Imperial Sanction)](황제결재권의%20금홀%20%28Scepter%20of%20Imperial%20Sanction%29.md) |

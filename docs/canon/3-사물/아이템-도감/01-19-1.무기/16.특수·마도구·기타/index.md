@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (265)
+## 항목 (281)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -20,6 +20,7 @@
 | 계약의 깃펜 (Quill of Contract) | [계약의 깃펜 (Quill of Contract)](계약의%20깃펜%20%28Quill%20of%20Contract%29.md) |
 | 고대인의 끌 (Ancient Chisel) | [고대인의 끌 (Ancient Chisel)](고대인의%20끌%20%28Ancient%20Chisel%29.md) |
 | 고목의 성벽 '오크하트' (Druan Oakheart's Oakheart Shield) | [고목의 성벽 '오크하트' (Druan Oakheart's Oakheart Shield)](고목의%20성벽%20'오크하트'%20%28Druan%20Oakheart's%20Oakheart%20Shield%29.md) |
+| 공간 인장 도함 갈고리 쌍 (Spatial-Anchor Boarding Hook Pair) | [공간 인장 도함 갈고리 쌍 (Spatial-Anchor Boarding Hook Pair)](공간%20인장%20도함%20갈고리%20쌍%20%28Spatial-Anchor%20Boarding%20Hook%20Pair%29.md) |
 | 공간을 베어내는 차원의 문 열쇠 (Dimensional Gate Key Slashing Space) | [공간을 베어내는 차원의 문 열쇠 (Dimensional Gate Key Slashing Space)](공간을%20베어내는%20차원의%20문%20열쇠%20%28Dimensional%20Gate%20Key%20Slashing%20Space%29.md) |
 | 공간을 베어내는 차원의 열쇠 (Dimensional Key Slashing the Horizon) | [공간을 베어내는 차원의 열쇠 (Dimensional Key Slashing the Horizon)](공간을%20베어내는%20차원의%20열쇠%20%28Dimensional%20Key%20Slashing%20the%20Horizon%29.md) |
 | 공허의 양산 '블랙레이스의 허무' (Catrina Blacklace's Parasol of Void) | [공허의 양산 '블랙레이스의 허무' (Catrina Blacklace's Parasol of Void)](공허의%20양산%20'블랙레이스의%20허무'%20%28Catrina%20Blacklace's%20Parasol%20of%20Void%29.md) |
@@ -37,8 +38,11 @@
 | 기만의 거울 (Mirror of Deception) | [기만의 거울 (Mirror of Deception)](기만의%20거울%20%28Mirror%20of%20Deception%29.md) |
 | 기상 측정 막대 (Weather Rod) | [기상 측정 막대 (Weather Rod)](기상%20측정%20막대%20%28Weather%20Rod%29.md) |
 | 기어헤드의 작업 렌치 (Gearhead's Work Wrench) | [기어헤드의 작업 렌치 (Gearhead's Work Wrench)](기어헤드의%20작업%20렌치%20%28Gearhead's%20Work%20Wrench%29.md) |
+| 나방 영사기 환영 입체진 (Moth-Wing Projector) | [나방 영사기 환영 입체진 (Moth-Wing Projector)](나방%20영사기%20환영%20입체진%20%28Moth-Wing%20Projector%29.md) |
+| 뇌전 부채 '천벌강림의 선풍' (Thunder Fan 'Divine-Judgment Gale') | [뇌전 부채 '천벌강림의 선풍' (Thunder Fan 'Divine-Judgment Gale')](뇌전%20부채%20'천벌강림의%20선풍'%20%28Thunder%20Fan%20'Divine-Judgment%20Gale'%29.md) |
 | 달빛의 하프 (Moonlight Harp) | [달빛의 하프 (Moonlight Harp)](달빛의%20하프%20%28Moonlight%20Harp%29.md) |
 | 달의 자장가 (Lullaby of the Moon) | [달의 자장가 (Lullaby of the Moon)](달의%20자장가%20%28Lullaby%20of%20the%20Moon%29.md) |
+| 닻 사슬 전투 채찍 (Anchor-Chain Combat Flail) | [닻 사슬 전투 채찍 (Anchor-Chain Combat Flail)](닻%20사슬%20전투%20채찍%20%28Anchor-Chain%20Combat%20Flail%29.md) |
 | 대지의 기둥 (Pillar of Earth) | [대지의 기둥 (Pillar of Earth)](대지의%20기둥%20%28Pillar%20of%20Earth%29.md) |
 | 데스티니 카드 (Destiny Cards) | [데스티니 카드 (Destiny Cards)](데스티니%20카드%20%28Destiny%20Cards%29.md) |
 | 도시의 열쇠 (Key of the City) | [도시의 열쇠 (Key of the City)](도시의%20열쇠%20%28Key%20of%20the%20City%29.md) |
@@ -48,6 +52,7 @@
 | 드라콘의 숨쉬는 분노 (Breathing Wrath of the Dracon) | [드라콘의 숨쉬는 분노 (Breathing Wrath of the Dracon)](드라콘의%20숨쉬는%20분노%20%28Breathing%20Wrath%20of%20the%20Dracon%29.md) |
 | 레닥션 (Redaction) | [레닥션 (Redaction)](레닥션%20%28Redaction%29.md) |
 | 레닥션 (Redaction) | [레닥션 (Redaction)](레닥션%20%28Redaction%29_3.md) |
+| 레비아탄 흑구 소환진 봉인패 (Leviathan Black-Void Summon-Array Seal Plate) | [레비아탄 흑구 소환진 봉인패 (Leviathan Black-Void Summon-Array Seal Plate)](레비아탄%20흑구%20소환진%20봉인패%20%28Leviathan%20Black-Void%20Summon-Array%20Seal%20Plate%29.md) |
 | 루나스트라의 월식 쌍겸 (Eclipse Dual-Scythes of Lunastra) | [루나스트라의 월식 쌍겸 (Eclipse Dual-Scythes of Lunastra)](루나스트라의%20월식%20쌍겸%20%28Eclipse%20Dual-Scythes%20of%20Lunastra%29.md) |
 | 루벨라이트 측량 자와 각도기 세트 (Rubelite Survey Ruler & Protractor Set) | [루벨라이트 측량 자와 각도기 세트 (Rubelite Survey Ruler & Protractor Set)](루벨라이트%20측량%20자와%20각도기%20세트%20%28Rubelite%20Survey%20Ruler%20&%20Protractor%20Set%29.md) |
 | 리바이어던의 수정 해골 (Crystal Skull of the Leviathan) | [리바이어던의 수정 해골 (Crystal Skull of the Leviathan)](리바이어던의%20수정%20해골%20%28Crystal%20Skull%20of%20the%20Leviathan%29.md) |
@@ -96,6 +101,7 @@
 | 빛을 삼키는 암흑물질 차광 양산 (Dark-Matter Light-Devouring Blackout Parasol) | [빛을 삼키는 암흑물질 차광 양산 (Dark-Matter Light-Devouring Blackout Parasol)](빛을%20삼키는%20암흑물질%20차광%20양산%20%28Dark-Matter%20Light-Devouring%20Blackout%20Parasol%29.md) |
 | 사랑의 주사기 (Syringe of Love) | [사랑의 주사기 (Syringe of Love)](사랑의%20주사기%20%28Syringe%20of%20Love%29.md) |
 | 사불룸의 파형(Wave) 증폭 소리굽쇠 (Wave-Amp Tuning Fork of Sabulum) | [사불룸의 파형(Wave) 증폭 소리굽쇠 (Wave-Amp Tuning Fork of Sabulum)](사불룸의%20파형%28Wave%29%20증폭%20소리굽쇠%20%28Wave-Amp%20Tuning%20Fork%20of%20Sabulum%29.md) |
+| 사일런트 십자가 결계인 — 반경 음압 차단판 (Silent Cross Ward-Seal — Radius Soundless Suppressor Disc) | [사일런트 십자가 결계인 — 반경 음압 차단판 (Silent Cross Ward-Seal — Radius Soundless Suppressor Disc)](사일런트%20십자가%20결계인%20—%20반경%20음압%20차단판%20%28Silent%20Cross%20Ward-Seal%20—%20Radius%20Soundless%20Suppressor%20Disc%29.md) |
 | 사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium) | [사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium)](사일런티움의%20무거운%20대속%20묵주%20%28Heavy%20Rosary%20of%20Atonement%20of%20Silentium%29.md) |
 | 살덩이 꿰맴 마력 실 투척기 (Flesh-Suture Mana Thread Caster) | [살덩이 꿰맴 마력 실 투척기 (Flesh-Suture Mana Thread Caster)](살덩이%20꿰맴%20마력%20실%20투척기%20%28Flesh-Suture%20Mana%20Thread%20Caster%29.md) |
 | 색인 마나 깃털 신호탄 — 카엘의 하늘 암호 (Color-Coded Mana Feather Signal — Sky Cipher of Kael) | [색인 마나 깃털 신호탄 — 카엘의 하늘 암호 (Color-Coded Mana Feather Signal — Sky Cipher of Kael)](색인%20마나%20깃털%20신호탄%20—%20카엘의%20하늘%20암호%20%28Color-Coded%20Mana%20Feather%20Signal%20—%20Sky%20Cipher%20of%20Kael%29.md) |
@@ -110,7 +116,9 @@
 | 솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree) | [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](솔라비드의%20움트는%20세계수%20묘목%20%28Sapling%20of%20Solavid's%20Sprouting%20World%20Tree%29.md) |
 | 쇠사슬의 생체 연금 사슬 (Ironchain's Bioalchemy Chain) | [쇠사슬의 생체 연금 사슬 (Ironchain's Bioalchemy Chain)](쇠사슬의%20생체%20연금%20사슬%20%28Ironchain's%20Bioalchemy%20Chain%29.md) |
 | 수면 독침 발사기 — 베인의 로건 진정기 (Sleep-Toxin Dart Caster — Bane's Logan Pacifier) | [수면 독침 발사기 — 베인의 로건 진정기 (Sleep-Toxin Dart Caster — Bane's Logan Pacifier)](수면%20독침%20발사기%20—%20베인의%20로건%20진정기%20%28Sleep-Toxin%20Dart%20Caster%20—%20Bane's%20Logan%20Pacifier%29.md) |
+| 수면 쇠사슬 방벽 기폭 제어반 (Sub-Surface Chain Barricade Control Panel) | [수면 쇠사슬 방벽 기폭 제어반 (Sub-Surface Chain Barricade Control Panel)](수면%20쇠사슬%20방벽%20기폭%20제어반%20%28Sub-Surface%20Chain%20Barricade%20Control%20Panel%29.md) |
 | 수식의 마도펜 '로직' (Theodore Velic's Logic Pen) | [수식의 마도펜 '로직' (Theodore Velic's Logic Pen)](수식의%20마도펜%20'로직'%20%28Theodore%20Velic's%20Logic%20Pen%29.md) |
+| 수압 지진파 교신 타격 방패 (Pressure-Shockwave Seismic Battle-Drum Shield) | [수압 지진파 교신 타격 방패 (Pressure-Shockwave Seismic Battle-Drum Shield)](수압%20지진파%20교신%20타격%20방패%20%28Pressure-Shockwave%20Seismic%20Battle-Drum%20Shield%29.md) |
 | 순교자의 기름 촛대 '이그니스 일루전' (Martyr's Oil Candelabra 'Ignis Illusion') | [순교자의 기름 촛대 '이그니스 일루전' (Martyr's Oil Candelabra 'Ignis Illusion')](순교자의%20기름%20촛대%20'이그니스%20일루전'%20%28Martyr's%20Oil%20Candelabra%20'Ignis%20Illusion'%29.md) |
 | 순수 강철의 기계 세례 침 (Roland Steel's Iron Baptism Needle) | [순수 강철의 기계 세례 침 (Roland Steel's Iron Baptism Needle)](순수%20강철의%20기계%20세례%20침%20%28Roland%20Steel's%20Iron%20Baptism%20Needle%29.md) |
 | 순혈의 달빛 송곳니 (Fangs of the Pure-blood Moon) | [순혈의 달빛 송곳니 (Fangs of the Pure-blood Moon)](순혈의%20달빛%20송곳니%20%28Fangs%20of%20the%20Pure-blood%20Moon%29.md) |
@@ -136,7 +144,9 @@
 | 심판의 묵주 (Rosary of Judgment) | [심판의 묵주 (Rosary of Judgment)](심판의%20묵주%20%28Rosary%20of%20Judgment%29.md) |
 | 심판의 사슬 (Chain of Judgment) | [심판의 사슬 (Chain of Judgment)](심판의%20사슬%20%28Chain%20of%20Judgment%29.md) |
 | 심판의 조타륜 (Wheel of Judgment) | [심판의 조타륜 (Wheel of Judgment)](심판의%20조타륜%20%28Wheel%20of%20Judgment%29.md) |
+| 심해 파이프 오르간 — 다곤의 성음 (Pipe Organ of the Deep — Sacred Voice of Dagon) | [심해 파이프 오르간 — 다곤의 성음 (Pipe Organ of the Deep — Sacred Voice of Dagon)](심해%20파이프%20오르간%20—%20다곤의%20성음%20%28Pipe%20Organ%20of%20the%20Deep%20—%20Sacred%20Voice%20of%20Dagon%29.md) |
 | 심해의 노래 네프탈리 | [심해의 노래 네프탈리](심해의노래네프탈리.md) |
+| 아공간 진공 압축 폭파 팩 (Sub-Space Vacuum Charge Pack) | [아공간 진공 압축 폭파 팩 (Sub-Space Vacuum Charge Pack)](아공간%20진공%20압축%20폭파%20팩%20%28Sub-Space%20Vacuum%20Charge%20Pack%29.md) |
 | 아다만티움 곡괭이 (Adamantine Pickaxe) | [아다만티움 곡괭이 (Adamantine Pickaxe)](아다만티움%20곡괭이%20%28Adamantine%20Pickaxe%29.md) |
 | 아르카디아의 종말 심판장 (Judgment Staff of Arcadia) | [아르카디아의 종말 심판장 (Judgment Staff of Arcadia)](아르카디아의%20종말%20심판장%20%28Judgment%20Staff%20of%20Arcadia%29.md) |
 | 아비살 캐넌 (Abyssal Cannon) | [아비살 캐넌 (Abyssal Cannon)](아비살%20캐넌%20%28Abyssal%20Cannon%29.md) |
@@ -195,10 +205,12 @@
 | 이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor) | [이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor)](이단%20심판관의%20검은%20묵주망%20%28Black%20Rosary%20Net%20of%20the%20Heresy%20Inquisitor%29.md) |
 | 이단심문의 자물쇠 성서 (Padlocked Scripture of the Inquisitor) | [이단심문의 자물쇠 성서 (Padlocked Scripture of the Inquisitor)](이단심문의%20자물쇠%20성서%20%28Padlocked%20Scripture%20of%20the%20Inquisitor%29.md) |
 | 이자벨라의 피 묻은 회계 장부 - 저당(Mortgage) | [이자벨라의 피 묻은 회계 장부 - 저당(Mortgage)](이자벨라의%20피%20묻은%20회계%20장부%20-%20저당%28Mortgage%29.md) |
+| 익사의 회상 (Flashback of the Drowned) | [익사의 회상 (Flashback of the Drowned)](익사의%20회상%20%28Flashback%20of%20the%20Drowned%29.md) |
 | 인간 대포 투척기 (Human Cannonball Catapult) | [인간 대포 투척기 (Human Cannonball Catapult)](인간%20대포%20투척기%20%28Human%20Cannonball%20Catapult%29.md) |
 | 인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis) | [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](인쿠디스의%20형상기억%20분쇄마치%20%28Shape-Memory%20Crusher%20of%20Incudis%29.md) |
 | 잊혀진 시간의 유적 탐사등 (Ruins Exploration Lantern of Forgotten Time) | [잊혀진 시간의 유적 탐사등 (Ruins Exploration Lantern of Forgotten Time)](잊혀진%20시간의%20유적%20탐사등%20%28Ruins%20Exploration%20Lantern%20of%20Forgotten%20Time%29.md) |
 | 잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time) | [잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time)](잊혀진%20시간의%20파쇄%20곡괭이-탐사등%20%28Pickaxe-Lantern%20of%20Forgotten%20Time%29.md) |
+| 자상 채혈 펜촉 — 혈마법 방아쇠 (Self-Wound Blood-Draw Pen Nib — Blood-Magic Trigger) | [자상 채혈 펜촉 — 혈마법 방아쇠 (Self-Wound Blood-Draw Pen Nib — Blood-Magic Trigger)](자상%20채혈%20펜촉%20—%20혈마법%20방아쇠%20%28Self-Wound%20Blood-Draw%20Pen%20Nib%20—%20Blood-Magic%20Trigger%29.md) |
 | 자율 골렘 지휘봉 (Mecharis' Autonomous Command Rod) | [자율 골렘 지휘봉 (Mecharis' Autonomous Command Rod)](자율%20골렘%20지휘봉%20%28Mecharis'%20Autonomous%20Command%20Rod%29.md) |
 | 자이언트 시린지 (Giant Syringe) | [자이언트 시린지 (Giant Syringe)](자이언트%20시린지%20%28Giant%20Syringe%29.md) |
 | 작열 마도 이륜 '아르카나 잔재' (Arcana-Remnant Searing Magitech Bike) | [작열 마도 이륜 '아르카나 잔재' (Arcana-Remnant Searing Magitech Bike)](작열%20마도%20이륜%20'아르카나%20잔재'%20%28Arcana-Remnant%20Searing%20Magitech%20Bike%29.md) |
@@ -217,6 +229,7 @@
 | 중력 역방향 후크샷 와이어 (Anti-Gravity Hook-Shot Wire) | [중력 역방향 후크샷 와이어 (Anti-Gravity Hook-Shot Wire)](중력%20역방향%20후크샷%20와이어%20%28Anti-Gravity%20Hook-Shot%20Wire%29.md) |
 | 지옥의 횃불 (Torch of Hell) | [지옥의 횃불 (Torch of Hell)](지옥의%20횃불%20%28Torch%20of%20Hell%29.md) |
 | 지진을 부르는 천근의 육신(Body of One Thousand Tons) | [지진을 부르는 천근의 육신(Body of One Thousand Tons)](지진을%20부르는%20천근의%20육신%28Body%20of%20One%20Thousand%20Tons%29.md) |
+| 진동 공명 스피커 '철의 메아리' (Vibration Speaker 'Echo of Iron') | [진동 공명 스피커 '철의 메아리' (Vibration Speaker 'Echo of Iron')](진동%20공명%20스피커%20'철의%20메아리'%20%28Vibration%20Speaker%20'Echo%20of%20Iron'%29.md) |
 | 진리의 깃펜 (Quill of Truth) | [진리의 깃펜 (Quill of Truth)](진리의%20깃펜%20%28Quill%20of%20Truth%29.md) |
 | 진실을 기록하는 지혜의 깃펜 (Quill of Wisdom Recording Truth) | [진실을 기록하는 지혜의 깃펜 (Quill of Wisdom Recording Truth)](진실을%20기록하는%20지혜의%20깃펜%20%28Quill%20of%20Wisdom%20Recording%20Truth%29.md) |
 | 진실을 재단하는 아카식의 깃펜 (Akashic Quill of Truth-Tailoring) | [진실을 재단하는 아카식의 깃펜 (Akashic Quill of Truth-Tailoring)](진실을%20재단하는%20아카식의%20깃펜%20%28Akashic%20Quill%20of%20Truth-Tailoring%29.md) |
@@ -227,6 +240,7 @@
 | 천구의 (Celestial Globe) | [천구의 (Celestial Globe)](천구의%20%28Celestial%20Globe%29.md) |
 | 천상의 마이크 (Celestial Microphone) | [천상의 마이크 (Celestial Microphone)](천상의%20마이크%20%28Celestial%20Microphone%29.md) |
 | 천상의 아스트롤라베 (Celestial Astrolabe) | [천상의 아스트롤라베 (Celestial Astrolabe)](천상의%20아스트롤라베%20%28Celestial%20Astrolabe%29.md) |
+| 침몰선 파편 전상선 (Shipwreck Chariot) | [침몰선 파편 전상선 (Shipwreck Chariot)](침몰선%20파편%20전상선%20%28Shipwreck%20Chariot%29.md) |
 | 침묵의 부채 (Fan of Silence) | [침묵의 부채 (Fan of Silence)](침묵의%20부채%20%28Fan%20of%20Silence%29.md) |
 | 코덱시아의 무결점 강철깃펜 (Flawless Steel-Quill of Archive) | [코덱시아의 무결점 강철깃펜 (Flawless Steel-Quill of Archive)](코덱시아의%20무결점%20강철깃펜%20%28Flawless%20Steel-Quill%20of%20Archive%29.md) |
 | 코르누의 고막 파열(Tympanic) 둠 호른 (Doom Horn of Tympanic Rupture of Cornu) | [코르누의 고막 파열(Tympanic) 둠 호른 (Doom Horn of Tympanic Rupture of Cornu)](코르누의%20고막%20파열%28Tympanic%29%20둠%20호른%20%28Doom%20Horn%20of%20Tympanic%20Rupture%20of%20Cornu%29.md) |
@@ -258,6 +272,8 @@
 | 핏빛 신호의 나팔 (Horn of the Blood Signal) | [핏빛 신호의 나팔 (Horn of the Blood Signal)](핏빛%20신호의%20나팔%20%28Horn%20of%20the%20Blood%20Signal%29.md) |
 | 하수구 화학세트 가방(Sewer Chemistry Kit) | [하수구 화학세트 가방(Sewer Chemistry Kit)](하수구%20화학세트%20가방%28Sewer%20Chemistry%20Kit%29.md) |
 | 하이드론의 검은 해일 지팡이 (Hydron's Black-Surge Staff) | [하이드론의 검은 해일 지팡이 (Hydron's Black-Surge Staff)](하이드론의%20검은%20해일%20지팡이%20%28Hydron's%20Black-Surge%20Staff%29.md) |
+| 한밤의 밀납 종이배 (Midnight Paper-Boat) | [한밤의 밀납 종이배 (Midnight Paper-Boat)](한밤의%20밀납%20종이배%20%28Midnight%20Paper-Boat%29.md) |
+| 해일 젤리보드 파도타기 서핑 패널 (Tidal Jellyboard Wave-Riding Surf Panel) | [해일 젤리보드 파도타기 서핑 패널 (Tidal Jellyboard Wave-Riding Surf Panel)](해일%20젤리보드%20파도타기%20서핑%20패널%20%28Tidal%20Jellyboard%20Wave-Riding%20Surf%20Panel%29.md) |
 | 해저 2만 리의 심연(Tome of Depths) | [해저 2만 리의 심연(Tome of Depths)](해저%202만%20리의%20심연%28Tome%20of%20Depths%29.md) |
 | 행운의 철 주사위 (Lucky Iron Dice) | [행운의 철 주사위 (Lucky Iron Dice)](행운의%20철%20주사위%20%28Lucky%20Iron%20Dice%29.md) |
 | 허공 교수대 투명 교살 와이어 (Aerial Gallows Invisible Garrote Wire) | [허공 교수대 투명 교살 와이어 (Aerial Gallows Invisible Garrote Wire)](허공%20교수대%20투명%20교살%20와이어%20%28Aerial%20Gallows%20Invisible%20Garrote%20Wire%29.md) |

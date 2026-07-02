@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (132)
+## 항목 (137)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -64,6 +64,7 @@
 | 보급관의 단도 (Supply Master's Shiv) | [보급관의 단도 (Supply Master's Shiv)](보급관의%20단도%20%28Supply%20Master's%20Shiv%29.md) |
 | 불꽃 단검 '이클립스의 화염' (Dorian Eclipse's Flame Dagger Fire of Eclipse) | [불꽃 단검 '이클립스의 화염' (Dorian Eclipse's Flame Dagger Fire of Eclipse)](불꽃%20단검%20'이클립스의%20화염'%20%28Dorian%20Eclipse's%20Flame%20Dagger%20Fire%20of%20Eclipse%29.md) |
 | 빙혈 마비독 단검 (Ice-Blood Paralysis Venom Dagger) | [빙혈 마비독 단검 (Ice-Blood Paralysis Venom Dagger)](빙혈%20마비독%20단검%20%28Ice-Blood%20Paralysis%20Venom%20Dagger%29.md) |
+| 사령 신경 절개의 뇌간 침묵 단검 (Soul-Nerve Severance Brain-Silence Dagger) | [사령 신경 절개의 뇌간 침묵 단검 (Soul-Nerve Severance Brain-Silence Dagger)](사령%20신경%20절개의%20뇌간%20침묵%20단검%20%28Soul-Nerve%20Severance%20Brain-Silence%20Dagger%29.md) |
 | 사일런투스의 집행 단검 - 흑요석 어금니 (Obsidian Fang, Hush-Blade) | [사일런투스의 집행 단검 - 흑요석 어금니 (Obsidian Fang, Hush-Blade)](사일런투스의%20집행%20단검%20-%20흑요석%20어금니%20%28Obsidian%20Fang,%20Hush-Blade%29.md) |
 | 산호독 암살 단검 '블랙샤크의 이빨' (Coral-Poison Karambit 'Fang of Blackshark') | [산호독 암살 단검 '블랙샤크의 이빨' (Coral-Poison Karambit 'Fang of Blackshark')](산호독%20암살%20단검%20'블랙샤크의%20이빨'%20%28Coral-Poison%20Karambit%20'Fang%20of%20Blackshark'%29.md) |
 | 상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis) | [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](상그비스의%20적화선인장%20단검%20%28Crimson-Cactus%20Daggers%20of%20Sangvis%29.md) |
@@ -112,6 +113,7 @@
 | 조각칼 세트 (Carving Knife Set) | [조각칼 세트 (Carving Knife Set)](조각칼%20세트%20%28Carving%20Knife%20Set%29.md) |
 | 질풍의 단검 '레이븐글로우의 속도' (Milo Ravenglow's Dagger of Gale) | [질풍의 단검 '레이븐글로우의 속도' (Milo Ravenglow's Dagger of Gale)](질풍의%20단검%20'레이븐글로우의%20속도'%20%28Milo%20Ravenglow's%20Dagger%20of%20Gale%29.md) |
 | 차원 절단검, 보이드 베인 (Void Bane) | [차원 절단검, 보이드 베인 (Void Bane)](차원%20절단검,%20보이드%20베인%20%28Void%20Bane%29.md) |
+| 최초의 단죄 — 처형자의 침묵 단검 (First Judgement — Executioner's Silent Dagger) | [최초의 단죄 — 처형자의 침묵 단검 (First Judgement — Executioner's Silent Dagger)](최초의%20단죄%20—%20처형자의%20침묵%20단검%20%28First%20Judgement%20—%20Executioner's%20Silent%20Dagger%29.md) |
 | 침묵의 단검 (Silent Dagger) | [침묵의 단검 (Silent Dagger)](침묵의%20단검%20%28Silent%20Dagger%29.md) |
 | 침묵의 동결 단검 - 리멘 (Silent Freezing Dagger, Limen) | [침묵의 동결 단검 - 리멘 (Silent Freezing Dagger, Limen)](침묵의%20동결%20단검%20-%20리멘%20%28Silent%20Freezing%20Dagger,%20Limen%29.md) |
 | 침묵의 비수 (Silent Fang) | [침묵의 비수 (Silent Fang)](침묵의%20비수%20%28Silent%20Fang%29.md) |
@@ -132,10 +134,13 @@
 | 풍압 서핑 단검 '기류의 발판' (Airflow Foothold Dagger) | [풍압 서핑 단검 '기류의 발판' (Airflow Foothold Dagger)](풍압%20서핑%20단검%20'기류의%20발판'%20%28Airflow%20Foothold%20Dagger%29.md) |
 | 프로스트 팡 (Frost Fang) | [프로스트 팡 (Frost Fang)](프로스트%20팡%20%28Frost%20Fang%29.md) |
 | 프로스트 대거 / 아이스 대거 | [프로스트 대거 / 아이스 대거](프로스트대거아이스대거.md) |
+| 핏빛 참회실 결계침 4정조 '사방 봉쇄의 성흔' (Blood Confessional Barrier Daggers 'Sacred Seal of the Four Corners') | [핏빛 참회실 결계침 4정조 '사방 봉쇄의 성흔' (Blood Confessional Barrier Daggers 'Sacred Seal of the Four Corners')](핏빛%20참회실%20결계침%204정조%20'사방%20봉쇄의%20성흔'%20%28Blood%20Confessional%20Barrier%20Daggers%20'Sacred%20Seal%20of%20the%20Four%20Corners'%29.md) |
 | 항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea) | [항해 단검 '포가튼시의 별빛' (Marek Forgottensea's Naval Dagger Starlight of Forgottensea)](항해%20단검%20'포가튼시의%20별빛'%20%28Marek%20Forgottensea's%20Naval%20Dagger%20Starlight%20of%20Forgottensea%29.md) |
 | 해독의 단검 (Chloe Dren's Dagger of Decoding) | [해독의 단검 (Chloe Dren's Dagger of Decoding)](해독의%20단검%20%28Chloe%20Dren's%20Dagger%20of%20Decoding%29.md) |
+| 해부 메스 연구 단검 '독검침' (Dissection Scalpel Research Dagger, Toxin-Needle) | [해부 메스 연구 단검 '독검침' (Dissection Scalpel Research Dagger, Toxin-Needle)](해부%20메스%20연구%20단검%20'독검침'%20%28Dissection%20Scalpel%20Research%20Dagger,%20Toxin-Needle%29.md) |
 | 행운의 단검 (Dagger of Luck) | [행운의 단검 (Dagger of Luck)](행운의%20단검%20%28Dagger%20of%20Luck%29.md) |
 | 혈생체 해부 메스 (Hemobiomatic Dissection Scalpel) | [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](혈생체%20해부%20메스%20%28Hemobiomatic%20Dissection%20Scalpel%29.md) |
+| 혈서약 은장도 다발 — 피의 족쇄 나이프파이팅 단도 (Silver Blade Bundle — Blood-Shackle Knife-Fighting Daggers) | [혈서약 은장도 다발 — 피의 족쇄 나이프파이팅 단도 (Silver Blade Bundle — Blood-Shackle Knife-Fighting Daggers)](혈서약%20은장도%20다발%20—%20피의%20족쇄%20나이프파이팅%20단도%20%28Silver%20Blade%20Bundle%20—%20Blood-Shackle%20Knife-Fighting%20Daggers%29.md) |
 | 환영의 단검 (Dagger of Phantom) | [환영의 단검 (Dagger of Phantom)](환영의%20단검%20%28Dagger%20of%20Phantom%29.md) |
 | 환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger) | [환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)](환영의%20풍압%20단검%20'트윈%20스왈로우'%20%28Twin%20Swallow%20Dagger%29.md) |
 | 회계사의 만년필 (Accountant's Pen) | [회계사의 만년필 (Accountant's Pen)](회계사의%20만년필%20%28Accountant's%20Pen%29.md) |

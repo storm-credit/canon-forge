@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (67)
+## 항목 (69)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 강철 요새의 흉갑 (Breastplate of the Iron Fortress) | [강철 요새의 흉갑 (Breastplate of the Iron Fortress)](강철%20요새의%20흉갑%20%28Breastplate%20of%20the%20Iron%20Fortress%29.md) |
 | 강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath') | [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](강철신경%20접속형%20외골격%20'골리앗'%20%28Neural-Linked%20Exoskeleton%20'Goliath'%29.md) |
 | 거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon) | [거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon)](거수%20다곤의%20화석%20갑옷%20%28Fossilized%20Carapace%20of%20Dagon%29.md) |
+| 고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal) | [고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal)](고래뼈%20창갑%20빙정석%20판금%20갑주%20%28Whalespine%20Plate%20of%20the%20Glacial%20Crystal%29.md) |
 | 그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre) | [그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre)](그을린%20전귀의%20융해%20저항갑%20%28Charred%20Melting-Resistant%20Armor%20of%20the%20War%20Ogre%29.md) |
 | 까마귀 깃의 흑철 흉갑 (Blackplate of the Raven's Feather) | [까마귀 깃의 흑철 흉갑 (Blackplate of the Raven's Feather)](까마귀%20깃의%20흑철%20흉갑%20%28Blackplate%20of%20the%20Raven's%20Feather%29.md) |
 | 노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine) | [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](노예%20광산의%20용접%20흉갑%20%28Welded%20Breastplate%20of%20the%20Slave%20Mine%29.md) |
@@ -32,6 +33,7 @@
 | 무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate) | [무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate)](무광%20저거너트%20전신%20중갑%20%28Matte-Black%20Juggernaut%20Full%20Plate%29.md) |
 | 백사자의 흉갑 (Cuirass of the White Lion) | [백사자의 흉갑 (Cuirass of the White Lion)](백사자의%20흉갑%20%28Cuirass%20of%20the%20White%20Lion%29.md) |
 | 백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate) | [백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate)](백은%20성교관%20풀%20플레이트%20%28Silver-White%20Inquisitor%20Full%20Plate%29.md) |
+| 불침 요새의 특수 합금 흉갑 (Unsinkable Fortress Special Alloy Breastplate) | [불침 요새의 특수 합금 흉갑 (Unsinkable Fortress Special Alloy Breastplate)](불침%20요새의%20특수%20합금%20흉갑%20%28Unsinkable%20Fortress%20Special%20Alloy%20Breastplate%29.md) |
 | 블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren) | [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](블러드혼%20부락%20붕괴벽의%20대갑주%20%28Collapsed-Wall%20Great%20Armor%20of%20Bloodhorn%20Warren%29.md) |
 | 비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor) | [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](비룡%20비늘의%20화강암%20대갑%20%28Dragon-Scale%20Granite%20Greatarmor%29.md) |
 | 빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection) | [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](빛을%20반환하는%20아르젠툼%20풀%20플레이트%20%28Argentum%20Full%20Plate%20of%20Light-Reflection%29.md) |

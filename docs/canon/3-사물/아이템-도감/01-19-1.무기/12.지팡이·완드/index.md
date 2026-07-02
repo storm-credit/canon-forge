@@ -6,7 +6,7 @@
 
 # 📚 지팡이·완드
 
-## 항목 (166)
+## 항목 (167)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -60,6 +60,7 @@
 | 비탄의 화로 플레게톤 스태프 (Brazier of Lament: Phlegethon Staff) | [비탄의 화로 플레게톤 스태프 (Brazier of Lament: Phlegethon Staff)](비탄의%20화로%20플레게톤%20스태프%20%28Brazier%20of%20Lament%20Phlegethon%20Staff%29.md) |
 | 빙결의 지팡이 (Staff of Freezing) | [빙결의 지팡이 (Staff of Freezing)](빙결의%20지팡이%20%28Staff%20of%20Freezing%29.md) |
 | 빛의 지팡이 루멘 로드 (Lumen Rod) | [빛의 지팡이 루멘 로드 (Lumen Rod)](빛의%20지팡이%20루멘%20로드%20%28Lumen%20Rod%29.md) |
+| 사념 지휘봉 — 절대 소음의 지휘자 (Thought-Baton — Conductor of Absolute Silence) | [사념 지휘봉 — 절대 소음의 지휘자 (Thought-Baton — Conductor of Absolute Silence)](사념%20지휘봉%20—%20절대%20소음의%20지휘자%20%28Thought-Baton%20—%20Conductor%20of%20Absolute%20Silence%29.md) |
 | 산성 분사기 노즐지팡이 '플라그 스피터' (Plague Spitter Wand) | [산성 분사기 노즐지팡이 '플라그 스피터' (Plague Spitter Wand)](산성%20분사기%20노즐지팡이%20'플라그%20스피터'%20%28Plague%20Spitter%20Wand%29.md) |
 | 새벽의 인도자 (Guide of Dawn) | [새벽의 인도자 (Guide of Dawn)](새벽의%20인도자%20%28Guide%20of%20Dawn%29.md) |
 | 생명을 잉태하는 만년수의 묘목 (Seedling of the Ten-Thousand-Year Tree Conceiving Life) | [생명을 잉태하는 만년수의 묘목 (Seedling of the Ten-Thousand-Year Tree Conceiving Life)](생명을%20잉태하는%20만년수의%20묘목%20%28Seedling%20of%20the%20Ten-Thousand-Year%20Tree%20Conceiving%20Life%29.md) |

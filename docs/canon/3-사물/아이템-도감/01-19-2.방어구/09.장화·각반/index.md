@@ -6,7 +6,7 @@
 
 # 📚 장화·각반
 
-## 항목 (34)
+## 항목 (35)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -35,6 +35,7 @@
 | 장화 (Boots) | [장화 (Boots)](장화%20%28Boots%29.md) |
 | 절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots) | [절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots)](절연의%20비행%20자기장%20장화%20%28Insulated%20Flight%20Magnetic-Boots%29.md) |
 | 절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves) | [절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves)](절연의%20청룡%20비늘%20장화%20%28Insulated%20Azure%20Dragon%20Greaves%29.md) |
+| 절해 수압 닻내림 전투 각반 (Deep-Sea Pressure Anchor-Down War Greaves) | [절해 수압 닻내림 전투 각반 (Deep-Sea Pressure Anchor-Down War Greaves)](절해%20수압%20닻내림%20전투%20각반%20%28Deep-Sea%20Pressure%20Anchor-Down%20War%20Greaves%29.md) |
 | 접지 파동 수신 부츠 (Ground-Wave Receiver Boots) | [접지 파동 수신 부츠 (Ground-Wave Receiver Boots)](접지%20파동%20수신%20부츠%20%28Ground-Wave%20Receiver%20Boots%29.md) |
 | 중력 차단 저격수 부츠 (Gravity-Nullifying Sniper Boots) | [중력 차단 저격수 부츠 (Gravity-Nullifying Sniper Boots)](중력%20차단%20저격수%20부츠%20%28Gravity-Nullifying%20Sniper%20Boots%29.md) |
 | 지맥 진동 통신 군화 (Sub-Sonic Tremor Boots of Earth-Comm) | [지맥 진동 통신 군화 (Sub-Sonic Tremor Boots of Earth-Comm)](지맥%20진동%20통신%20군화%20%28Sub-Sonic%20Tremor%20Boots%20of%20Earth-Comm%29.md) |

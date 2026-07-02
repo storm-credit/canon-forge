@@ -6,7 +6,7 @@
 
 # 📚 반지
 
-## 항목 (48)
+## 항목 (51)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -15,6 +15,7 @@
 | 감각 소각 억제 흑철 인장 반지 (Black Iron Signet of Sensory Burn Suppression) | [감각 소각 억제 흑철 인장 반지 (Black Iron Signet of Sensory Burn Suppression)](감각%20소각%20억제%20흑철%20인장%20반지%20%28Black%20Iron%20Signet%20of%20Sensory%20Burn%20Suppression%29.md) |
 | 검은 안개 함대 대함장 인장 반지 (Black Fog Fleet Admiral's Signet) | [검은 안개 함대 대함장 인장 반지 (Black Fog Fleet Admiral's Signet)](검은%20안개%20함대%20대함장%20인장%20반지%20%28Black%20Fog%20Fleet%20Admiral's%20Signet%29.md) |
 | 고스트 만타레이 소환의 은빛 링 (Ghost Manta Ray Summoning Silver Ring) | [고스트 만타레이 소환의 은빛 링 (Ghost Manta Ray Summoning Silver Ring)](고스트%20만타레이%20소환의%20은빛%20링%20%28Ghost%20Manta%20Ray%20Summoning%20Silver%20Ring%29.md) |
+| 교수형 매듭 각인의 처형관 강철 반지 세트 (Gallows-Knot Engraved Inquisitor's Steel Ring Set) | [교수형 매듭 각인의 처형관 강철 반지 세트 (Gallows-Knot Engraved Inquisitor's Steel Ring Set)](교수형%20매듭%20각인의%20처형관%20강철%20반지%20세트%20%28Gallows-Knot%20Engraved%20Inquisitor's%20Steel%20Ring%20Set%29.md) |
 | 글래시아 기사단 단장 서약 인장 (Sworn Commander's Signet of House Glacia) | [글래시아 기사단 단장 서약 인장 (Sworn Commander's Signet of House Glacia)](글래시아%20기사단%20단장%20서약%20인장%20%28Sworn%20Commander's%20Signet%20of%20House%20Glacia%29.md) |
 | 대속의 은빛 열꽃 수렴 반지 (Atonement Silver-Fever Bloom Convergence Ring) | [대속의 은빛 열꽃 수렴 반지 (Atonement Silver-Fever Bloom Convergence Ring)](대속의%20은빛%20열꽃%20수렴%20반지%20%28Atonement%20Silver-Fever%20Bloom%20Convergence%20Ring%29.md) |
 | 듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar) | [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](듀네사르의%20축성%28Fortification%29%20금가루%20반지%20%28Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar%29.md) |
@@ -40,8 +41,10 @@
 | 심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal) | [심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal)](심연%20봉쇄의%20인장%20반지%20%28Signet%20Ring%20of%20Abyssal%20Seal%29.md) |
 | 심연 수직 도약의 거미줄 기동 반지 (Abyssal Vertical-Leap Spider-Wire Ring) | [심연 수직 도약의 거미줄 기동 반지 (Abyssal Vertical-Leap Spider-Wire Ring)](심연%20수직%20도약의%20거미줄%20기동%20반지%20%28Abyssal%20Vertical-Leap%20Spider-Wire%20Ring%29.md) |
 | 아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross) | [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](아츠%20교차의%20시간%20각인%20반지%20%28Chrono-Engraved%20Ring%20of%20the%20Art-Cross%29.md) |
+| 암살자용 은반지 '에코 링' (Silver Echo Ring — Assassin's Whisper) | [암살자용 은반지 '에코 링' (Silver Echo Ring — Assassin's Whisper)](암살자용%20은반지%20'에코%20링'%20%28Silver%20Echo%20Ring%20—%20Assassin's%20Whisper%29.md) |
 | 억압된 족쇄 링 (Shackle Ring of the Repressed) | [억압된 족쇄 링 (Shackle Ring of the Repressed)](억압된%20족쇄%20링%20%28Shackle%20Ring%20of%20the%20Repressed%29.md) |
 | 엘도라 왕가의 뿌리 인장 반지 (Root Signet of House Eldora) | [엘도라 왕가의 뿌리 인장 반지 (Root Signet of House Eldora)](엘도라%20왕가의%20뿌리%20인장%20반지%20%28Root%20Signet%20of%20House%20Eldora%29.md) |
+| 영도 순환의 빙해 결속 반지 (Absolute-Zero Circulation Ring of Frost-Bond) | [영도 순환의 빙해 결속 반지 (Absolute-Zero Circulation Ring of Frost-Bond)](영도%20순환의%20빙해%20결속%20반지%20%28Absolute-Zero%20Circulation%20Ring%20of%20Frost-Bond%29.md) |
 | 오르도스 육각 기하학 결계 인장 반지 (Ordos Hexagonal Geometric Ward Signet) | [오르도스 육각 기하학 결계 인장 반지 (Ordos Hexagonal Geometric Ward Signet)](오르도스%20육각%20기하학%20결계%20인장%20반지%20%28Ordos%20Hexagonal%20Geometric%20Ward%20Signet%29.md) |
 | 왼손 약지의 청동 골무 (Bronze Thimble of the Left Ring Finger) | [왼손 약지의 청동 골무 (Bronze Thimble of the Left Ring Finger)](왼손%20약지의%20청동%20골무%20%28Bronze%20Thimble%20of%20the%20Left%20Ring%20Finger%29.md) |
 | 용기병 총단장의 혈인 (Blood-Signet of the Dragoon Grand Commander) | [용기병 총단장의 혈인 (Blood-Signet of the Dragoon Grand Commander)](용기병%20총단장의%20혈인%20%28Blood-Signet%20of%20the%20Dragoon%20Grand%20Commander%29.md) |

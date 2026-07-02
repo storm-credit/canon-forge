@@ -6,12 +6,14 @@
 
 # 📚 로브·마법복
 
-## 항목 (163)
+## 항목 (169)
 
 | 아이템 | 링크 |
 |--------|------|
+| 가시덤불 혈수 자수 흑색 사제복 (Thornbush Bloodwater-Embroidered Black Soutane) | [가시덤불 혈수 자수 흑색 사제복 (Thornbush Bloodwater-Embroidered Black Soutane)](가시덤불%20혈수%20자수%20흑색%20사제복%20%28Thornbush%20Bloodwater-Embroidered%20Black%20Soutane%29.md) |
 | 강제 분할파의 균등 코트 (Equal Coat of the Dividing Wave) | [강제 분할파의 균등 코트 (Equal Coat of the Dividing Wave)](강제%20분할파의%20균등%20코트%20%28Equal%20Coat%20of%20the%20Dividing%20Wave%29.md) |
 | 강철 뿔매머드 전신 튜닉 (Tunic of the Steel Horn-Mammoth) | [강철 뿔매머드 전신 튜닉 (Tunic of the Steel Horn-Mammoth)](강철%20뿔매머드%20전신%20튜닉%20%28Tunic%20of%20the%20Steel%20Horn-Mammoth%29.md) |
+| 검은 산호 가시 고딕 크리놀린 드레스 (Gothic Thorn-Coral Crinoline Dress) | [검은 산호 가시 고딕 크리놀린 드레스 (Gothic Thorn-Coral Crinoline Dress)](검은%20산호%20가시%20고딕%20크리놀린%20드레스%20%28Gothic%20Thorn-Coral%20Crinoline%20Dress%29.md) |
 | 공허 실크의 드레스 (Dress of Void Silk) | [공허 실크의 드레스 (Dress of Void Silk)](공허%20실크의%20드레스%20%28Dress%20of%20Void%20Silk%29.md) |
 | 광자 거울 튜닉 (Photon Mirror Tunic) | [광자 거울 튜닉 (Photon Mirror Tunic)](광자%20거울%20튜닉%20%28Photon%20Mirror%20Tunic%29.md) |
 | 광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon) | [광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon)](광학%20반사경%20미라주%20고치%20%28Optical%20Reflector%20Mirage%20Cocoon%29.md) |
@@ -36,6 +38,7 @@
 | 로브 (Robes) | [로브 (Robes)](로브%20%28Robes%29.md) |
 | 마그마 도금 흑철(Dark-Iron) 강화복 (Magma-Plated Dark-Iron Exosuit) | [마그마 도금 흑철(Dark-Iron) 강화복 (Magma-Plated Dark-Iron Exosuit)](마그마%20도금%20흑철%28Dark-Iron%29%20강화복%20%28Magma-Plated%20Dark-Iron%20Exosuit%29.md) |
 | 마나 생태계 수석 재판관 예복 (Grand Justicar's Robe of the Mana Ecosystem) | [마나 생태계 수석 재판관 예복 (Grand Justicar's Robe of the Mana Ecosystem)](마나%20생태계%20수석%20재판관%20예복%20%28Grand%20Justicar's%20Robe%20of%20the%20Mana%20Ecosystem%29.md) |
+| 마도 제독 정복 프록코트 (Arcane Admiral's Dress Uniform Frock Coat) | [마도 제독 정복 프록코트 (Arcane Admiral's Dress Uniform Frock Coat)](마도%20제독%20정복%20프록코트%20%28Arcane%20Admiral's%20Dress%20Uniform%20Frock%20Coat%29.md) |
 | 마법복 (Mystic Garb) | [마법복 (Mystic Garb)](마법복%20%28Mystic%20Garb%29.md) |
 | 망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust) | [망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust)](망각의%20고대%20드래곤%20가루%20예복%20%28Vestment%20of%20Oblivion%20Ancient%20Dragon%20Dust%29.md) |
 | 망각의 먹물 로브 (Robes of Oblivion Ink) | [망각의 먹물 로브 (Robes of Oblivion Ink)](망각의%20먹물%20로브%20%28Robes%20of%20Oblivion%20Ink%29.md) |
@@ -106,6 +109,7 @@
 | 시체꽃 흑붕대 제단복 (Corpse-Flower Black-Bandage Altar Vestment) | [시체꽃 흑붕대 제단복 (Corpse-Flower Black-Bandage Altar Vestment)](시체꽃%20흑붕대%20제단복%20%28Corpse-Flower%20Black-Bandage%20Altar%20Vestment%29.md) |
 | 신경 차단을 막는 투명화(Cloaking) 깃털 로브 (Cloaking Feather-Robe that Defies Nerve Block) | [신경 차단을 막는 투명화(Cloaking) 깃털 로브 (Cloaking Feather-Robe that Defies Nerve Block)](신경%20차단을%20막는%20투명화%28Cloaking%29%20깃털%20로브%20%28Cloaking%20Feather-Robe%20that%20Defies%20Nerve%20Block%29.md) |
 | 신성 위상의 수의 (Shroud of Sacred Phase) | [신성 위상의 수의 (Shroud of Sacred Phase)](신성%20위상의%20수의%20%28Shroud%20of%20Sacred%20Phase%29.md) |
+| 실프 혈통의 다층 시폰 바람 로브 (Sylph-Lineage Layered Chiffon Wind Robe) | [실프 혈통의 다층 시폰 바람 로브 (Sylph-Lineage Layered Chiffon Wind Robe)](실프%20혈통의%20다층%20시폰%20바람%20로브%20%28Sylph-Lineage%20Layered%20Chiffon%20Wind%20Robe%29.md) |
 | 실프의 속삭임 발찌 (Anklet of Sylph's Whisper) | [실프의 속삭임 발찌 (Anklet of Sylph's Whisper)](실프의%20속삭임%20발찌%20%28Anklet%20of%20Sylph's%20Whisper%29.md) |
 | 심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire) | [심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire)](심야의%20무영%20고딕%20암살복%20%28Midnight%20Vantablack%20Gothic%20Assassin's%20Attire%29.md) |
 | 심연 해류의 아쿠아 숄 (Aqua Shawl of Abyssal Currents) | [심연 해류의 아쿠아 숄 (Aqua Shawl of Abyssal Currents)](심연%20해류의%20아쿠아%20숄%20%28Aqua%20Shawl%20of%20Abyssal%20Currents%29.md) |
@@ -142,10 +146,12 @@
 | 진청색 점성술사 로브 (Deep Blue Stargazer Robe) | [진청색 점성술사 로브 (Deep Blue Stargazer Robe)](진청색%20점성술사%20로브%20%28Deep%20Blue%20Stargazer%20Robe%29.md) |
 | 진홍 부식의 롱드레스 & 코르셋 (Crimson Corrosive Longdress & Corset) | [진홍 부식의 롱드레스 & 코르셋 (Crimson Corrosive Longdress & Corset)](진홍%20부식의%20롱드레스%20&%20코르셋%20%28Crimson%20Corrosive%20Longdress%20&%20Corset%29.md) |
 | 창공의 비행갑 강층기류 코트 (Aero-Stream Coat) | [창공의 비행갑 강층기류 코트 (Aero-Stream Coat)](창공의%20비행갑%20강층기류%20코트%20%28Aero-Stream%20Coat%29.md) |
+| 창해 흑조 망자의 너덜 로브 (Tattered Robe of the Abyssal Crow) | [창해 흑조 망자의 너덜 로브 (Tattered Robe of the Abyssal Crow)](창해%20흑조%20망자의%20너덜%20로브%20%28Tattered%20Robe%20of%20the%20Abyssal%20Crow%29.md) |
 | 채무자의 원한 코트 (Overcoat of Debtor's Grudge) | [채무자의 원한 코트 (Overcoat of Debtor's Grudge)](채무자의%20원한%20코트%20%28Overcoat%20of%20Debtor's%20Grudge%29.md) |
 | 천의무봉의 구원 드레스 (Dress of Seamless Salvation) | [천의무봉의 구원 드레스 (Dress of Seamless Salvation)](천의무봉의%20구원%20드레스%20%28Dress%20of%20Seamless%20Salvation%29.md) |
 | 천체의 눈먼 자비 로브 (Robe of Blind Celestial Mercy) | [천체의 눈먼 자비 로브 (Robe of Blind Celestial Mercy)](천체의%20눈먼%20자비%20로브%20%28Robe%20of%20Blind%20Celestial%20Mercy%29.md) |
 | 천체의 은사 로브 (Silk-robe of the Celestial Sky) | [천체의 은사 로브 (Silk-robe of the Celestial Sky)](천체의%20은사%20로브%20%28Silk-robe%20of%20the%20Celestial%20Sky%29.md) |
+| 철갑 가죽 멜빵 작업 앞치마 (Iron-Plate Leather Suspender Work Apron) | [철갑 가죽 멜빵 작업 앞치마 (Iron-Plate Leather Suspender Work Apron)](철갑%20가죽%20멜빵%20작업%20앞치마%20%28Iron-Plate%20Leather%20Suspender%20Work%20Apron%29.md) |
 | 철벽의 수장 코트 (Coat of the Bastion Head) | [철벽의 수장 코트 (Coat of the Bastion Head)](철벽의%20수장%20코트%20%28Coat%20of%20the%20Bastion%20Head%29.md) |
 | 초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit) | [초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit)](초중량%20마도%20다이빙%20슈트%20%28Hyper-Weight%20Arcane%20Diving%20Suit%29.md) |
 | 칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow) | [칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow)](칠흑%20맹세의%20단죄복%20%28Inquisitor's%20Garb%20of%20Ebon%20Vow%29.md) |

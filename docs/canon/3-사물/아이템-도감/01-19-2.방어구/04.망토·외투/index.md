@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (70)
+## 항목 (73)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -34,13 +34,16 @@
 | 바람길잡이의 망토(Cloak of the Zephyr) | [바람길잡이의 망토(Cloak of the Zephyr)](바람길잡이의%20망토%28Cloak%20of%20the%20Zephyr%29.md) |
 | 반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance) | [반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance)](반향%28Echo%29%20포착%20비늘망토%20%28Scale-cloak%20of%20Resonance%29.md) |
 | 밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky) | [밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky)](밤하늘의%20위장%20은신%20망토%20%28Camouflage%20Cloak%20of%20the%20Night%20Sky%29.md) |
+| 번개 군주의 남색 오리엔탈 비단 롱코트 (Navy Oriental Silk Longcoat of the Lightning Lord) | [번개 군주의 남색 오리엔탈 비단 롱코트 (Navy Oriental Silk Longcoat of the Lightning Lord)](번개%20군주의%20남색%20오리엔탈%20비단%20롱코트%20%28Navy%20Oriental%20Silk%20Longcoat%20of%20the%20Lightning%20Lord%29.md) |
 | 별빛 장막의 칠흑 베일 (Veil of Starlit Onyx) | [별빛 장막의 칠흑 베일 (Veil of Starlit Onyx)](별빛%20장막의%20칠흑%20베일%20%28Veil%20of%20Starlit%20Onyx%29.md) |
 | 불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion) | [불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion)](불가사의한%20운명%20회피의%20베일%20%28Veil%20of%20Inscrutable%20Fate-Evasion%29.md) |
 | 붉은 폭풍 돌격 망토 (Red Storm Assault Cloak) | [붉은 폭풍 돌격 망토 (Red Storm Assault Cloak)](붉은%20폭풍%20돌격%20망토%20%28Red%20Storm%20Assault%20Cloak%29.md) |
 | 비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils) | [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](비탄의%20넝쿨손%20구호%20망토%20%28Mantle%20of%20Sorrow's%20Tendrils%29.md) |
 | 빛바랜 올빼미 망토 (Faded Cloak of the Owl) | [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](빛바랜%20올빼미%20망토%20%28Faded%20Cloak%20of%20the%20Owl%29.md) |
+| 사자 망토 — 폭풍을 가르는 황금의 사자 (Lion-Hide War Mantle of the Golden Admiral) | [사자 망토 — 폭풍을 가르는 황금의 사자 (Lion-Hide War Mantle of the Golden Admiral)](사자%20망토%20—%20폭풍을%20가르는%20황금의%20사자%20%28Lion-Hide%20War%20Mantle%20of%20the%20Golden%20Admiral%29.md) |
 | 서리 늑대 영체 뼈 망토 (Spectral Frost-Wolf Bone Cloak) | [서리 늑대 영체 뼈 망토 (Spectral Frost-Wolf Bone Cloak)](서리%20늑대%20영체%20뼈%20망토%20%28Spectral%20Frost-Wolf%20Bone%20Cloak%29.md) |
 | 선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum) | [선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum)](선혈이%20물든%20아르젠툼%20은빛%20망토%20%28Blood-Soaked%20Silver%20Cloak%20of%20Argentum%29.md) |
+| 성화 제독 코트 (Holy Flame Admiral's Coat) | [성화 제독 코트 (Holy Flame Admiral's Coat)](성화%20제독%20코트%20%28Holy%20Flame%20Admiral's%20Coat%29.md) |
 | 솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment) | [솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment)](솔라리스%20처단의%20붉은%20서코트%20%28Crimson%20Surcoat%20of%20Solaris%20Judgment%29.md) |
 | 순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds) | [순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds)](순간%20엇갈림의%20회중%20망토%20%28Pocket-Watch%20Cloak%20of%20Split%20Seconds%29.md) |
 | 순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr) | [순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr)](순교자의%20피%20묻은%20제국%20망토%20%28Blood-stained%20Empire%20Cloak%20of%20the%20Martyr%29.md) |

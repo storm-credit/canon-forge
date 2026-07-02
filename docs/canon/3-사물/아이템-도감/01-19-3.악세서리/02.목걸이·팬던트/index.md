@@ -6,7 +6,7 @@
 
 # 📚 목걸이·팬던트
 
-## 항목 (36)
+## 항목 (39)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,12 +14,14 @@
 | 팬던트 (Pendants) | [팬던트 (Pendants)](03.팬던트.md) |
 | 골드레이븐의 전리품 황금 나침반 펜던트 (Treasure-North Compass Pendant of Goldraven) | [골드레이븐의 전리품 황금 나침반 펜던트 (Treasure-North Compass Pendant of Goldraven)](골드레이븐의%20전리품%20황금%20나침반%20펜던트%20%28Treasure-North%20Compass%20Pendant%20of%20Goldraven%29.md) |
 | 낙인 봉인의 은빛 수정 초커 (Silver Crystal Choker of Brand Seal) | [낙인 봉인의 은빛 수정 초커 (Silver Crystal Choker of Brand Seal)](낙인%20봉인의%20은빛%20수정%20초커%20%28Silver%20Crystal%20Choker%20of%20Brand%20Seal%29.md) |
+| 뇌우의 사파이어 초커 (Thunderstorm Sapphire Choker) | [뇌우의 사파이어 초커 (Thunderstorm Sapphire Choker)](뇌우의%20사파이어%20초커%20%28Thunderstorm%20Sapphire%20Choker%29.md) |
 | 마신의 핏빛 코어 펜던트 (Blood Core Pendant of the Demon God) | [마신의 핏빛 코어 펜던트 (Blood Core Pendant of the Demon God)](마신의%20핏빛%20코어%20펜던트%20%28Blood%20Core%20Pendant%20of%20the%20Demon%20God%29.md) |
 | 말라붙은 배신자의 피목걸이 (Blood-Vial Necklace of Traitors) | [말라붙은 배신자의 피목걸이 (Blood-Vial Necklace of Traitors)](말라붙은%20배신자의%20피목걸이%20%28Blood-Vial%20Necklace%20of%20Traitors%29.md) |
 | 맹독 페로몬 봉인의 벨벳 초커 (Venom-Pheromone Sealed Velvet Choker) | [맹독 페로몬 봉인의 벨벳 초커 (Venom-Pheromone Sealed Velvet Choker)](맹독%20페로몬%20봉인의%20벨벳%20초커%20%28Venom-Pheromone%20Sealed%20Velvet%20Choker%29.md) |
 | 맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity) | [맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity)](맹목적%20모성애의%20심장%20펜던트%20%28Heart%20Pendant%20of%20Blind%20Maternity%29.md) |
 | 무리에의 뿔피리 목걸이 (Necklace of the Pack-Horn) | [무리에의 뿔피리 목걸이 (Necklace of the Pack-Horn)](무리에의%20뿔피리%20목걸이%20%28Necklace%20of%20the%20Pack-Horn%29.md) |
 | 배교된 달의 눈물방울 (Teardrop of the Apostate Moon) | [배교된 달의 눈물방울 (Teardrop of the Apostate Moon)](배교된%20달의%20눈물방울%20%28Teardrop%20of%20the%20Apostate%20Moon%29.md) |
+| 부러진 기사단 휘장 (Broken Knight's Crest) | [부러진 기사단 휘장 (Broken Knight's Crest)](부러진%20기사단%20휘장%20%28Broken%20Knight's%20Crest%29.md) |
 | 부러진 모래시계 펜던트 (Broken Hourglass Pendant) | [부러진 모래시계 펜던트 (Broken Hourglass Pendant)](부러진%20모래시계%20펜던트%20%28Broken%20Hourglass%20Pendant%29.md) |
 | 분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang) | [분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang)](분노한%20거인의%20이빨%20목걸이%20%28Necklace%20of%20the%20Angry%20Giant's%20Fang%29.md) |
 | 붉은 피의 계약 초커 (Choker of Crimson Blood Contract) | [붉은 피의 계약 초커 (Choker of Crimson Blood Contract)](붉은%20피의%20계약%20초커%20%28Choker%20of%20Crimson%20Blood%20Contract%29.md) |
@@ -40,6 +42,7 @@
 | 진실을 말하는 루비 초커 (Ruby Choker of Confession) | [진실을 말하는 루비 초커 (Ruby Choker of Confession)](진실을%20말하는%20루비%20초커%20%28Ruby%20Choker%20of%20Confession%29.md) |
 | 짐승의 영혼을 가두는 속박의 목걸이 (Amulet of Beast's Soul Bind) | [짐승의 영혼을 가두는 속박의 목걸이 (Amulet of Beast's Soul Bind)](짐승의%20영혼을%20가두는%20속박의%20목걸이%20%28Amulet%20of%20Beast's%20Soul%20Bind%29.md) |
 | 찢어진 노예 족쇄 파편 목걸이 (Broken Slave Shackle Fragment Necklace) | [찢어진 노예 족쇄 파편 목걸이 (Broken Slave Shackle Fragment Necklace)](찢어진%20노예%20족쇄%20파편%20목걸이%20%28Broken%20Slave%20Shackle%20Fragment%20Necklace%29.md) |
+| 첫 상어 이빨 전리품 목걸이 (First Shark-Fang Trophy Necklace) | [첫 상어 이빨 전리품 목걸이 (First Shark-Fang Trophy Necklace)](첫%20상어%20이빨%20전리품%20목걸이%20%28First%20Shark-Fang%20Trophy%20Necklace%29.md) |
 | 코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity) | [코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity)](코르디스의%20마지막%20이성%20고리%20%28Choker%20of%20Cordis's%20Last%20Sanity%29.md) |
 | 피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity) | [피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)](피와%20눈물이%20얼룩진%20영원의%20펜던트%20%28Tear-stained%20Pendant%20of%20Eternity%29.md) |
 | 해룡 앞니 전리품 목걸이 (Sea-Dragon Fang Trophy Necklace) | [해룡 앞니 전리품 목걸이 (Sea-Dragon Fang Trophy Necklace)](해룡%20앞니%20전리품%20목걸이%20%28Sea-Dragon%20Fang%20Trophy%20Necklace%29.md) |

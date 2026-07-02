@@ -6,7 +6,7 @@
 
 # 📚 둔기
 
-## 항목 (85)
+## 항목 (86)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -32,6 +32,7 @@
 | 디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord) | [디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord)](디스코드의%20음파%20튜닝포크%20망치%20%28Sonic%20Tuning-Fork%20Hammer%20of%20Discord%29.md) |
 | 레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon) | [레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon)](레드앵커의%20사슬%20닻%20-%20크림슨%20타이푼%20%28Chain%20Anchor,%20Crimson%20Typhoon%29.md) |
 | 마도 연성 망치 '아틀라스의 스패너' (Alchemical Hammer 'Spanner of Atlas') | [마도 연성 망치 '아틀라스의 스패너' (Alchemical Hammer 'Spanner of Atlas')](마도%20연성%20망치%20'아틀라스의%20스패너'%20%28Alchemical%20Hammer%20'Spanner%20of%20Atlas'%29.md) |
+| 마력 과적 렌치 '포탄받이' (Mana Overcharge Wrench 'Cannonball Catcher') | [마력 과적 렌치 '포탄받이' (Mana Overcharge Wrench 'Cannonball Catcher')](마력%20과적%20렌치%20'포탄받이'%20%28Mana%20Overcharge%20Wrench%20'Cannonball%20Catcher'%29.md) |
 | 마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer) | [마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer)](마키나스의%20울로코%20압력%20건망치%20%28Uloco%20Pressure%20Gun-Hammer%29.md) |
 | 만능 렌치 (Omni Wrench) | [만능 렌치 (Omni Wrench)](만능%20렌치%20%28Omni%20Wrench%29.md) |
 | 만능 렌치 (Universal Wrench) | [만능 렌치 (Universal Wrench)](만능%20렌치%20%28Universal%20Wrench%29.md) |

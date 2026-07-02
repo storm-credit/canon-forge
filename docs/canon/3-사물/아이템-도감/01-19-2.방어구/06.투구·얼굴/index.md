@@ -6,7 +6,7 @@
 
 # 📚 투구·얼굴
 
-## 항목 (68)
+## 항목 (73)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -21,11 +21,13 @@
 | 금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles) | [금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles)](금선%20증강현실%20전장%20렌즈%20안경%20%28Battlefield%20AR%20Tactical%20Lens%20Spectacles%29.md) |
 | 납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator) | [납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator)](납과%20가죽의%20죽음%20방독면%20%28Lead-Leather%20Death%20Respirator%29.md) |
 | 뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm) | [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](뇌진%20선봉의%20투구%20%28Thunder-Vanguard's%20Crest%20Helm%29.md) |
+| 단죄자의 철제 하관 마스크 (Iron Lower-Face Mask of the Condemner) | [단죄자의 철제 하관 마스크 (Iron Lower-Face Mask of the Condemner)](단죄자의%20철제%20하관%20마스크%20%28Iron%20Lower-Face%20Mask%20of%20the%20Condemner%29.md) |
 | 독기 차단 방랑자 마스크 (Toxin-Ward Vagrant's Muzzle) | [독기 차단 방랑자 마스크 (Toxin-Ward Vagrant's Muzzle)](독기%20차단%20방랑자%20마스크%20%28Toxin-Ward%20Vagrant's%20Muzzle%29.md) |
 | 동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles) | [동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles)](동상%20괴사%20은폐%20두꺼운%20뿔테%20안경%20%28Frostbitten%20Necrosis-Concealing%20Thick%20Horn-Rimmed%20Spectacles%29.md) |
 | 룬 원석 각막 보호경 (Rune-Ore Corneal Protector) | [룬 원석 각막 보호경 (Rune-Ore Corneal Protector)](룬%20원석%20각막%20보호경%20%28Rune-Ore%20Corneal%20Protector%29.md) |
 | 룬 자수 칠흑 안대 (Runic Embroidery Pitch-Black Blindfold) | [룬 자수 칠흑 안대 (Runic Embroidery Pitch-Black Blindfold)](룬%20자수%20칠흑%20안대%20%28Runic%20Embroidery%20Pitch-Black%20Blindfold%29.md) |
 | 마나 차폐 모래그물 슈마그 (Mana-Sealed Sand-Net Shemagh of Dunesar) | [마나 차폐 모래그물 슈마그 (Mana-Sealed Sand-Net Shemagh of Dunesar)](마나%20차폐%20모래그물%20슈마그%20%28Mana-Sealed%20Sand-Net%20Shemagh%20of%20Dunesar%29.md) |
+| 마도 용접 방풍 고글 (Arcane Welding Windproof Goggles) | [마도 용접 방풍 고글 (Arcane Welding Windproof Goggles)](마도%20용접%20방풍%20고글%20%28Arcane%20Welding%20Windproof%20Goggles%29.md) |
 | 마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold) | [마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold)](마력%20집중형%20금속%20안대%20%28Mana-Focusing%20Metal%20Blindfold%29.md) |
 | 마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas) | [마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas)](마키나스%20가문의%20구리%20파이프%20방진%20전투%20고글%20%28Copper-Pipe%20Combat%20Dust-Goggles%20of%20House%20Machinas%29.md) |
 | 맹서의 백린도 — 타릭의 흰 리넨 눈가리개 (White Linen Vow-Blindfold of Tarik) | [맹서의 백린도 — 타릭의 흰 리넨 눈가리개 (White Linen Vow-Blindfold of Tarik)](맹서의%20백린도%20—%20타릭의%20흰%20리넨%20눈가리개%20%28White%20Linen%20Vow-Blindfold%20of%20Tarik%29.md) |
@@ -54,7 +56,9 @@
 | 얼굴 가리개 (Visors) | [얼굴 가리개 (Visors)](얼굴%20가리개%20%28Visors%29.md) |
 | 열추적 마력 단안경 '어둠의 창' (Thermal-Mana Monocle — Eye of the Eclipse) | [열추적 마력 단안경 '어둠의 창' (Thermal-Mana Monocle — Eye of the Eclipse)](열추적%20마력%20단안경%20'어둠의%20창'%20%28Thermal-Mana%20Monocle%20—%20Eye%20of%20the%20Eclipse%29.md) |
 | 오르도스 문휘 소각 풀 페이스 투구 (Ordos-Crest Seared Full-Face Helm) | [오르도스 문휘 소각 풀 페이스 투구 (Ordos-Crest Seared Full-Face Helm)](오르도스%20문휘%20소각%20풀%20페이스%20투구%20%28Ordos-Crest%20Seared%20Full-Face%20Helm%29.md) |
+| 왕도 수비대의 부식 철두 (Corroded Iron-Crown of the Royal Guard) | [왕도 수비대의 부식 철두 (Corroded Iron-Crown of the Royal Guard)](왕도%20수비대의%20부식%20철두%20%28Corroded%20Iron-Crown%20of%20the%20Royal%20Guard%29.md) |
 | 은빛 맹약의 전선 투구 (Silver-Oath Frontline Helm) | [은빛 맹약의 전선 투구 (Silver-Oath Frontline Helm)](은빛%20맹약의%20전선%20투구%20%28Silver-Oath%20Frontline%20Helm%29.md) |
+| 은염강 해전 투구 '아이언 비저' (Silver-Salt Naval Helm 'Iron Visor') | [은염강 해전 투구 '아이언 비저' (Silver-Salt Naval Helm 'Iron Visor')](은염강%20해전%20투구%20'아이언%20비저'%20%28Silver-Salt%20Naval%20Helm%20'Iron%20Visor'%29.md) |
 | 은월 광차단 침투 안대 (Silver-Moon Photoseal Infiltration Blindfold) | [은월 광차단 침투 안대 (Silver-Moon Photoseal Infiltration Blindfold)](은월%20광차단%20침투%20안대%20%28Silver-Moon%20Photoseal%20Infiltration%20Blindfold%29.md) |
 | 이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles) | [이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles)](이카루스의%20시선%20산소%20차단%20파일럿%20고글%20%28Gaze-of-Icarus%20Anoxia-Seal%20Pilot%20Goggles%29.md) |
 | 자색 결정 안대 (Violet Crystal Eyepatch) | [자색 결정 안대 (Violet Crystal Eyepatch)](자색%20결정%20안대%20%28Violet%20Crystal%20Eyepatch%29.md) |
@@ -74,6 +78,7 @@
 | 태양 성왕의 황금 투구 (Golden Helm of the Solar Sovereign) | [태양 성왕의 황금 투구 (Golden Helm of the Solar Sovereign)](태양%20성왕의%20황금%20투구%20%28Golden%20Helm%20of%20the%20Solar%20Sovereign%29.md) |
 | 투구 (Helms) | [투구 (Helms)](투구%20%28Helms%29.md) |
 | 피 묻은 생명 인도자의 밀짚모자 (Bloodstained Straw Hat of the Life-Guide) | [피 묻은 생명 인도자의 밀짚모자 (Bloodstained Straw Hat of the Life-Guide)](피%20묻은%20생명%20인도자의%20밀짚모자%20%28Bloodstained%20Straw%20Hat%20of%20the%20Life-Guide%29.md) |
+| 핏빛 맹목의 천 안대 (Bloodstained Blindfold of the Sightless) | [핏빛 맹목의 천 안대 (Bloodstained Blindfold of the Sightless)](핏빛%20맹목의%20천%20안대%20%28Bloodstained%20Blindfold%20of%20the%20Sightless%29.md) |
 | 해군 집행관의 비틀린 철 투구 (Twisted Iron Helm of the Naval Inquisitor) | [해군 집행관의 비틀린 철 투구 (Twisted Iron Helm of the Naval Inquisitor)](해군%20집행관의%20비틀린%20철%20투구%20%28Twisted%20Iron%20Helm%20of%20the%20Naval%20Inquisitor%29.md) |
 | 황동 톱니 마도 단안경 (Brass-Gear Arcane Monocle) | [황동 톱니 마도 단안경 (Brass-Gear Arcane Monocle)](황동%20톱니%20마도%20단안경%20%28Brass-Gear%20Arcane%20Monocle%29.md) |
 | 황제의 광과민 암흑 안대 (Emperor's Photophobic Blackout Blindfold) | [황제의 광과민 암흑 안대 (Emperor's Photophobic Blackout Blindfold)](황제의%20광과민%20암흑%20안대%20%28Emperor's%20Photophobic%20Blackout%20Blindfold%29.md) |

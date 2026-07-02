@@ -6,19 +6,21 @@
 
 # 📚 장갑·손목
 
-## 항목 (60)
+## 항목 (64)
 
 | 아이템 | 링크 |
 |--------|------|
 | 간수장의 수마 사슬 완갑 (Jailer's Sleep-Chain Vambraces) | [간수장의 수마 사슬 완갑 (Jailer's Sleep-Chain Vambraces)](간수장의%20수마%20사슬%20완갑%20%28Jailer's%20Sleep-Chain%20Vambraces%29.md) |
 | 감압 억제 압박 붕대 (Decompression Suppression Pressure Wrapping) | [감압 억제 압박 붕대 (Decompression Suppression Pressure Wrapping)](감압%20억제%20압박%20붕대%20%28Decompression%20Suppression%20Pressure%20Wrapping%29.md) |
 | 강철 버클 건틀릿 '쐐기못' (Iron-Rivet Buckle Gauntlets) | [강철 버클 건틀릿 '쐐기못' (Iron-Rivet Buckle Gauntlets)](강철%20버클%20건틀릿%20'쐐기못'%20%28Iron-Rivet%20Buckle%20Gauntlets%29.md) |
+| 결벽 정화의 수술 장갑 (Surgical Gloves of Obsessive Purification) | [결벽 정화의 수술 장갑 (Surgical Gloves of Obsessive Purification)](결벽%20정화의%20수술%20장갑%20%28Surgical%20Gloves%20of%20Obsessive%20Purification%29.md) |
 | 고통 신호 거미줄 수술 장갑 (Pain-Signal Spider-Suture Gauntlets) | [고통 신호 거미줄 수술 장갑 (Pain-Signal Spider-Suture Gauntlets)](고통%20신호%20거미줄%20수술%20장갑%20%28Pain-Signal%20Spider-Suture%20Gauntlets%29.md) |
 | 관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression) | [관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression)](관절%20파열%20억제%20강철%20붕대%20%28Steel%20Binding%20Straps%20of%20Joint-Rupture%20Suppression%29.md) |
 | 구속의 잔재 철장갑 (Plate of the Remaining Shackles) | [구속의 잔재 철장갑 (Plate of the Remaining Shackles)](구속의%20잔재%20철장갑%20%28Plate%20of%20the%20Remaining%20Shackles%29.md) |
 | 극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets) | [극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets)](극지%20심연%20백곰%20괴사%20보온%20털장갑%20%28Arctic%20Abyss%20White-Bear%20Necrosis-Warmth%20Fur%20Gauntlets%29.md) |
 | 기계식 조준 보정 암-브레이서 (Mechanical Aim-Correction Arm-Bracer) | [기계식 조준 보정 암-브레이서 (Mechanical Aim-Correction Arm-Bracer)](기계식%20조준%20보정%20암-브레이서%20%28Mechanical%20Aim-Correction%20Arm-Bracer%29.md) |
 | 기화의 홍강 건틀릿 (Vaporflesh Crimson Gauntlets) | [기화의 홍강 건틀릿 (Vaporflesh Crimson Gauntlets)](기화의%20홍강%20건틀릿%20%28Vaporflesh%20Crimson%20Gauntlets%29.md) |
+| 낙뢰 흉터 은폐 귀족 실크 장갑 (Lightning-Scar Concealing Aristocratic Silk Gauntlets) | [낙뢰 흉터 은폐 귀족 실크 장갑 (Lightning-Scar Concealing Aristocratic Silk Gauntlets)](낙뢰%20흉터%20은폐%20귀족%20실크%20장갑%20%28Lightning-Scar%20Concealing%20Aristocratic%20Silk%20Gauntlets%29.md) |
 | 내열 폭약공 손가락 보호 가죽 장갑 (Heat-Resistant Demolitionist Finger-Guard Gauntlets) | [내열 폭약공 손가락 보호 가죽 장갑 (Heat-Resistant Demolitionist Finger-Guard Gauntlets)](내열%20폭약공%20손가락%20보호%20가죽%20장갑%20%28Heat-Resistant%20Demolitionist%20Finger-Guard%20Gauntlets%29.md) |
 | 뇌격 소각의 우완 보호대 (Right-Arm Vambrace of Thunder Incineration) | [뇌격 소각의 우완 보호대 (Right-Arm Vambrace of Thunder Incineration)](뇌격%20소각의%20우완%20보호대%20%28Right-Arm%20Vambrace%20of%20Thunder%20Incineration%29.md) |
 | 뇌전 도관 황동 파이프 중장갑 (Thunder-Conduit Brass-Pipe Gauntlets) | [뇌전 도관 황동 파이프 중장갑 (Thunder-Conduit Brass-Pipe Gauntlets)](뇌전%20도관%20황동%20파이프%20중장갑%20%28Thunder-Conduit%20Brass-Pipe%20Gauntlets%29.md) |
@@ -35,9 +37,11 @@
 | 분쇄 직격의 철괴 건틀릿 (Iron-Mass Gauntlets of Direct Demolition) | [분쇄 직격의 철괴 건틀릿 (Iron-Mass Gauntlets of Direct Demolition)](분쇄%20직격의%20철괴%20건틀릿%20%28Iron-Mass%20Gauntlets%20of%20Direct%20Demolition%29.md) |
 | 빙화 마찰 압축 박수 건틀릿 (Blazefrost Friction-Compression Clap Gauntlets) | [빙화 마찰 압축 박수 건틀릿 (Blazefrost Friction-Compression Clap Gauntlets)](빙화%20마찰%20압축%20박수%20건틀릿%20%28Blazefrost%20Friction-Compression%20Clap%20Gauntlets%29.md) |
 | 사일런투스의 집행 손가락 장갑 (Silentus Execution Finger Gloves) | [사일런투스의 집행 손가락 장갑 (Silentus Execution Finger Gloves)](사일런투스의%20집행%20손가락%20장갑%20%28Silentus%20Execution%20Finger%20Gloves%29.md) |
+| 선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets) | [선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets)](선전포고%20파도%20타격%20철퇴%20건틀릿%20%28Wave-Crash%20Declaration%20Iron-Bludgeon%20Gauntlets%29.md) |
 | 손목 보호대 (Bracers) | [손목 보호대 (Bracers)](손목%20보호대%20%28Bracers%29.md) |
 | 수성전의 맹세 장갑 (Vow-of-Siege Gauntlets) | [수성전의 맹세 장갑 (Vow-of-Siege Gauntlets)](수성전의%20맹세%20장갑%20%28Vow-of-Siege%20Gauntlets%29.md) |
 | 순백의 맹세 건틀릿 (Gauntlets of the White Vow) | [순백의 맹세 건틀릿 (Gauntlets of the White Vow)](순백의%20맹세%20건틀릿%20%28Gauntlets%20of%20the%20White%20Vow%29.md) |
+| 순백의 질서 장갑 (White Gauntlets of Absolute Order) | [순백의 질서 장갑 (White Gauntlets of Absolute Order)](순백의%20질서%20장갑%20%28White%20Gauntlets%20of%20Absolute%20Order%29.md) |
 | 순풍의 항해사 장갑 (Tailwind Navigator’s Gloves) | [순풍의 항해사 장갑 (Tailwind Navigator’s Gloves)](순풍의%20항해사%20장갑%20%28Tailwind%20Navigator’s%20Gloves%29.md) |
 | 신경 소각 손가락 은폐 두꺼운 장갑 (Nerve-Burnt Finger-Concealing Thick Gloves) | [신경 소각 손가락 은폐 두꺼운 장갑 (Nerve-Burnt Finger-Concealing Thick Gloves)](신경%20소각%20손가락%20은폐%20두꺼운%20장갑%20%28Nerve-Burnt%20Finger-Concealing%20Thick%20Gloves%29.md) |
 | 심연 부패 타격 철장갑 (Abyssal Decay Strike Gauntlets) | [심연 부패 타격 철장갑 (Abyssal Decay Strike Gauntlets)](심연%20부패%20타격%20철장갑%20%28Abyssal%20Decay%20Strike%20Gauntlets%29.md) |
