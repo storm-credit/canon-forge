@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (73)
+## 항목 (74)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 강철 요새의 흉갑 (Breastplate of the Iron Fortress) | [강철 요새의 흉갑 (Breastplate of the Iron Fortress)](강철%20요새의%20흉갑%20%28Breastplate%20of%20the%20Iron%20Fortress%29.md) |
 | 강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath') | [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](강철신경%20접속형%20외골격%20'골리앗'%20%28Neural-Linked%20Exoskeleton%20'Goliath'%29.md) |
 | 개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate) | [개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate)](개척지%20상흔의%20야전%20흉갑%20%28Frontier-Scar%20Field%20Breastplate%29.md) |
+| 개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate) | [개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate)](개척지%20상흔의%20야전%20흉갑%20—%20실비아%20코어스의%20생존%20갑주%20%28Frontier-Scar%20Field%20Breastplate%20—%20Silvia%20Cores's%20Survival%20Plate%29.md) |
 | 개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate) | [개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate)](개척지의%20상흔%20야전%20흉갑%20—%20루시안%20루미너스의%20생존%20갑주%20%28Frontier%20Scar%20Breastplate%20—%20Lucian%20Luminous's%20Survival%20Plate%29.md) |
 | 거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon) | [거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon)](거수%20다곤의%20화석%20갑옷%20%28Fossilized%20Carapace%20of%20Dagon%29.md) |
 | 고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal) | [고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal)](고래뼈%20창갑%20빙정석%20판금%20갑주%20%28Whalespine%20Plate%20of%20the%20Glacial%20Crystal%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 활·석궁
 
-## 항목 (54)
+## 항목 (55)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -31,6 +31,7 @@
 | 벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus) | [벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus)](벤투스의%20고장력%20다면체%28Polyhedron%29%20장궁%20%28High-Tension%20Polyhedron%20Longbow%20of%20Ventus%29.md) |
 | 별빛 장궁 (Starlight Longbow) | [별빛 장궁 (Starlight Longbow)](별빛%20장궁%20%28Starlight%20Longbow%29.md) |
 | 생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen) | [생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen)](생명불사른%20야전%20저격궁%20—%20베클렌의%20사냥꾼%20활%20%28Blood-Burning%20Field%20Sniper%20Bow%20of%20Becklen%29.md) |
+| 생명을 태운 야전 저격궁 — 카르멘 나이트폴의 맹수 사냥 장궁 (Life-Fire Field Sniper Bow — Carmen Nightfall's Beast Hunter Longbow) | [생명을 태운 야전 저격궁 — 카르멘 나이트폴의 맹수 사냥 장궁 (Life-Fire Field Sniper Bow — Carmen Nightfall's Beast Hunter Longbow)](생명을%20태운%20야전%20저격궁%20—%20카르멘%20나이트폴의%20맹수%20사냥%20장궁%20%28Life-Fire%20Field%20Sniper%20Bow%20—%20Carmen%20Nightfall's%20Beast%20Hunter%20Longbow%29.md) |
 | 샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall) | [샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall)](샤를리아%20나이트폴의%20심연%20그림자%20활%20%28Abyssal%20Shadow%20Bow%20of%20Charlia%20Nightfall%29.md) |
 | 선스플리터 (Sunsplitter) | [선스플리터 (Sunsplitter)](선스플리터%20%28Sunsplitter%29.md) |
 | 세계수의 가지 (Branch of the World Tree) | [세계수의 가지 (Branch of the World Tree)](세계수의%20가지%20%28Branch%20of%20the%20World%20Tree%29.md) |

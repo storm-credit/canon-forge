@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (83)
+## 항목 (84)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -24,6 +24,7 @@
 | 개척지 야수 가죽 야전갑 '흉터의 갑주' (Pioneer Beast-Hide Field Armor, Armor of Scars) | [개척지 야수 가죽 야전갑 '흉터의 갑주' (Pioneer Beast-Hide Field Armor, Armor of Scars)](개척지%20야수%20가죽%20야전갑%20'흉터의%20갑주'%20%28Pioneer%20Beast-Hide%20Field%20Armor,%20Armor%20of%20Scars%29.md) |
 | 개척지 야수 가죽 흉갑 — 미하일 할로윈의 흉터 갑주 (Beast-Hide Field Cuirass of Mikhail Halloween — Armor of Scars) | [개척지 야수 가죽 흉갑 — 미하일 할로윈의 흉터 갑주 (Beast-Hide Field Cuirass of Mikhail Halloween — Armor of Scars)](개척지%20야수%20가죽%20흉갑%20—%20미하일%20할로윈의%20흉터%20갑주%20%28Beast-Hide%20Field%20Cuirass%20of%20Mikhail%20Halloween%20—%20Armor%20of%20Scars%29.md) |
 | 개척지 야수피 압착 흉갑 (Pioneer's Beast-Hide Compression Cuirass) | [개척지 야수피 압착 흉갑 (Pioneer's Beast-Hide Compression Cuirass)](개척지%20야수피%20압착%20흉갑%20%28Pioneer's%20Beast-Hide%20Compression%20Cuirass%29.md) |
+| 개척지 야전 생존자의 흉터 경갑 — 루시안 그레이슨의 흉터 (Frontier Scar Field Armor — Lucian Grayson's Scars) | [개척지 야전 생존자의 흉터 경갑 — 루시안 그레이슨의 흉터 (Frontier Scar Field Armor — Lucian Grayson's Scars)](개척지%20야전%20생존자의%20흉터%20경갑%20—%20루시안%20그레이슨의%20흉터%20%28Frontier%20Scar%20Field%20Armor%20—%20Lucian%20Grayson's%20Scars%29.md) |
 | 개척지 흉터 야전 가죽 외투 (Frontier-Scarred Field Leather Coat) | [개척지 흉터 야전 가죽 외투 (Frontier-Scarred Field Leather Coat)](개척지%20흉터%20야전%20가죽%20외투%20%28Frontier-Scarred%20Field%20Leather%20Coat%29.md) |
 | 개척지 흉터 야전 경갑 — 아이리스 그레이슨의 흉터 외투 (Frontier Scar Field Armor — Iris Grayson's Scarred Coat) | [개척지 흉터 야전 경갑 — 아이리스 그레이슨의 흉터 외투 (Frontier Scar Field Armor — Iris Grayson's Scarred Coat)](개척지%20흉터%20야전%20경갑%20—%20아이리스%20그레이슨의%20흉터%20외투%20%28Frontier%20Scar%20Field%20Armor%20—%20Iris%20Grayson's%20Scarred%20Coat%29.md) |
 | 개척지 흉터 전갑 (Silvia Halloween's Frontier Scar-Plate) | [개척지 흉터 전갑 (Silvia Halloween's Frontier Scar-Plate)](개척지%20흉터%20전갑%20%28Silvia%20Halloween's%20Frontier%20Scar-Plate%29.md) |

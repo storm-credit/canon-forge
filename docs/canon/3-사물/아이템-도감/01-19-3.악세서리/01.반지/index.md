@@ -6,7 +6,7 @@
 
 # 📚 반지
 
-## 항목 (57)
+## 항목 (58)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,7 @@
 | 12좌표의 파수꾼 인장 반지 (Twelve-Coordinate Signet of the Clockwork Warden) | [12좌표의 파수꾼 인장 반지 (Twelve-Coordinate Signet of the Clockwork Warden)](12좌표의%20파수꾼%20인장%20반지%20%28Twelve-Coordinate%20Signet%20of%20the%20Clockwork%20Warden%29.md) |
 | 감각 소각 억제 흑철 인장 반지 (Black Iron Signet of Sensory Burn Suppression) | [감각 소각 억제 흑철 인장 반지 (Black Iron Signet of Sensory Burn Suppression)](감각%20소각%20억제%20흑철%20인장%20반지%20%28Black%20Iron%20Signet%20of%20Sensory%20Burn%20Suppression%29.md) |
 | 검은 안개 함대 대함장 인장 반지 (Black Fog Fleet Admiral's Signet) | [검은 안개 함대 대함장 인장 반지 (Black Fog Fleet Admiral's Signet)](검은%20안개%20함대%20대함장%20인장%20반지%20%28Black%20Fog%20Fleet%20Admiral's%20Signet%29.md) |
+| 검은 잿빛의 맹세 인장반 — 코어스의 저주 결속반지 (Black-Ash Oath Signet Ring — Cores's Curse-Binding Ring) | [검은 잿빛의 맹세 인장반 — 코어스의 저주 결속반지 (Black-Ash Oath Signet Ring — Cores's Curse-Binding Ring)](검은%20잿빛의%20맹세%20인장반%20—%20코어스의%20저주%20결속반지%20%28Black-Ash%20Oath%20Signet%20Ring%20—%20Cores's%20Curse-Binding%20Ring%29.md) |
 | 고스트 만타레이 소환의 은빛 링 (Ghost Manta Ray Summoning Silver Ring) | [고스트 만타레이 소환의 은빛 링 (Ghost Manta Ray Summoning Silver Ring)](고스트%20만타레이%20소환의%20은빛%20링%20%28Ghost%20Manta%20Ray%20Summoning%20Silver%20Ring%29.md) |
 | 교수형 매듭 각인의 처형관 강철 반지 세트 (Gallows-Knot Engraved Inquisitor's Steel Ring Set) | [교수형 매듭 각인의 처형관 강철 반지 세트 (Gallows-Knot Engraved Inquisitor's Steel Ring Set)](교수형%20매듭%20각인의%20처형관%20강철%20반지%20세트%20%28Gallows-Knot%20Engraved%20Inquisitor's%20Steel%20Ring%20Set%29.md) |
 | 글래시아 기사단 단장 서약 인장 (Sworn Commander's Signet of House Glacia) | [글래시아 기사단 단장 서약 인장 (Sworn Commander's Signet of House Glacia)](글래시아%20기사단%20단장%20서약%20인장%20%28Sworn%20Commander's%20Signet%20of%20House%20Glacia%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 양손검
 
-## 항목 (90)
+## 항목 (92)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -83,9 +83,11 @@
 | 칠흑의 분쇄검 — 세리아 크로스의 심연 광석 분쇄검 (Obsidian Crusher — Seria Cross's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 세리아 크로스의 심연 광석 분쇄검 (Obsidian Crusher — Seria Cross's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20세리아%20크로스의%20심연%20광석%20분쇄검%20%28Obsidian%20Crusher%20—%20Seria%20Cross's%20Abyssal%20Ore%20Greatsword%29.md) |
 | 칠흑의 분쇄검 — 실비아 스텔라리스의 심연 광석 분쇄검 (Stellaris Abyssal Ore Crushing Greatsword) | [칠흑의 분쇄검 — 실비아 스텔라리스의 심연 광석 분쇄검 (Stellaris Abyssal Ore Crushing Greatsword)](칠흑의%20분쇄검%20—%20실비아%20스텔라리스의%20심연%20광석%20분쇄검%20%28Stellaris%20Abyssal%20Ore%20Crushing%20Greatsword%29.md) |
 | 칠흑의 분쇄검 — 실비아 코어스의 심연 광석 분쇄검 (Cores Abyssal Ore Crushing Greatsword) | [칠흑의 분쇄검 — 실비아 코어스의 심연 광석 분쇄검 (Cores Abyssal Ore Crushing Greatsword)](칠흑의%20분쇄검%20—%20실비아%20코어스의%20심연%20광석%20분쇄검%20%28Cores%20Abyssal%20Ore%20Crushing%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 아리엔 맥시무스의 심연 광석 분쇄검 (Ebony Crusher — Arien Maximus's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 아리엔 맥시무스의 심연 광석 분쇄검 (Ebony Crusher — Arien Maximus's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20아리엔%20맥시무스의%20심연%20광석%20분쇄검%20%28Ebony%20Crusher%20—%20Arien%20Maximus's%20Abyssal%20Ore%20Greatsword%29.md) |
 | 칠흑의 분쇄검 — 아리엔 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Arien Cross's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 아리엔 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Arien Cross's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20아리엔%20크로스의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Arien%20Cross's%20Abyssal%20Ore%20Crusher%29.md) |
 | 칠흑의 분쇄검 — 아이리스 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Grayson's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 아이리스 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Grayson's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20아이리스%20그레이슨의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Iris%20Grayson's%20Abyssal%20Ore%20Crusher%29.md) |
 | 칠흑의 분쇄검 — 아이리스 블랙스미스의 심연 광석검 (Ebony Crushing Greatsword of Iris Blacksmith) | [칠흑의 분쇄검 — 아이리스 블랙스미스의 심연 광석검 (Ebony Crushing Greatsword of Iris Blacksmith)](칠흑의%20분쇄검%20—%20아이리스%20블랙스미스의%20심연%20광석검%20%28Ebony%20Crushing%20Greatsword%20of%20Iris%20Blacksmith%29.md) |
+| 칠흑의 분쇄검 — 아이리스 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Cross's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 아이리스 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Cross's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20아이리스%20크로스의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Iris%20Cross's%20Abyssal%20Ore%20Crusher%29.md) |
 | 칠흑의 분쇄검 — 아이리스루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Iris Ruins) | [칠흑의 분쇄검 — 아이리스루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Iris Ruins)](칠흑의%20분쇄검%20—%20아이리스루인스의%20심연%20광석%20분쇄검%20%28Abyssal%20Ore%20Crushing%20Greatsword%20of%20Iris%20Ruins%29.md) |
 | 칠흑의 분쇄검 — 아테나 아르트리우스의 심연 광석 분쇄검 (Ebony Crusher — Athena Artorius's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 아테나 아르트리우스의 심연 광석 분쇄검 (Ebony Crusher — Athena Artorius's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20아테나%20아르트리우스의%20심연%20광석%20분쇄검%20%28Ebony%20Crusher%20—%20Athena%20Artorius's%20Abyssal%20Ore%20Greatsword%29.md) |
 | 칠흑의 분쇄검 — 에일린 그레이슨의 심연 광석 분쇄검 (Abyss-Ore Crushing Greatsword of Eileen Grayson) | [칠흑의 분쇄검 — 에일린 그레이슨의 심연 광석 분쇄검 (Abyss-Ore Crushing Greatsword of Eileen Grayson)](칠흑의%20분쇄검%20—%20에일린%20그레이슨의%20심연%20광석%20분쇄검%20%28Abyss-Ore%20Crushing%20Greatsword%20of%20Eileen%20Grayson%29.md) |
