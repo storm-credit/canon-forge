@@ -17,7 +17,7 @@
 | 항목 | 내용 |
 |------|------|
 | **분류** | 무기 — 투 핸드 해머 (Two-Handed Warhammer) |
-| **등급** | **전설급 (Legendary)** ⚡ |
+| **등급** |  **전설급 (Legendary)** 🟠 |
 | **가치** | 약 500만 골드 |
 | **현재 소유자** | **드라곤해머 브론즈피스트 (Dragonhammer Bronzefist)** |
 | **세력 귀속** | 딥 포지 왕국 (Deep Forge Kingdom) |
