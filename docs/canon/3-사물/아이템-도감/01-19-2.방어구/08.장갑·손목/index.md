@@ -6,7 +6,7 @@
 
 # 📚 장갑·손목
 
-## 항목 (66)
+## 항목 (67)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -71,6 +71,7 @@
 | 플럭스 역류 봉인 붕대 (Flux-Backflow Sealing Bandages) | [플럭스 역류 봉인 붕대 (Flux-Backflow Sealing Bandages)](플럭스%20역류%20봉인%20붕대%20%28Flux-Backflow%20Sealing%20Bandages%29.md) |
 | 학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain) | [학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain)](학살자의%20사슬%20건틀릿%20%28Gauntlet%20of%20the%20Slaughterer's%20Chain%29.md) |
 | 허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets) | [허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets)](허공%20좌표%20수식%20각인%20건틀릿%20%28Void-Coordinate%20Formula%20Tracing%20Gauntlets%29.md) |
+| 혈식 반동 압박 팔 감개 — 가웨인 에스더의 검혈 완갑 (Blood-Burst Recoil Wraps — Gawain Esther's Swordblood Vambraces) | [혈식 반동 압박 팔 감개 — 가웨인 에스더의 검혈 완갑 (Blood-Burst Recoil Wraps — Gawain Esther's Swordblood Vambraces)](혈식%20반동%20압박%20팔%20감개%20—%20가웨인%20에스더의%20검혈%20완갑%20%28Blood-Burst%20Recoil%20Wraps%20—%20Gawain%20Esther's%20Swordblood%20Vambraces%29.md) |
 | 혈흔 침윤 귀족 강철 건틀릿 (Bloodstained Aristocratic Steel Gauntlets) | [혈흔 침윤 귀족 강철 건틀릿 (Bloodstained Aristocratic Steel Gauntlets)](혈흔%20침윤%20귀족%20강철%20건틀릿%20%28Bloodstained%20Aristocratic%20Steel%20Gauntlets%29.md) |
 | 화상 각선 붕대 (Burn-Lash Bandage Wraps) | [화상 각선 붕대 (Burn-Lash Bandage Wraps)](화상%20각선%20붕대%20%28Burn-Lash%20Bandage%20Wraps%29.md) |
 | 화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm) | [화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm)](화약%20가스%20강제%20주입형%20기계%20의수%20%28Powder-Gas%20Force-Injection%20Mechanical%20Prosthetic%20Arm%29.md) |

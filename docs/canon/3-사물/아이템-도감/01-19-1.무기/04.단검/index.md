@@ -6,10 +6,11 @@
 
 # 📚 단검
 
-## 항목 (138)
+## 항목 (139)
 
 | 아이템 | 링크 |
 |--------|------|
+| 개척지 야전 그림자 단검 '침묵의 궤적' (Field Shadow Dagger 'Trajectory of Silence') | [개척지 야전 그림자 단검 '침묵의 궤적' (Field Shadow Dagger 'Trajectory of Silence')](개척지%20야전%20그림자%20단검%20'침묵의%20궤적'%20%28Field%20Shadow%20Dagger%20'Trajectory%20of%20Silence'%29.md) |
 | 검은 문의 봉인 열쇠검 (Blackgate's Seal Key Blade) | [검은 문의 봉인 열쇠검 (Blackgate's Seal Key Blade)](검은%20문의%20봉인%20열쇠검%20%28Blackgate's%20Seal%20Key%20Blade%29.md) |
 | 게일 포스 (Gale Force) | [게일 포스 (Gale Force)](게일%20포스%20%28Gale%20Force%29.md) |
 | 계산자의 단검 (Calculator's Dagger) | [계산자의 단검 (Calculator's Dagger)](계산자의%20단검%20%28Calculator's%20Dagger%29.md) |

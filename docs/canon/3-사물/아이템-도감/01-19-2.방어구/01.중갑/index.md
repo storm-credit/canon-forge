@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (72)
+## 항목 (73)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -46,6 +46,7 @@
 | 순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr) | [순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr)](순교자의%20황금형벌%20갑주%20%28Golden-Penance%20Armor%20of%20the%20Martyr%29.md) |
 | 순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim) | [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](순례자의%20은청색%20사자%20중갑%20%28Silver-blue%20Lion%20Plate%20of%20Pilgrim%29.md) |
 | 스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss) | [스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss)](스스로%20입은%20심연의%20갑주%20%28Self-Worn%20Carapace%20of%20the%20Abyss%29.md) |
+| 심연 상흔의 야전 흉갑 — 스텔라리스의 개척지 갑주 (Stellaris Frontier Field Breastplate of Abyssal Scars) | [심연 상흔의 야전 흉갑 — 스텔라리스의 개척지 갑주 (Stellaris Frontier Field Breastplate of Abyssal Scars)](심연%20상흔의%20야전%20흉갑%20—%20스텔라리스의%20개척지%20갑주%20%28Stellaris%20Frontier%20Field%20Breastplate%20of%20Abyssal%20Scars%29.md) |
 | 심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide') | [심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide')](심연강%20전신%20중갑%20'강철의%20파도'%20%28Abyss%20Steel%20Full%20Plate%20'Iron%20Tide'%29.md) |
 | 심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate) | [심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate)](심해압%20견딤식%20은염강%20판금갑수%20%28Abyssal-Pressure%20Silver-Salt%20Plate%29.md) |
 | 암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor) | [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](암석%20비늘%20철벽%20대갑주%20%28Stonescale%20Ironwall%20Greatarmor%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 활·석궁
 
-## 항목 (53)
+## 항목 (54)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -25,6 +25,7 @@
 | 루미나의 빛을 세공한 롱보우 | [루미나의 빛을 세공한 롱보우](루미나의빛을세공한롱보우.md) |
 | 리듬 보우 (Rhythm Bow) | [리듬 보우 (Rhythm Bow)](리듬%20보우%20%28Rhythm%20Bow%29.md) |
 | 망자의 척추뼈 어둠 압축 화살통 (Undead Spine-Bone Dark-Compression Quiver) | [망자의 척추뼈 어둠 압축 화살통 (Undead Spine-Bone Dark-Compression Quiver)](망자의%20척추뼈%20어둠%20압축%20화살통%20%28Undead%20Spine-Bone%20Dark-Compression%20Quiver%29.md) |
+| 맹수 사냥꾼의 아케인 마나 장궁 '거수의 시선' (Arcane Mana Longbow of the Beast Hunter — Eye of the Great Beast) | [맹수 사냥꾼의 아케인 마나 장궁 '거수의 시선' (Arcane Mana Longbow of the Beast Hunter — Eye of the Great Beast)](맹수%20사냥꾼의%20아케인%20마나%20장궁%20'거수의%20시선'%20%28Arcane%20Mana%20Longbow%20of%20the%20Beast%20Hunter%20—%20Eye%20of%20the%20Great%20Beast%29.md) |
 | 바람을 가르는 사냥궁 (Wind Piercer) | [바람을 가르는 사냥궁 (Wind Piercer)](바람을%20가르는%20사냥궁%20%28Wind%20Piercer%29.md) |
 | 바람의 속삭임 (Whispering Wind) | [바람의 속삭임 (Whispering Wind)](바람의%20속삭임%20%28Whispering%20Wind%29.md) |
 | 벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus) | [벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus)](벤투스의%20고장력%20다면체%28Polyhedron%29%20장궁%20%28High-Tension%20Polyhedron%20Longbow%20of%20Ventus%29.md) |

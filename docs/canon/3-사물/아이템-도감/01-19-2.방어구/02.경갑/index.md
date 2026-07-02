@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (81)
+## 항목 (83)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -65,6 +65,7 @@
 | 야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt) | [야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt)](야수%20혈가죽%20전투%20치마%20%28Beast-Blood%20Leather%20Battle%20Skirt%29.md) |
 | 야수결속의 개척지 야전 경갑 '팔콘의 흉터 갑주' (Falcon's Scarred Field Armor of the Beastbound) | [야수결속의 개척지 야전 경갑 '팔콘의 흉터 갑주' (Falcon's Scarred Field Armor of the Beastbound)](야수결속의%20개척지%20야전%20경갑%20'팔콘의%20흉터%20갑주'%20%28Falcon's%20Scarred%20Field%20Armor%20of%20the%20Beastbound%29.md) |
 | 야수혈 섀도 그레이브 — 세리아 에스더의 개척지 야전 경갑 (Beastblood Shadow Grave — Seria Esther's Frontier Field Leather Armor) | [야수혈 섀도 그레이브 — 세리아 에스더의 개척지 야전 경갑 (Beastblood Shadow Grave — Seria Esther's Frontier Field Leather Armor)](야수혈%20섀도%20그레이브%20—%20세리아%20에스더의%20개척지%20야전%20경갑%20%28Beastblood%20Shadow%20Grave%20—%20Seria%20Esther's%20Frontier%20Field%20Leather%20Armor%29.md) |
+| 야수혈 암살자의 그림자 외투 — 세리아 실버문의 개척지 야전 경갑 (Beastblood Assassin's Shadow Coat — Seria Silvermoon's Frontier Field Armor) | [야수혈 암살자의 그림자 외투 — 세리아 실버문의 개척지 야전 경갑 (Beastblood Assassin's Shadow Coat — Seria Silvermoon's Frontier Field Armor)](야수혈%20암살자의%20그림자%20외투%20—%20세리아%20실버문의%20개척지%20야전%20경갑%20%28Beastblood%20Assassin's%20Shadow%20Coat%20—%20Seria%20Silvermoon's%20Frontier%20Field%20Armor%29.md) |
 | 에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate) | [에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate)](에메랄드%20백금%20비행%20하프-코르셋%20갑주%20%28Emerald-Platinum%20Aerial%20Half-Corset%20Plate%29.md) |
 | 에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit) | [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](에테리움%20강화%20가죽%20비행%20수트%20%28Ether-Reinforced%20Leather%20Flight%20Suit%29.md) |
 | 열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat) | [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](열을%20삼키는%20코어%28Core%29%20흡수%20백곰%20가죽%20%28Core-Absorbing%20White-Bear%20Hide%20that%20Devours%20Heat%29.md) |
@@ -74,6 +75,7 @@
 | 잿빛 짐승 흉갑 — 아이리스루인스의 야전 경갑 (Ash-Beast Brigandine of Iris Ruins) | [잿빛 짐승 흉갑 — 아이리스루인스의 야전 경갑 (Ash-Beast Brigandine of Iris Ruins)](잿빛%20짐승%20흉갑%20—%20아이리스루인스의%20야전%20경갑%20%28Ash-Beast%20Brigandine%20of%20Iris%20Ruins%29.md) |
 | 절연 뇌격 전투복 (Insulated Thunder Combat Suit) | [절연 뇌격 전투복 (Insulated Thunder Combat Suit)](절연%20뇌격%20전투복%20%28Insulated%20Thunder%20Combat%20Suit%29.md) |
 | 정신 오염 방벽 가죽 코트 (Mental-Aegis Trench Coat) | [정신 오염 방벽 가죽 코트 (Mental-Aegis Trench Coat)](정신%20오염%20방벽%20가죽%20코트%20%28Mental-Aegis%20Trench%20Coat%29.md) |
+| 제피로스 대상단의 거친 심연 가죽 야전갑 (Zephyrus Syndicate's Crude Abyssal-Leather Field Wargear) | [제피로스 대상단의 거친 심연 가죽 야전갑 (Zephyrus Syndicate's Crude Abyssal-Leather Field Wargear)](제피로스%20대상단의%20거친%20심연%20가죽%20야전갑%20%28Zephyrus%20Syndicate's%20Crude%20Abyssal-Leather%20Field%20Wargear%29.md) |
 | 지저 벌레의 케블라 분비물 가죽 (Kevlar-Silk Hide of the Under-Worm) | [지저 벌레의 케블라 분비물 가죽 (Kevlar-Silk Hide of the Under-Worm)](지저%20벌레의%20케블라%20분비물%20가죽%20%28Kevlar-Silk%20Hide%20of%20the%20Under-Worm%29.md) |
 | 천공의 날개깃 경갑 (Light-Armor of the Zenith Wing-Feather) | [천공의 날개깃 경갑 (Light-Armor of the Zenith Wing-Feather)](천공의%20날개깃%20경갑%20%28Light-Armor%20of%20the%20Zenith%20Wing-Feather%29.md) |
 | 천둥새의 가죽 요대 (Leather Girdle of the Thunderbird) | [천둥새의 가죽 요대 (Leather Girdle of the Thunderbird)](천둥새의%20가죽%20요대%20%28Leather%20Girdle%20of%20the%20Thunderbird%29.md) |

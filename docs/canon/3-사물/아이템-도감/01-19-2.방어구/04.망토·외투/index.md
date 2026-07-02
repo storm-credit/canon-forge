@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (73)
+## 항목 (74)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -63,6 +63,7 @@
 | 재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano) | [재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano)](재앙이%20깃든%20화산의%20망토%20%28Cloak%20of%20the%20Calamitous%20Volcano%29.md) |
 | 저주에 타버린 은빛 유랑 망토 (Curse-Charred Silver Wanderer's Cloak) | [저주에 타버린 은빛 유랑 망토 (Curse-Charred Silver Wanderer's Cloak)](저주에%20타버린%20은빛%20유랑%20망토%20%28Curse-Charred%20Silver%20Wanderer's%20Cloak%29.md) |
 | 절연된 참모의 망토 (Insulated Cloak of the Staff) | [절연된 참모의 망토 (Insulated Cloak of the Staff)](절연된%20참모의%20망토%20%28Insulated%20Cloak%20of%20the%20Staff%29.md) |
+| 제피로스 흑회 여행 망토 — 가웨인 에스더의 바람길 외투 (Zephyrus Ash-Black Travel Cloak — Gawain Esther's Wind-Road Mantle) | [제피로스 흑회 여행 망토 — 가웨인 에스더의 바람길 외투 (Zephyrus Ash-Black Travel Cloak — Gawain Esther's Wind-Road Mantle)](제피로스%20흑회%20여행%20망토%20—%20가웨인%20에스더의%20바람길%20외투%20%28Zephyrus%20Ash-Black%20Travel%20Cloak%20—%20Gawain%20Esther's%20Wind-Road%20Mantle%29.md) |
 | 지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe) | [지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe)](지맥%20황제의%20착좌%20흑요%20장포%20%28Leyline%20Emperor's%20Seated%20Obsidian%20Robe%29.md) |
 | 창백한 밤성운의 베일 (Veil of the Pale Nebula) | [창백한 밤성운의 베일 (Veil of the Pale Nebula)](창백한%20밤성운의%20베일%20%28Veil%20of%20the%20Pale%20Nebula%29.md) |
 | 칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat) | [칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat)](칠흑%20까마귀%20깃털%20장의사%20롱코트%20%28Corvid%20Undertaker's%20Longcoat%29.md) |

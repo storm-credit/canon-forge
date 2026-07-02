@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (170)
+## 항목 (171)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -131,6 +131,7 @@
 | 자체 발화를 견디는 절연 붕대와 석면 망토 (Asbestos Cloak & Insulation Bandages) | [자체 발화를 견디는 절연 붕대와 석면 망토 (Asbestos Cloak & Insulation Bandages)](자체%20발화를%20견디는%20절연%20붕대와%20석면%20망토%20%28Asbestos%20Cloak%20&%20Insulation%20Bandages%29.md) |
 | 잔상의 연기 비늘 가운 (Afterimage Smoke-Scale Gown) | [잔상의 연기 비늘 가운 (Afterimage Smoke-Scale Gown)](잔상의%20연기%20비늘%20가운%20%28Afterimage%20Smoke-Scale%20Gown%29.md) |
 | 잠 못 드는 수의 (Sleepless Shroud) | [잠 못 드는 수의 (Sleepless Shroud)](잠%20못%20드는%20수의%20%28Sleepless%20Shroud%29.md) |
+| 잿빛 개척지 환술사의 야전 로브 (Ash-Frontier Illusionist's Field Robe) | [잿빛 개척지 환술사의 야전 로브 (Ash-Frontier Illusionist's Field Robe)](잿빛%20개척지%20환술사의%20야전%20로브%20%28Ash-Frontier%20Illusionist's%20Field%20Robe%29.md) |
 | 잿빛 현자의 무한 서찰 로브 (Ash-Gray Sage Robe of Infinite Dispatches) | [잿빛 현자의 무한 서찰 로브 (Ash-Gray Sage Robe of Infinite Dispatches)](잿빛%20현자의%20무한%20서찰%20로브%20%28Ash-Gray%20Sage%20Robe%20of%20Infinite%20Dispatches%29.md) |
 | 저주받은 선장의 룬 코트 (Cursed Captain's Rune-Coat) | [저주받은 선장의 룬 코트 (Cursed Captain's Rune-Coat)](저주받은%20선장의%20룬%20코트%20%28Cursed%20Captain's%20Rune-Coat%29.md) |
 | 적열의 마그마 로브 (Red-Hot Magma Robe) | [적열의 마그마 로브 (Red-Hot Magma Robe)](적열의%20마그마%20로브%20%28Red-Hot%20Magma%20Robe%29.md) |
