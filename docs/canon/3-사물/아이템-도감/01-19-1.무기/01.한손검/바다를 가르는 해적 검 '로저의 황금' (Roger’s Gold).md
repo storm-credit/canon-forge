@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 바다를 가르는 해적 검 '로저의 황금' (Roger’s Gold)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/01.한손검/바다를 가르는 해적 검 '로저의 황금' (Roger’s Gold).md"

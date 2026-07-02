@@ -1,7 +1,7 @@
 ---
 정본명: 장갑 (Gauntlets)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/12. 장갑 (Gauntlets)/12. 장갑 (Gauntlets).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/장갑/장갑.md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 

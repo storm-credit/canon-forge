@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06.단검/움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra).md"

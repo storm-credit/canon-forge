@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 타르곤 스톰브링어의 낙하 단검 (Falling Blade of 타르곤 스톰브링어)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06.단검/타르곤 스톰브링어의 낙하 단검 (Falling Blade of 타르곤 스톰브링어).md"

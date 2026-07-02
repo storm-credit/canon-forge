@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 조타석 일체형 조타륜 '팬텀 휠' (Phantom Wheel Device)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/16.특수·마도구·기타/조타석 일체형 조타륜 '팬텀 휠' (Phantom Wheel Device).md"

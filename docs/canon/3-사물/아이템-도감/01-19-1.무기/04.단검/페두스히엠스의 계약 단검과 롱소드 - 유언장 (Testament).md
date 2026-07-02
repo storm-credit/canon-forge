@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 페두스히엠스의 계약 단검과 롱소드 - 유언장 (Testament)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06.단검/페두스히엠스의 계약 단검과 롱소드 - 유언장 (Testament).md"

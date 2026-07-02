@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/06.단검/환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger).md"

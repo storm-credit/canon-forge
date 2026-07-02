@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 망각의 티어드롭 (Tear-drop of Oblivion)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-4. 유물 (Relics)/04. 영웅 고유 성유물 (Hero Exclusive)/망각의 티어드롭 (Tear-drop of Oblivion).md"

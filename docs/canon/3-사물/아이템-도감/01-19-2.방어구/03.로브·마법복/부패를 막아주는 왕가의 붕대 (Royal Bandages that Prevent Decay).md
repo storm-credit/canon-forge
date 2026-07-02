@@ -1,4 +1,4 @@
-﻿---
+---
 정본명: 부패를 막아주는 왕가의 붕대 (Royal Bandages that Prevent Decay)
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/06.마법복/부패를 막아주는 왕가의 붕대 (Royal Bandages that Prevent Decay).md"
