@@ -6,7 +6,7 @@
 
 # 📚 특수마도구·마력핵
 
-## 항목 (145)
+## 항목 (150)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -24,8 +24,10 @@
 | 공간 잔상 블랙박스 (Spatial Afterimage Blackbox) | [공간 잔상 블랙박스 (Spatial Afterimage Blackbox)](공간%20잔상%20블랙박스%20%28Spatial%20Afterimage%20Blackbox%29.md) |
 | 공리주의적 족쇄 — 마나 데미지 동기화 쇠사슬 (Utilitarian Shackle Chain of Mana-Damage Synchronization) | [공리주의적 족쇄 — 마나 데미지 동기화 쇠사슬 (Utilitarian Shackle Chain of Mana-Damage Synchronization)](공리주의적%20족쇄%20—%20마나%20데미지%20동기화%20쇠사슬%20%28Utilitarian%20Shackle%20Chain%20of%20Mana-Damage%20Synchronization%29.md) |
 | 공포를 마시는 영혼의 오르골 (Music Box of the Fear-Drinking Soul) | [공포를 마시는 영혼의 오르골 (Music Box of the Fear-Drinking Soul)](공포를%20마시는%20영혼의%20오르골%20%28Music%20Box%20of%20the%20Fear-Drinking%20Soul%29.md) |
+| 광학 반사 홀로그램 거울 파편 릴레이 세트 (Optical Reflection Hologram Mirror-Shard Relay Set) | [광학 반사 홀로그램 거울 파편 릴레이 세트 (Optical Reflection Hologram Mirror-Shard Relay Set)](광학%20반사%20홀로그램%20거울%20파편%20릴레이%20세트%20%28Optical%20Reflection%20Hologram%20Mirror-Shard%20Relay%20Set%29.md) |
 | 굴절 저격 마석 세트 (Pinball Ricochet Relay Stones) | [굴절 저격 마석 세트 (Pinball Ricochet Relay Stones)](굴절%20저격%20마석%20세트%20%28Pinball%20Ricochet%20Relay%20Stones%29.md) |
 | 기압 맥류 관측 마도 청진기 (Atmospheric Pulse Divination Stethoscope) | [기압 맥류 관측 마도 청진기 (Atmospheric Pulse Divination Stethoscope)](기압%20맥류%20관측%20마도%20청진기%20%28Atmospheric%20Pulse%20Divination%20Stethoscope%29.md) |
+| 기압 압착 진공 챔버 다이얼 (Vacuum Chamber Compression Dial) | [기압 압착 진공 챔버 다이얼 (Vacuum Chamber Compression Dial)](기압%20압착%20진공%20챔버%20다이얼%20%28Vacuum%20Chamber%20Compression%20Dial%29.md) |
 | 깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask) | [깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask)](깨지지%20않는%20영하의%20플라스크%20%28Unbreakable%20Below-Zero%20Flask%29.md) |
 | 꺼지지 않는 비탄의 불씨 (Undying Ember of Lament) | [꺼지지 않는 비탄의 불씨 (Undying Ember of Lament)](꺼지지%20않는%20비탄의%20불씨%20%28Undying%20Ember%20of%20Lament%29.md) |
 | 꺼지지 않는 지핵의 점화 플러그 (Spark-Plug of the Unquenchable Core) | [꺼지지 않는 지핵의 점화 플러그 (Spark-Plug of the Unquenchable Core)](꺼지지%20않는%20지핵의%20점화%20플러그%20%28Spark-Plug%20of%20the%20Unquenchable%20Core%29.md) |
@@ -78,6 +80,7 @@
 | 불면 처방 키트 — 연산 촉진제와 수면 유도 진정제 (Insomnia Prescription Kit — Cognitive Stimulant and Sleep-Induction Sedative) | [불면 처방 키트 — 연산 촉진제와 수면 유도 진정제 (Insomnia Prescription Kit — Cognitive Stimulant and Sleep-Induction Sedative)](불면%20처방%20키트%20—%20연산%20촉진제와%20수면%20유도%20진정제%20%28Insomnia%20Prescription%20Kit%20—%20Cognitive%20Stimulant%20and%20Sleep-Induction%20Sedative%29.md) |
 | 불면의 뇌수 회중시계 (Sleepless Brain's Pocket Watch) | [불면의 뇌수 회중시계 (Sleepless Brain's Pocket Watch)](불면의%20뇌수%20회중시계%20%28Sleepless%20Brain's%20Pocket%20Watch%29.md) |
 | 상업 연금술 전투 은화 '아르젠 코인' (Argen Combat Coins of Commercial Alchemy) | [상업 연금술 전투 은화 '아르젠 코인' (Argen Combat Coins of Commercial Alchemy)](상업%20연금술%20전투%20은화%20'아르젠%20코인'%20%28Argen%20Combat%20Coins%20of%20Commercial%20Alchemy%29.md) |
+| 색약성 리트머스 종이 전보 (Litmus Color-Code Scroll) | [색약성 리트머스 종이 전보 (Litmus Color-Code Scroll)](색약성%20리트머스%20종이%20전보%20%28Litmus%20Color-Code%20Scroll%29.md) |
 | 성흔 봉인 붕대 (Stigmata Sealing Bandage) | [성흔 봉인 붕대 (Stigmata Sealing Bandage)](성흔%20봉인%20붕대%20%28Stigmata%20Sealing%20Bandage%29.md) |
 | 속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission) | [속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission)](속삭임의%20막간%20흑색%20부채%20%28Black%20Fan%20of%20the%20Whispering%20Intermission%29.md) |
 | 수방식 심해 고래 공명파 전달석 (Whale-Sonar Resonance Stone) | [수방식 심해 고래 공명파 전달석 (Whale-Sonar Resonance Stone)](수방식%20심해%20고래%20공명파%20전달석%20%28Whale-Sonar%20Resonance%20Stone%29.md) |
@@ -92,6 +95,7 @@
 | 암반 진동 전술석 (Bedrock-Vibration Tactical Stone) | [암반 진동 전술석 (Bedrock-Vibration Tactical Stone)](암반%20진동%20전술석%20%28Bedrock-Vibration%20Tactical%20Stone%29.md) |
 | 암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle) | [암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle)](암흑%20서명%20암호%20스크롤%20다발%20%28Shadowcode%20Cipher-Scroll%20Bundle%29.md) |
 | 암흑 파장 거울 파편 (Dark-Wave Mirror Shard) | [암흑 파장 거울 파편 (Dark-Wave Mirror Shard)](암흑%20파장%20거울%20파편%20%28Dark-Wave%20Mirror%20Shard%29.md) |
+| 압축 포자 분사 로켓 보드 (Spore-Jet Rocket Board) | [압축 포자 분사 로켓 보드 (Spore-Jet Rocket Board)](압축%20포자%20분사%20로켓%20보드%20%28Spore-Jet%20Rocket%20Board%29.md) |
 | 야수 혈마 전이 주사침 다발 (Beast Blood-Mana Transfer Injection Needles) | [야수 혈마 전이 주사침 다발 (Beast Blood-Mana Transfer Injection Needles)](야수%20혈마%20전이%20주사침%20다발%20%28Beast%20Blood-Mana%20Transfer%20Injection%20Needles%29.md) |
 | 야수용 핏물 육포 허리 주머니 (Blood-Drip Beast Jerky Belt Pouch) | [야수용 핏물 육포 허리 주머니 (Blood-Drip Beast Jerky Belt Pouch)](야수용%20핏물%20육포%20허리%20주머니%20%28Blood-Drip%20Beast%20Jerky%20Belt%20Pouch%29.md) |
 | 양자 얽힘성 날씨 일기도 (Quantum Weather-Map Chart) | [양자 얽힘성 날씨 일기도 (Quantum Weather-Map Chart)](양자%20얽힘성%20날씨%20일기도%20%28Quantum%20Weather-Map%20Chart%29.md) |
@@ -100,6 +104,7 @@
 | 어둠골 룬 스파이더즈 먹이 잉크 결속 펜 (Dark Hollow Rune Spider Ink-Bond Quill) | [어둠골 룬 스파이더즈 먹이 잉크 결속 펜 (Dark Hollow Rune Spider Ink-Bond Quill)](어둠골%20룬%20스파이더즈%20먹이%20잉크%20결속%20펜%20%28Dark%20Hollow%20Rune%20Spider%20Ink-Bond%20Quill%29.md) |
 | 어음 송신 마도 문서함 (Bill-Transfer Arcane Dispatch Case) | [어음 송신 마도 문서함 (Bill-Transfer Arcane Dispatch Case)](어음%20송신%20마도%20문서함%20%28Bill-Transfer%20Arcane%20Dispatch%20Case%29.md) |
 | 언데드 까마귀 시각망 조율 수정 (Undead Crow Vision-Net Synchronization Crystal) | [언데드 까마귀 시각망 조율 수정 (Undead Crow Vision-Net Synchronization Crystal)](언데드%20까마귀%20시각망%20조율%20수정%20%28Undead%20Crow%20Vision-Net%20Synchronization%20Crystal%29.md) |
+| 에테르 진정제 마석 점적 수액 장치 (Ether-Sedative Manastone Intravenous Drip Device) | [에테르 진정제 마석 점적 수액 장치 (Ether-Sedative Manastone Intravenous Drip Device)](에테르%20진정제%20마석%20점적%20수액%20장치%20%28Ether-Sedative%20Manastone%20Intravenous%20Drip%20Device%29.md) |
 | 에테리움 산소통 '하늘의 숨' (Ether-Breather Canister) | [에테리움 산소통 '하늘의 숨' (Ether-Breather Canister)](에테리움%20산소통%20'하늘의%20숨'%20%28Ether-Breather%20Canister%29.md) |
 | 역속박 전투 완박대 (Reverse-Bind Combat Arm Strap) | [역속박 전투 완박대 (Reverse-Bind Combat Arm Strap)](역속박%20전투%20완박대%20%28Reverse-Bind%20Combat%20Arm%20Strap%29.md) |
 | 연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation) | [연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation)](연산의%20은제%20회중시계%20%28Silver%20Pocket%20Watch%20of%20Probability%20Calculation%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 머리장식
 
-## 항목 (33)
+## 항목 (34)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -26,6 +26,7 @@
 | 성채의 티아라 (Tiara of Acropolis) | [성채의 티아라 (Tiara of Acropolis)](성채의%20티아라%20%28Tiara%20of%20Acropolis%29.md) |
 | 세린의 은테 안경 (Silver-Rimmed Spectacles of Serin) | [세린의 은테 안경 (Silver-Rimmed Spectacles of Serin)](세린의%20은테%20안경%20%28Silver-Rimmed%20Spectacles%20of%20Serin%29.md) |
 | 실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty) | [실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty)](실바나리스%20녹엽%20군주관%20%28Sylvanaris%20Crown%20of%20Verdant%20Sovereignty%29.md) |
+| 심연 사념 차폐 안대 — 소음 봉인의 은막 (Abyssal Thought-Shield Blindfold — Silver Veil of Noise Seal) | [심연 사념 차폐 안대 — 소음 봉인의 은막 (Abyssal Thought-Shield Blindfold — Silver Veil of Noise Seal)](심연%20사념%20차폐%20안대%20—%20소음%20봉인의%20은막%20%28Abyssal%20Thought-Shield%20Blindfold%20—%20Silver%20Veil%20of%20Noise%20Seal%29.md) |
 | 아르카디아 황실 제국관 (Crown of the Arcadia Empire) | [아르카디아 황실 제국관 (Crown of the Arcadia Empire)](아르카디아%20황실%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md) |
 | 운명 감시석 베릴 (Beryl Watchstone of Destiny) | [운명 감시석 베릴 (Beryl Watchstone of Destiny)](운명%20감시석%20베릴%20%28Beryl%20Watchstone%20of%20Destiny%29.md) |
 | 월식의 은가루 비녀 (Silver-Dust Hairpin of Lunar Eclipse) | [월식의 은가루 비녀 (Silver-Dust Hairpin of Lunar Eclipse)](월식의%20은가루%20비녀%20%28Silver-Dust%20Hairpin%20of%20Lunar%20Eclipse%29.md) |

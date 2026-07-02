@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (281)
+## 항목 (282)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -135,6 +135,7 @@
 | 심연 도그마 스크롤 탄창 다발 (Abyssal-Dogma Scroll Bandolier) | [심연 도그마 스크롤 탄창 다발 (Abyssal-Dogma Scroll Bandolier)](심연%20도그마%20스크롤%20탄창%20다발%20%28Abyssal-Dogma%20Scroll%20Bandolier%29.md) |
 | 심연 봉인의 가시 쇠사슬 (Abyss-Seal Spiked Iron Chains) | [심연 봉인의 가시 쇠사슬 (Abyss-Seal Spiked Iron Chains)](심연%20봉인의%20가시%20쇠사슬%20%28Abyss-Seal%20Spiked%20Iron%20Chains%29.md) |
 | 심연 안개 허상 인형 정착 마석 (Abyssal Fog Phantom Doll Anchoring Mana Stone) | [심연 안개 허상 인형 정착 마석 (Abyssal Fog Phantom Doll Anchoring Mana Stone)](심연%20안개%20허상%20인형%20정착%20마석%20%28Abyssal%20Fog%20Phantom%20Doll%20Anchoring%20Mana%20Stone%29.md) |
+| 심연 저체온 저주 말뚝 '한기의 영역' (Abyssal Hypothermia Curse Spike 'Domain of Frost') | [심연 저체온 저주 말뚝 '한기의 영역' (Abyssal Hypothermia Curse Spike 'Domain of Frost')](심연%20저체온%20저주%20말뚝%20'한기의%20영역'%20%28Abyssal%20Hypothermia%20Curse%20Spike%20'Domain%20of%20Frost'%29.md) |
 | 심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control) | [심연 통제의 오라클 매트릭스 (Oracle Matrix of Abyssal Control)](심연%20통제의%20오라클%20매트릭스%20%28Oracle%20Matrix%20of%20Abyssal%20Control%29.md) |
 | 심연의 닻 (Abyssal Anchor) | [심연의 닻 (Abyssal Anchor)](심연의%20닻%20%28Abyssal%20Anchor%29.md) |
 | 심연의 류트(Lute of the Abyss) | [심연의 류트(Lute of the Abyss)](심연의%20류트%28Lute%20of%20the%20Abyss%29.md) |

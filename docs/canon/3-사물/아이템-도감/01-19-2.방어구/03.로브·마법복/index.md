@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (169)
+## 항목 (170)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,7 @@
 | 강제 분할파의 균등 코트 (Equal Coat of the Dividing Wave) | [강제 분할파의 균등 코트 (Equal Coat of the Dividing Wave)](강제%20분할파의%20균등%20코트%20%28Equal%20Coat%20of%20the%20Dividing%20Wave%29.md) |
 | 강철 뿔매머드 전신 튜닉 (Tunic of the Steel Horn-Mammoth) | [강철 뿔매머드 전신 튜닉 (Tunic of the Steel Horn-Mammoth)](강철%20뿔매머드%20전신%20튜닉%20%28Tunic%20of%20the%20Steel%20Horn-Mammoth%29.md) |
 | 검은 산호 가시 고딕 크리놀린 드레스 (Gothic Thorn-Coral Crinoline Dress) | [검은 산호 가시 고딕 크리놀린 드레스 (Gothic Thorn-Coral Crinoline Dress)](검은%20산호%20가시%20고딕%20크리놀린%20드레스%20%28Gothic%20Thorn-Coral%20Crinoline%20Dress%29.md) |
+| 검은재 가문 강령의 지맥 부식 흑색 로브 (House Black-Ash Necromantic Leyline Corrosion Black Robe) | [검은재 가문 강령의 지맥 부식 흑색 로브 (House Black-Ash Necromantic Leyline Corrosion Black Robe)](검은재%20가문%20강령의%20지맥%20부식%20흑색%20로브%20%28House%20Black-Ash%20Necromantic%20Leyline%20Corrosion%20Black%20Robe%29.md) |
 | 공허 실크의 드레스 (Dress of Void Silk) | [공허 실크의 드레스 (Dress of Void Silk)](공허%20실크의%20드레스%20%28Dress%20of%20Void%20Silk%29.md) |
 | 광자 거울 튜닉 (Photon Mirror Tunic) | [광자 거울 튜닉 (Photon Mirror Tunic)](광자%20거울%20튜닉%20%28Photon%20Mirror%20Tunic%29.md) |
 | 광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon) | [광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon)](광학%20반사경%20미라주%20고치%20%28Optical%20Reflector%20Mirage%20Cocoon%29.md) |

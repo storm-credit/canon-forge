@@ -6,7 +6,7 @@
 
 # 📚 부적
 
-## 항목 (69)
+## 항목 (71)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -31,6 +31,7 @@
 | 루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain) | [루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain)](루거의%20최초%20복종%20목줄%20—%20녹슨%20파열%20가시%20쇠사슬%20%28Luger's%20First%20Submission%20Collar%20—%20Rusted%20Spike-Burst%20Iron%20Chain%29.md) |
 | 메디시스 가문의 혈인 봉인 (Bloodseal of House Medicis) | [메디시스 가문의 혈인 봉인 (Bloodseal of House Medicis)](메디시스%20가문의%20혈인%20봉인%20%28Bloodseal%20of%20House%20Medicis%29.md) |
 | 무죄 추정의 원칙 장막 (Mantle of Presumed Innocence) | [무죄 추정의 원칙 장막 (Mantle of Presumed Innocence)](무죄%20추정의%20원칙%20장막%20%28Mantle%20of%20Presumed%20Innocence%29.md) |
+| 바다이끼 연초 지함 '가라앉아라' (Sea-Moss Cigar Case 'Sink') | [바다이끼 연초 지함 '가라앉아라' (Sea-Moss Cigar Case 'Sink')](바다이끼%20연초%20지함%20'가라앉아라'%20%28Sea-Moss%20Cigar%20Case%20'Sink'%29.md) |
 | 바람의 궁수단 단장 휘장 (Wind Rangers Vanguard Insignia) | [바람의 궁수단 단장 휘장 (Wind Rangers Vanguard Insignia)](바람의%20궁수단%20단장%20휘장%20%28Wind%20Rangers%20Vanguard%20Insignia%29.md) |
 | 백색 영면의 폭설 부적 다발 (Sleep-Blizzard Amulet Cluster of White Eternal Rest) | [백색 영면의 폭설 부적 다발 (Sleep-Blizzard Amulet Cluster of White Eternal Rest)](백색%20영면의%20폭설%20부적%20다발%20%28Sleep-Blizzard%20Amulet%20Cluster%20of%20White%20Eternal%20Rest%29.md) |
 | 베르날리스의 야전 씨앗 낭 (Vernalis's Field Seed Pouch) | [베르날리스의 야전 씨앗 낭 (Vernalis's Field Seed Pouch)](베르날리스의%20야전%20씨앗%20낭%20%28Vernalis's%20Field%20Seed%20Pouch%29.md) |
@@ -57,6 +58,7 @@
 | 어머니 세계수의 씨앗 낭 (Seed Pouch of the Mother Worldtree) | [어머니 세계수의 씨앗 낭 (Seed Pouch of the Mother Worldtree)](어머니%20세계수의%20씨앗%20낭%20%28Seed%20Pouch%20of%20the%20Mother%20Worldtree%29.md) |
 | 역류 잉크 혈전 억제 마나 결속대 (Reverse-Ink Thrombus Suppression Mana-Brace) | [역류 잉크 혈전 억제 마나 결속대 (Reverse-Ink Thrombus Suppression Mana-Brace)](역류%20잉크%20혈전%20억제%20마나%20결속대%20%28Reverse-Ink%20Thrombus%20Suppression%20Mana-Brace%29.md) |
 | 운명의 잿빛 동전 (Ashen Fate Coin) | [운명의 잿빛 동전 (Ashen Fate Coin)](운명의%20잿빛%20동전%20%28Ashen%20Fate%20Coin%29.md) |
+| 원혼 하이브마인드 척추 공명 골수 부적 (Wraith-Hivemind Spinal Resonance Marrow Talisman) | [원혼 하이브마인드 척추 공명 골수 부적 (Wraith-Hivemind Spinal Resonance Marrow Talisman)](원혼%20하이브마인드%20척추%20공명%20골수%20부적%20%28Wraith-Hivemind%20Spinal%20Resonance%20Marrow%20Talisman%29.md) |
 | 은빛 매 기사단의 마지막 깃털 (Last Feather of the Silver Hawk Order) | [은빛 매 기사단의 마지막 깃털 (Last Feather of the Silver Hawk Order)](은빛%20매%20기사단의%20마지막%20깃털%20%28Last%20Feather%20of%20the%20Silver%20Hawk%20Order%29.md) |
 | 은하수 문신 (Tattoo of the Milky Way) | [은하수 문신 (Tattoo of the Milky Way)](은하수%20문신%20%28Tattoo%20of%20the%20Milky%20Way%29.md) |
 | 이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers) | [이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers)](이름%20없는%20병사들의%20진흙%20부적%20%28Mud%20Talisman%20of%20the%20Nameless%20Soldiers%29.md) |

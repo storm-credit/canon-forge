@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (58)
+## 항목 (59)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -42,6 +42,7 @@
 | 빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood) | [빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood)](빛먹는%20거미줄%20투구망과%20가죽복%20%28Light-Devouring%20Silk%20Hood%29.md) |
 | 스스로 재단한 귀족 가죽 뷔스티에 (Self-Tailored Aristocratic Leather Bustier) | [스스로 재단한 귀족 가죽 뷔스티에 (Self-Tailored Aristocratic Leather Bustier)](스스로%20재단한%20귀족%20가죽%20뷔스티에%20%28Self-Tailored%20Aristocratic%20Leather%20Bustier%29.md) |
 | 심해 고래 가죽 칠흑 경갑 (Abyssal Whale-Hide Black Leather Armor) | [심해 고래 가죽 칠흑 경갑 (Abyssal Whale-Hide Black Leather Armor)](심해%20고래%20가죽%20칠흑%20경갑%20%28Abyssal%20Whale-Hide%20Black%20Leather%20Armor%29.md) |
+| 심해 탄약 사슬 요대 '블랙 오르카의 허리' (Abyssal Ammunition Chain Belt 'Black Orca's Girth') | [심해 탄약 사슬 요대 '블랙 오르카의 허리' (Abyssal Ammunition Chain Belt 'Black Orca's Girth')](심해%20탄약%20사슬%20요대%20'블랙%20오르카의%20허리'%20%28Abyssal%20Ammunition%20Chain%20Belt%20'Black%20Orca's%20Girth'%29.md) |
 | 암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket) | [암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket)](암녹색%20바람%20비늘%20가죽%20재킷%20%28Dark-Green%20Wind-Scale%20Leather%20Jacket%29.md) |
 | 암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness) | [암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness)](암반%20파편%20흡착%20반신%20충격%20수용%20흉대%20%28Rock-Fragment%20Absorption%20Half-Torso%20Impact%20Harness%29.md) |
 | 야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt) | [야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt)](야수%20혈가죽%20전투%20치마%20%28Beast-Blood%20Leather%20Battle%20Skirt%29.md) |

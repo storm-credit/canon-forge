@@ -6,7 +6,7 @@
 
 # 📚 장갑·손목
 
-## 항목 (64)
+## 항목 (65)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -40,6 +40,7 @@
 | 선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets) | [선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets)](선전포고%20파도%20타격%20철퇴%20건틀릿%20%28Wave-Crash%20Declaration%20Iron-Bludgeon%20Gauntlets%29.md) |
 | 손목 보호대 (Bracers) | [손목 보호대 (Bracers)](손목%20보호대%20%28Bracers%29.md) |
 | 수성전의 맹세 장갑 (Vow-of-Siege Gauntlets) | [수성전의 맹세 장갑 (Vow-of-Siege Gauntlets)](수성전의%20맹세%20장갑%20%28Vow-of-Siege%20Gauntlets%29.md) |
+| 수압 역류 억제 완갑 '반동의 맹세' (Recoil-Vow Gauntlets of Pressure-Backflow Suppression) | [수압 역류 억제 완갑 '반동의 맹세' (Recoil-Vow Gauntlets of Pressure-Backflow Suppression)](수압%20역류%20억제%20완갑%20'반동의%20맹세'%20%28Recoil-Vow%20Gauntlets%20of%20Pressure-Backflow%20Suppression%29.md) |
 | 순백의 맹세 건틀릿 (Gauntlets of the White Vow) | [순백의 맹세 건틀릿 (Gauntlets of the White Vow)](순백의%20맹세%20건틀릿%20%28Gauntlets%20of%20the%20White%20Vow%29.md) |
 | 순백의 질서 장갑 (White Gauntlets of Absolute Order) | [순백의 질서 장갑 (White Gauntlets of Absolute Order)](순백의%20질서%20장갑%20%28White%20Gauntlets%20of%20Absolute%20Order%29.md) |
 | 순풍의 항해사 장갑 (Tailwind Navigator’s Gloves) | [순풍의 항해사 장갑 (Tailwind Navigator’s Gloves)](순풍의%20항해사%20장갑%20%28Tailwind%20Navigator’s%20Gloves%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 장화·각반
 
-## 항목 (35)
+## 항목 (36)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -22,6 +22,7 @@
 | 무중력(Zero-G)의 천공석 비행 부츠 (Hovering Boots of Zenith-Stone) | [무중력(Zero-G)의 천공석 비행 부츠 (Hovering Boots of Zenith-Stone)](무중력%28Zero-G%29의%20천공석%20비행%20부츠%20%28Hovering%20Boots%20of%20Zenith-Stone%29.md) |
 | 밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots) | [밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots)](밑창%20폭발%20반동%20로켓%20점프%20군화%20%28Sole-Blast%20Recoil%20Rocket-Jump%20Combat%20Boots%29.md) |
 | 바람길 구름 신발 (Unbound Cloud Slippers) | [바람길 구름 신발 (Unbound Cloud Slippers)](바람길%20구름%20신발%20%28Unbound%20Cloud%20Slippers%29.md) |
+| 빙하 활주 갑철 장화 '극지 전차' (Glacial Slide Sabatons 'Polar Juggernaut') | [빙하 활주 갑철 장화 '극지 전차' (Glacial Slide Sabatons 'Polar Juggernaut')](빙하%20활주%20갑철%20장화%20'극지%20전차'%20%28Glacial%20Slide%20Sabatons%20'Polar%20Juggernaut'%29.md) |
 | 사십 킬로그램 납 구두 (Forty-Kilogram Lead Shoes) | [사십 킬로그램 납 구두 (Forty-Kilogram Lead Shoes)](사십%20킬로그램%20납%20구두%20%28Forty-Kilogram%20Lead%20Shoes%29.md) |
 | 석회관절의 불구 각반 (Calcified-Joint Greaves of the Immovable) | [석회관절의 불구 각반 (Calcified-Joint Greaves of the Immovable)](석회관절의%20불구%20각반%20%28Calcified-Joint%20Greaves%20of%20the%20Immovable%29.md) |
 | 순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots) | [순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots)](순례자의%20투박한%20짚신%20장화%20%28Pilgrim's%20Crude%20Straw%20Boots%29.md) |
