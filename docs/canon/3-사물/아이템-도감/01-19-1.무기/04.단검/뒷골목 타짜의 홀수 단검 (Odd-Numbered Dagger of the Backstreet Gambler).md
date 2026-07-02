@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [루카스 아우룸 (Lucas Aurum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/07.루카스아우룸.md)
 - [황금 동전 코인 결계 (Golden Coin of Boundary Reversal)](../11.투척/황금 동전 코인 결계 (Golden Coin of Boundary Reversal).md)
-- [운명 조작의 도박 주사위 (Dice of Fate Manipulation)](../01.한손검/운명 조작의 도박 주사위 (Dice of Fate Manipulation).md)
+- [운명 조작의 도박 주사위 (Dice of Fate Manipulation)](../01.한손검/포르투나 (Fortuna).md)

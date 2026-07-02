@@ -103,5 +103,5 @@
 
 - [울그란 화이어포지 (Ulgran Fireforge)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/10.울그란화이어포지.md)
 - [화염지옥의 집게 (Pincers of the Inferno)](../../01-19-1.무기/16.특수·마도구·기타/화염지옥의%20집게%20(Pincers%20of%20the%20Inferno).md)
-- [울그란 화이어포지의 미완성 직검 (Unfinished Blade of 울그란 화이어포지)](../../01-19-1.무기/01.한손검/울그란%20화이어포지의%20미완성%20직검%20(Unfinished%20Blade%20of%20울그란%20화이어포지).md)
+- [울그란 화이어포지의 미완성 직검 (Unfinished Blade of 울그란 화이어포지)](../../01-19-1.무기/01.한손검/미완의%20화염%20(Emberforge).md)
 - [마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron)](../../01-19-2.방어구/02.경갑/마그마%20담금의%20흑요%20단조%20앞치마%20(Obsidian%20Magma-Quench%20Forge%20Apron).md)

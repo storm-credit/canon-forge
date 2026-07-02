@@ -107,4 +107,4 @@
 
 - [크레스 나이트펄 (Kress Nightpearl)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/04.크레스나이트펄.md)
 - [나이트펄의 금이 간 단검 조각 (Shard of Nightpearl's Dagger)](../../../01-19-3.악세서리/09.보석/나이트펄의 금이 간 단검 조각 (Shard of Nightpearl's Dagger).md) — 이 단검의 파편으로 전해지는 유물
-- [크레스 나이트펄의 미완성 직검 (Unfinished Blade of 크레스 나이트펄)](../01.한손검/크레스 나이트펄의 미완성 직검 (Unfinished Blade of 크레스 나이트펄).md) — 크레스의 다른 무기
+- [크레스 나이트펄의 미완성 직검 (Unfinished Blade of 크레스 나이트펄)](../01.한손검/언리튼 (Unwritten).md) — 크레스의 다른 무기

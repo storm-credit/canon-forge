@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [카이우스 녹턴 (Kaius Nocturne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/01.카이우스녹턴.md)
-- [카이우스의 칠흑 만곡도 - 해일참 (Black Scimitar, Tsunami-Cleaver)](../01.한손검/카이우스의 칠흑 만곡도 - 해일참 (Black Scimitar, Tsunami-Cleaver).md)
+- [카이우스의 칠흑 만곡도 - 해일참 (Black Scimitar, Tsunami-Cleaver)](../01.한손검/해일참 (Tsunami-Cleaver).md)
 - [죽은 자의 해류 나침반 (Current-Compass of the Dead)](../../../01-19-4.유물/04.영웅고유성유물/죽은 자의 해류 나침반 (Current-Compass of the Dead).md)

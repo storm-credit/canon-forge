@@ -86,4 +86,4 @@
 ## 🔗 관련 문서
 - [엘리시아 블러드본 (Elysia Bloodborn)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/06.엘리시아블러드본.md)
 - [교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose')](교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose').md)
-- [순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns')](../01.한손검/순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns').md)
+- [순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns')](../01.한손검/가시관의 춤 (Crown of Thorns).md)

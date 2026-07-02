@@ -112,4 +112,4 @@
 - [엘라리엘 실바인 (Ellariel Sylvain)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/05.엘라리엘실바인.md)
 - [어머니 세계수의 씨앗 낭 (Seed Pouch of the Mother Worldtree)](../07.부적/어머니%20세계수의%20씨앗%20낭%20(Seed%20Pouch%20of%20the%20Mother%20Worldtree).md)
 - [실바인의 가시 구속 넝쿨 (Sylvain's Thorn Binding Vine)](../../01-19-1.무기/16.특수·마도구·기타/실바인의%20가시%20구속%20넝쿨%20(Sylvain's%20Thorn%20Binding%20Vine).md)
-- [엘라리엘 실바인의 미완성 직검 (Unfinished Blade of 엘라리엘 실바인)](../../01-19-1.무기/01.한손검/엘라리엘%20실바인의%20미완성%20직검%20(Unfinished%20Blade%20of%20엘라리엘%20실바인).md)
+- [엘라리엘 실바인의 미완성 직검 (Unfinished Blade of 엘라리엘 실바인)](../../01-19-1.무기/01.한손검/실바인의%20여백%20(Sylvan%20Blank).md)

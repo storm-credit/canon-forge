@@ -84,4 +84,4 @@
 
 ## 🔗 관련 문서
 - [타크리스 윈드브레이커 (Takris Windbreaker)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/17.타크리스윈드브레이커.md)
-- [검류 - 철검 풍가르기 (Iron Blade Wind-shear)](../../01-19-1.무기/01.한손검/검류 - 철검 풍가르기 (Iron Blade Wind-shear).md)
+- [검류 - 철검 풍가르기 (Iron Blade Wind-shear)](../../01-19-1.무기/01.한손검/윈드셰어 (Windshear).md)

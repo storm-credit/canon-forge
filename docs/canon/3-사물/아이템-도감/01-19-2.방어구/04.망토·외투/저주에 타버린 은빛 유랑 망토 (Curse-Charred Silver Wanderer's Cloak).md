@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [일리야 레퀴엠 (Ilya Requiem)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/07.일리야레퀴엠.md)
-- [재앙검 레퀴엠 무르무르 (Disaster Blade, Requiem Murmur)](../../01-19-1.무기/01.한손검/재앙검 레퀴엠 무르무르 (Disaster Blade, Requiem Murmur).md)
+- [재앙검 레퀴엠 무르무르 (Disaster Blade, Requiem Murmur)](../../01-19-1.무기/01.한손검/레퀴엠 무르무르 (Requiem Murmur).md)
 - [몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily)](../01.중갑/몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily).md)

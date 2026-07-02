@@ -80,5 +80,5 @@
 
 ## 🔗 관련 문서
 - [불타는 고스트 (Burning Ghost)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/03.불타는고스트.md)
-- [꺼지지 않는 지옥 검 '고스트의 분노' (Ghost's Wrath)](../../01-19-1.무기/01.한손검/꺼지지 않는 지옥 검 '고스트의 분노' (Ghost's Wrath).md)
+- [꺼지지 않는 지옥 검 '고스트의 분노' (Ghost's Wrath)](../../01-19-1.무기/01.한손검/고스트의 분노 (Ghost's Wrath).md)
 - [화상 입은 언데드의 닻 사슬 (Rusted Anchor Chains of the Burned Undead)](../03.로브·마법복/화상 입은 언데드의 닻 사슬 (Rusted Anchor Chains of the Burned Undead).md)

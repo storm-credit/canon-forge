@@ -102,4 +102,4 @@
 
 - [레오니스 발레리우스 (Leonis Valerius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/01.레오니스발레리우스.md)
 - [순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr)](../01.중갑/순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr).md)
-- [발레리우스 성검 솔라리스 (Holy Sword Solaris of Valerius)](../../01-19-1.무기/01.한손검/발레리우스 성검 솔라리스 (Holy Sword Solaris of Valerius).md)
+- [발레리우스 성검 솔라리스 (Holy Sword Solaris of Valerius)](../../01-19-1.무기/01.한손검/성검 솔라리스 (Holy Sword Solaris).md)

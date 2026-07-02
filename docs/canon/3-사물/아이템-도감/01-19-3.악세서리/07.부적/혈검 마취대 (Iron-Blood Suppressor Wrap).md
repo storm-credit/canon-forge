@@ -84,5 +84,5 @@
 
 ## 🔗 관련 문서
 - [도미닉 레가스 (Dominic Regas)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/03.도미닉레가스.md)
-- [레가스의 단죄검 (Blade of Condemnation)](../../01-19-1.무기/01.한손검/레가스의 단죄검 (Blade of Condemnation).md)
+- [레가스의 단죄검 (Blade of Condemnation)](../../01-19-1.무기/01.한손검/베르딕트 (Verdict).md)
 - [전쟁광의 인장 반지 (Signet of the Warmonger)](../01.반지/전쟁광의 인장 반지 (Signet of the Warmonger).md)

@@ -97,4 +97,4 @@
 
 - [아스모디안 레이븐하트 (Asmodian Ravenhart)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/04.아스모디안레이븐하트.md)
 - [저주받은 혈염의 인장 (Cursed Signet of Bloodflame)](../01.반지/저주받은%20혈염의%20인장%20%28Cursed%20Signet%20of%20Bloodflame%29.md)
-- [반수검 - 레이븐하트의 혈염 마검 (Devil-Blade of Ravenhart, Bloodflame)](../../01-19-1.무기/01.한손검/반수검%20-%20레이븐하트의%20혈염%20마검%20%28Devil-Blade%20of%20Ravenhart,%20Bloodflame%29.md)
+- [반수검 - 레이븐하트의 혈염 마검 (Devil-Blade of Ravenhart, Bloodflame)](../../01-19-1.무기/01.한손검/블러드플레임%20%28Bloodflame%29.md)

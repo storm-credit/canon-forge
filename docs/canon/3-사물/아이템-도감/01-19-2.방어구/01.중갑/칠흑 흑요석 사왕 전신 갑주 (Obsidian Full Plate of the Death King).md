@@ -104,5 +104,5 @@
 - [루시우스 렉스-모르테 (Lucius Rex-Morte)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/01.루시우스렉스-모르테.md)
 - [검은 뼈 왕관 (Crown of the Undying)](../06.투구·얼굴/검은 뼈 왕관 (Crown of the Undying).md)
 - [순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr)](../04.망토·외투/순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr).md)
-- [황제검 모르티스 (Emperor's Blade Mortis)](../../01-19-1.무기/01.한손검/황제검 모르티스 (Emperor's Blade Mortis).md)
+- [황제검 모르티스 (Emperor's Blade Mortis)](../../01-19-1.무기/01.한손검/모르티스 (Mortis).md)
 - [천잠비룡포의 파편 (Fragment of the Celestial Silk Dragon Robe)](../../01-19-4.유물/04.영웅고유성유물/천잠비룡포의 파편 (Fragment of the Celestial Silk Dragon Robe).md)

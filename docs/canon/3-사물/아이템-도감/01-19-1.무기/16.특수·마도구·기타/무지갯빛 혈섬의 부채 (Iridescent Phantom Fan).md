@@ -99,6 +99,6 @@
 
 ## 🔗 관련 문서
 - [루시엘 데 메디시스 (Luciel de Medicis)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/08.루시엘데메디시스.md)
-- [루시엘 데 메디시스의 미완성 직검 (Unfinished Blade of 루시엘 데 메디시스)](../01.한손검/루시엘%20데%20메디시스의%20미완성%20직검%20(Unfinished%20Blade%20of%20루시엘%20데%20메디시스).md)
+- [루시엘 데 메디시스의 미완성 직검 (Unfinished Blade of 루시엘 데 메디시스)](../01.한손검/미명검%20브라체스카%20(Brachesca).md)
 - [복수의 황혼 가면 (Twilight Mask of Vengeance)](../../../01-19-3.악세서리/04.머리장식/복수의%20황혼%20가면%20(Twilight%20Mask%20of%20Vengeance).md)
 - 검은 극장 (Ebony Theater) — 거점 문서

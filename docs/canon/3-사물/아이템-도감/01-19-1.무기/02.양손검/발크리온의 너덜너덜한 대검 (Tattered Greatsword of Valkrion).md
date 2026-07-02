@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [가렌 발렌타인 (Garen Valentine)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/05.가렌발렌타인.md)
-- [가렌 발렌타인의 미완성 직검 (Unfinished Blade of 가렌 발렌타인)](../01.한손검/가렌%20발렌타인의%20미완성%20직검%20(Unfinished%20Blade%20of%20가렌%20발렌타인).md)
+- [가렌 발렌타인의 미완성 직검 (Unfinished Blade of 가렌 발렌타인)](../01.한손검/미완성%20직검%20(Unfinished%20Blade).md)
 - [이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless)](../../01-19-2.방어구/01.중갑/이름%20잃은%20방벽의%20전신갑%20(Bulwark%20Plate%20of%20the%20Nameless).md)

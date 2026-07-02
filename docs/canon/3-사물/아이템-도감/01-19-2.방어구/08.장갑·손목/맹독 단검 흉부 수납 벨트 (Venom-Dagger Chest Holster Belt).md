@@ -83,6 +83,6 @@
 
 ## 🔗 관련 문서
 - [칼리온 노크티스 (Kalion Noctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/03.칼리온노크티스.md)
-- [황혼의 자상(Twilight Puncture) 독니 단도](../../01-19-1.무기/01.한손검/황혼의%20자상(Twilight%20Puncture)%20독니%20단도.md)
+- [황혼의 자상(Twilight Puncture) 독니 단도](../../01-19-1.무기/01.한손검/녹티스팽%20(Noctisfang).md)
 - [잿가루 환영의 가죽 갑주 (Armor of Ash Illusion)](../02.경갑/잿가루%20환영의%20가죽%20갑주%20(Armor%20of%20Ash%20Illusion).md)
 - [신경 오염의 촉매침 (Nerve-Pollution Catalyst Needles)](../../01-19-1.무기/11.투척/신경%20오염의%20촉매침%20(Nerve-Pollution%20Catalyst%20Needles).md)

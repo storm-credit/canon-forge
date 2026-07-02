@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [엘리시아 블러드본 (Elysia Bloodborn)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/06.엘리시아블러드본.md)
-- [순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns')](../01.한손검/순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns').md)
+- [순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns')](../01.한손검/가시관의 춤 (Crown of Thorns).md)
 - [블루 링 데스 크랩 신경독 침 세트 '침묵의 마비' (Blue-Ring Death Crab Neurotoxin Needle Set 'Silent Paralysis')](블루 링 데스 크랩 신경독 침 세트 '침묵의 마비' (Blue-Ring Death Crab Neurotoxin Needle Set 'Silent Paralysis').md)

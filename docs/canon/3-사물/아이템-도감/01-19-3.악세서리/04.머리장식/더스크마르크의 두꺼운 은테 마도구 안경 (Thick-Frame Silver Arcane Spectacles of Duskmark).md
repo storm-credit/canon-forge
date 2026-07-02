@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [루시아 더스크마르크 (Lucia Duskmark)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/14.루시아더스크마르크.md)
-- [마도 오토마톤 깃펜 '시크릿 퀼' (Automaton Quill of Secrets)](../../01-19-1.무기/01.한손검/마도%20오토마톤%20깃펜%20'시크릿%20퀼'%20(Automaton%20Quill%20of%20Secrets).md)
+- [마도 오토마톤 깃펜 '시크릿 퀼' (Automaton Quill of Secrets)](../../01-19-1.무기/01.한손검/시크릿%20퀼%20(Secret%20Quill).md)
 - [다중 주파수 해독의 은빛 앵무조개 (Silver Nautilus of Frequencies)](../../01-19-4.유물/04.영웅고유성유물/다중%20주파수%20해독의%20은빛%20앵무조개%20(Silver%20Nautilus%20of%20Frequencies).md)

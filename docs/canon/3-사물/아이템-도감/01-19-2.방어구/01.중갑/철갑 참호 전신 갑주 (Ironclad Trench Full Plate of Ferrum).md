@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [에드워드 페룸 (Edward Ferrum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/06.에드워드페룸.md)
 - [천근의 진지 투구 (Helm of the Heavy Trench)](../06.투구·얼굴/천근의%20진지%20투구%20%28Helm%20of%20the%20Heavy%20Trench%29.md)
-- [불굴의 철권검 (Ironfist Sword of Resolve)](../../01-19-1.무기/01.한손검/불굴의%20철권검%20%28Ironfist%20Sword%20of%20Resolve%29.md)
+- [불굴의 철권검 (Ironfist Sword of Resolve)](../../01-19-1.무기/01.한손검/아이언오스%20%28Ironoath%29.md)

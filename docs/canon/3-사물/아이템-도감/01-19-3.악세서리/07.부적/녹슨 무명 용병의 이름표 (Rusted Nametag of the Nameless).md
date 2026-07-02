@@ -80,5 +80,5 @@
 ## 🔗 관련 문서
 - [가렌 발렌타인 (Garen Valentine)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/05.가렌발렌타인.md)
 - [발크리온의 너덜너덜한 대검 (Tattered Greatsword of Valkrion)](../../01-19-1.무기/02.양손검/발크리온의%20너덜너덜한%20대검%20(Tattered%20Greatsword%20of%20Valkrion).md)
-- [가렌 발렌타인의 무명 장검 (Nameless Longsword of Garen Valentine)](../../01-19-1.무기/01.한손검/가렌%20발렌타인의%20무명%20장검%20(Nameless%20Longsword%20of%20Garen%20Valentine).md)
+- [가렌 발렌타인의 무명 장검 (Nameless Longsword of Garen Valentine)](../../01-19-1.무기/01.한손검/무명%20장검%20(Nameless%20Longsword).md)
 - [이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless)](../../01-19-2.방어구/01.중갑/이름%20잃은%20방벽의%20전신갑%20(Bulwark%20Plate%20of%20the%20Nameless).md)

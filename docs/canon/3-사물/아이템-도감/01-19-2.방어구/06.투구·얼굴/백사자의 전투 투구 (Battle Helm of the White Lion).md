@@ -97,5 +97,5 @@
 
 - [도미닉 레가스 (Dominic Regas)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/03.도미닉레가스.md)
 - [백사자의 흉갑 (Cuirass of the White Lion)](../01.중갑/백사자의 흉갑 (Cuirass of the White Lion).md)
-- [레가스의 단죄검 (Blade of Condemnation)](../../01-19-1.무기/01.한손검/레가스의 단죄검 (Blade of Condemnation).md)
+- [레가스의 단죄검 (Blade of Condemnation)](../../01-19-1.무기/01.한손검/베르딕트 (Verdict).md)
 - [혈검 마취대 (Iron-Blood Suppressor Wrap)](../../01-19-3.악세서리/07.부적/혈검 마취대 (Iron-Blood Suppressor Wrap).md)

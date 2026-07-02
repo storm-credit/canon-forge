@@ -92,4 +92,4 @@
 
 - [레온하르트 카멜로스 (Leonhart Cameloth)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/01.레온하르트카멜로스.md)
 - [카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth)](../01.중갑/카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth).md)
-- [강철왕의 패검 (Blade of Dominion)](../../01-19-1.무기/01.한손검/강철왕의 패검 (Blade of Dominion).md)
+- [강철왕의 패검 (Blade of Dominion)](../../01-19-1.무기/01.한손검/도미니온 (Dominion).md)

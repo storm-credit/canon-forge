@@ -106,5 +106,5 @@
 ## 🔗 관련 문서
 
 - [엘라리엘 실바인 (Ellariel Sylvain)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/05.엘라리엘실바인.md)
-- [엘라리엘 실바인의 미완성 직검 (Unfinished Blade of 엘라리엘 실바인)](../01.한손검/엘라리엘%20실바인의%20미완성%20직검%20(Unfinished%20Blade%20of%20엘라리엘%20실바인).md)
+- [엘라리엘 실바인의 미완성 직검 (Unfinished Blade of 엘라리엘 실바인)](../01.한손검/실바인의%20여백%20(Sylvan%20Blank).md)
 - [어머니 세계수의 씨앗 낭 (Seed Pouch of the Mother Worldtree)](../../../01-19-3.악세서리/07.부적/어머니%20세계수의%20씨앗%20낭%20(Seed%20Pouch%20of%20the%20Mother%20Worldtree).md)
