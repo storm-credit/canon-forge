@@ -6,7 +6,7 @@
 
 # 📚 부적
 
-## 항목 (61)
+## 항목 (65)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -26,6 +26,7 @@
 | 뇌신경 발작 억제 고정대 (Neural Seizure Suppressor Brace) | [뇌신경 발작 억제 고정대 (Neural Seizure Suppressor Brace)](뇌신경%20발작%20억제%20고정대%20%28Neural%20Seizure%20Suppressor%20Brace%29.md) |
 | 달빛 늑대 송곳니 (Moonlit Wolf Fangs) | [달빛 늑대 송곳니 (Moonlit Wolf Fangs)](달빛%20늑대%20송곳니%20%28Moonlit%20Wolf%20Fangs%29.md) |
 | 두루마리 전이 통신 봉투 (Scroll-Transfer Dispatch Envelope) | [두루마리 전이 통신 봉투 (Scroll-Transfer Dispatch Envelope)](두루마리%20전이%20통신%20봉투%20%28Scroll-Transfer%20Dispatch%20Envelope%29.md) |
+| 루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain) | [루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain)](루거의%20최초%20복종%20목줄%20—%20녹슨%20파열%20가시%20쇠사슬%20%28Luger's%20First%20Submission%20Collar%20—%20Rusted%20Spike-Burst%20Iron%20Chain%29.md) |
 | 메디시스 가문의 혈인 봉인 (Bloodseal of House Medicis) | [메디시스 가문의 혈인 봉인 (Bloodseal of House Medicis)](메디시스%20가문의%20혈인%20봉인%20%28Bloodseal%20of%20House%20Medicis%29.md) |
 | 무죄 추정의 원칙 장막 (Mantle of Presumed Innocence) | [무죄 추정의 원칙 장막 (Mantle of Presumed Innocence)](무죄%20추정의%20원칙%20장막%20%28Mantle%20of%20Presumed%20Innocence%29.md) |
 | 바람의 궁수단 단장 휘장 (Wind Rangers Vanguard Insignia) | [바람의 궁수단 단장 휘장 (Wind Rangers Vanguard Insignia)](바람의%20궁수단%20단장%20휘장%20%28Wind%20Rangers%20Vanguard%20Insignia%29.md) |
@@ -36,6 +37,7 @@
 | 부적류 - 쪼개진 무극의 검집 파편 (Splintered Scabbard of Zenith) | [부적류 - 쪼개진 무극의 검집 파편 (Splintered Scabbard of Zenith)](부적류%20-%20쪼개진%20무극의%20검집%20파편%20%28Splintered%20Scabbard%20of%20Zenith%29.md) |
 | 부패 혈생체 실험 일지 (Hemobiomatic Decay Research Journal) | [부패 혈생체 실험 일지 (Hemobiomatic Decay Research Journal)](부패%20혈생체%20실험%20일지%20%28Hemobiomatic%20Decay%20Research%20Journal%29.md) |
 | 불꽃 수염 소형 모루 부적 (Ember-Beard Miniature Anvil Charm) | [불꽃 수염 소형 모루 부적 (Ember-Beard Miniature Anvil Charm)](불꽃%20수염%20소형%20모루%20부적%20%28Ember-Beard%20Miniature%20Anvil%20Charm%29.md) |
+| 붕괴를 미루는 허벅지 지혈 붕대 (Hemostatic Bandage of Deferred Collapse) | [붕괴를 미루는 허벅지 지혈 붕대 (Hemostatic Bandage of Deferred Collapse)](붕괴를%20미루는%20허벅지%20지혈%20붕대%20%28Hemostatic%20Bandage%20of%20Deferred%20Collapse%29.md) |
 | 블러드혼의 혈흔 뿔 전쟁 토템 (Blood-Mark Horn War Totem of Bloodhorn) | [블러드혼의 혈흔 뿔 전쟁 토템 (Blood-Mark Horn War Totem of Bloodhorn)](블러드혼의%20혈흔%20뿔%20전쟁%20토템%20%28Blood-Mark%20Horn%20War%20Totem%20of%20Bloodhorn%29.md) |
 | 비덴의 소나 은동전 세 닢 (Three Sonar Silver Coins of Viden) | [비덴의 소나 은동전 세 닢 (Three Sonar Silver Coins of Viden)](비덴의%20소나%20은동전%20세%20닢%20%28Three%20Sonar%20Silver%20Coins%20of%20Viden%29.md) |
 | 비요른 타락 파리떼의 소환 악취 낙인 (Swarm-Summon Fetor Brand of Bjorn's Corruption Flies) | [비요른 타락 파리떼의 소환 악취 낙인 (Swarm-Summon Fetor Brand of Bjorn's Corruption Flies)](비요른%20타락%20파리떼의%20소환%20악취%20낙인%20%28Swarm-Summon%20Fetor%20Brand%20of%20Bjorn's%20Corruption%20Flies%29.md) |
@@ -57,11 +59,13 @@
 | 전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen) | [전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen)](전사자%20군번줄%20애도%20부적%20%28Dog%20Tag%20Mourning%20Charm%20of%20the%20Fallen%29.md) |
 | 전후 혈주 럼 통 (Battle-Rum Cask of Crimson Thirst) | [전후 혈주 럼 통 (Battle-Rum Cask of Crimson Thirst)](전후%20혈주%20럼%20통%20%28Battle-Rum%20Cask%20of%20Crimson%20Thirst%29.md) |
 | 종교백과 - 중력을 이끄는 부서진 자석핵 (Broken Magnet-Core of Gravity) | [종교백과 - 중력을 이끄는 부서진 자석핵 (Broken Magnet-Core of Gravity)](종교백과%20-%20중력을%20이끄는%20부서진%20자석핵%20%28Broken%20Magnet-Core%20of%20Gravity%29.md) |
+| 차원 용접의 십자 은못 세트 (Cross Silver Nail Set of Dimensional Welding) | [차원 용접의 십자 은못 세트 (Cross Silver Nail Set of Dimensional Welding)](차원%20용접의%20십자%20은못%20세트%20%28Cross%20Silver%20Nail%20Set%20of%20Dimensional%20Welding%29.md) |
 | 체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather) | [체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather)](체온%20동기화%20빛%20깃털%20%28Warmth-Sync%20Glowing%20Feather%29.md) |
 | 칼바람 진공 파장 전령 (Razor-Wind Vacuum-Wave Messenger) | [칼바람 진공 파장 전령 (Razor-Wind Vacuum-Wave Messenger)](칼바람%20진공%20파장%20전령%20%28Razor-Wind%20Vacuum-Wave%20Messenger%29.md) |
 | 코르디스 가문의 야성 주술 문신 인장 (Wild Rune Tattoo Seal of House Cordis) | [코르디스 가문의 야성 주술 문신 인장 (Wild Rune Tattoo Seal of House Cordis)](코르디스%20가문의%20야성%20주술%20문신%20인장%20%28Wild%20Rune%20Tattoo%20Seal%20of%20House%20Cordis%29.md) |
 | 크로노스 대도서관 관장 봉인 열쇠 (Grand Library Warden's Sealed Key of Chronos) | [크로노스 대도서관 관장 봉인 열쇠 (Grand Library Warden's Sealed Key of Chronos)](크로노스%20대도서관%20관장%20봉인%20열쇠%20%28Grand%20Library%20Warden's%20Sealed%20Key%20of%20Chronos%29.md) |
 | 펜리르 피의 키스 맹약 각인 (Blood-Kiss Covenant Brand of Fenrir) | [펜리르 피의 키스 맹약 각인 (Blood-Kiss Covenant Brand of Fenrir)](펜리르%20피의%20키스%20맹약%20각인%20%28Blood-Kiss%20Covenant%20Brand%20of%20Fenrir%29.md) |
+| 포세이돈의 닻 문신 룬 각인 (Poseidon Anchor Rune Inscription) | [포세이돈의 닻 문신 룬 각인 (Poseidon Anchor Rune Inscription)](포세이돈의%20닻%20문신%20룬%20각인%20%28Poseidon%20Anchor%20Rune%20Inscription%29.md) |
 | 포자 변색 통신병 (Color-Shift Spore Communication Vial) | [포자 변색 통신병 (Color-Shift Spore Communication Vial)](포자%20변색%20통신병%20%28Color-Shift%20Spore%20Communication%20Vial%29.md) |
 | 폭풍 기사단의 서약석 (Oath Stone of the Storm Knights) | [폭풍 기사단의 서약석 (Oath Stone of the Storm Knights)](폭풍%20기사단의%20서약석%20%28Oath%20Stone%20of%20the%20Storm%20Knights%29.md) |
 | 폭풍 부족장의 전투 허리대 (War-Belt of the Storm Chieftain) | [폭풍 부족장의 전투 허리대 (War-Belt of the Storm Chieftain)](폭풍%20부족장의%20전투%20허리대%20%28War-Belt%20of%20the%20Storm%20Chieftain%29.md) |

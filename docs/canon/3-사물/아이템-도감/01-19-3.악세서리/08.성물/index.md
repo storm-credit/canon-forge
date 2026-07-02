@@ -6,7 +6,7 @@
 
 # 📚 성물
 
-## 항목 (62)
+## 항목 (64)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -37,6 +37,7 @@
 | 심연의 잉크가 담긴 죄악의 성배 (Holy Grail of Sin filled with Abyssal Ink) | [심연의 잉크가 담긴 죄악의 성배 (Holy Grail of Sin filled with Abyssal Ink)](심연의%20잉크가%20담긴%20죄악의%20성배%20%28Holy%20Grail%20of%20Sin%20filled%20with%20Abyssal%20Ink%29.md) |
 | 심판 선고의 손등 십자가 (Dorsal Cross of Condemnation Sentence) | [심판 선고의 손등 십자가 (Dorsal Cross of Condemnation Sentence)](심판%20선고의%20손등%20십자가%20%28Dorsal%20Cross%20of%20Condemnation%20Sentence%29.md) |
 | 엘라리엘의 영구 동화된 백단나무 뿌리 조각 (Spliced Root of Sandalwood, Ellariel's Eternal Catalyst) | [엘라리엘의 영구 동화된 백단나무 뿌리 조각 (Spliced Root of Sandalwood, Ellariel's Eternal Catalyst)](엘라리엘의%20영구%20동화된%20백단나무%20뿌리%20조각%20%28Spliced%20Root%20of%20Sandalwood,%20Ellariel's%20Eternal%20Catalyst%29.md) |
+| 원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament) | [원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament)](원혼%20봉인의%20은빛%20자물쇠%20%28Silver%20Padlock%20of%20Bound%20Lament%29.md) |
 | 은단풍의 최면 향로 (Censer of Silver Maple) | [은단풍의 최면 향로 (Censer of Silver Maple)](은단풍의%20최면%20향로%20%28Censer%20of%20Silver%20Maple%29.md) |
 | 은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion) | [은빛 달무리 교감의 성배 (Holy Grail of Silvery Moonlight Communion)](은빛%20달무리%20교감의%20성배%20%28Holy%20Grail%20of%20Silvery%20Moonlight%20Communion%29.md) |
 | 은빛 성배 (Silver Chalice) | [은빛 성배 (Silver Chalice)](은빛%20성배%20%28Silver%20Chalice%29.md) |
@@ -69,6 +70,7 @@
 | 피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion) | [피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion)](피를%20송진으로%20치환하는%20카노푸스%20단지%20%28Canopic%20Jar%20of%20Blood-to-Resin%20Conversion%29.md) |
 | 핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast) | [핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast)](핏방울로%20증식하는%20짐승의%20뼈항아리%20%28Bone-Urn%20of%20the%20Blood-Multiplying%20Beast%29.md) |
 | 핏빛 불꽃이 서린 반마족의 검은 호른 (Bloodflame Horn of the Half-Demon, Dark Hollow Catalyst) | [핏빛 불꽃이 서린 반마족의 검은 호른 (Bloodflame Horn of the Half-Demon, Dark Hollow Catalyst)](핏빛%20불꽃이%20서린%20반마족의%20검은%20호른%20%28Bloodflame%20Horn%20of%20the%20Half-Demon,%20Dark%20Hollow%20Catalyst%29.md) |
+| 해수의 울림 소라 껍데기 (Resonating Conch of the Deep) | [해수의 울림 소라 껍데기 (Resonating Conch of the Deep)](해수의%20울림%20소라%20껍데기%20%28Resonating%20Conch%20of%20the%20Deep%29.md) |
 | 혈전의 마도 메아리 뿔피리 (Crimson-Front Arcane Echo War Horn) | [혈전의 마도 메아리 뿔피리 (Crimson-Front Arcane Echo War Horn)](혈전의%20마도%20메아리%20뿔피리%20%28Crimson-Front%20Arcane%20Echo%20War%20Horn%29.md) |
 | 형벌의 십자가 잔해 (Remnant of the Punitive Cross) | [형벌의 십자가 잔해 (Remnant of the Punitive Cross)](형벌의%20십자가%20잔해%20%28Remnant%20of%20the%20Punitive%20Cross%29.md) |
 | 화강암 핵마수 심장의 불씨 봉인 인장 (Ember-Seal Brand of the Granite Core-Beast's Heart) | [화강암 핵마수 심장의 불씨 봉인 인장 (Ember-Seal Brand of the Granite Core-Beast's Heart)](화강암%20핵마수%20심장의%20불씨%20봉인%20인장%20%28Ember-Seal%20Brand%20of%20the%20Granite%20Core-Beast's%20Heart%29.md) |

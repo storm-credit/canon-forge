@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (50)
+## 항목 (54)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -20,6 +20,7 @@
 | 굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog) | [굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog)](굶주린%20들개의%20조악한%20사슬%20가죽%20%28Crude%20Chain-Leather%20of%20Starving%20Wild-Dog%29.md) |
 | 그림자 포식자의 가죽 (Leather of Shadow Eater) | [그림자 포식자의 가죽 (Leather of Shadow Eater)](그림자%20포식자의%20가죽%20%28Leather%20of%20Shadow%20Eater%29.md) |
 | 그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron) | [그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron)](그을음%20찐%20마도공학%20전투%20가죽%20앞치마%20%28Soot-Caked%20Magitek%20Combat%20Leather%20Apron%29.md) |
+| 극야 잠수 밀착 전투 레더 슈트 (Eclipse-Night Diving Combat Leather Suit) | [극야 잠수 밀착 전투 레더 슈트 (Eclipse-Night Diving Combat Leather Suit)](극야%20잠수%20밀착%20전투%20레더%20슈트%20%28Eclipse-Night%20Diving%20Combat%20Leather%20Suit%29.md) |
 | 글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane) | [글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane)](글라스페인의%20산독%20연성%20가죽%20전투%20코트%20%28Acid-Alchemic%20Tanned%20Battle%20Coat%20of%20Glasspane%29.md) |
 | 까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster) | [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](까마귀%20깃털%20장식된%20검은%20가죽%20롱코트%20%28Raven-Feathered%20Leather%20Duster%29.md) |
 | 까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor) | [까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor)](까마귀뼈%20엮음%20부두%20갑옷%20%28Corvid%20Bone%20Voodoo%20Armor%29.md) |
@@ -36,8 +37,10 @@
 | 비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak) | [비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak)](비바람%20찢는%20쐐기형%20망토와%20가죽%20조끼%20%28Gale-Rending%20Wedge%20Cloak%29.md) |
 | 빙뇌의 가죽 각반 (Leggings of Ice-Thunder) | [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](빙뇌의%20가죽%20각반%20%28Leggings%20of%20Ice-Thunder%29.md) |
 | 빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood) | [빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood)](빛먹는%20거미줄%20투구망과%20가죽복%20%28Light-Devouring%20Silk%20Hood%29.md) |
+| 스스로 재단한 귀족 가죽 뷔스티에 (Self-Tailored Aristocratic Leather Bustier) | [스스로 재단한 귀족 가죽 뷔스티에 (Self-Tailored Aristocratic Leather Bustier)](스스로%20재단한%20귀족%20가죽%20뷔스티에%20%28Self-Tailored%20Aristocratic%20Leather%20Bustier%29.md) |
 | 암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket) | [암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket)](암녹색%20바람%20비늘%20가죽%20재킷%20%28Dark-Green%20Wind-Scale%20Leather%20Jacket%29.md) |
 | 암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness) | [암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness)](암반%20파편%20흡착%20반신%20충격%20수용%20흉대%20%28Rock-Fragment%20Absorption%20Half-Torso%20Impact%20Harness%29.md) |
+| 야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt) | [야수 혈가죽 전투 치마 (Beast-Blood Leather Battle Skirt)](야수%20혈가죽%20전투%20치마%20%28Beast-Blood%20Leather%20Battle%20Skirt%29.md) |
 | 에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate) | [에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate)](에메랄드%20백금%20비행%20하프-코르셋%20갑주%20%28Emerald-Platinum%20Aerial%20Half-Corset%20Plate%29.md) |
 | 에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit) | [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](에테리움%20강화%20가죽%20비행%20수트%20%28Ether-Reinforced%20Leather%20Flight%20Suit%29.md) |
 | 열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat) | [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](열을%20삼키는%20코어%28Core%29%20흡수%20백곰%20가죽%20%28Core-Absorbing%20White-Bear%20Hide%20that%20Devours%20Heat%29.md) |
@@ -51,6 +54,7 @@
 | 천둥새의 가죽 요대 (Leather Girdle of the Thunderbird) | [천둥새의 가죽 요대 (Leather Girdle of the Thunderbird)](천둥새의%20가죽%20요대%20%28Leather%20Girdle%20of%20the%20Thunderbird%29.md) |
 | 친위대장의 사자 가죽 덧옷 (Lion-Hide Surcoat of the Guard Captain) | [친위대장의 사자 가죽 덧옷 (Lion-Hide Surcoat of the Guard Captain)](친위대장의%20사자%20가죽%20덧옷%20%28Lion-Hide%20Surcoat%20of%20the%20Guard%20Captain%29.md) |
 | 카멜레온 가죽 잿빛 사암 코트 (Ash-Sandstone Chameleon Leather Coat) | [카멜레온 가죽 잿빛 사암 코트 (Ash-Sandstone Chameleon Leather Coat)](카멜레온%20가죽%20잿빛%20사암%20코트%20%28Ash-Sandstone%20Chameleon%20Leather%20Coat%29.md) |
+| 크라켄 가죽 뼈 흉갑 (Kraken Hide-and-Bone Cuirass) | [크라켄 가죽 뼈 흉갑 (Kraken Hide-and-Bone Cuirass)](크라켄%20가죽%20뼈%20흉갑%20%28Kraken%20Hide-and-Bone%20Cuirass%29.md) |
 | 타다 남은 잿빛 가죽 코트 (Charred Ash-Leather Coat) | [타다 남은 잿빛 가죽 코트 (Charred Ash-Leather Coat)](타다%20남은%20잿빛%20가죽%20코트%20%28Charred%20Ash-Leather%20Coat%29.md) |
 | 탐식의 가죽 앞치마 (Leather Apron of Voracity) | [탐식의 가죽 앞치마 (Leather Apron of Voracity)](탐식의%20가죽%20앞치마%20%28Leather%20Apron%20of%20Voracity%29.md) |
 | 폭압 집속의 강철 구속 벨트 (Blast-Pressure Containment Steel Belt) | [폭압 집속의 강철 구속 벨트 (Blast-Pressure Containment Steel Belt)](폭압%20집속의%20강철%20구속%20벨트%20%28Blast-Pressure%20Containment%20Steel%20Belt%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 지팡이·완드
 
-## 항목 (165)
+## 항목 (166)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -70,6 +70,7 @@
 | 선지자의 지팡이 (Staff of the Prophet) | [선지자의 지팡이 (Staff of the Prophet)](선지자의%20지팡이%20%28Staff%20of%20the%20Prophet%29.md) |
 | 선혈의 지팡이 '블러드타이드의 인장' (Bloodtide Seal Staff) | [선혈의 지팡이 '블러드타이드의 인장' (Bloodtide Seal Staff)](선혈의%20지팡이%20'블러드타이드의%20인장'%20%28Bloodtide%20Seal%20Staff%29.md) |
 | 성수 정제 지팡이 '눈물의 지성소' (Purification Staff 'Sanctuary of Tears') | [성수 정제 지팡이 '눈물의 지성소' (Purification Staff 'Sanctuary of Tears')](성수%20정제%20지팡이%20'눈물의%20지성소'%20%28Purification%20Staff%20'Sanctuary%20of%20Tears'%29.md) |
+| 성안의 지팡이 — 눈먼 별의 지도봉 (Star-Eye Staff — Navigation Cane of the Blind Star) | [성안의 지팡이 — 눈먼 별의 지도봉 (Star-Eye Staff — Navigation Cane of the Blind Star)](성안의%20지팡이%20—%20눈먼%20별의%20지도봉%20%28Star-Eye%20Staff%20—%20Navigation%20Cane%20of%20the%20Blind%20Star%29.md) |
 | 성운의 지팡이 (Staff of Nebula) | [성운의 지팡이 (Staff of Nebula)](성운의%20지팡이%20%28Staff%20of%20Nebula%29.md) |
 | 성화 심판의 정화 화염봉 (Lenore Sacredflame's Sacred Inquisition Torch) | [성화 심판의 정화 화염봉 (Lenore Sacredflame's Sacred Inquisition Torch)](성화%20심판의%20정화%20화염봉%20%28Lenore%20Sacredflame's%20Sacred%20Inquisition%20Torch%29.md) |
 | 세계수를 엮어 만든 엘도라의 가지 (Branch of Eldora Woven from the World Tree) | [세계수를 엮어 만든 엘도라의 가지 (Branch of Eldora Woven from the World Tree)](세계수를%20엮어%20만든%20엘도라의%20가지%20%28Branch%20of%20Eldora%20Woven%20from%20the%20World%20Tree%29.md) |

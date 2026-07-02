@@ -6,7 +6,7 @@
 
 # 📚 장갑·손목
 
-## 항목 (57)
+## 항목 (60)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -17,16 +17,19 @@
 | 관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression) | [관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression)](관절%20파열%20억제%20강철%20붕대%20%28Steel%20Binding%20Straps%20of%20Joint-Rupture%20Suppression%29.md) |
 | 구속의 잔재 철장갑 (Plate of the Remaining Shackles) | [구속의 잔재 철장갑 (Plate of the Remaining Shackles)](구속의%20잔재%20철장갑%20%28Plate%20of%20the%20Remaining%20Shackles%29.md) |
 | 극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets) | [극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets)](극지%20심연%20백곰%20괴사%20보온%20털장갑%20%28Arctic%20Abyss%20White-Bear%20Necrosis-Warmth%20Fur%20Gauntlets%29.md) |
+| 기계식 조준 보정 암-브레이서 (Mechanical Aim-Correction Arm-Bracer) | [기계식 조준 보정 암-브레이서 (Mechanical Aim-Correction Arm-Bracer)](기계식%20조준%20보정%20암-브레이서%20%28Mechanical%20Aim-Correction%20Arm-Bracer%29.md) |
 | 기화의 홍강 건틀릿 (Vaporflesh Crimson Gauntlets) | [기화의 홍강 건틀릿 (Vaporflesh Crimson Gauntlets)](기화의%20홍강%20건틀릿%20%28Vaporflesh%20Crimson%20Gauntlets%29.md) |
 | 내열 폭약공 손가락 보호 가죽 장갑 (Heat-Resistant Demolitionist Finger-Guard Gauntlets) | [내열 폭약공 손가락 보호 가죽 장갑 (Heat-Resistant Demolitionist Finger-Guard Gauntlets)](내열%20폭약공%20손가락%20보호%20가죽%20장갑%20%28Heat-Resistant%20Demolitionist%20Finger-Guard%20Gauntlets%29.md) |
 | 뇌격 소각의 우완 보호대 (Right-Arm Vambrace of Thunder Incineration) | [뇌격 소각의 우완 보호대 (Right-Arm Vambrace of Thunder Incineration)](뇌격%20소각의%20우완%20보호대%20%28Right-Arm%20Vambrace%20of%20Thunder%20Incineration%29.md) |
 | 뇌전 도관 황동 파이프 중장갑 (Thunder-Conduit Brass-Pipe Gauntlets) | [뇌전 도관 황동 파이프 중장갑 (Thunder-Conduit Brass-Pipe Gauntlets)](뇌전%20도관%20황동%20파이프%20중장갑%20%28Thunder-Conduit%20Brass-Pipe%20Gauntlets%29.md) |
 | 대지 앵커 쇄골 압착 건틀릿 (Collarbone-Press Earth-Anchor Gauntlets) | [대지 앵커 쇄골 압착 건틀릿 (Collarbone-Press Earth-Anchor Gauntlets)](대지%20앵커%20쇄골%20압착%20건틀릿%20%28Collarbone-Press%20Earth-Anchor%20Gauntlets%29.md) |
 | 드래곤블러드 주입 용암관절 흑철 의수 (Dragon-Blood Infused Lava-Joint Dark-Iron Prosthetic Arms) | [드래곤블러드 주입 용암관절 흑철 의수 (Dragon-Blood Infused Lava-Joint Dark-Iron Prosthetic Arms)](드래곤블러드%20주입%20용암관절%20흑철%20의수%20%28Dragon-Blood%20Infused%20Lava-Joint%20Dark-Iron%20Prosthetic%20Arms%29.md) |
+| 드워프 마찰 단야 건틀릿 '불량의 주먹' (Dwarf Forge-Friction Gauntlets of the Reject's Fist) | [드워프 마찰 단야 건틀릿 '불량의 주먹' (Dwarf Forge-Friction Gauntlets of the Reject's Fist)](드워프%20마찰%20단야%20건틀릿%20'불량의%20주먹'%20%28Dwarf%20Forge-Friction%20Gauntlets%20of%20the%20Reject's%20Fist%29.md) |
 | 마도 신경 통신 백색 실크 장갑 (Neuro-Signal White Silk Gauntlets) | [마도 신경 통신 백색 실크 장갑 (Neuro-Signal White Silk Gauntlets)](마도%20신경%20통신%20백색%20실크%20장갑%20%28Neuro-Signal%20White%20Silk%20Gauntlets%29.md) |
 | 마석 직조기 위버 글러브 (Manastone Weaver Gauntlet) | [마석 직조기 위버 글러브 (Manastone Weaver Gauntlet)](마석%20직조기%20위버%20글러브%20%28Manastone%20Weaver%20Gauntlet%29.md) |
 | 만년 빙벽의 장악 건틀릿 (Grip Gauntlets of the Eternal Ice-Wall) | [만년 빙벽의 장악 건틀릿 (Grip Gauntlets of the Eternal Ice-Wall)](만년%20빙벽의%20장악%20건틀릿%20%28Grip%20Gauntlets%20of%20the%20Eternal%20Ice-Wall%29.md) |
 | 매의 눈먼 깃털 장갑 (Falcon's Blind Plume Gloves) | [매의 눈먼 깃털 장갑 (Falcon's Blind Plume Gloves)](매의%20눈먼%20깃털%20장갑%20%28Falcon's%20Blind%20Plume%20Gloves%29.md) |
+| 맹독 단검 흉부 수납 벨트 (Venom-Dagger Chest Holster Belt) | [맹독 단검 흉부 수납 벨트 (Venom-Dagger Chest Holster Belt)](맹독%20단검%20흉부%20수납%20벨트%20%28Venom-Dagger%20Chest%20Holster%20Belt%29.md) |
 | 백골 반투명 장갑(Leviathan Bone Plating) | [백골 반투명 장갑(Leviathan Bone Plating)](백골%20반투명%20장갑%28Leviathan%20Bone%20Plating%29.md) |
 | 볼코르의 영원 건틀릿 (Eternal Gauntlets of Summitforge) | [볼코르의 영원 건틀릿 (Eternal Gauntlets of Summitforge)](볼코르의%20영원%20건틀릿%20%28Eternal%20Gauntlets%20of%20Summitforge%29.md) |
 | 분쇄 직격의 철괴 건틀릿 (Iron-Mass Gauntlets of Direct Demolition) | [분쇄 직격의 철괴 건틀릿 (Iron-Mass Gauntlets of Direct Demolition)](분쇄%20직격의%20철괴%20건틀릿%20%28Iron-Mass%20Gauntlets%20of%20Direct%20Demolition%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (155)
+## 항목 (163)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -19,6 +19,7 @@
 | 구속의 미스릴 붕대 (Mithril Bandages of Restraint) | [구속의 미스릴 붕대 (Mithril Bandages of Restraint)](구속의%20미스릴%20붕대%20%28Mithril%20Bandages%20of%20Restraint%29.md) |
 | 구원 대주교의 백은 제의 (White-Silver Vestment of the Salvation Archbishop) | [구원 대주교의 백은 제의 (White-Silver Vestment of the Salvation Archbishop)](구원%20대주교의%20백은%20제의%20%28White-Silver%20Vestment%20of%20the%20Salvation%20Archbishop%29.md) |
 | 그림자 녹아내린 기도보 (Cloak of Melted Shadows) | [그림자 녹아내린 기도보 (Cloak of Melted Shadows)](그림자%20녹아내린%20기도보%20%28Cloak%20of%20Melted%20Shadows%29.md) |
+| 기워입은 잿빛 오버사이즈 수녀복 (Patched Ash-Grey Oversize Habit) | [기워입은 잿빛 오버사이즈 수녀복 (Patched Ash-Grey Oversize Habit)](기워입은%20잿빛%20오버사이즈%20수녀복%20%28Patched%20Ash-Grey%20Oversize%20Habit%29.md) |
 | 기적의 타짜 연미복 (Suit of the Jackpot) | [기적의 타짜 연미복 (Suit of the Jackpot)](기적의%20타짜%20연미복%20%28Suit%20of%20the%20Jackpot%29.md) |
 | 까마귀 깃털의 암흑 로브 (Dark-Robe of the Raven Feather) | [까마귀 깃털의 암흑 로브 (Dark-Robe of the Raven Feather)](까마귀%20깃털의%20암흑%20로브%20%28Dark-Robe%20of%20the%20Raven%20Feather%29.md) |
 | 눈꽃 굴절의 광학 미채 드레스 (Optical-Camouflage Dress of Snowflakes) | [눈꽃 굴절의 광학 미채 드레스 (Optical-Camouflage Dress of Snowflakes)](눈꽃%20굴절의%20광학%20미채%20드레스%20%28Optical-Camouflage%20Dress%20of%20Snowflakes%29.md) |
@@ -38,6 +39,7 @@
 | 마법복 (Mystic Garb) | [마법복 (Mystic Garb)](마법복%20%28Mystic%20Garb%29.md) |
 | 망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust) | [망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust)](망각의%20고대%20드래곤%20가루%20예복%20%28Vestment%20of%20Oblivion%20Ancient%20Dragon%20Dust%29.md) |
 | 망각의 먹물 로브 (Robes of Oblivion Ink) | [망각의 먹물 로브 (Robes of Oblivion Ink)](망각의%20먹물%20로브%20%28Robes%20of%20Oblivion%20Ink%29.md) |
+| 망령 화염에 그을린 처형수 넝마 로브 (Scorched Executioner Rag-Robe of Phantom Flame) | [망령 화염에 그을린 처형수 넝마 로브 (Scorched Executioner Rag-Robe of Phantom Flame)](망령%20화염에%20그을린%20처형수%20넝마%20로브%20%28Scorched%20Executioner%20Rag-Robe%20of%20Phantom%20Flame%29.md) |
 | 망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead) | [망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead)](망자의%20현자%20누더기%20백색%20로브%20%28Tattered%20White%20Robe%20of%20the%20Sage%20of%20the%20Dead%29.md) |
 | 맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow) | [맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](맹독으로%20덧칠된%20밤과부의%20로브%20%28Toxic-Laced%20Robe%20of%20the%20Night-widow%29.md) |
 | 먼지 쌓인 역사의 수의 로브 (Shroud-Robe of Dusted History) | [먼지 쌓인 역사의 수의 로브 (Shroud-Robe of Dusted History)](먼지%20쌓인%20역사의%20수의%20로브%20%28Shroud-Robe%20of%20Dusted%20History%29.md) |
@@ -58,6 +60,7 @@
 | 발소리를 삼키는 사막뱀의 비늘옷 (Sound-Swallowing Scale-Suit of the Desert Viper) | [발소리를 삼키는 사막뱀의 비늘옷 (Sound-Swallowing Scale-Suit of the Desert Viper)](발소리를%20삼키는%20사막뱀의%20비늘옷%20%28Sound-Swallowing%20Scale-Suit%20of%20the%20Desert%20Viper%29.md) |
 | 발소리와 심박을 지우는 심해뱀 비늘 아머 (Abyssal Viper Scale-Armor that Erases Footsteps and Heartbeats) | [발소리와 심박을 지우는 심해뱀 비늘 아머 (Abyssal Viper Scale-Armor that Erases Footsteps and Heartbeats)](발소리와%20심박을%20지우는%20심해뱀%20비늘%20아머%20%28Abyssal%20Viper%20Scale-Armor%20that%20Erases%20Footsteps%20and%20Heartbeats%29.md) |
 | 방수 에어-쿠션 베스트 (Waterproof Air-Cushion Vest) | [방수 에어-쿠션 베스트 (Waterproof Air-Cushion Vest)](방수%20에어-쿠션%20베스트%20%28Waterproof%20Air-Cushion%20Vest%29.md) |
+| 방열 은청 작업 에이프런 (Heat-Dissipation Silver-Blue Work Apron) | [방열 은청 작업 에이프런 (Heat-Dissipation Silver-Blue Work Apron)](방열%20은청%20작업%20에이프런%20%28Heat-Dissipation%20Silver-Blue%20Work%20Apron%29.md) |
 | 백 만권의 기록이 새겨진 마법 상쇄(Dispel)의 오버코트 (Dispel Overcoat Engraved with a Million Archives) | [백 만권의 기록이 새겨진 마법 상쇄(Dispel)의 오버코트 (Dispel Overcoat Engraved with a Million Archives)](백%20만권의%20기록이%20새겨진%20마법%20상쇄%28Dispel%29의%20오버코트%20%28Dispel%20Overcoat%20Engraved%20with%20a%20Million%20Archives%29.md) |
 | 백골 기사단의 무명형틀 (Nameless Pillory of the Bone Knights) | [백골 기사단의 무명형틀 (Nameless Pillory of the Bone Knights)](백골%20기사단의%20무명형틀%20%28Nameless%20Pillory%20of%20the%20Bone%20Knights%29.md) |
 | 백골 집사들의 뼈무덤 카라페이스 (Bone-Mound Carapace) | [백골 집사들의 뼈무덤 카라페이스 (Bone-Mound Carapace)](백골%20집사들의%20뼈무덤%20카라페이스%20%28Bone-Mound%20Carapace%29.md) |
@@ -76,6 +79,7 @@
 | 비행하는 깃털의 스톰 슈트 (Storm-Suit of Flying Feathers) | [비행하는 깃털의 스톰 슈트 (Storm-Suit of Flying Feathers)](비행하는%20깃털의%20스톰%20슈트%20%28Storm-Suit%20of%20Flying%20Feathers%29.md) |
 | 빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle) | [빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle)](빛%20반사%20방지%20은신%20위장%20덧옷%20%28Anti-Reflective%20Camo-Mantle%29.md) |
 | 빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror) | [빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](빛을%20찢는%20깨진%20거울의%20위장코트%20%28Camouflage%20Coat%20of%20the%20Shattered%20Mirror%29.md) |
+| 사막 용병의 연갈색 두꺼운 융단 로브 (Heavy Dun Carpet-Robe of the Desert Mercenary) | [사막 용병의 연갈색 두꺼운 융단 로브 (Heavy Dun Carpet-Robe of the Desert Mercenary)](사막%20용병의%20연갈색%20두꺼운%20융단%20로브%20%28Heavy%20Dun%20Carpet-Robe%20of%20the%20Desert%20Mercenary%29.md) |
 | 서리 내린 전술 코트 (Tactical Coat of Frostbite) | [서리 내린 전술 코트 (Tactical Coat of Frostbite)](서리%20내린%20전술%20코트%20%28Tactical%20Coat%20of%20Frostbite%29.md) |
 | 서리 성좌의 군주 예복 (Sovereign's Vestment of the Frost Constellation) | [서리 성좌의 군주 예복 (Sovereign's Vestment of the Frost Constellation)](서리%20성좌의%20군주%20예복%20%28Sovereign's%20Vestment%20of%20the%20Frost%20Constellation%29.md) |
 | 석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons) | [석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons)](석화탄을%20튕겨내는%20불침의%20모래비단%20로브%20%28Impervious%20Sand-Silk%20Robe%20against%20Cannons%29.md) |
@@ -115,6 +119,7 @@
 | 엔트로피의 보존 강박 학사복 (Toga of Entropy Preservation) | [엔트로피의 보존 강박 학사복 (Toga of Entropy Preservation)](엔트로피의%20보존%20강박%20학사복%20%28Toga%20of%20Entropy%20Preservation%29.md) |
 | 역병 차단된 멸균 은빛 방사복 (Sterile Silver Hazmat-Suit) | [역병 차단된 멸균 은빛 방사복 (Sterile Silver Hazmat-Suit)](역병%20차단된%20멸균%20은빛%20방사복%20%28Sterile%20Silver%20Hazmat-Suit%29.md) |
 | 열권(Thermosphere) 단열 스파이더 실크복 (Spider-Silk Suit of Thermosphere Insulation) | [열권(Thermosphere) 단열 스파이더 실크복 (Spider-Silk Suit of Thermosphere Insulation)](열권%28Thermosphere%29%20단열%20스파이더%20실크복%20%28Spider-Silk%20Suit%20of%20Thermosphere%20Insulation%29.md) |
+| 예지자의 은청 모래시계 수놓음 로브 (Silver-Blue Hourglass Embroidered Robe of the Oracle) | [예지자의 은청 모래시계 수놓음 로브 (Silver-Blue Hourglass Embroidered Robe of the Oracle)](예지자의%20은청%20모래시계%20수놓음%20로브%20%28Silver-Blue%20Hourglass%20Embroidered%20Robe%20of%20the%20Oracle%29.md) |
 | 은빛 심연 강제 사념 역투영 방어구 (Aegis Whisper-Deflection Array) | [은빛 심연 강제 사념 역투영 방어구 (Aegis Whisper-Deflection Array)](은빛%20심연%20강제%20사념%20역투영%20방어구%20%28Aegis%20Whisper-Deflection%20Array%29.md) |
 | 은폐의 잿빛 연막 코트 (Ash Smoke Coat of Concealment) | [은폐의 잿빛 연막 코트 (Ash Smoke Coat of Concealment)](은폐의%20잿빛%20연막%20코트%20%28Ash%20Smoke%20Coat%20of%20Concealment%29.md) |
 | 일륜의 환상 베일 코트 (Illusion Veil Coat of Sun Halo) | [일륜의 환상 베일 코트 (Illusion Veil Coat of Sun Halo)](일륜의%20환상%20베일%20코트%20%28Illusion%20Veil%20Coat%20of%20Sun%20Halo%29.md) |
@@ -134,6 +139,8 @@
 | 증거 보전의 은빛 제복 (Uniform of Evidence Preservation) | [증거 보전의 은빛 제복 (Uniform of Evidence Preservation)](증거%20보전의%20은빛%20제복%20%28Uniform%20of%20Evidence%20Preservation%29.md) |
 | 지식 통제관의 광휘 학자 로브 (Luminous Scholar's Robe of the Knowledge Warden) | [지식 통제관의 광휘 학자 로브 (Luminous Scholar's Robe of the Knowledge Warden)](지식%20통제관의%20광휘%20학자%20로브%20%28Luminous%20Scholar's%20Robe%20of%20the%20Knowledge%20Warden%29.md) |
 | 진리와 아카식의 로브 (Robe of Akashic Truth) | [진리와 아카식의 로브 (Robe of Akashic Truth)](진리와%20아카식의%20로브%20%28Robe%20of%20Akashic%20Truth%29.md) |
+| 진청색 점성술사 로브 (Deep Blue Stargazer Robe) | [진청색 점성술사 로브 (Deep Blue Stargazer Robe)](진청색%20점성술사%20로브%20%28Deep%20Blue%20Stargazer%20Robe%29.md) |
+| 진홍 부식의 롱드레스 & 코르셋 (Crimson Corrosive Longdress & Corset) | [진홍 부식의 롱드레스 & 코르셋 (Crimson Corrosive Longdress & Corset)](진홍%20부식의%20롱드레스%20&%20코르셋%20%28Crimson%20Corrosive%20Longdress%20&%20Corset%29.md) |
 | 창공의 비행갑 강층기류 코트 (Aero-Stream Coat) | [창공의 비행갑 강층기류 코트 (Aero-Stream Coat)](창공의%20비행갑%20강층기류%20코트%20%28Aero-Stream%20Coat%29.md) |
 | 채무자의 원한 코트 (Overcoat of Debtor's Grudge) | [채무자의 원한 코트 (Overcoat of Debtor's Grudge)](채무자의%20원한%20코트%20%28Overcoat%20of%20Debtor's%20Grudge%29.md) |
 | 천의무봉의 구원 드레스 (Dress of Seamless Salvation) | [천의무봉의 구원 드레스 (Dress of Seamless Salvation)](천의무봉의%20구원%20드레스%20%28Dress%20of%20Seamless%20Salvation%29.md) |
@@ -145,6 +152,7 @@
 | 칠흑 밤안개 독가시 코르셋 하네스 (Pitch-Black Night-Fog Venom-Thorn Corset Harness) | [칠흑 밤안개 독가시 코르셋 하네스 (Pitch-Black Night-Fog Venom-Thorn Corset Harness)](칠흑%20밤안개%20독가시%20코르셋%20하네스%20%28Pitch-Black%20Night-Fog%20Venom-Thorn%20Corset%20Harness%29.md) |
 | 칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress) | [칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress)](칠흑의%20거미줄%20코르셋%20드레스%20%28Abyssal%20Arachnet%20Corset-Dress%29.md) |
 | 침묵의 봉안 수도복 (Ashen Habit of Sealed Silence) | [침묵의 봉안 수도복 (Ashen Habit of Sealed Silence)](침묵의%20봉안%20수도복%20%28Ashen%20Habit%20of%20Sealed%20Silence%29.md) |
+| 코발트 심해 벨벳 로브 — 조석의 지배자 예복 (Cobalt Abyssal Velvet Robe — Ceremonial Robe of the Tide Sovereign) | [코발트 심해 벨벳 로브 — 조석의 지배자 예복 (Cobalt Abyssal Velvet Robe — Ceremonial Robe of the Tide Sovereign)](코발트%20심해%20벨벳%20로브%20—%20조석의%20지배자%20예복%20%28Cobalt%20Abyssal%20Velvet%20Robe%20—%20Ceremonial%20Robe%20of%20the%20Tide%20Sovereign%29.md) |
 | 크로노스의 재의 로브 (Ash Robe of Chronos) | [크로노스의 재의 로브 (Ash Robe of Chronos)](크로노스의%20재의%20로브%20%28Ash%20Robe%20of%20Chronos%29.md) |
 | 크림슨 연구소의 자기 부식 실험복 (Self-Corroded Labcoat of the Crimson Lab) | [크림슨 연구소의 자기 부식 실험복 (Self-Corroded Labcoat of the Crimson Lab)](크림슨%20연구소의%20자기%20부식%20실험복%20%28Self-Corroded%20Labcoat%20of%20the%20Crimson%20Lab%29.md) |
 | 타임 딜레이(Delay) 양자 캐미솔 | [타임 딜레이(Delay) 양자 캐미솔](타임%20딜레이%28Delay%29%20양자%20캐미솔.md) |

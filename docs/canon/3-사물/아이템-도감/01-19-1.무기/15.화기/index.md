@@ -6,12 +6,13 @@
 
 # 📚 화기
 
-## 항목 (26)
+## 항목 (27)
 
 | 아이템 | 링크 |
 |--------|------|
 | 관통의 작살총 (Harpoon Gun of Pierce) | [관통의 작살총 (Harpoon Gun of Pierce)](관통의%20작살총%20%28Harpoon%20Gun%20of%20Pierce%29.md) |
 | 글라스페인의 혼합 사출 총포 (Fusion Injector Cannon of Glasspane) | [글라스페인의 혼합 사출 총포 (Fusion Injector Cannon of Glasspane)](글라스페인의%20혼합%20사출%20총포%20%28Fusion%20Injector%20Cannon%20of%20Glasspane%29.md) |
+| 뇌격 신호 플린트락 피스톨 — 레드스톰의 기합성 (Storm-Signal Flintlock Pistol — Damian's Battle Cry) | [뇌격 신호 플린트락 피스톨 — 레드스톰의 기합성 (Storm-Signal Flintlock Pistol — Damian's Battle Cry)](뇌격%20신호%20플린트락%20피스톨%20—%20레드스톰의%20기합성%20%28Storm-Signal%20Flintlock%20Pistol%20—%20Damian's%20Battle%20Cry%29.md) |
 | 드라코포지 아공간 다연장 용암 중기관총 (Dracoforge Subspace Multi-Barrel Lava Minigun) | [드라코포지 아공간 다연장 용암 중기관총 (Dracoforge Subspace Multi-Barrel Lava Minigun)](드라코포지%20아공간%20다연장%20용암%20중기관총%20%28Dracoforge%20Subspace%20Multi-Barrel%20Lava%20Minigun%29.md) |
 | 드래곤 작살총 (Dragon Harpoon Gun) | [드래곤 작살총 (Dragon Harpoon Gun)](드래곤%20작살총%20%28Dragon%20Harpoon%20Gun%29.md) |
 | 레이븐의 톱날 곡도와 심연 화승총 (Serrated Cutlasses & Abyssal Flintlock) | [레이븐의 톱날 곡도와 심연 화승총 (Serrated Cutlasses & Abyssal Flintlock)](레이븐의%20톱날%20곡도와%20심연%20화승총%20%28Serrated%20Cutlasses%20&%20Abyssal%20Flintlock%29.md) |

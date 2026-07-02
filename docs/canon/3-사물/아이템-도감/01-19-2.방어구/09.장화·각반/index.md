@@ -6,7 +6,7 @@
 
 # 📚 장화·각반
 
-## 항목 (33)
+## 항목 (34)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -25,6 +25,7 @@
 | 사십 킬로그램 납 구두 (Forty-Kilogram Lead Shoes) | [사십 킬로그램 납 구두 (Forty-Kilogram Lead Shoes)](사십%20킬로그램%20납%20구두%20%28Forty-Kilogram%20Lead%20Shoes%29.md) |
 | 석회관절의 불구 각반 (Calcified-Joint Greaves of the Immovable) | [석회관절의 불구 각반 (Calcified-Joint Greaves of the Immovable)](석회관절의%20불구%20각반%20%28Calcified-Joint%20Greaves%20of%20the%20Immovable%29.md) |
 | 순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots) | [순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots)](순례자의%20투박한%20짚신%20장화%20%28Pilgrim's%20Crude%20Straw%20Boots%29.md) |
+| 심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings) | [심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings)](심연%20역장%20도포식%20스파이크%20레깅스%20%28Abyssal%20S-Field%20Coated%20Spike%20Leggings%29.md) |
 | 십자가 구원자의 맨발 (Barefeet of the Savior) | [십자가 구원자의 맨발 (Barefeet of the Savior)](십자가%20구원자의%20맨발%20%28Barefeet%20of%20the%20Savior%29.md) |
 | 용암 스파이크 슬라이딩 강철 부츠 (Lava-Spike Sliding Steel Boots) | [용암 스파이크 슬라이딩 강철 부츠 (Lava-Spike Sliding Steel Boots)](용암%20스파이크%20슬라이딩%20강철%20부츠%20%28Lava-Spike%20Sliding%20Steel%20Boots%29.md) |
 | 음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave) | [음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave)](음속을%20가르는%20공기역학%20부츠%20%28Aerodynamic%20Boots%20of%20Sonic-Cleave%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 투척
 
-## 항목 (20)
+## 항목 (23)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,7 @@
 | 나도화의 환영 독안개 투척 플라스크 (Night-Peach Illusion Toxin-Mist Flask) | [나도화의 환영 독안개 투척 플라스크 (Night-Peach Illusion Toxin-Mist Flask)](나도화의%20환영%20독안개%20투척%20플라스크%20%28Night-Peach%20Illusion%20Toxin-Mist%20Flask%29.md) |
 | 대공 투척 원판 '산성화의 낙진' (Anti-Air Acid-Rain Throwing Disc) | [대공 투척 원판 '산성화의 낙진' (Anti-Air Acid-Rain Throwing Disc)](대공%20투척%20원판%20'산성화의%20낙진'%20%28Anti-Air%20Acid-Rain%20Throwing%20Disc%29.md) |
 | 데스티니 카드 (Destiny Card) | [데스티니 카드 (Destiny Card)](데스티니%20카드%20%28Destiny%20Card%29.md) |
+| 마력 도포 편전 신호 화살 (Mana-Coated Flechette Signal Arrow) | [마력 도포 편전 신호 화살 (Mana-Coated Flechette Signal Arrow)](마력%20도포%20편전%20신호%20화살%20%28Mana-Coated%20Flechette%20Signal%20Arrow%29.md) |
 | 무음 궤적망 발신 삼단검 (Silent Trajectory-Net Transmitting Triple Daggers) | [무음 궤적망 발신 삼단검 (Silent Trajectory-Net Transmitting Triple Daggers)](무음%20궤적망%20발신%20삼단검%20%28Silent%20Trajectory-Net%20Transmitting%20Triple%20Daggers%29.md) |
 | 바람의 추적자 디코이 키트 (Windrunner Decoy Disruption Kit) | [바람의 추적자 디코이 키트 (Windrunner Decoy Disruption Kit)](바람의%20추적자%20디코이%20키트%20%28Windrunner%20Decoy%20Disruption%20Kit%29.md) |
 | 별빛 섬광탄 (Starlight Flash-Bang) | [별빛 섬광탄 (Starlight Flash-Bang)](별빛%20섬광탄%20%28Starlight%20Flash-Bang%29.md) |
@@ -22,6 +23,8 @@
 | 블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin) | [블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin)](블랙파우더%20서명%20섬광%20기폭%20핀%20%28Blackpowder-Signature%20Flash%20Detonation%20Pin%29.md) |
 | 스크류 드릴 뎁스차지 작살 다발 (Screw-Drill Depth-Charge Harpoon Bundle) | [스크류 드릴 뎁스차지 작살 다발 (Screw-Drill Depth-Charge Harpoon Bundle)](스크류%20드릴%20뎁스차지%20작살%20다발%20%28Screw-Drill%20Depth-Charge%20Harpoon%20Bundle%29.md) |
 | 신경 오염의 촉매침 (Nerve-Pollution Catalyst Needles) | [신경 오염의 촉매침 (Nerve-Pollution Catalyst Needles)](신경%20오염의%20촉매침%20%28Nerve-Pollution%20Catalyst%20Needles%29.md) |
+| 안티 스펠 브로드헤드 화살 (Anti-Spell Broadhead Arrow) | [안티 스펠 브로드헤드 화살 (Anti-Spell Broadhead Arrow)](안티%20스펠%20브로드헤드%20화살%20%28Anti-Spell%20Broadhead%20Arrow%29.md) |
+| 압조절 해독제 점토 폭탄 (Pressure-Regulated Antidote Clay Bomb) | [압조절 해독제 점토 폭탄 (Pressure-Regulated Antidote Clay Bomb)](압조절%20해독제%20점토%20폭탄%20%28Pressure-Regulated%20Antidote%20Clay%20Bomb%29.md) |
 | 야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade) | [야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade)](야생%20환각%20맹독%20연무탄%20%28Wilderness%20Hallucinogen%20Toxin%20Smokegrenade%29.md) |
 | 육절의 그림자 비수 (Shadow Stilettos of the Six-Kill) | [육절의 그림자 비수 (Shadow Stilettos of the Six-Kill)](육절의%20그림자%20비수%20%28Shadow%20Stilettos%20of%20the%20Six-Kill%29.md) |
 | 은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers) | [은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers)](은장%20무음%20투척%20단검%20%28Silver-Mounted%20Silent%20Throwing%20Daggers%29.md) |

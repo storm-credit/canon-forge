@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (66)
+## 항목 (67)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -42,6 +42,7 @@
 | 순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr) | [순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr)](순교자의%20황금형벌%20갑주%20%28Golden-Penance%20Armor%20of%20the%20Martyr%29.md) |
 | 순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim) | [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](순례자의%20은청색%20사자%20중갑%20%28Silver-blue%20Lion%20Plate%20of%20Pilgrim%29.md) |
 | 스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss) | [스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss)](스스로%20입은%20심연의%20갑주%20%28Self-Worn%20Carapace%20of%20the%20Abyss%29.md) |
+| 심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide') | [심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide')](심연강%20전신%20중갑%20'강철의%20파도'%20%28Abyss%20Steel%20Full%20Plate%20'Iron%20Tide'%29.md) |
 | 심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate) | [심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate)](심해압%20견딤식%20은염강%20판금갑수%20%28Abyssal-Pressure%20Silver-Salt%20Plate%29.md) |
 | 암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor) | [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](암석%20비늘%20철벽%20대갑주%20%28Stonescale%20Ironwall%20Greatarmor%29.md) |
 | 에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss) | [에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss)](에보니%20다크%20플레이트%20—%20타락한%20에델바이스의%20전신%20판갑%20%28Ebony%20Dark%20Plate%20—%20Corrupted%20Full%20Plate%20of%20Edelweiss%29.md) |

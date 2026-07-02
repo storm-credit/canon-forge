@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (129)
+## 항목 (132)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -55,6 +55,7 @@
 | 바람의 단검 (Dagger of Wind) | [바람의 단검 (Dagger of Wind)](바람의%20단검%20%28Dagger%20of%20Wind%29.md) |
 | 바람의 단검 (Wind Dagger) | [바람의 단검 (Wind Dagger)](바람의%20단검%20%28Wind%20Dagger%29.md) |
 | 바스크 칼그론의 독침 단도 (Poison-Fanged Blade of 바스크 칼그론) | [바스크 칼그론의 독침 단도 (Poison-Fanged Blade of 바스크 칼그론)](바스크%20칼그론의%20독침%20단도%20%28Poison-Fanged%20Blade%20of%20바스크%20칼그론%29.md) |
+| 발목 카람빗 — 바람의 눈 (Ankle Karambit — Eye of the Storm) | [발목 카람빗 — 바람의 눈 (Ankle Karambit — Eye of the Storm)](발목%20카람빗%20—%20바람의%20눈%20%28Ankle%20Karambit%20—%20Eye%20of%20the%20Storm%29.md) |
 | 배신자의 단검 '다스크로우의 거래' (Veylen Duskrow's Dagger of Traitor) | [배신자의 단검 '다스크로우의 거래' (Veylen Duskrow's Dagger of Traitor)](배신자의%20단검%20'다스크로우의%20거래'%20%28Veylen%20Duskrow's%20Dagger%20of%20Traitor%29.md) |
 | 베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum) | [베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum)](베네눔의%20살을%20파고드는%20가시%20달린%20주사기%20단검%20%28Thorned%20Syringe-Dagger%20of%20Venenum%29.md) |
 | 벤토리시스의 비풍 단검 세트 (Wind-Flight Daggers of Ventoricis) | [벤토리시스의 비풍 단검 세트 (Wind-Flight Daggers of Ventoricis)](벤토리시스의%20비풍%20단검%20세트%20%28Wind-Flight%20Daggers%20of%20Ventoricis%29.md) |
@@ -70,6 +71,7 @@
 | 샤크 투스 대거 (Shark Tooth Dagger) | [샤크 투스 대거 (Shark Tooth Dagger)](샤크%20투스%20대거%20%28Shark%20Tooth%20Dagger%29.md) |
 | 섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger) | [섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger)](섬광%20반투명%20대동맥%20단검%20%28Translucent%20Flash%20Artery%20Dagger%29.md) |
 | 성벽 타격의 도발 단검 (Provocation Parry-Dagger of the Rampart) | [성벽 타격의 도발 단검 (Provocation Parry-Dagger of the Rampart)](성벽%20타격의%20도발%20단검%20%28Provocation%20Parry-Dagger%20of%20the%20Rampart%29.md) |
+| 성혈 의례 침잠 단도 (Blood-Rite Immersion Blade) | [성혈 의례 침잠 단도 (Blood-Rite Immersion Blade)](성혈%20의례%20침잠%20단도%20%28Blood-Rite%20Immersion%20Blade%29.md) |
 | 셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크) | [셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크)](셰릴%20블레이크의%20그림자%20단검%20%28Shadow%20Dagger%20of%20셰릴%20블레이크%29.md) |
 | 속삭임의 쌍단검 (Daggers of Whispers) | [속삭임의 쌍단검 (Daggers of Whispers)](속삭임의%20쌍단검%20%28Daggers%20of%20Whispers%29.md) |
 | 속삭임의 흑요석 단검 (Obsidian Dagger of Whispers) | [속삭임의 흑요석 단검 (Obsidian Dagger of Whispers)](속삭임의%20흑요석%20단검%20%28Obsidian%20Dagger%20of%20Whispers%29.md) |
@@ -86,6 +88,7 @@
 | 엘리시엘 윈드스트림의 낙하 단검 (Falling Blade of 엘리시엘 윈드스트림) | [엘리시엘 윈드스트림의 낙하 단검 (Falling Blade of 엘리시엘 윈드스트림)](엘리시엘%20윈드스트림의%20낙하%20단검%20%28Falling%20Blade%20of%20엘리시엘%20윈드스트림%29.md) |
 | 연막 단검 '섀도우베일의 탈출' (Talon Shadowveil's Smoke Dagger) | [연막 단검 '섀도우베일의 탈출' (Talon Shadowveil's Smoke Dagger)](연막%20단검%20'섀도우베일의%20탈출'%20%28Talon%20Shadowveil's%20Smoke%20Dagger%29.md) |
 | 연습용 단검 '쉐이드글로우의 첫걸음' (Elise Shadeglow's Practice Dagger) | [연습용 단검 '쉐이드글로우의 첫걸음' (Elise Shadeglow's Practice Dagger)](연습용%20단검%20'쉐이드글로우의%20첫걸음'%20%28Elise%20Shadeglow's%20Practice%20Dagger%29.md) |
+| 오르도스 은빛 호신 단도 (Ordos Silver Self-Guard Dagger) | [오르도스 은빛 호신 단도 (Ordos Silver Self-Guard Dagger)](오르도스%20은빛%20호신%20단도%20%28Ordos%20Silver%20Self-Guard%20Dagger%29.md) |
 | 와이번 팽 (Wyvern Fang) | [와이번 팽 (Wyvern Fang)](와이번%20팽%20%28Wyvern%20Fang%29.md) |
 | 와이어 단검 (Wire Dagger) | [와이어 단검 (Wire Dagger)](와이어%20단검%20%28Wire%20Dagger%29.md) |
 | 용의 단검 드래곤 대거 (Dragon Dagger) | [용의 단검 드래곤 대거 (Dragon Dagger)](용의%20단검%20드래곤%20대거%20%28Dragon%20Dagger%29.md) |

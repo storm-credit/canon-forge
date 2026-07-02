@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (210)
+## 항목 (213)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -64,6 +64,7 @@
 | 매사냥꾼의 절대 시침 (Absolute Hand of the Falconer) | [매사냥꾼의 절대 시침 (Absolute Hand of the Falconer)](매사냥꾼의%20절대%20시침%20%28Absolute%20Hand%20of%20the%20Falconer%29.md) |
 | 맹목의 백색 깃펜 (White Quill of Blindness) | [맹목의 백색 깃펜 (White Quill of Blindness)](맹목의%20백색%20깃펜%20%28White%20Quill%20of%20Blindness%29.md) |
 | 메갈로돈의 공명 호각 (Whistle of Megalodon) | [메갈로돈의 공명 호각 (Whistle of Megalodon)](메갈로돈의%20공명%20호각%20%28Whistle%20of%20Megalodon%29.md) |
+| 메아리치는 은빛 반사 렌즈 (Echoing Silver Reflection Lens) | [메아리치는 은빛 반사 렌즈 (Echoing Silver Reflection Lens)](메아리치는%20은빛%20반사%20렌즈%20%28Echoing%20Silver%20Reflection%20Lens%29.md) |
 | 몽마의 남은 눈물 (Tear of the Succubus) | [몽마의 남은 눈물 (Tear of the Succubus)](몽마의%20남은%20눈물%20%28Tear%20of%20the%20Succubus%29.md) |
 | [무기] | [[무기]](무기.md) |
 | 무너진 신전의 공명하는 종유석 (Resonating Stalactite of the Collapsed Temple) | [무너진 신전의 공명하는 종유석 (Resonating Stalactite of the Collapsed Temple)](무너진%20신전의%20공명하는%20종유석%20%28Resonating%20Stalactite%20of%20the%20Collapsed%20Temple%29.md) |
@@ -156,6 +157,7 @@
 | 작열하는 화로 파편 (Ember Core) | [작열하는 화로 파편 (Ember Core)](작열하는%20화로%20파편%20%28Ember%20Core%29.md) |
 | 재로 굳어버린 부모의 눈물석 (Tear-stone of Petrified Ash) | [재로 굳어버린 부모의 눈물석 (Tear-stone of Petrified Ash)](재로%20굳어버린%20부모의%20눈물석%20%28Tear-stone%20of%20Petrified%20Ash%29.md) |
 | 적란운의 부싯돌 (Flint of the Cumulonimbus) | [적란운의 부싯돌 (Flint of the Cumulonimbus)](적란운의%20부싯돌%20%28Flint%20of%20the%20Cumulonimbus%29.md) |
+| 전신 자기 잠금 래칫 볼트 세트 (Full-Body Magnetic Lock-Ratchet Bolt Set) | [전신 자기 잠금 래칫 볼트 세트 (Full-Body Magnetic Lock-Ratchet Bolt Set)](전신%20자기%20잠금%20래칫%20볼트%20세트%20%28Full-Body%20Magnetic%20Lock-Ratchet%20Bolt%20Set%29.md) |
 | 전장의 회계추 (Pendulum of the Audit) | [전장의 회계추 (Pendulum of the Audit)](전장의%20회계추%20%28Pendulum%20of%20the%20Audit%29.md) |
 | 전황 분석의 단안경 (Monocle of Battlefield Analysis) | [전황 분석의 단안경 (Monocle of Battlefield Analysis)](전황%20분석의%20단안경%20%28Monocle%20of%20Battlefield%20Analysis%29.md) |
 | 절대 영점 탄도학 조시경 (Absolute-Zero Ballistic Monocle) | [절대 영점 탄도학 조시경 (Absolute-Zero Ballistic Monocle)](절대%20영점%20탄도학%20조시경%20%28Absolute-Zero%20Ballistic%20Monocle%29.md) |
@@ -203,6 +205,7 @@
 | 크로노스의 눈물 (Tears of Chronos) | [크로노스의 눈물 (Tears of Chronos)](크로노스의%20눈물%20%28Tears%20of%20Chronos%29.md) |
 | 탄화된 어머니의 묵주 (Carbonized Rosary of the Mother) | [탄화된 어머니의 묵주 (Carbonized Rosary of the Mother)](탄화된%20어머니의%20묵주%20%28Carbonized%20Rosary%20of%20the%20Mother%29.md) |
 | 태엽 감긴 회중시계 심장 (Wind-up Pocket-Watch Heart) | [태엽 감긴 회중시계 심장 (Wind-up Pocket-Watch Heart)](태엽%20감긴%20회중시계%20심장%20%28Wind-up%20Pocket-Watch%20Heart%29.md) |
+| 태초의 크로노스 모래시계 (Hourglass of Primeval Chronos) | [태초의 크로노스 모래시계 (Hourglass of Primeval Chronos)](태초의%20크로노스%20모래시계%20%28Hourglass%20of%20Primeval%20Chronos%29.md) |
 | 테네브리움 어둠의 숨결 (Shadow Breath of Tenebrium) | [테네브리움 어둠의 숨결 (Shadow Breath of Tenebrium)](테네브리움%20어둠의%20숨결%20%28Shadow%20Breath%20of%20Tenebrium%29.md) |
 | 테네브리움의 의안 부엉이 (Glass-Eye Owl of Tenebrium) | [테네브리움의 의안 부엉이 (Glass-Eye Owl of Tenebrium)](테네브리움의%20의안%20부엉이%20%28Glass-Eye%20Owl%20of%20Tenebrium%29.md) |
 | 통곡하는 미망인의 베일 (Veil of the Wailing Widow) | [통곡하는 미망인의 베일 (Veil of the Wailing Widow)](통곡하는%20미망인의%20베일%20%28Veil%20of%20the%20Wailing%20Widow%29.md) |

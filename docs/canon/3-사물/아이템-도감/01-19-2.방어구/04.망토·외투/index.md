@@ -6,13 +6,15 @@
 
 # 📚 망토·외투
 
-## 항목 (65)
+## 항목 (70)
 
 | 아이템 | 링크 |
 |--------|------|
+| 가죽 끈 주렁주렁 달린 은회색 서기관 외투 (Silver-Grey Archivist Surcoat of Leather Straps) | [가죽 끈 주렁주렁 달린 은회색 서기관 외투 (Silver-Grey Archivist Surcoat of Leather Straps)](가죽%20끈%20주렁주렁%20달린%20은회색%20서기관%20외투%20%28Silver-Grey%20Archivist%20Surcoat%20of%20Leather%20Straps%29.md) |
 | 골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket) | [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](골드마켓의%20누더기%20망토%20%28Ragged%20Cloak%20of%20Goldmarket%29.md) |
 | 공허 거미의 그림자 망토 (Void-Spider Shadow Cloak) | [공허 거미의 그림자 망토 (Void-Spider Shadow Cloak)](공허%20거미의%20그림자%20망토%20%28Void-Spider%20Shadow%20Cloak%29.md) |
 | 군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy) | [군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy)](군청%20폭풍%20밀봉%20장교%20롱코트%20%28Storm-Sealed%20Admiral's%20Long%20Coat%20of%20Deep%20Navy%29.md) |
+| 그림자 기생 흑회색 두건 코트 (Shadow-Parasite Ash-Grey Hood Coat) | [그림자 기생 흑회색 두건 코트 (Shadow-Parasite Ash-Grey Hood Coat)](그림자%20기생%20흑회색%20두건%20코트%20%28Shadow-Parasite%20Ash-Grey%20Hood%20Coat%29.md) |
 | 그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation) | [그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation)](그림자%20동화의%20잿빛%20실크%20망토%20%28Ash-Silk%20Cloak%20of%20Shadow%20Assimilation%29.md) |
 | 기워 입은 수선 학포 (Mended Academy Mantle) | [기워 입은 수선 학포 (Mended Academy Mantle)](기워%20입은%20수선%20학포%20%28Mended%20Academy%20Mantle%29.md) |
 | 끝없는 욕망의 장물 코트(Coat of the Fence) | [끝없는 욕망의 장물 코트(Coat of the Fence)](끝없는%20욕망의%20장물%20코트%28Coat%20of%20the%20Fence%29.md) |
@@ -20,6 +22,7 @@
 | 돌풍의 비행 망토 (Flight Cloak of the Gale) | [돌풍의 비행 망토 (Flight Cloak of the Gale)](돌풍의%20비행%20망토%20%28Flight%20Cloak%20of%20the%20Gale%29.md) |
 | 동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism) | [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](동충하초의%20강제%20기생%20외투%20%28Coat%20of%20Cordyceps%20Parasitism%29.md) |
 | 디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition) | [디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition)](디포지션의%20위장%20가스%20망토%20%28Camouflage%20Gas%20Cloak%20of%20Deposition%29.md) |
+| 레드스톰의 진홍 폭풍 돌격 롱코트 (Redstorm Crimson Storm Assault Longcoat) | [레드스톰의 진홍 폭풍 돌격 롱코트 (Redstorm Crimson Storm Assault Longcoat)](레드스톰의%20진홍%20폭풍%20돌격%20롱코트%20%28Redstorm%20Crimson%20Storm%20Assault%20Longcoat%29.md) |
 | 렘수면의 모래 베일 (Veil of REM Sand) | [렘수면의 모래 베일 (Veil of REM Sand)](렘수면의%20모래%20베일%20%28Veil%20of%20REM%20Sand%29.md) |
 | 망각의 그림자 투명 망토 (Transparent Cloak of Forgotten Shadow) | [망각의 그림자 투명 망토 (Transparent Cloak of Forgotten Shadow)](망각의%20그림자%20투명%20망토%20%28Transparent%20Cloak%20of%20Forgotten%20Shadow%29.md) |
 | 망각의 진동 베일 (Vibration Veil of Oblivion) | [망각의 진동 베일 (Vibration Veil of Oblivion)](망각의%20진동%20베일%20%28Vibration%20Veil%20of%20Oblivion%29.md) |
@@ -47,6 +50,7 @@
 | 시야 비틀림의 망토 (Cloak of Visual Distortion) | [시야 비틀림의 망토 (Cloak of Visual Distortion)](시야%20비틀림의%20망토%20%28Cloak%20of%20Visual%20Distortion%29.md) |
 | 역광의 위장 망토 (Camouflage Cloak of Backlight) | [역광의 위장 망토 (Camouflage Cloak of Backlight)](역광의%20위장%20망토%20%28Camouflage%20Cloak%20of%20Backlight%29.md) |
 | 역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field) | [역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field)](역장%20파생%20숄%20'패러데이의%20장막'%20%28Faraday%20Mantle%20Force-Field%29.md) |
+| 오르도스 은청색 치유사 망토 코트 (Ordos Silver-Blue Healer's Cloak Coat) | [오르도스 은청색 치유사 망토 코트 (Ordos Silver-Blue Healer's Cloak Coat)](오르도스%20은청색%20치유사%20망토%20코트%20%28Ordos%20Silver-Blue%20Healer's%20Cloak%20Coat%29.md) |
 | 외투 (Surcoats) | [외투 (Surcoats)](외투%20%28Surcoats%29.md) |
 | 욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire) | [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](욕망%20흡착의%20은사%20코트%20%28Silver-Thread%20Coat%20of%20Desire%29.md) |
 | 월식의 망토 (Cloak of Lunar Eclipse) | [월식의 망토 (Cloak of Lunar Eclipse)](월식의%20망토%20%28Cloak%20of%20Lunar%20Eclipse%29.md) |
@@ -69,6 +73,7 @@
 | 태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse) | [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](태양풍을%20흡수하는%20일식%28Eclipse%29의%20베일%20%28Veil%20of%20Eclipse%29.md) |
 | 투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void) | [투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void)](투명화%20마법%20도료가%20발린%20위장%20망토%20%28Camouflage%20Cloak%20of%20the%20Void%29.md) |
 | 풍륜 윙 슈트 (Wind-Wheel Wing Suit) | [풍륜 윙 슈트 (Wind-Wheel Wing Suit)](풍륜%20윙%20슈트%20%28Wind-Wheel%20Wing%20Suit%29.md) |
+| 풍향 관통형 활공 망토 (Wind-Piercing Glider Cloak) | [풍향 관통형 활공 망토 (Wind-Piercing Glider Cloak)](풍향%20관통형%20활공%20망토%20%28Wind-Piercing%20Glider%20Cloak%29.md) |
 | 피와 기름이 절은 호위 망토 (Blood-and-Oil-Soaked Retainer's Cloak) | [피와 기름이 절은 호위 망토 (Blood-and-Oil-Soaked Retainer's Cloak)](피와%20기름이%20절은%20호위%20망토%20%28Blood-and-Oil-Soaked%20Retainer's%20Cloak%29.md) |
 | 해진 잿빛 망토 (Tattered Ashen Cloak) | [해진 잿빛 망토 (Tattered Ashen Cloak)](해진%20잿빛%20망토%20%28Tattered%20Ashen%20Cloak%29.md) |
 | 화려한 깃털 장식 낡은 망토 (Tattered Cloak of Opera) | [화려한 깃털 장식 낡은 망토 (Tattered Cloak of Opera)](화려한%20깃털%20장식%20낡은%20망토%20%28Tattered%20Cloak%20of%20Opera%29.md) |
