@@ -111,4 +111,4 @@
 ## 🔗 관련 문서
 
 - [발두르 헬하운드 (Baldur Hellhound)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/03.발두르헬하운드.md)
-- [검은 잿빛의 폐 봉인 영약 부적 — 발두르 헬하운드의 키르케 봉인패 (Sealed Ashen-Lung Elixir Talisman — Baldur Hellhound's Circe Seal)](../../01-19-3.악세서리/07.부적/검은%20잿빛의%20폐%20봉인%20영약%20부적%20—%20발두르%20헬하운드의%20키르케%20봉인패%20(Sealed%20Ashen-Lung%20Elixir%20Talisman%20—%20Baldur%20Hellhound's%20Circe%20Seal).md)
+- [검은 잿빛의 폐 봉인 영약 부적 — 발두르 헬하운드의 키르케 봉인패 (Sealed Ashen-Lung Elixir Talisman — Baldur Hellhound's Circe Seal)](../../01-19-3.악세서리/07.부적/검은%20잿빛의%20폐%20봉인%20영약%20부적%20—%20발두르%20헬하운드의%20키르케%20봉인패%20(Sealed%20Ashen-Lung%20Elixir%20Talisman%20—%20Baldur%20Hellhound's%20Circe%20Seal).md) *(생성 완료)*
