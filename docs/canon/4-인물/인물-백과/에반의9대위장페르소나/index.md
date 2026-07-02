@@ -9,11 +9,11 @@
 
 | # | 항목 |
 |---|------|
-| 1 | [레온하르트 카스테로 (Leonhardt Castero)](레온하르트카스테로LeonhardtCastero.md) |
+| 1 | [라인하르트 카스테로 (Reinhardt Castero) — 구명: 레온하르트 카스테로](레온하르트카스테로LeonhardtCastero.md) |
 | 2 | [카일락 무라드 (Kylak Murad)](카일락무라드KylakMurad.md) |
-| 3 | [세드릭 아인하르트 (Cedric Einhardt)](세드릭아인하르트CedricEinhardt.md) |
+| 3 | [켄드릭 아인하르트 (Kendrick Einhardt) — 구명: 세드릭 아인하르트](세드릭아인하르트CedricEinhardt.md) |
 | 4 | [빈센트 그라시움 (Vincent Gracium)](빈센트그라시움VincentGracium.md) |
-| 5 | [루시우스 베네딕트 (Lucius Benedict)](루시우스베네딕트LuciusBenedict.md) |
+| 5 | [루카스 베네딕트 (Lucas Benedict) — 구명: 루시우스 베네딕트](루시우스베네딕트LuciusBenedict.md) |
 | 6 | [렉시온 아머하트 (Rexion Armorheart)](렉시온아머하트RexionArmorheart.md) |
 | 7 | [에리히 폰 발디크 (Erich von Baldic)](에리히폰발디크ErichvonBaldic.md) |
 | 8 | [단테스 코르바흐 (Dantes Korbach)](단테스코르바흐DantesKorbach.md) |

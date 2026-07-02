@@ -11,7 +11,7 @@
 |---|------|
 | 1 | [세레나 루미나스 (Serena Luminas)](세레나루미나스SerenaLuminas.md) |
 | 2 | [카일라 아르젠트 (Kyla Argent)](카일라아르젠트KylaArgent.md) |
-| 3 | [벨라시아 문 (Velasia Moon)](벨라시아문VelasiaMoon.md) |
+| 3 | [벨라시아 문 (금단 마법사) — 영웅 백과의 동명 하이엘프 대현자와 별개 인물](벨라시아문VelasiaMoon.md) |
 | 4 | [프레이야 스카디 (Freya Skadi)](프레이야스카디FreyaSkadi.md) |
 | 5 | [릴리스 벨라돈나 (Lilith Belladonna)](릴리스벨라돈나LilithBelladonna.md) |
 | 6 | [엘라리스 코르바 (Elaris Korva)](엘라리스코르바ElarisKorva.md) |
