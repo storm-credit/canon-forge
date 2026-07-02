@@ -6,7 +6,7 @@
 
 # 📚 한손검
 
-## 항목 (145)
+## 항목 (146)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -129,6 +129,7 @@
 | 천둥의 용조 (Claw of Thunder) | [천둥의 용조 (Claw of Thunder)](천둥의%20용조%20%28Claw%20of%20Thunder%29.md) |
 | 철의 칼날 교관검 (Ironblade's Drill Instructor Sword) | [철의 칼날 교관검 (Ironblade's Drill Instructor Sword)](철의%20칼날%20교관검%20%28Ironblade's%20Drill%20Instructor%20Sword%29.md) |
 | 칠흑의 검 '네메시스' (Rasha Crow's Sword of Nemesis) | [칠흑의 검 '네메시스' (Rasha Crow's Sword of Nemesis)](칠흑의%20검%20'네메시스'%20%28Rasha%20Crow's%20Sword%20of%20Nemesis%29.md) |
+| 칠흑의 그림자검 — 세리아 에스더의 야수혈 섀도 블레이드 (Ebony Shadow Blade — Seria Esther's Beastblood Shadow Sword) | [칠흑의 그림자검 — 세리아 에스더의 야수혈 섀도 블레이드 (Ebony Shadow Blade — Seria Esther's Beastblood Shadow Sword)](칠흑의%20그림자검%20—%20세리아%20에스더의%20야수혈%20섀도%20블레이드%20%28Ebony%20Shadow%20Blade%20—%20Seria%20Esther's%20Beastblood%20Shadow%20Sword%29.md) |
 | 칠흑의 흑사도 (Obsidian Death-Blade) | [칠흑의 흑사도 (Obsidian Death-Blade)](칠흑의%20흑사도%20%28Obsidian%20Death-Blade%29.md) |
 | 카니지 (Carnage) | [카니지 (Carnage)](카니지%20%28Carnage%29.md) |
 | 카시엘라 트라이던의 화염 직검 (Flame Sword of 카시엘라 트라이던) | [카시엘라 트라이던의 화염 직검 (Flame Sword of 카시엘라 트라이던)](카시엘라%20트라이던의%20화염%20직검%20%28Flame%20Sword%20of%20카시엘라%20트라이던%29.md) |

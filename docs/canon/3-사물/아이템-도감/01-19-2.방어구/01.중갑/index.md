@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (69)
+## 항목 (72)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -15,6 +15,8 @@
 | 강철 신념의 질량 구속 갑주 (Mass-Restricting Armor of Iron Conviction) | [강철 신념의 질량 구속 갑주 (Mass-Restricting Armor of Iron Conviction)](강철%20신념의%20질량%20구속%20갑주%20%28Mass-Restricting%20Armor%20of%20Iron%20Conviction%29.md) |
 | 강철 요새의 흉갑 (Breastplate of the Iron Fortress) | [강철 요새의 흉갑 (Breastplate of the Iron Fortress)](강철%20요새의%20흉갑%20%28Breastplate%20of%20the%20Iron%20Fortress%29.md) |
 | 강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath') | [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](강철신경%20접속형%20외골격%20'골리앗'%20%28Neural-Linked%20Exoskeleton%20'Goliath'%29.md) |
+| 개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate) | [개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate)](개척지%20상흔의%20야전%20흉갑%20%28Frontier-Scar%20Field%20Breastplate%29.md) |
+| 개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate) | [개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate)](개척지의%20상흔%20야전%20흉갑%20—%20루시안%20루미너스의%20생존%20갑주%20%28Frontier%20Scar%20Breastplate%20—%20Lucian%20Luminous's%20Survival%20Plate%29.md) |
 | 거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon) | [거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon)](거수%20다곤의%20화석%20갑옷%20%28Fossilized%20Carapace%20of%20Dagon%29.md) |
 | 고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal) | [고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal)](고래뼈%20창갑%20빙정석%20판금%20갑주%20%28Whalespine%20Plate%20of%20the%20Glacial%20Crystal%29.md) |
 | 그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre) | [그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre)](그을린%20전귀의%20융해%20저항갑%20%28Charred%20Melting-Resistant%20Armor%20of%20the%20War%20Ogre%29.md) |
@@ -75,6 +77,7 @@
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
 | 판금 갑옷 (Plate Armor) | [판금 갑옷 (Plate Armor)](판금%20갑옷%20%28Plate%20Armor%29.md) |
 | 폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights) | [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](폭풍%20기사단의%20단독%20수장%20갑주%20%28Sole-Commander%20Plate%20of%20the%20Storm%20Knights%29.md) |
+| 피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor) | [피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor)](피와%20맹세의%20야전%20흉갑%20—%20에일린%20실버문의%20개척지%20상흔%20갑주%20%28Field%20Breastplate%20of%20Blood%20and%20Oath%20—%20Eileen%20Silvermoon's%20Frontier-Scar%20Armor%29.md) |
 | 흑요석 선봉대 파괴의 반흉갑 (Obsidian Vanguard Devastation Demi-Plate) | [흑요석 선봉대 파괴의 반흉갑 (Obsidian Vanguard Devastation Demi-Plate)](흑요석%20선봉대%20파괴의%20반흉갑%20%28Obsidian%20Vanguard%20Devastation%20Demi-Plate%29.md) |
 | 흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate) | [흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate)](흑요석%20천공%20흉갑%20%28Core-Pierced%20Obsidian%20Breastplate%29.md) |
 | 흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard) | [흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard)](흑요철%20전선%20전신%20중갑%20%28Iron-Bone%20Full%20Plate%20of%20the%20Vanguard%29.md) |

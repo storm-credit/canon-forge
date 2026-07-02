@@ -6,7 +6,7 @@
 
 # 📚 특수마도구·마력핵
 
-## 항목 (150)
+## 항목 (152)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 강제 인식 링크 발신 손목대 (Forced Brain-Sync Wrist Transmitter) | [강제 인식 링크 발신 손목대 (Forced Brain-Sync Wrist Transmitter)](강제%20인식%20링크%20발신%20손목대%20%28Forced%20Brain-Sync%20Wrist%20Transmitter%29.md) |
 | 강철 인공기도 파이프 (Steel Artificial Trachea Pipe) | [강철 인공기도 파이프 (Steel Artificial Trachea Pipe)](강철%20인공기도%20파이프%20%28Steel%20Artificial%20Trachea%20Pipe%29.md) |
 | 개량 씨앗 허리 주머니 벨트 (Improved Seed Pouch Belt of the Field Medic) | [개량 씨앗 허리 주머니 벨트 (Improved Seed Pouch Belt of the Field Medic)](개량%20씨앗%20허리%20주머니%20벨트%20%28Improved%20Seed%20Pouch%20Belt%20of%20the%20Field%20Medic%29.md) |
+| 거수 소환의 피갈기 정령 팔찌 (Beast-Spirit Blood-Offering Binding Bracelet) | [거수 소환의 피갈기 정령 팔찌 (Beast-Spirit Blood-Offering Binding Bracelet)](거수%20소환의%20피갈기%20정령%20팔찌%20%28Beast-Spirit%20Blood-Offering%20Binding%20Bracelet%29.md) |
 | 거울 도약의 이동형 수정 표식 (Warp-Mark Mirror Crystal of Passage) | [거울 도약의 이동형 수정 표식 (Warp-Mark Mirror Crystal of Passage)](거울%20도약의%20이동형%20수정%20표식%20%28Warp-Mark%20Mirror%20Crystal%20of%20Passage%29.md) |
 | 결계사의 얼음 송곳 (Barrier-Mage's Ice Awl Stylus) | [결계사의 얼음 송곳 (Barrier-Mage's Ice Awl Stylus)](결계사의%20얼음%20송곳%20%28Barrier-Mage's%20Ice%20Awl%20Stylus%29.md) |
 | 고농축 마나 박하사탕 비상 통 (Mana Mint Emergency Tin) | [고농축 마나 박하사탕 비상 통 (Mana Mint Emergency Tin)](고농축%20마나%20박하사탕%20비상%20통%20%28Mana%20Mint%20Emergency%20Tin%29.md) |
@@ -79,6 +80,7 @@
 | 부서진 금장 모래시계 (Shattered Gilded Hourglass) | [부서진 금장 모래시계 (Shattered Gilded Hourglass)](부서진%20금장%20모래시계%20%28Shattered%20Gilded%20Hourglass%29.md) |
 | 불면 처방 키트 — 연산 촉진제와 수면 유도 진정제 (Insomnia Prescription Kit — Cognitive Stimulant and Sleep-Induction Sedative) | [불면 처방 키트 — 연산 촉진제와 수면 유도 진정제 (Insomnia Prescription Kit — Cognitive Stimulant and Sleep-Induction Sedative)](불면%20처방%20키트%20—%20연산%20촉진제와%20수면%20유도%20진정제%20%28Insomnia%20Prescription%20Kit%20—%20Cognitive%20Stimulant%20and%20Sleep-Induction%20Sedative%29.md) |
 | 불면의 뇌수 회중시계 (Sleepless Brain's Pocket Watch) | [불면의 뇌수 회중시계 (Sleepless Brain's Pocket Watch)](불면의%20뇌수%20회중시계%20%28Sleepless%20Brain's%20Pocket%20Watch%29.md) |
+| 사령 각인의 흑철 서판 — 다크홈의 오래된 맹세 (Necrotic Iron Tablet of Darkholm's Ancient Oath) | [사령 각인의 흑철 서판 — 다크홈의 오래된 맹세 (Necrotic Iron Tablet of Darkholm's Ancient Oath)](사령%20각인의%20흑철%20서판%20—%20다크홈의%20오래된%20맹세%20%28Necrotic%20Iron%20Tablet%20of%20Darkholm's%20Ancient%20Oath%29.md) |
 | 상업 연금술 전투 은화 '아르젠 코인' (Argen Combat Coins of Commercial Alchemy) | [상업 연금술 전투 은화 '아르젠 코인' (Argen Combat Coins of Commercial Alchemy)](상업%20연금술%20전투%20은화%20'아르젠%20코인'%20%28Argen%20Combat%20Coins%20of%20Commercial%20Alchemy%29.md) |
 | 색약성 리트머스 종이 전보 (Litmus Color-Code Scroll) | [색약성 리트머스 종이 전보 (Litmus Color-Code Scroll)](색약성%20리트머스%20종이%20전보%20%28Litmus%20Color-Code%20Scroll%29.md) |
 | 성흔 봉인 붕대 (Stigmata Sealing Bandage) | [성흔 봉인 붕대 (Stigmata Sealing Bandage)](성흔%20봉인%20붕대%20%28Stigmata%20Sealing%20Bandage%29.md) |

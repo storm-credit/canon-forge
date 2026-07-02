@@ -6,7 +6,7 @@
 
 # 📚 반지
 
-## 항목 (51)
+## 항목 (57)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -25,6 +25,8 @@
 | 마나 파동 감지의 재판관 인장 반지 (Justicar's Signet Ring of Mana-Wave Detection) | [마나 파동 감지의 재판관 인장 반지 (Justicar's Signet Ring of Mana-Wave Detection)](마나%20파동%20감지의%20재판관%20인장%20반지%20%28Justicar's%20Signet%20Ring%20of%20Mana-Wave%20Detection%29.md) |
 | 만년설 공명의 빙혼 인장 반지 (Permafrost Resonance Ice-Soul Signet) | [만년설 공명의 빙혼 인장 반지 (Permafrost Resonance Ice-Soul Signet)](만년설%20공명의%20빙혼%20인장%20반지%20%28Permafrost%20Resonance%20Ice-Soul%20Signet%29.md) |
 | 망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke) | [망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke)](망각의%20연기%20진주%20반지%20%28Pearl%20Ring%20of%20Oblivion%20Smoke%29.md) |
+| 맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood Oath Covenant Ring — Ashen Shackle) | [맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood Oath Covenant Ring — Ashen Shackle)](맹세의%20피%20서약반%20—%20검은%20잿빛%20족쇄%20%28Blood%20Oath%20Covenant%20Ring%20—%20Ashen%20Shackle%29.md) |
+| 맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood-Oath Covenant Ring — Ashen Shackle) | [맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood-Oath Covenant Ring — Ashen Shackle)](맹세의%20피%20서약반%20—%20검은%20잿빛%20족쇄%20%28Blood-Oath%20Covenant%20Ring%20—%20Ashen%20Shackle%29.md) |
 | 무게 중심의 마그넷 링 (Magnet Ring of Gravity Base) | [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](무게%20중심의%20마그넷%20링%20%28Magnet%20Ring%20of%20Gravity%20Base%29.md) |
 | 보랏빛 실뜨기 저주 인장 반지 (Violet Cradle-String Curse Sigil Ring) | [보랏빛 실뜨기 저주 인장 반지 (Violet Cradle-String Curse Sigil Ring)](보랏빛%20실뜨기%20저주%20인장%20반지%20%28Violet%20Cradle-String%20Curse%20Sigil%20Ring%29.md) |
 | 보증인의 계약 인장 반지 (Surety's Contract Signet Ring) | [보증인의 계약 인장 반지 (Surety's Contract Signet Ring)](보증인의%20계약%20인장%20반지%20%28Surety's%20Contract%20Signet%20Ring%29.md) |
@@ -42,6 +44,8 @@
 | 심연 수직 도약의 거미줄 기동 반지 (Abyssal Vertical-Leap Spider-Wire Ring) | [심연 수직 도약의 거미줄 기동 반지 (Abyssal Vertical-Leap Spider-Wire Ring)](심연%20수직%20도약의%20거미줄%20기동%20반지%20%28Abyssal%20Vertical-Leap%20Spider-Wire%20Ring%29.md) |
 | 아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross) | [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](아츠%20교차의%20시간%20각인%20반지%20%28Chrono-Engraved%20Ring%20of%20the%20Art-Cross%29.md) |
 | 암살자용 은반지 '에코 링' (Silver Echo Ring — Assassin's Whisper) | [암살자용 은반지 '에코 링' (Silver Echo Ring — Assassin's Whisper)](암살자용%20은반지%20'에코%20링'%20%28Silver%20Echo%20Ring%20—%20Assassin's%20Whisper%29.md) |
+| 야생 정령 계약 혈인 반지 — 미하일 루인스의 생명 연소 서약환 (Wild Spirit Pact Blood-Brand Ring — Mikhail Ruins's Life-Burn Oath Band) | [야생 정령 계약 혈인 반지 — 미하일 루인스의 생명 연소 서약환 (Wild Spirit Pact Blood-Brand Ring — Mikhail Ruins's Life-Burn Oath Band)](야생%20정령%20계약%20혈인%20반지%20—%20미하일%20루인스의%20생명%20연소%20서약환%20%28Wild%20Spirit%20Pact%20Blood-Brand%20Ring%20—%20Mikhail%20Ruins's%20Life-Burn%20Oath%20Band%29.md) |
+| 야수 결속의 혈서 서약환 — 미하일 할로윈의 가이아나 계약반지 (Beastbound Blood-Oath Ring — Mikhail Halloween's Gaiana Pact Band) | [야수 결속의 혈서 서약환 — 미하일 할로윈의 가이아나 계약반지 (Beastbound Blood-Oath Ring — Mikhail Halloween's Gaiana Pact Band)](야수%20결속의%20혈서%20서약환%20—%20미하일%20할로윈의%20가이아나%20계약반지%20%28Beastbound%20Blood-Oath%20Ring%20—%20Mikhail%20Halloween's%20Gaiana%20Pact%20Band%29.md) |
 | 억압된 족쇄 링 (Shackle Ring of the Repressed) | [억압된 족쇄 링 (Shackle Ring of the Repressed)](억압된%20족쇄%20링%20%28Shackle%20Ring%20of%20the%20Repressed%29.md) |
 | 엘도라 왕가의 뿌리 인장 반지 (Root Signet of House Eldora) | [엘도라 왕가의 뿌리 인장 반지 (Root Signet of House Eldora)](엘도라%20왕가의%20뿌리%20인장%20반지%20%28Root%20Signet%20of%20House%20Eldora%29.md) |
 | 영도 순환의 빙해 결속 반지 (Absolute-Zero Circulation Ring of Frost-Bond) | [영도 순환의 빙해 결속 반지 (Absolute-Zero Circulation Ring of Frost-Bond)](영도%20순환의%20빙해%20결속%20반지%20%28Absolute-Zero%20Circulation%20Ring%20of%20Frost-Bond%29.md) |
@@ -56,8 +60,10 @@
 | 청동 류트 골무 (Bronze Lute Thimble) | [청동 류트 골무 (Bronze Lute Thimble)](청동%20류트%20골무%20%28Bronze%20Lute%20Thimble%29.md) |
 | 크리오상귀스 대족장 빙결 인장 반지 (Frostblood Sovereign's Signet Ring of Clan Cryosanguis) | [크리오상귀스 대족장 빙결 인장 반지 (Frostblood Sovereign's Signet Ring of Clan Cryosanguis)](크리오상귀스%20대족장%20빙결%20인장%20반지%20%28Frostblood%20Sovereign's%20Signet%20Ring%20of%20Clan%20Cryosanguis%29.md) |
 | 포지마스터 그림자 코어의 성흔 각인 반지 (Stigma Brand Ring of the Forgemaster's Shadow Core) | [포지마스터 그림자 코어의 성흔 각인 반지 (Stigma Brand Ring of the Forgemaster's Shadow Core)](포지마스터%20그림자%20코어의%20성흔%20각인%20반지%20%28Stigma%20Brand%20Ring%20of%20the%20Forgemaster's%20Shadow%20Core%29.md) |
+| 피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent) | [피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent)](피를%20태운%20맹세의%20흑철%20서약반%20—%20꺾여도%20끊기지%20않는%20%28Blood-Fired%20Oath%20Ring%20of%20Black%20Iron%20—%20Unbreakable%20Even%20When%20Bent%29.md) |
 | 피의 맹세 황제 인장 반지 (Emperor's Blood-Oath Signet Ring) | [피의 맹세 황제 인장 반지 (Emperor's Blood-Oath Signet Ring)](피의%20맹세%20황제%20인장%20반지%20%28Emperor's%20Blood-Oath%20Signet%20Ring%29.md) |
 | 피의 장부 인장 반지 (Signet Ring of the Blood Ledger) | [피의 장부 인장 반지 (Signet Ring of the Blood Ledger)](피의%20장부%20인장%20반지%20%28Signet%20Ring%20of%20the%20Blood%20Ledger%29.md) |
 | 핏빛 박쥐 진동 반지 (Blood Bat Vibration Ring) | [핏빛 박쥐 진동 반지 (Blood Bat Vibration Ring)](핏빛%20박쥐%20진동%20반지%20%28Blood%20Bat%20Vibration%20Ring%29.md) |
 | 현실 좌표 고착의 라벤더 봉인환 (Lavender Seal-Ring of Reality Anchoring) | [현실 좌표 고착의 라벤더 봉인환 (Lavender Seal-Ring of Reality Anchoring)](현실%20좌표%20고착의%20라벤더%20봉인환%20%28Lavender%20Seal-Ring%20of%20Reality%20Anchoring%29.md) |
+| 혈석 충성 인장반 '스텔라리스의 피 서약' (Blood-Gem Loyalty Signet Ring 'Stellaris Blood Oath') | [혈석 충성 인장반 '스텔라리스의 피 서약' (Blood-Gem Loyalty Signet Ring 'Stellaris Blood Oath')](혈석%20충성%20인장반%20'스텔라리스의%20피%20서약'%20%28Blood-Gem%20Loyalty%20Signet%20Ring%20'Stellaris%20Blood%20Oath'%29.md) |
 | 황제의 마나 각인 인장반지 (Imperial Mana-Brand Signet Ring) | [황제의 마나 각인 인장반지 (Imperial Mana-Brand Signet Ring)](황제의%20마나%20각인%20인장반지%20%28Imperial%20Mana-Brand%20Signet%20Ring%29.md) |

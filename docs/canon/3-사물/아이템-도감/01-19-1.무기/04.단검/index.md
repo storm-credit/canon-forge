@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (137)
+## 항목 (138)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -141,6 +141,7 @@
 | 행운의 단검 (Dagger of Luck) | [행운의 단검 (Dagger of Luck)](행운의%20단검%20%28Dagger%20of%20Luck%29.md) |
 | 혈생체 해부 메스 (Hemobiomatic Dissection Scalpel) | [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](혈생체%20해부%20메스%20%28Hemobiomatic%20Dissection%20Scalpel%29.md) |
 | 혈서약 은장도 다발 — 피의 족쇄 나이프파이팅 단도 (Silver Blade Bundle — Blood-Shackle Knife-Fighting Daggers) | [혈서약 은장도 다발 — 피의 족쇄 나이프파이팅 단도 (Silver Blade Bundle — Blood-Shackle Knife-Fighting Daggers)](혈서약%20은장도%20다발%20—%20피의%20족쇄%20나이프파이팅%20단도%20%28Silver%20Blade%20Bundle%20—%20Blood-Shackle%20Knife-Fighting%20Daggers%29.md) |
+| 혈잉크 야전 단검 — 이사벨 노크의 블러드 어새신 나이프 (Blood-Ink Field Dagger of Isabel Nork) | [혈잉크 야전 단검 — 이사벨 노크의 블러드 어새신 나이프 (Blood-Ink Field Dagger of Isabel Nork)](혈잉크%20야전%20단검%20—%20이사벨%20노크의%20블러드%20어새신%20나이프%20%28Blood-Ink%20Field%20Dagger%20of%20Isabel%20Nork%29.md) |
 | 환영의 단검 (Dagger of Phantom) | [환영의 단검 (Dagger of Phantom)](환영의%20단검%20%28Dagger%20of%20Phantom%29.md) |
 | 환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger) | [환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)](환영의%20풍압%20단검%20'트윈%20스왈로우'%20%28Twin%20Swallow%20Dagger%29.md) |
 | 회계사의 만년필 (Accountant's Pen) | [회계사의 만년필 (Accountant's Pen)](회계사의%20만년필%20%28Accountant's%20Pen%29.md) |

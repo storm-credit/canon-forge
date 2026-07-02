@@ -6,11 +6,12 @@
 
 # 📚 활·석궁
 
-## 항목 (50)
+## 항목 (53)
 
 | 아이템 | 링크 |
 |--------|------|
 | 강철 바람의 정찰 석궁 (Steelwind's Recon Crossbow) | [강철 바람의 정찰 석궁 (Steelwind's Recon Crossbow)](강철%20바람의%20정찰%20석궁%20%28Steelwind's%20Recon%20Crossbow%29.md) |
+| 개척자의 극관통 헤비 크로스보우 '분쇄탄' (Pioneer's Hyper-Penetration Heavy Crossbow 'Skull-Crusher') | [개척자의 극관통 헤비 크로스보우 '분쇄탄' (Pioneer's Hyper-Penetration Heavy Crossbow 'Skull-Crusher')](개척자의%20극관통%20헤비%20크로스보우%20'분쇄탄'%20%28Pioneer's%20Hyper-Penetration%20Heavy%20Crossbow%20'Skull-Crusher'%29.md) |
 | 검은 쐐기 (Black Bolt) | [검은 쐐기 (Black Bolt)](검은%20쐐기%20%28Black%20Bolt%29.md) |
 | 게일 보우 (Gale Bow) | [게일 보우 (Gale Bow)](게일%20보우%20%28Gale%20Bow%29.md) |
 | 겨울새의 거대 장궁 (Longbow of the Winter Bird) | [겨울새의 거대 장궁 (Longbow of the Winter Bird)](겨울새의%20거대%20장궁%20%28Longbow%20of%20the%20Winter%20Bird%29.md) |
@@ -28,6 +29,7 @@
 | 바람의 속삭임 (Whispering Wind) | [바람의 속삭임 (Whispering Wind)](바람의%20속삭임%20%28Whispering%20Wind%29.md) |
 | 벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus) | [벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus)](벤투스의%20고장력%20다면체%28Polyhedron%29%20장궁%20%28High-Tension%20Polyhedron%20Longbow%20of%20Ventus%29.md) |
 | 별빛 장궁 (Starlight Longbow) | [별빛 장궁 (Starlight Longbow)](별빛%20장궁%20%28Starlight%20Longbow%29.md) |
+| 생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen) | [생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen)](생명불사른%20야전%20저격궁%20—%20베클렌의%20사냥꾼%20활%20%28Blood-Burning%20Field%20Sniper%20Bow%20of%20Becklen%29.md) |
 | 샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall) | [샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall)](샤를리아%20나이트폴의%20심연%20그림자%20활%20%28Abyssal%20Shadow%20Bow%20of%20Charlia%20Nightfall%29.md) |
 | 선스플리터 (Sunsplitter) | [선스플리터 (Sunsplitter)](선스플리터%20%28Sunsplitter%29.md) |
 | 세계수의 가지 (Branch of the World Tree) | [세계수의 가지 (Branch of the World Tree)](세계수의%20가지%20%28Branch%20of%20the%20World%20Tree%29.md) |
@@ -42,6 +44,7 @@
 | 아르겐텀 (Argentum) | [아르겐텀 (Argentum)](아르겐텀%20%28Argentum%29.md) |
 | 아르구스 (Argus) | [아르구스 (Argus)](아르구스%20%28Argus%29.md) |
 | 아스텔의 항성궁 (Stellar Bow of Astel) | [아스텔의 항성궁 (Stellar Bow of Astel)](아스텔의%20항성궁%20%28Stellar%20Bow%20of%20Astel%29.md) |
+| 어둠을 꿰뚫는 마나 석궁 '잿빛 침묵' (Dark-Piercing Mana Crossbow 'Ashen Silence') | [어둠을 꿰뚫는 마나 석궁 '잿빛 침묵' (Dark-Piercing Mana Crossbow 'Ashen Silence')](어둠을%20꿰뚫는%20마나%20석궁%20'잿빛%20침묵'%20%28Dark-Piercing%20Mana%20Crossbow%20'Ashen%20Silence'%29.md) |
 | 여명의 활 (Bow of Dawn) | [여명의 활 (Bow of Dawn)](여명의%20활%20%28Bow%20of%20Dawn%29.md) |
 | 와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind) | [와일드윈드의 숨결 (Rendra Wildwind's Breath of Wildwind)](와일드윈드의%20숨결%20%28Rendra%20Wildwind's%20Breath%20of%20Wildwind%29.md) |
 | 은빛 달의 투사궁 (Projection Bow of the Silver Moon) | [은빛 달의 투사궁 (Projection Bow of the Silver Moon)](은빛%20달의%20투사궁%20%28Projection%20Bow%20of%20the%20Silver%20Moon%29.md) |

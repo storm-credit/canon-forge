@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (282)
+## 항목 (283)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -201,6 +201,7 @@
 | 위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament) | [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](위버의%20비탄%20실패%20릴%20%28Spindle%20Reel%20of%20Weaver's%20Lament%29.md) |
 | 위상 별자리 투영 성도 (Phase Constellation Map Projection) | [위상 별자리 투영 성도 (Phase Constellation Map Projection)](위상%20별자리%20투영%20성도%20%28Phase%20Constellation%20Map%20Projection%29.md) |
 | 위선의 램프 (Lamp of Hypocrisy) | [위선의 램프 (Lamp of Hypocrisy)](위선의%20램프%20%28Lamp%20of%20Hypocrisy%29.md) |
+| 육분의 야전 헥스 측량판 (Hex-Grid Field Survey Sextant) | [육분의 야전 헥스 측량판 (Hex-Grid Field Survey Sextant)](육분의%20야전%20헥스%20측량판%20%28Hex-Grid%20Field%20Survey%20Sextant%29.md) |
 | 은빛 부채 (Silver Fan) | [은빛 부채 (Silver Fan)](은빛%20부채%20%28Silver%20Fan%29.md) |
 | 이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus) | [이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus)](이그니투스의%20저주받은%20늑골장%20%28Cursed%20Rib-Lance%20of%20Ignitus%29.md) |
 | 이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor) | [이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor)](이단%20심판관의%20검은%20묵주망%20%28Black%20Rosary%20Net%20of%20the%20Heresy%20Inquisitor%29.md) |

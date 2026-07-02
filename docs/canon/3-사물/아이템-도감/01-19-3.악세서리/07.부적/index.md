@@ -6,11 +6,17 @@
 
 # 📚 부적
 
-## 항목 (71)
+## 항목 (101)
 
 | 아이템 | 링크 |
 |--------|------|
 | 부적 (Amulets) | [부적 (Amulets)](08.부적.md) |
+| 검은 잿빛 봉인 혈서 부적 '폐의 맹세' (Blood-Oath Seal Charm 'Lung Vow') | [검은 잿빛 봉인 혈서 부적 '폐의 맹세' (Blood-Oath Seal Charm 'Lung Vow')](검은%20잿빛%20봉인%20혈서%20부적%20'폐의%20맹세'%20%28Blood-Oath%20Seal%20Charm%20'Lung%20Vow'%29.md) |
+| 검은 잿빛 폐의 저주 봉인낙인 '피의 서약' (Blood-Oath Brand Seal of the Lungs of Black Ash) | [검은 잿빛 폐의 저주 봉인낙인 '피의 서약' (Blood-Oath Brand Seal of the Lungs of Black Ash)](검은%20잿빛%20폐의%20저주%20봉인낙인%20'피의%20서약'%20%28Blood-Oath%20Brand%20Seal%20of%20the%20Lungs%20of%20Black%20Ash%29.md) |
+| 검은 잿빛의 폐 봉인 부적 '맹세의 숨결' (Black Ash Lung Seal Charm, Breath of the Oath) | [검은 잿빛의 폐 봉인 부적 '맹세의 숨결' (Black Ash Lung Seal Charm, Breath of the Oath)](검은%20잿빛의%20폐%20봉인%20부적%20'맹세의%20숨결'%20%28Black%20Ash%20Lung%20Seal%20Charm,%20Breath%20of%20the%20Oath%29.md) |
+| 검은 잿빛의 폐 봉인 부적 — 미하일의 혈서 봉인패 (Mikhail's Blood-Oath Lung Seal Talisman) | [검은 잿빛의 폐 봉인 부적 — 미하일의 혈서 봉인패 (Mikhail's Blood-Oath Lung Seal Talisman)](검은%20잿빛의%20폐%20봉인%20부적%20—%20미하일의%20혈서%20봉인패%20%28Mikhail's%20Blood-Oath%20Lung%20Seal%20Talisman%29.md) |
+| 검은 잿빛의 폐 봉인 부적 — 아이리스의 혈서 봉인패 (Iris Ruins's Blood-Oath Lung Seal Talisman) | [검은 잿빛의 폐 봉인 부적 — 아이리스의 혈서 봉인패 (Iris Ruins's Blood-Oath Lung Seal Talisman)](검은%20잿빛의%20폐%20봉인%20부적%20—%20아이리스의%20혈서%20봉인패%20%28Iris%20Ruins's%20Blood-Oath%20Lung%20Seal%20Talisman%29.md) |
+| 검은 잿빛의 폐 봉인 혈인패 — 미하일 할로윈의 저주 억제 부적 (Mikhail Halloween's Blood-Brand Lung Seal Talisman) | [검은 잿빛의 폐 봉인 혈인패 — 미하일 할로윈의 저주 억제 부적 (Mikhail Halloween's Blood-Brand Lung Seal Talisman)](검은%20잿빛의%20폐%20봉인%20혈인패%20—%20미하일%20할로윈의%20저주%20억제%20부적%20%28Mikhail%20Halloween's%20Blood-Brand%20Lung%20Seal%20Talisman%29.md) |
 | 고대 이단 심문의 만 겹 봉인 저주 부적 (Ten-Thousand Sealing Curse Talismans of the Ancient Inquisition) | [고대 이단 심문의 만 겹 봉인 저주 부적 (Ten-Thousand Sealing Curse Talismans of the Ancient Inquisition)](고대%20이단%20심문의%20만%20겹%20봉인%20저주%20부적%20%28Ten-Thousand%20Sealing%20Curse%20Talismans%20of%20the%20Ancient%20Inquisition%29.md) |
 | 골격 산화 억제 마도 지지대 (Bone-Oxidation Suppression Brace) | [골격 산화 억제 마도 지지대 (Bone-Oxidation Suppression Brace)](골격%20산화%20억제%20마도%20지지대%20%28Bone-Oxidation%20Suppression%20Brace%29.md) |
 | 골밀도 이탈 억제 석회화 붕대 (Calcification-Suppression Binding) | [골밀도 이탈 억제 석회화 붕대 (Calcification-Suppression Binding)](골밀도%20이탈%20억제%20석회화%20붕대%20%28Calcification-Suppression%20Binding%29.md) |
@@ -29,6 +35,7 @@
 | 달빛 늑대 송곳니 (Moonlit Wolf Fangs) | [달빛 늑대 송곳니 (Moonlit Wolf Fangs)](달빛%20늑대%20송곳니%20%28Moonlit%20Wolf%20Fangs%29.md) |
 | 두루마리 전이 통신 봉투 (Scroll-Transfer Dispatch Envelope) | [두루마리 전이 통신 봉투 (Scroll-Transfer Dispatch Envelope)](두루마리%20전이%20통신%20봉투%20%28Scroll-Transfer%20Dispatch%20Envelope%29.md) |
 | 루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain) | [루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain)](루거의%20최초%20복종%20목줄%20—%20녹슨%20파열%20가시%20쇠사슬%20%28Luger's%20First%20Submission%20Collar%20—%20Rusted%20Spike-Burst%20Iron%20Chain%29.md) |
+| 맹세의 혈인 — 검은 잿빛 서약 부적 (Blood Seal of the Oath — Black Ash Vow Charm) | [맹세의 혈인 — 검은 잿빛 서약 부적 (Blood Seal of the Oath — Black Ash Vow Charm)](맹세의%20혈인%20—%20검은%20잿빛%20서약%20부적%20%28Blood%20Seal%20of%20the%20Oath%20—%20Black%20Ash%20Vow%20Charm%29.md) |
 | 메디시스 가문의 혈인 봉인 (Bloodseal of House Medicis) | [메디시스 가문의 혈인 봉인 (Bloodseal of House Medicis)](메디시스%20가문의%20혈인%20봉인%20%28Bloodseal%20of%20House%20Medicis%29.md) |
 | 무죄 추정의 원칙 장막 (Mantle of Presumed Innocence) | [무죄 추정의 원칙 장막 (Mantle of Presumed Innocence)](무죄%20추정의%20원칙%20장막%20%28Mantle%20of%20Presumed%20Innocence%29.md) |
 | 바다이끼 연초 지함 '가라앉아라' (Sea-Moss Cigar Case 'Sink') | [바다이끼 연초 지함 '가라앉아라' (Sea-Moss Cigar Case 'Sink')](바다이끼%20연초%20지함%20'가라앉아라'%20%28Sea-Moss%20Cigar%20Case%20'Sink'%29.md) |
@@ -62,11 +69,16 @@
 | 은빛 매 기사단의 마지막 깃털 (Last Feather of the Silver Hawk Order) | [은빛 매 기사단의 마지막 깃털 (Last Feather of the Silver Hawk Order)](은빛%20매%20기사단의%20마지막%20깃털%20%28Last%20Feather%20of%20the%20Silver%20Hawk%20Order%29.md) |
 | 은하수 문신 (Tattoo of the Milky Way) | [은하수 문신 (Tattoo of the Milky Way)](은하수%20문신%20%28Tattoo%20of%20the%20Milky%20Way%29.md) |
 | 이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers) | [이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers)](이름%20없는%20병사들의%20진흙%20부적%20%28Mud%20Talisman%20of%20the%20Nameless%20Soldiers%29.md) |
+| 잿빛 폐의 봉인 생명 부적 '검은 잿빛의 맹서' (Ashen Lung Vitality Seal Talisman 'Vow of Black Ash') | [잿빛 폐의 봉인 생명 부적 '검은 잿빛의 맹서' (Ashen Lung Vitality Seal Talisman 'Vow of Black Ash')](잿빛%20폐의%20봉인%20생명%20부적%20'검은%20잿빛의%20맹서'%20%28Ashen%20Lung%20Vitality%20Seal%20Talisman%20'Vow%20of%20Black%20Ash'%29.md) |
+| 잿빛 폐의 피 맹세 부적 — 아이리스 그레이슨의 혈서 봉인 (Ash-Lung Blood-Oath Talisman — Iris Grayson's Blood-Writ Seal) | [잿빛 폐의 피 맹세 부적 — 아이리스 그레이슨의 혈서 봉인 (Ash-Lung Blood-Oath Talisman — Iris Grayson's Blood-Writ Seal)](잿빛%20폐의%20피%20맹세%20부적%20—%20아이리스%20그레이슨의%20혈서%20봉인%20%28Ash-Lung%20Blood-Oath%20Talisman%20—%20Iris%20Grayson's%20Blood-Writ%20Seal%29.md) |
+| 잿빛 폐의 혈서 저주 억제 부적 '검은 맹세' (Blood-Writ Curse-Suppress Talisman of the Ashen Lung 'The Black Vow') | [잿빛 폐의 혈서 저주 억제 부적 '검은 맹세' (Blood-Writ Curse-Suppress Talisman of the Ashen Lung 'The Black Vow')](잿빛%20폐의%20혈서%20저주%20억제%20부적%20'검은%20맹세'%20%28Blood-Writ%20Curse-Suppress%20Talisman%20of%20the%20Ashen%20Lung%20'The%20Black%20Vow'%29.md) |
 | 전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen) | [전사자 군번줄 애도 부적 (Dog Tag Mourning Charm of the Fallen)](전사자%20군번줄%20애도%20부적%20%28Dog%20Tag%20Mourning%20Charm%20of%20the%20Fallen%29.md) |
 | 전후 혈주 럼 통 (Battle-Rum Cask of Crimson Thirst) | [전후 혈주 럼 통 (Battle-Rum Cask of Crimson Thirst)](전후%20혈주%20럼%20통%20%28Battle-Rum%20Cask%20of%20Crimson%20Thirst%29.md) |
 | 종교백과 - 중력을 이끄는 부서진 자석핵 (Broken Magnet-Core of Gravity) | [종교백과 - 중력을 이끄는 부서진 자석핵 (Broken Magnet-Core of Gravity)](종교백과%20-%20중력을%20이끄는%20부서진%20자석핵%20%28Broken%20Magnet-Core%20of%20Gravity%29.md) |
 | 차원 용접의 십자 은못 세트 (Cross Silver Nail Set of Dimensional Welding) | [차원 용접의 십자 은못 세트 (Cross Silver Nail Set of Dimensional Welding)](차원%20용접의%20십자%20은못%20세트%20%28Cross%20Silver%20Nail%20Set%20of%20Dimensional%20Welding%29.md) |
 | 체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather) | [체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather)](체온%20동기화%20빛%20깃털%20%28Warmth-Sync%20Glowing%20Feather%29.md) |
+| 충성의 혈서 맹세패 (Blood-Oath Loyalty Tablet) | [충성의 혈서 맹세패 (Blood-Oath Loyalty Tablet)](충성의%20혈서%20맹세패%20%28Blood-Oath%20Loyalty%20Tablet%29.md) |
+| 칠흑의 저주 각인 — 핏빛 폐의 맹세구 (Cursed Seal of the Ashen Lungs Oath-Vow) | [칠흑의 저주 각인 — 핏빛 폐의 맹세구 (Cursed Seal of the Ashen Lungs Oath-Vow)](칠흑의%20저주%20각인%20—%20핏빛%20폐의%20맹세구%20%28Cursed%20Seal%20of%20the%20Ashen%20Lungs%20Oath-Vow%29.md) |
 | 칼바람 진공 파장 전령 (Razor-Wind Vacuum-Wave Messenger) | [칼바람 진공 파장 전령 (Razor-Wind Vacuum-Wave Messenger)](칼바람%20진공%20파장%20전령%20%28Razor-Wind%20Vacuum-Wave%20Messenger%29.md) |
 | 코르디스 가문의 야성 주술 문신 인장 (Wild Rune Tattoo Seal of House Cordis) | [코르디스 가문의 야성 주술 문신 인장 (Wild Rune Tattoo Seal of House Cordis)](코르디스%20가문의%20야성%20주술%20문신%20인장%20%28Wild%20Rune%20Tattoo%20Seal%20of%20House%20Cordis%29.md) |
 | 크로노스 대도서관 관장 봉인 열쇠 (Grand Library Warden's Sealed Key of Chronos) | [크로노스 대도서관 관장 봉인 열쇠 (Grand Library Warden's Sealed Key of Chronos)](크로노스%20대도서관%20관장%20봉인%20열쇠%20%28Grand%20Library%20Warden's%20Sealed%20Key%20of%20Chronos%29.md) |
@@ -75,9 +87,27 @@
 | 포자 변색 통신병 (Color-Shift Spore Communication Vial) | [포자 변색 통신병 (Color-Shift Spore Communication Vial)](포자%20변색%20통신병%20%28Color-Shift%20Spore%20Communication%20Vial%29.md) |
 | 폭풍 기사단의 서약석 (Oath Stone of the Storm Knights) | [폭풍 기사단의 서약석 (Oath Stone of the Storm Knights)](폭풍%20기사단의%20서약석%20%28Oath%20Stone%20of%20the%20Storm%20Knights%29.md) |
 | 폭풍 부족장의 전투 허리대 (War-Belt of the Storm Chieftain) | [폭풍 부족장의 전투 허리대 (War-Belt of the Storm Chieftain)](폭풍%20부족장의%20전투%20허리대%20%28War-Belt%20of%20the%20Storm%20Chieftain%29.md) |
+| 피로 쓰인 맹세의 손목 결박 (Blood-Written Oath Wrist Binding of Silvia Halloween) | [피로 쓰인 맹세의 손목 결박 (Blood-Written Oath Wrist Binding of Silvia Halloween)](피로%20쓰인%20맹세의%20손목%20결박%20%28Blood-Written%20Oath%20Wrist%20Binding%20of%20Silvia%20Halloween%29.md) |
+| 피로 쓰인 맹세의 혈판 '잿빛 폐의 봉인' (Blood-Written Vow Plate 'Seal of Ash Lungs') | [피로 쓰인 맹세의 혈판 '잿빛 폐의 봉인' (Blood-Written Vow Plate 'Seal of Ash Lungs')](피로%20쓰인%20맹세의%20혈판%20'잿빛%20폐의%20봉인'%20%28Blood-Written%20Vow%20Plate%20'Seal%20of%20Ash%20Lungs'%29.md) |
+| 피로 쓰인 맹세의 흑요 봉인패 — 그레이슨의 잿빛 폐 (Black Obsidian Seal-Plate of the Blood-Written Oath — Grayson's Ashen Lung) | [피로 쓰인 맹세의 흑요 봉인패 — 그레이슨의 잿빛 폐 (Black Obsidian Seal-Plate of the Blood-Written Oath — Grayson's Ashen Lung)](피로%20쓰인%20맹세의%20흑요%20봉인패%20—%20그레이슨의%20잿빛%20폐%20%28Black%20Obsidian%20Seal-Plate%20of%20the%20Blood-Written%20Oath%20—%20Grayson's%20Ashen%20Lung%29.md) |
+| 피를 불태운 맹세의 각인 — 팔콘의 혈서 부적 (Blood-Oath Brand of the Burning Vow — Falcon's Blood-Script Amulet) | [피를 불태운 맹세의 각인 — 팔콘의 혈서 부적 (Blood-Oath Brand of the Burning Vow — Falcon's Blood-Script Amulet)](피를%20불태운%20맹세의%20각인%20—%20팔콘의%20혈서%20부적%20%28Blood-Oath%20Brand%20of%20the%20Burning%20Vow%20—%20Falcon's%20Blood-Script%20Amulet%29.md) |
 | 피와 살점이 말라붙은 50kg짜리 마력의 코뚜레 (Nose Ring of the Chieftain) | [피와 살점이 말라붙은 50kg짜리 마력의 코뚜레 (Nose Ring of the Chieftain)](피와%20살점이%20말라붙은%2050kg짜리%20마력의%20코뚜레%20%28Nose%20Ring%20of%20the%20Chieftain%29.md) |
+| 피의 맹세 봉인 부적 '검은 폐의 자물쇠' (Blood-Oath Seal Charm 'Lock of the Black Lungs') | [피의 맹세 봉인 부적 '검은 폐의 자물쇠' (Blood-Oath Seal Charm 'Lock of the Black Lungs')](피의%20맹세%20봉인%20부적%20'검은%20폐의%20자물쇠'%20%28Blood-Oath%20Seal%20Charm%20'Lock%20of%20the%20Black%20Lungs'%29.md) |
+| 피의 맹세 봉인 혈판 '검은 잿빛의 서약' (Blood-Oath Seal Plate 'Vow of Black Ash') | [피의 맹세 봉인 혈판 '검은 잿빛의 서약' (Blood-Oath Seal Plate 'Vow of Black Ash')](피의%20맹세%20봉인%20혈판%20'검은%20잿빛의%20서약'%20%28Blood-Oath%20Seal%20Plate%20'Vow%20of%20Black%20Ash'%29.md) |
+| 핏빛 맹세 봉인 부적 '잿빛 폐의 서약' — 아이리스 블랙스미스 (Blood-Vow Seal Charm 'Ashen Lung Vow' — Iris Blacksmith) | [핏빛 맹세 봉인 부적 '잿빛 폐의 서약' — 아이리스 블랙스미스 (Blood-Vow Seal Charm 'Ashen Lung Vow' — Iris Blacksmith)](핏빛%20맹세%20봉인%20부적%20'잿빛%20폐의%20서약'%20—%20아이리스%20블랙스미스%20%28Blood-Vow%20Seal%20Charm%20'Ashen%20Lung%20Vow'%20—%20Iris%20Blacksmith%29.md) |
+| 핏빛 맹세의 혈인 부적 '검은 잿빛 폐의 살아있는 서약' (Blood-Oath Seal Charm 'Living Vow of Ashen Lungs') | [핏빛 맹세의 혈인 부적 '검은 잿빛 폐의 살아있는 서약' (Blood-Oath Seal Charm 'Living Vow of Ashen Lungs')](핏빛%20맹세의%20혈인%20부적%20'검은%20잿빛%20폐의%20살아있는%20서약'%20%28Blood-Oath%20Seal%20Charm%20'Living%20Vow%20of%20Ashen%20Lungs'%29.md) |
 | 혈검 마취대 (Iron-Blood Suppressor Wrap) | [혈검 마취대 (Iron-Blood Suppressor Wrap)](혈검%20마취대%20%28Iron-Blood%20Suppressor%20Wrap%29.md) |
 | 혈령 거머리 팔찌 (Blood-Spirit Leech Bracer) | [혈령 거머리 팔찌 (Blood-Spirit Leech Bracer)](혈령%20거머리%20팔찌%20%28Blood-Spirit%20Leech%20Bracer%29.md) |
 | 혈맥 박동 공명 혈수정 (Blood-Vein Pulsation Resonance Gem) | [혈맥 박동 공명 혈수정 (Blood-Vein Pulsation Resonance Gem)](혈맥%20박동%20공명%20혈수정%20%28Blood-Vein%20Pulsation%20Resonance%20Gem%29.md) |
 | 혈맹 알파의 송곳니 전쟁 부적 (Blood-Pact Alpha Fang War Talisman) | [혈맹 알파의 송곳니 전쟁 부적 (Blood-Pact Alpha Fang War Talisman)](혈맹%20알파의%20송곳니%20전쟁%20부적%20%28Blood-Pact%20Alpha%20Fang%20War%20Talisman%29.md) |
+| 혈서 맹세 폐봉인 부적 '검은 잿빛의 족쇄' (Blood-Oath Lung-Seal Talisman 'Shackle of Black Ash') | [혈서 맹세 폐봉인 부적 '검은 잿빛의 족쇄' (Blood-Oath Lung-Seal Talisman 'Shackle of Black Ash')](혈서%20맹세%20폐봉인%20부적%20'검은%20잿빛의%20족쇄'%20%28Blood-Oath%20Lung-Seal%20Talisman%20'Shackle%20of%20Black%20Ash'%29.md) |
+| 혈서 맹세 폐봉인 부적 '바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Wind') | [혈서 맹세 폐봉인 부적 '바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Wind')](혈서%20맹세%20폐봉인%20부적%20'바람의%20맹서'%20%28Blood-Oath%20Lung-Seal%20Talisman%20'Oath%20of%20the%20Wind'%29.md) |
+| 혈서 맹세의 각인 부적 '검은 폐의 봉인' (Blood-Oath Inscription Talisman 'Seal of the Black Lung') | [혈서 맹세의 각인 부적 '검은 폐의 봉인' (Blood-Oath Inscription Talisman 'Seal of the Black Lung')](혈서%20맹세의%20각인%20부적%20'검은%20폐의%20봉인'%20%28Blood-Oath%20Inscription%20Talisman%20'Seal%20of%20the%20Black%20Lung'%29.md) |
+| 혈서 맹세의 저주 봉인패 '검은 잿빛을 버티는 자' (Blood-Oath Curse Seal Plate 'One Who Endures the Black Ash') | [혈서 맹세의 저주 봉인패 '검은 잿빛을 버티는 자' (Blood-Oath Curse Seal Plate 'One Who Endures the Black Ash')](혈서%20맹세의%20저주%20봉인패%20'검은%20잿빛을%20버티는%20자'%20%28Blood-Oath%20Curse%20Seal%20Plate%20'One%20Who%20Endures%20the%20Black%20Ash'%29.md) |
+| 혈서 봉인 '검은 잿빛의 맹세' — 에일린 실버문의 저주 봉인 부적 (Blood-Writ Seal 'Oath of Black Ash' — Eileen Silvermoon's Curse-Seal Talisman) | [혈서 봉인 '검은 잿빛의 맹세' — 에일린 실버문의 저주 봉인 부적 (Blood-Writ Seal 'Oath of Black Ash' — Eileen Silvermoon's Curse-Seal Talisman)](혈서%20봉인%20'검은%20잿빛의%20맹세'%20—%20에일린%20실버문의%20저주%20봉인%20부적%20%28Blood-Writ%20Seal%20'Oath%20of%20Black%20Ash'%20—%20Eileen%20Silvermoon's%20Curse-Seal%20Talisman%29.md) |
+| 혈서 봉인 '검은 잿빛의 서약' — 가웨인 에스더의 맹서판 (Blood-Writ Seal 'Vow of Black Ash' — Gawain Esther's Oath Plate) | [혈서 봉인 '검은 잿빛의 서약' — 가웨인 에스더의 맹서판 (Blood-Writ Seal 'Vow of Black Ash' — Gawain Esther's Oath Plate)](혈서%20봉인%20'검은%20잿빛의%20서약'%20—%20가웨인%20에스더의%20맹서판%20%28Blood-Writ%20Seal%20'Vow%20of%20Black%20Ash'%20—%20Gawain%20Esther's%20Oath%20Plate%29.md) |
+| 혈서 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Seal Charm 'Ashen Lung's Oath') | [혈서 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Seal Charm 'Ashen Lung's Oath')](혈서%20봉인%20부적%20'잿빛%20폐의%20맹서'%20%28Blood-Writ%20Seal%20Charm%20'Ashen%20Lung's%20Oath'%29.md) |
+| 혈서 생명 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Vitality Seal Talisman 'Vow of the Ashen Lung') | [혈서 생명 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Vitality Seal Talisman 'Vow of the Ashen Lung')](혈서%20생명%20봉인%20부적%20'잿빛%20폐의%20맹서'%20%28Blood-Writ%20Vitality%20Seal%20Talisman%20'Vow%20of%20the%20Ashen%20Lung'%29.md) |
+| 혈서 충성 폐봉인 부적 '검은 잿빛의 사슬' (Blood-Oath Loyalty Lung-Seal Talisman 'Chain of Black Ash') | [혈서 충성 폐봉인 부적 '검은 잿빛의 사슬' (Blood-Oath Loyalty Lung-Seal Talisman 'Chain of Black Ash')](혈서%20충성%20폐봉인%20부적%20'검은%20잿빛의%20사슬'%20%28Blood-Oath%20Loyalty%20Lung-Seal%20Talisman%20'Chain%20of%20Black%20Ash'%29.md) |
+| 흑잿빛 맹세의 서약패 — 섀도 댄서의 족쇄 (Ashen-Oath Covenant Plate — Shadow Dancer's Shackle) | [흑잿빛 맹세의 서약패 — 섀도 댄서의 족쇄 (Ashen-Oath Covenant Plate — Shadow Dancer's Shackle)](흑잿빛%20맹세의%20서약패%20—%20섀도%20댄서의%20족쇄%20%28Ashen-Oath%20Covenant%20Plate%20—%20Shadow%20Dancer's%20Shackle%29.md) |
 | 흑지 책갈피 '차원 압착 귀환표' (Abyssal Bookmark of Dimensional Compression) | [흑지 책갈피 '차원 압착 귀환표' (Abyssal Bookmark of Dimensional Compression)](흑지%20책갈피%20'차원%20압착%20귀환표'%20%28Abyssal%20Bookmark%20of%20Dimensional%20Compression%29.md) |

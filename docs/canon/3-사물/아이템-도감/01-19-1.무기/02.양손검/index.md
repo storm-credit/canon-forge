@@ -6,7 +6,7 @@
 
 # 📚 양손검
 
-## 항목 (38)
+## 항목 (72)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -36,6 +36,7 @@
 | 심판의 빛창 — 아크투루스의 파편검 (Splinter-Sword of Arcturus, Blade of Divine Verdict) | [심판의 빛창 — 아크투루스의 파편검 (Splinter-Sword of Arcturus, Blade of Divine Verdict)](심판의%20빛창%20—%20아크투루스의%20파편검%20%28Splinter-Sword%20of%20Arcturus,%20Blade%20of%20Divine%20Verdict%29.md) |
 | 심해의 닻날검 (Deepwalker's Anchor Blade) | [심해의 닻날검 (Deepwalker's Anchor Blade)](심해의%20닻날검%20%28Deepwalker's%20Anchor%20Blade%29.md) |
 | 아포칼립스 (Apocalypse) | [아포칼립스 (Apocalypse)](아포칼립스%20%28Apocalypse%29.md) |
+| 야수결속단의 심연 분쇄검 (Beastbound Abyss-Forged Crushing Greatsword) | [야수결속단의 심연 분쇄검 (Beastbound Abyss-Forged Crushing Greatsword)](야수결속단의%20심연%20분쇄검%20%28Beastbound%20Abyss-Forged%20Crushing%20Greatsword%29.md) |
 | 염옥 대검 이그니스 크럭스 (Hellfire Greatsword: Ignis Crux) | [염옥 대검 이그니스 크럭스 (Hellfire Greatsword: Ignis Crux)](염옥%20대검%20이그니스%20크럭스%20%28Hellfire%20Greatsword%20Ignis%20Crux%29.md) |
 | 영혼 약탈자 (Soul Reaver) | [영혼 약탈자 (Soul Reaver)](영혼%20약탈자%20%28Soul%20Reaver%29.md) |
 | 오럼 블레이드 (Aurum Blade) | [오럼 블레이드 (Aurum Blade)](오럼%20블레이드%20%28Aurum%20Blade%29.md) |
@@ -43,6 +44,39 @@
 | 임페라토르 (Imperator) | [임페라토르 (Imperator)](임페라토르%20%28Imperator%29.md) |
 | 철혈의 대검 (Iron Blood Greatsword) | [철혈의 대검 (Iron Blood Greatsword)](철혈의%20대검%20%28Iron%20Blood%20Greatsword%29.md) |
 | 칠흑 대검 던브레이커 (Greatsword of Ebony: Dawnbreaker) | [칠흑 대검 던브레이커 (Greatsword of Ebony: Dawnbreaker)](칠흑%20대검%20던브레이커%20%28Greatsword%20of%20Ebony%20Dawnbreaker%29.md) |
+| 칠흑의 분쇄검 '다크홈의 심연 광석' (Darkholm's Obsidian Crusher Greatsword) | [칠흑의 분쇄검 '다크홈의 심연 광석' (Darkholm's Obsidian Crusher Greatsword)](칠흑의%20분쇄검%20'다크홈의%20심연%20광석'%20%28Darkholm's%20Obsidian%20Crusher%20Greatsword%29.md) |
+| 칠흑의 분쇄검 '망자의 맹서' (Black Crusher Greatsword 'Dead Man's Oath') | [칠흑의 분쇄검 '망자의 맹서' (Black Crusher Greatsword 'Dead Man's Oath')](칠흑의%20분쇄검%20'망자의%20맹서'%20%28Black%20Crusher%20Greatsword%20'Dead%20Man's%20Oath'%29.md) |
+| 칠흑의 분쇄검 '심연의 광석' (Black Crusher Greatsword 'Ore of the Abyss') | [칠흑의 분쇄검 '심연의 광석' (Black Crusher Greatsword 'Ore of the Abyss')](칠흑의%20분쇄검%20'심연의%20광석'%20%28Black%20Crusher%20Greatsword%20'Ore%20of%20the%20Abyss'%29.md) |
+| 칠흑의 분쇄검 '팔콘의 야수 궤적' (Obsidian Crusher 'Falcon's Beast-Trail Greatsword') | [칠흑의 분쇄검 '팔콘의 야수 궤적' (Obsidian Crusher 'Falcon's Beast-Trail Greatsword')](칠흑의%20분쇄검%20'팔콘의%20야수%20궤적'%20%28Obsidian%20Crusher%20'Falcon's%20Beast-Trail%20Greatsword'%29.md) |
+| 칠흑의 분쇄검 (Black Abyss Crushing Blade) | [칠흑의 분쇄검 (Black Abyss Crushing Blade)](칠흑의%20분쇄검%20%28Black%20Abyss%20Crushing%20Blade%29.md) |
+| 칠흑의 분쇄검 (Black Crushing Blade of the Void) | [칠흑의 분쇄검 (Black Crushing Blade of the Void)](칠흑의%20분쇄검%20%28Black%20Crushing%20Blade%20of%20the%20Void%29.md) |
+| 칠흑의 분쇄검 (Black Crushing Greatsword) | [칠흑의 분쇄검 (Black Crushing Greatsword)](칠흑의%20분쇄검%20%28Black%20Crushing%20Greatsword%29.md) |
+| 칠흑의 분쇄검 (Black Crushing Sword of the Abyss) | [칠흑의 분쇄검 (Black Crushing Sword of the Abyss)](칠흑의%20분쇄검%20%28Black%20Crushing%20Sword%20of%20the%20Abyss%29.md) |
+| 칠흑의 분쇄검 (Ebony Crushing Greatsword) | [칠흑의 분쇄검 (Ebony Crushing Greatsword)](칠흑의%20분쇄검%20%28Ebony%20Crushing%20Greatsword%29.md) |
+| 칠흑의 분쇄검 (Obsidian Crusher Greatsword) | [칠흑의 분쇄검 (Obsidian Crusher Greatsword)](칠흑의%20분쇄검%20%28Obsidian%20Crusher%20Greatsword%29.md) |
+| 칠흑의 분쇄검 (Obsidian Crusher, Gawain Cardinal's Greatsword) | [칠흑의 분쇄검 (Obsidian Crusher, Gawain Cardinal's Greatsword)](칠흑의%20분쇄검%20%28Obsidian%20Crusher,%20Gawain%20Cardinal's%20Greatsword%29.md) |
+| 칠흑의 분쇄검 (Black-Ore Crushing Sword) | [칠흑의 분쇄검 (Black-Ore Crushing Sword)](칠흑의%20분쇄검%20%28Orion%20Stella's%20Black-Ore%20Crushing%20Sword%29.md) |
+| 칠흑의 분쇄검 (Silvia Halloween's Abyssal Ore Crushing Greatsword) | [칠흑의 분쇄검 (Silvia Halloween's Abyssal Ore Crushing Greatsword)](칠흑의%20분쇄검%20%28Silvia%20Halloween's%20Abyssal%20Ore%20Crushing%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 가웨인 에스더의 심연 광석 분쇄검 (Obsidian Crusher — Gawain Esther's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 가웨인 에스더의 심연 광석 분쇄검 (Obsidian Crusher — Gawain Esther's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20가웨인%20에스더의%20심연%20광석%20분쇄검%20%28Obsidian%20Crusher%20—%20Gawain%20Esther's%20Abyssal%20Ore%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Grayson's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Grayson's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20그레이슨의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Grayson's%20Abyssal%20Ore%20Crusher%29.md) |
+| 칠흑의 분쇄검 — 로잘린드 에스더의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Esther's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 로잘린드 에스더의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Esther's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20로잘린드%20에스더의%20심연%20광석%20분쇄검%20%28Ebony%20Crusher%20—%20Rosalind%20Esther's%20Abyssal%20Ore%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 루시안 루미너스의 심연 광석검 (Ebony Crusher — Lucian Luminous's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 루시안 루미너스의 심연 광석검 (Ebony Crusher — Lucian Luminous's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20루시안%20루미너스의%20심연%20광석검%20%28Ebony%20Crusher%20—%20Lucian%20Luminous's%20Abyssal%20Ore%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 루시안 에스더의 심연 광석 분쇄검 (Ebony Crusher — Lucian Esther's Abyssal Ore Greatsword) | [칠흑의 분쇄검 — 루시안 에스더의 심연 광석 분쇄검 (Ebony Crusher — Lucian Esther's Abyssal Ore Greatsword)](칠흑의%20분쇄검%20—%20루시안%20에스더의%20심연%20광석%20분쇄검%20%28Ebony%20Crusher%20—%20Lucian%20Esther's%20Abyssal%20Ore%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 미하일 루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Ruins) | [칠흑의 분쇄검 — 미하일 루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Ruins)](칠흑의%20분쇄검%20—%20미하일%20루인스의%20심연%20광석%20분쇄검%20%28Abyssal%20Ore%20Crushing%20Greatsword%20of%20Mikhail%20Ruins%29.md) |
+| 칠흑의 분쇄검 — 미하일 할로윈의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Halloween) | [칠흑의 분쇄검 — 미하일 할로윈의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Halloween)](칠흑의%20분쇄검%20—%20미하일%20할로윈의%20심연%20광석%20분쇄검%20%28Abyssal%20Ore%20Crushing%20Greatsword%20of%20Mikhail%20Halloween%29.md) |
+| 칠흑의 분쇄검 — 바스커빌의 심연 광석검 (Abyss-Ore Greatsword of Baskerville) | [칠흑의 분쇄검 — 바스커빌의 심연 광석검 (Abyss-Ore Greatsword of Baskerville)](칠흑의%20분쇄검%20—%20바스커빌의%20심연%20광석검%20%28Abyss-Ore%20Greatsword%20of%20Baskerville%29.md) |
+| 칠흑의 분쇄검 — 베아트리체 윈드런너의 심연 광석 분쇄검 (Black Crusher Greatsword — Beatrice Windrunner's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 베아트리체 윈드런너의 심연 광석 분쇄검 (Black Crusher Greatsword — Beatrice Windrunner's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20베아트리체%20윈드런너의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Beatrice%20Windrunner's%20Abyssal%20Ore%20Crusher%29.md) |
+| 칠흑의 분쇄검 — 베클렌의 심연 광석검 (Ebony Crushing Greatsword of Becklen) | [칠흑의 분쇄검 — 베클렌의 심연 광석검 (Ebony Crushing Greatsword of Becklen)](칠흑의%20분쇄검%20—%20베클렌의%20심연%20광석검%20%28Ebony%20Crushing%20Greatsword%20of%20Becklen%29.md) |
+| 칠흑의 분쇄검 — 보리스 크림슨의 야전 분쇄검 (Black Crushing Greatsword of Boris Crimson) | [칠흑의 분쇄검 — 보리스 크림슨의 야전 분쇄검 (Black Crushing Greatsword of Boris Crimson)](칠흑의%20분쇄검%20—%20보리스%20크림슨의%20야전%20분쇄검%20%28Black%20Crushing%20Greatsword%20of%20Boris%20Crimson%29.md) |
+| 칠흑의 분쇄검 — 블랙스미스의 심연 광석 분쇄검 (Black Crusher Greatsword — Blacksmith's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 블랙스미스의 심연 광석 분쇄검 (Black Crusher Greatsword — Blacksmith's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20블랙스미스의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Blacksmith's%20Abyssal%20Ore%20Crusher%29.md) |
+| 칠흑의 분쇄검 — 블러드워커의 야생 원석 분쇄검 (Black Crusher Greatsword — Bloodwalker's Wild-Ore Crusher) | [칠흑의 분쇄검 — 블러드워커의 야생 원석 분쇄검 (Black Crusher Greatsword — Bloodwalker's Wild-Ore Crusher)](칠흑의%20분쇄검%20—%20블러드워커의%20야생%20원석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Bloodwalker's%20Wild-Ore%20Crusher%29.md) |
+| 칠흑의 분쇄검 — 실비아 스텔라리스의 심연 광석 분쇄검 (Stellaris Abyssal Ore Crushing Greatsword) | [칠흑의 분쇄검 — 실비아 스텔라리스의 심연 광석 분쇄검 (Stellaris Abyssal Ore Crushing Greatsword)](칠흑의%20분쇄검%20—%20실비아%20스텔라리스의%20심연%20광석%20분쇄검%20%28Stellaris%20Abyssal%20Ore%20Crushing%20Greatsword%29.md) |
+| 칠흑의 분쇄검 — 아이리스 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Grayson's Abyssal Ore Crusher) | [칠흑의 분쇄검 — 아이리스 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Grayson's Abyssal Ore Crusher)](칠흑의%20분쇄검%20—%20아이리스%20그레이슨의%20심연%20광석%20분쇄검%20%28Black%20Crusher%20Greatsword%20—%20Iris%20Grayson's%20Abyssal%20Ore%20Crusher%29.md) |
+| 칠흑의 분쇄검 — 아이리스 블랙스미스의 심연 광석검 (Ebony Crushing Greatsword of Iris Blacksmith) | [칠흑의 분쇄검 — 아이리스 블랙스미스의 심연 광석검 (Ebony Crushing Greatsword of Iris Blacksmith)](칠흑의%20분쇄검%20—%20아이리스%20블랙스미스의%20심연%20광석검%20%28Ebony%20Crushing%20Greatsword%20of%20Iris%20Blacksmith%29.md) |
+| 칠흑의 분쇄검 — 아이리스루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Iris Ruins) | [칠흑의 분쇄검 — 아이리스루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Iris Ruins)](칠흑의%20분쇄검%20—%20아이리스루인스의%20심연%20광석%20분쇄검%20%28Abyssal%20Ore%20Crushing%20Greatsword%20of%20Iris%20Ruins%29.md) |
+| 칠흑의 분쇄검 — 에일린 그레이슨의 심연 광석 분쇄검 (Abyss-Ore Crushing Greatsword of Eileen Grayson) | [칠흑의 분쇄검 — 에일린 그레이슨의 심연 광석 분쇄검 (Abyss-Ore Crushing Greatsword of Eileen Grayson)](칠흑의%20분쇄검%20—%20에일린%20그레이슨의%20심연%20광석%20분쇄검%20%28Abyss-Ore%20Crushing%20Greatsword%20of%20Eileen%20Grayson%29.md) |
+| 칠흑의 분쇄검 — 에일린 실버문의 심연 광석 야전검 (Ebony Crusher — Eileen Silvermoon's Abyssal Ore Field Blade) | [칠흑의 분쇄검 — 에일린 실버문의 심연 광석 야전검 (Ebony Crusher — Eileen Silvermoon's Abyssal Ore Field Blade)](칠흑의%20분쇄검%20—%20에일린%20실버문의%20심연%20광석%20야전검%20%28Ebony%20Crusher%20—%20Eileen%20Silvermoon's%20Abyssal%20Ore%20Field%20Blade%29.md) |
+| 칠흑의 분쇄검 — 이사벨 노크의 심연 광석검 (Ebony Crushing Greatsword of Isabel Nork) | [칠흑의 분쇄검 — 이사벨 노크의 심연 광석검 (Ebony Crushing Greatsword of Isabel Nork)](칠흑의%20분쇄검%20—%20이사벨%20노크의%20심연%20광석검%20%28Ebony%20Crushing%20Greatsword%20of%20Isabel%20Nork%29.md) |
 | 침묵의 강철 대검 (Silent Steel Greatsword) | [침묵의 강철 대검 (Silent Steel Greatsword)](침묵의%20강철%20대검%20%28Silent%20Steel%20Greatsword%29.md) |
 | 포식자의 대검 (Greatsword of Predator) | [포식자의 대검 (Greatsword of Predator)](포식자의%20대검%20%28Greatsword%20of%20Predator%29.md) |
 | 피닉스 소드 (Phoenix Sword) | [피닉스 소드 (Phoenix Sword)](피닉스%20소드%20%28Phoenix%20Sword%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 장갑·손목
 
-## 항목 (65)
+## 항목 (66)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -60,6 +60,7 @@
 | 장갑 (Gauntlets) | [장갑 (Gauntlets)](장갑%20%28Gauntlets%29.md) |
 | 저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets) | [저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets)](저주%20봉쇄%20귀족%20철%20장갑%20%28Curse-Sealing%20Aristocratic%20Iron%20Gauntlets%29.md) |
 | 절멸의 흑염 건틀릿 (Black-Flame Gauntlets of Annihilation) | [절멸의 흑염 건틀릿 (Black-Flame Gauntlets of Annihilation)](절멸의%20흑염%20건틀릿%20%28Black-Flame%20Gauntlets%20of%20Annihilation%29.md) |
+| 주얼 크래프터의 전투 세공 장갑 (Jewel Crafter's Combat Engraving Gauntlets) | [주얼 크래프터의 전투 세공 장갑 (Jewel Crafter's Combat Engraving Gauntlets)](주얼%20크래프터의%20전투%20세공%20장갑%20%28Jewel%20Crafter's%20Combat%20Engraving%20Gauntlets%29.md) |
 | 지옥 화산철 타격 건틀릿 (Hellvolcano-Iron Strike Gauntlets) | [지옥 화산철 타격 건틀릿 (Hellvolcano-Iron Strike Gauntlets)](지옥%20화산철%20타격%20건틀릿%20%28Hellvolcano-Iron%20Strike%20Gauntlets%29.md) |
 | 지진 핵의 건틀릿 (Gauntlets of the Quake Core) | [지진 핵의 건틀릿 (Gauntlets of the Quake Core)](지진%20핵의%20건틀릿%20%28Gauntlets%20of%20the%20Quake%20Core%29.md) |
 | 초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor) | [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](초경량%28Ultra-light%29%20태양은%20합금%20장갑%20%28Solar-Silver%20Alloy%20Armor%29.md) |
