@@ -6,7 +6,7 @@
 
 # 📚 투척
 
-## 항목 (17)
+## 항목 (20)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,7 +18,10 @@
 | 바람의 추적자 디코이 키트 (Windrunner Decoy Disruption Kit) | [바람의 추적자 디코이 키트 (Windrunner Decoy Disruption Kit)](바람의%20추적자%20디코이%20키트%20%28Windrunner%20Decoy%20Disruption%20Kit%29.md) |
 | 별빛 섬광탄 (Starlight Flash-Bang) | [별빛 섬광탄 (Starlight Flash-Bang)](별빛%20섬광탄%20%28Starlight%20Flash-Bang%29.md) |
 | 붉은 사막 맹독 투척 단검 세트 (Crimson-Sand Poison Throwing Dagger Set) | [붉은 사막 맹독 투척 단검 세트 (Crimson-Sand Poison Throwing Dagger Set)](붉은%20사막%20맹독%20투척%20단검%20세트%20%28Crimson-Sand%20Poison%20Throwing%20Dagger%20Set%29.md) |
+| 블라인드 폴드 독무 달팽이관 마비 캡슐 (Blind-Fold Cochlear-Paralysis Poison Mist Capsule) | [블라인드 폴드 독무 달팽이관 마비 캡슐 (Blind-Fold Cochlear-Paralysis Poison Mist Capsule)](블라인드%20폴드%20독무%20달팽이관%20마비%20캡슐%20%28Blind-Fold%20Cochlear-Paralysis%20Poison%20Mist%20Capsule%29.md) |
 | 블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin) | [블랙파우더 서명 섬광 기폭 핀 (Blackpowder-Signature Flash Detonation Pin)](블랙파우더%20서명%20섬광%20기폭%20핀%20%28Blackpowder-Signature%20Flash%20Detonation%20Pin%29.md) |
+| 스크류 드릴 뎁스차지 작살 다발 (Screw-Drill Depth-Charge Harpoon Bundle) | [스크류 드릴 뎁스차지 작살 다발 (Screw-Drill Depth-Charge Harpoon Bundle)](스크류%20드릴%20뎁스차지%20작살%20다발%20%28Screw-Drill%20Depth-Charge%20Harpoon%20Bundle%29.md) |
+| 신경 오염의 촉매침 (Nerve-Pollution Catalyst Needles) | [신경 오염의 촉매침 (Nerve-Pollution Catalyst Needles)](신경%20오염의%20촉매침%20%28Nerve-Pollution%20Catalyst%20Needles%29.md) |
 | 야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade) | [야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade)](야생%20환각%20맹독%20연무탄%20%28Wilderness%20Hallucinogen%20Toxin%20Smokegrenade%29.md) |
 | 육절의 그림자 비수 (Shadow Stilettos of the Six-Kill) | [육절의 그림자 비수 (Shadow Stilettos of the Six-Kill)](육절의%20그림자%20비수%20%28Shadow%20Stilettos%20of%20the%20Six-Kill%29.md) |
 | 은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers) | [은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers)](은장%20무음%20투척%20단검%20%28Silver-Mounted%20Silent%20Throwing%20Daggers%29.md) |

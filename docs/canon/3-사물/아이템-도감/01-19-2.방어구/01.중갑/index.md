@@ -6,7 +6,7 @@
 
 # 📚 중갑
 
-## 항목 (60)
+## 항목 (66)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -23,6 +23,7 @@
 | 단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate) | [단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate)](단열의%20검붉은%20코뿔소%20판갑%20%28Insulated%20Crimson%20Rhino-Plate%29.md) |
 | 단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail) | [단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail)](단죄자의%20안감%20가시%20사슬갑옷%20%28Penitent's%20Thorn-Chainmail%29.md) |
 | 딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine) | [딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine)](딥포지%20심갱의%20발톱%20자국%20전신%20판갑%20%28Claw-Scarred%20Deep-Forge%20Full%20Plate%29.md) |
+| 마모된 회색 철갑 충의 (Gray Iron Carapace of Weathered Loyalty) | [마모된 회색 철갑 충의 (Gray Iron Carapace of Weathered Loyalty)](마모된%20회색%20철갑%20충의%20%28Gray%20Iron%20Carapace%20of%20Weathered%20Loyalty%29.md) |
 | 만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash) | [만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash)](만년%20용암재의%20폭주%20갑옷%20%28Armor%20of%20Millennial%20Magma-Ash%29.md) |
 | 망각의 짐(Burden of Oblivion) 플레이트 | [망각의 짐(Burden of Oblivion) 플레이트](망각의%20짐%28Burden%20of%20Oblivion%29%20플레이트.md) |
 | 망령 원한 갑주 (Wraith-Grudge Spirit Armor) | [망령 원한 갑주 (Wraith-Grudge Spirit Armor)](망령%20원한%20갑주%20%28Wraith-Grudge%20Spirit%20Armor%29.md) |
@@ -43,7 +44,9 @@
 | 스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss) | [스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss)](스스로%20입은%20심연의%20갑주%20%28Self-Worn%20Carapace%20of%20the%20Abyss%29.md) |
 | 심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate) | [심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate)](심해압%20견딤식%20은염강%20판금갑수%20%28Abyssal-Pressure%20Silver-Salt%20Plate%29.md) |
 | 암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor) | [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](암석%20비늘%20철벽%20대갑주%20%28Stonescale%20Ironwall%20Greatarmor%29.md) |
+| 에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss) | [에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss)](에보니%20다크%20플레이트%20—%20타락한%20에델바이스의%20전신%20판갑%20%28Ebony%20Dark%20Plate%20—%20Corrupted%20Full%20Plate%20of%20Edelweiss%29.md) |
 | 오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton) | [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](오르도스%20방위군%20기동%20외골격%20%28Ordos%20Defense%20Mobile%20Exoskeleton%29.md) |
+| 오벨리스크 재생 꽃무늬 누더기 강철 풀 플레이트 (Obelisk-Recycled Flower-Painted Patchwork Full Plate) | [오벨리스크 재생 꽃무늬 누더기 강철 풀 플레이트 (Obelisk-Recycled Flower-Painted Patchwork Full Plate)](오벨리스크%20재생%20꽃무늬%20누더기%20강철%20풀%20플레이트%20%28Obelisk-Recycled%20Flower-Painted%20Patchwork%20Full%20Plate%29.md) |
 | 요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate) | [요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate)](요새화%20융합%20풀-플레이트%20%28Fortified%20Fusion%20Full-Plate%29.md) |
 | 용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross) | [용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross)](용광로%20화집%20타오르는%20십자%20중갑%20%28Crucible%20Armor%20of%20Blazing%20Cross%29.md) |
 | 월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight) | [월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight)](월광에%20벼려진%20은린갑%20%28Silver-Scale%20Armor%20Forged%20in%20Moonlight%29.md) |
@@ -55,12 +58,15 @@
 | 지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein) | [지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein)](지하%20광맥의%20압착%20흉갑%20%28Breastplate%20of%20the%20Quartz%20Vein%29.md) |
 | 진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations) | [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](진동을%20먹어%20치우는%20단층대%28Fault-Line%29%20판금%20갑주%20%28Fault-Line%20Plate%20Armor%20that%20Devours%20Vibrations%29.md) |
 | 창공의 조류 비늘 흉갑 (Scale Armor of the Firmament) | [창공의 조류 비늘 흉갑 (Scale Armor of the Firmament)](창공의%20조류%20비늘%20흉갑%20%28Scale%20Armor%20of%20the%20Firmament%29.md) |
+| 천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate) | [천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate)](천%20개의%20고철%20누더기%20전신판갑%20%28Thousand-Scrap%20Patchwork%20Full%20Plate%29.md) |
 | 천년 암반의 대갑주 (Great Armor of Millennium Bedrock) | [천년 암반의 대갑주 (Great Armor of Millennium Bedrock)](천년%20암반의%20대갑주%20%28Great%20Armor%20of%20Millennium%20Bedrock%29.md) |
 | 철갑 참호 전신 갑주 (Ironclad Trench Full Plate of Ferrum) | [철갑 참호 전신 갑주 (Ironclad Trench Full Plate of Ferrum)](철갑%20참호%20전신%20갑주%20%28Ironclad%20Trench%20Full%20Plate%20of%20Ferrum%29.md) |
 | 초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass) | [초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass)](초고열%20흡수형%20샐러맨더%20코팅%20흉갑%20%28Heat-Sink%20Salamander%20Cuirass%29.md) |
+| 칠흑 흑요석 사왕 전신 갑주 (Obsidian Full Plate of the Death King) | [칠흑 흑요석 사왕 전신 갑주 (Obsidian Full Plate of the Death King)](칠흑%20흑요석%20사왕%20전신%20갑주%20%28Obsidian%20Full%20Plate%20of%20the%20Death%20King%29.md) |
 | 침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight) | [침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight)](침묵하는%20기사의%20강철판%20%28Steel%20Plate%20of%20the%20Silenced%20Knight%29.md) |
 | 카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth) | [카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth)](카멜로스의%20판금%20전신%20요새%20%28Fortress%20Plate%20of%20Cameloth%29.md) |
 | 카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate) | [카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate)](카운터버스트%20자폭%20흉갑%20%28Counter-Burst%20Self-Detonation%20Breastplate%29.md) |
+| 타르타로스 강갑 (Tartarus Plating) | [타르타로스 강갑 (Tartarus Plating)](타르타로스%20강갑%20%28Tartarus%20Plating%29.md) |
 | 태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern) | [태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern)](태고%20비룡의%20탄화%20판금갑%20%28Carbonized%20Plate%20of%20the%20Ancient%20Wyvern%29.md) |
 | 태양 수호갑 (Aegis of the Sun-Guard) | [태양 수호갑 (Aegis of the Sun-Guard)](태양%20수호갑%20%28Aegis%20of%20the%20Sun-Guard%29.md) |
 | 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |

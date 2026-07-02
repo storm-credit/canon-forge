@@ -6,13 +6,14 @@
 
 # 📚 장갑·손목
 
-## 항목 (52)
+## 항목 (57)
 
 | 아이템 | 링크 |
 |--------|------|
 | 간수장의 수마 사슬 완갑 (Jailer's Sleep-Chain Vambraces) | [간수장의 수마 사슬 완갑 (Jailer's Sleep-Chain Vambraces)](간수장의%20수마%20사슬%20완갑%20%28Jailer's%20Sleep-Chain%20Vambraces%29.md) |
 | 감압 억제 압박 붕대 (Decompression Suppression Pressure Wrapping) | [감압 억제 압박 붕대 (Decompression Suppression Pressure Wrapping)](감압%20억제%20압박%20붕대%20%28Decompression%20Suppression%20Pressure%20Wrapping%29.md) |
 | 강철 버클 건틀릿 '쐐기못' (Iron-Rivet Buckle Gauntlets) | [강철 버클 건틀릿 '쐐기못' (Iron-Rivet Buckle Gauntlets)](강철%20버클%20건틀릿%20'쐐기못'%20%28Iron-Rivet%20Buckle%20Gauntlets%29.md) |
+| 고통 신호 거미줄 수술 장갑 (Pain-Signal Spider-Suture Gauntlets) | [고통 신호 거미줄 수술 장갑 (Pain-Signal Spider-Suture Gauntlets)](고통%20신호%20거미줄%20수술%20장갑%20%28Pain-Signal%20Spider-Suture%20Gauntlets%29.md) |
 | 관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression) | [관절 파열 억제 강철 붕대 (Steel Binding Straps of Joint-Rupture Suppression)](관절%20파열%20억제%20강철%20붕대%20%28Steel%20Binding%20Straps%20of%20Joint-Rupture%20Suppression%29.md) |
 | 구속의 잔재 철장갑 (Plate of the Remaining Shackles) | [구속의 잔재 철장갑 (Plate of the Remaining Shackles)](구속의%20잔재%20철장갑%20%28Plate%20of%20the%20Remaining%20Shackles%29.md) |
 | 극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets) | [극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets)](극지%20심연%20백곰%20괴사%20보온%20털장갑%20%28Arctic%20Abyss%20White-Bear%20Necrosis-Warmth%20Fur%20Gauntlets%29.md) |
@@ -49,6 +50,9 @@
 | 음속 진동 골절 억제 손목 강화 테이프 (Sonic-Vibration Fracture Suppression Wrist Reinforcement Wraps) | [음속 진동 골절 억제 손목 강화 테이프 (Sonic-Vibration Fracture Suppression Wrist Reinforcement Wraps)](음속%20진동%20골절%20억제%20손목%20강화%20테이프%20%28Sonic-Vibration%20Fracture%20Suppression%20Wrist%20Reinforcement%20Wraps%29.md) |
 | 인대 봉합 강철 팔 보호대 (Tendon-Suture Steel Arm Guards) | [인대 봉합 강철 팔 보호대 (Tendon-Suture Steel Arm Guards)](인대%20봉합%20강철%20팔%20보호대%20%28Tendon-Suture%20Steel%20Arm%20Guards%29.md) |
 | 장갑 (Gauntlets) | [장갑 (Gauntlets)](장갑%20%28Gauntlets%29.md) |
+| 저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets) | [저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets)](저주%20봉쇄%20귀족%20철%20장갑%20%28Curse-Sealing%20Aristocratic%20Iron%20Gauntlets%29.md) |
+| 절멸의 흑염 건틀릿 (Black-Flame Gauntlets of Annihilation) | [절멸의 흑염 건틀릿 (Black-Flame Gauntlets of Annihilation)](절멸의%20흑염%20건틀릿%20%28Black-Flame%20Gauntlets%20of%20Annihilation%29.md) |
+| 지옥 화산철 타격 건틀릿 (Hellvolcano-Iron Strike Gauntlets) | [지옥 화산철 타격 건틀릿 (Hellvolcano-Iron Strike Gauntlets)](지옥%20화산철%20타격%20건틀릿%20%28Hellvolcano-Iron%20Strike%20Gauntlets%29.md) |
 | 지진 핵의 건틀릿 (Gauntlets of the Quake Core) | [지진 핵의 건틀릿 (Gauntlets of the Quake Core)](지진%20핵의%20건틀릿%20%28Gauntlets%20of%20the%20Quake%20Core%29.md) |
 | 초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor) | [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](초경량%28Ultra-light%29%20태양은%20합금%20장갑%20%28Solar-Silver%20Alloy%20Armor%29.md) |
 | 칼날 건틀릿 '창공의 날' (Blade Gauntlets of the Open Sky) | [칼날 건틀릿 '창공의 날' (Blade Gauntlets of the Open Sky)](칼날%20건틀릿%20'창공의%20날'%20%28Blade%20Gauntlets%20of%20the%20Open%20Sky%29.md) |
@@ -58,6 +62,7 @@
 | 플럭스 역류 봉인 붕대 (Flux-Backflow Sealing Bandages) | [플럭스 역류 봉인 붕대 (Flux-Backflow Sealing Bandages)](플럭스%20역류%20봉인%20붕대%20%28Flux-Backflow%20Sealing%20Bandages%29.md) |
 | 학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain) | [학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain)](학살자의%20사슬%20건틀릿%20%28Gauntlet%20of%20the%20Slaughterer's%20Chain%29.md) |
 | 허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets) | [허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets)](허공%20좌표%20수식%20각인%20건틀릿%20%28Void-Coordinate%20Formula%20Tracing%20Gauntlets%29.md) |
+| 혈흔 침윤 귀족 강철 건틀릿 (Bloodstained Aristocratic Steel Gauntlets) | [혈흔 침윤 귀족 강철 건틀릿 (Bloodstained Aristocratic Steel Gauntlets)](혈흔%20침윤%20귀족%20강철%20건틀릿%20%28Bloodstained%20Aristocratic%20Steel%20Gauntlets%29.md) |
 | 화상 각선 붕대 (Burn-Lash Bandage Wraps) | [화상 각선 붕대 (Burn-Lash Bandage Wraps)](화상%20각선%20붕대%20%28Burn-Lash%20Bandage%20Wraps%29.md) |
 | 화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm) | [화약 가스 강제 주입형 기계 의수 (Powder-Gas Force-Injection Mechanical Prosthetic Arm)](화약%20가스%20강제%20주입형%20기계%20의수%20%28Powder-Gas%20Force-Injection%20Mechanical%20Prosthetic%20Arm%29.md) |
 | 황금 차단 절연 건틀릿 (Gold-Nullifying Insulated Gauntlets) | [황금 차단 절연 건틀릿 (Gold-Nullifying Insulated Gauntlets)](황금%20차단%20절연%20건틀릿%20%28Gold-Nullifying%20Insulated%20Gauntlets%29.md) |

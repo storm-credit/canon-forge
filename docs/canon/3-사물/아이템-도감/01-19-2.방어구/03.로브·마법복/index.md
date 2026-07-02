@@ -6,7 +6,7 @@
 
 # 📚 로브·마법복
 
-## 항목 (148)
+## 항목 (155)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -38,6 +38,7 @@
 | 마법복 (Mystic Garb) | [마법복 (Mystic Garb)](마법복%20%28Mystic%20Garb%29.md) |
 | 망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust) | [망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust)](망각의%20고대%20드래곤%20가루%20예복%20%28Vestment%20of%20Oblivion%20Ancient%20Dragon%20Dust%29.md) |
 | 망각의 먹물 로브 (Robes of Oblivion Ink) | [망각의 먹물 로브 (Robes of Oblivion Ink)](망각의%20먹물%20로브%20%28Robes%20of%20Oblivion%20Ink%29.md) |
+| 망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead) | [망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead)](망자의%20현자%20누더기%20백색%20로브%20%28Tattered%20White%20Robe%20of%20the%20Sage%20of%20the%20Dead%29.md) |
 | 맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow) | [맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](맹독으로%20덧칠된%20밤과부의%20로브%20%28Toxic-Laced%20Robe%20of%20the%20Night-widow%29.md) |
 | 먼지 쌓인 역사의 수의 로브 (Shroud-Robe of Dusted History) | [먼지 쌓인 역사의 수의 로브 (Shroud-Robe of Dusted History)](먼지%20쌓인%20역사의%20수의%20로브%20%28Shroud-Robe%20of%20Dusted%20History%29.md) |
 | 먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet) | [먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet)](먼지%20털이깃%20제비%20앵클렛%20%28Dust-Feather%20Swallow%20Anklet%29.md) |
@@ -98,6 +99,7 @@
 | 순환의 절연 코트 (Insulation Coat of Circulation) | [순환의 절연 코트 (Insulation Coat of Circulation)](순환의%20절연%20코트%20%28Insulation%20Coat%20of%20Circulation%29.md) |
 | 순환하는 엽록소의 아이기스 (Aegis of Circulating Chlorophyll) | [순환하는 엽록소의 아이기스 (Aegis of Circulating Chlorophyll)](순환하는%20엽록소의%20아이기스%20%28Aegis%20of%20Circulating%20Chlorophyll%29.md) |
 | 시공간 단절의 패러독스 황의 (Robes of Spatiotemporal Severance) | [시공간 단절의 패러독스 황의 (Robes of Spatiotemporal Severance)](시공간%20단절의%20패러독스%20황의%20%28Robes%20of%20Spatiotemporal%20Severance%29.md) |
+| 시체꽃 흑붕대 제단복 (Corpse-Flower Black-Bandage Altar Vestment) | [시체꽃 흑붕대 제단복 (Corpse-Flower Black-Bandage Altar Vestment)](시체꽃%20흑붕대%20제단복%20%28Corpse-Flower%20Black-Bandage%20Altar%20Vestment%29.md) |
 | 신경 차단을 막는 투명화(Cloaking) 깃털 로브 (Cloaking Feather-Robe that Defies Nerve Block) | [신경 차단을 막는 투명화(Cloaking) 깃털 로브 (Cloaking Feather-Robe that Defies Nerve Block)](신경%20차단을%20막는%20투명화%28Cloaking%29%20깃털%20로브%20%28Cloaking%20Feather-Robe%20that%20Defies%20Nerve%20Block%29.md) |
 | 신성 위상의 수의 (Shroud of Sacred Phase) | [신성 위상의 수의 (Shroud of Sacred Phase)](신성%20위상의%20수의%20%28Shroud%20of%20Sacred%20Phase%29.md) |
 | 실프의 속삭임 발찌 (Anklet of Sylph's Whisper) | [실프의 속삭임 발찌 (Anklet of Sylph's Whisper)](실프의%20속삭임%20발찌%20%28Anklet%20of%20Sylph's%20Whisper%29.md) |
@@ -119,7 +121,9 @@
 | 자체 발화를 견디는 절연 붕대와 석면 망토 (Asbestos Cloak & Insulation Bandages) | [자체 발화를 견디는 절연 붕대와 석면 망토 (Asbestos Cloak & Insulation Bandages)](자체%20발화를%20견디는%20절연%20붕대와%20석면%20망토%20%28Asbestos%20Cloak%20&%20Insulation%20Bandages%29.md) |
 | 잔상의 연기 비늘 가운 (Afterimage Smoke-Scale Gown) | [잔상의 연기 비늘 가운 (Afterimage Smoke-Scale Gown)](잔상의%20연기%20비늘%20가운%20%28Afterimage%20Smoke-Scale%20Gown%29.md) |
 | 잠 못 드는 수의 (Sleepless Shroud) | [잠 못 드는 수의 (Sleepless Shroud)](잠%20못%20드는%20수의%20%28Sleepless%20Shroud%29.md) |
+| 잿빛 현자의 무한 서찰 로브 (Ash-Gray Sage Robe of Infinite Dispatches) | [잿빛 현자의 무한 서찰 로브 (Ash-Gray Sage Robe of Infinite Dispatches)](잿빛%20현자의%20무한%20서찰%20로브%20%28Ash-Gray%20Sage%20Robe%20of%20Infinite%20Dispatches%29.md) |
 | 저주받은 선장의 룬 코트 (Cursed Captain's Rune-Coat) | [저주받은 선장의 룬 코트 (Cursed Captain's Rune-Coat)](저주받은%20선장의%20룬%20코트%20%28Cursed%20Captain's%20Rune-Coat%29.md) |
+| 적열의 마그마 로브 (Red-Hot Magma Robe) | [적열의 마그마 로브 (Red-Hot Magma Robe)](적열의%20마그마%20로브%20%28Red-Hot%20Magma%20Robe%29.md) |
 | 적외선 감지를 숨기는 항온성(Thermostatic) 길리슈트 (Thermostatic Ghillie Suit that Hides Infrared Sensing) | [적외선 감지를 숨기는 항온성(Thermostatic) 길리슈트 (Thermostatic Ghillie Suit that Hides Infrared Sensing)](적외선%20감지를%20숨기는%20항온성%28Thermostatic%29%20길리슈트%20%28Thermostatic%20Ghillie%20Suit%20that%20Hides%20Infrared%20Sensing%29.md) |
 | 절대 규율의 황금수 황의 (Golden Vestments of Absolute Law) | [절대 규율의 황금수 황의 (Golden Vestments of Absolute Law)](절대%20규율의%20황금수%20황의%20%28Golden%20Vestments%20of%20Absolute%20Law%29.md) |
 | 절대 영도 타워 쉴드 '이지스 옵 딥스' (Aegis of the Deeps) | [절대 영도 타워 쉴드 '이지스 옵 딥스' (Aegis of the Deeps)](절대%20영도%20타워%20쉴드%20'이지스%20옵%20딥스'%20%28Aegis%20of%20the%20Deeps%29.md) |
@@ -138,7 +142,9 @@
 | 철벽의 수장 코트 (Coat of the Bastion Head) | [철벽의 수장 코트 (Coat of the Bastion Head)](철벽의%20수장%20코트%20%28Coat%20of%20the%20Bastion%20Head%29.md) |
 | 초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit) | [초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit)](초중량%20마도%20다이빙%20슈트%20%28Hyper-Weight%20Arcane%20Diving%20Suit%29.md) |
 | 칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow) | [칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow)](칠흑%20맹세의%20단죄복%20%28Inquisitor's%20Garb%20of%20Ebon%20Vow%29.md) |
+| 칠흑 밤안개 독가시 코르셋 하네스 (Pitch-Black Night-Fog Venom-Thorn Corset Harness) | [칠흑 밤안개 독가시 코르셋 하네스 (Pitch-Black Night-Fog Venom-Thorn Corset Harness)](칠흑%20밤안개%20독가시%20코르셋%20하네스%20%28Pitch-Black%20Night-Fog%20Venom-Thorn%20Corset%20Harness%29.md) |
 | 칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress) | [칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress)](칠흑의%20거미줄%20코르셋%20드레스%20%28Abyssal%20Arachnet%20Corset-Dress%29.md) |
+| 침묵의 봉안 수도복 (Ashen Habit of Sealed Silence) | [침묵의 봉안 수도복 (Ashen Habit of Sealed Silence)](침묵의%20봉안%20수도복%20%28Ashen%20Habit%20of%20Sealed%20Silence%29.md) |
 | 크로노스의 재의 로브 (Ash Robe of Chronos) | [크로노스의 재의 로브 (Ash Robe of Chronos)](크로노스의%20재의%20로브%20%28Ash%20Robe%20of%20Chronos%29.md) |
 | 크림슨 연구소의 자기 부식 실험복 (Self-Corroded Labcoat of the Crimson Lab) | [크림슨 연구소의 자기 부식 실험복 (Self-Corroded Labcoat of the Crimson Lab)](크림슨%20연구소의%20자기%20부식%20실험복%20%28Self-Corroded%20Labcoat%20of%20the%20Crimson%20Lab%29.md) |
 | 타임 딜레이(Delay) 양자 캐미솔 | [타임 딜레이(Delay) 양자 캐미솔](타임%20딜레이%28Delay%29%20양자%20캐미솔.md) |
@@ -155,6 +161,7 @@
 | 현자의 예지망투 (Mantle of Sage's Foresight) | [현자의 예지망투 (Mantle of Sage's Foresight)](현자의%20예지망투%20%28Mantle%20of%20Sage's%20Foresight%29.md) |
 | 현자의 필사본 숄 (Shawl of the Sage's Manuscript) | [현자의 필사본 숄 (Shawl of the Sage's Manuscript)](현자의%20필사본%20숄%20%28Shawl%20of%20the%20Sage's%20Manuscript%29.md) |
 | 화상 입은 언데드의 닻 사슬 (Rusted Anchor Chains of the Burned Undead) | [화상 입은 언데드의 닻 사슬 (Rusted Anchor Chains of the Burned Undead)](화상%20입은%20언데드의%20닻%20사슬%20%28Rusted%20Anchor%20Chains%20of%20the%20Burned%20Undead%29.md) |
+| 흑장미 무희의 검은 실크 붕대 검객 드레스 (Black-Silk Sworddancer Bandage Dress of the Dark Rose) | [흑장미 무희의 검은 실크 붕대 검객 드레스 (Black-Silk Sworddancer Bandage Dress of the Dark Rose)](흑장미%20무희의%20검은%20실크%20붕대%20검객%20드레스%20%28Black-Silk%20Sworddancer%20Bandage%20Dress%20of%20the%20Dark%20Rose%29.md) |
 | 흡음에 짜인 검은 안개수트 (Black-Mist Suit of Sound-Absorption) | [흡음에 짜인 검은 안개수트 (Black-Mist Suit of Sound-Absorption)](흡음에%20짜인%20검은%20안개수트%20%28Black-Mist%20Suit%20of%20Sound-Absorption%29.md) |
 | 흡혈하는 야성의 진피 (Dermis of Vampiric Savagery) | [흡혈하는 야성의 진피 (Dermis of Vampiric Savagery)](흡혈하는%20야성의%20진피%20%28Dermis%20of%20Vampiric%20Savagery%29.md) |
 | 희생의 양모 성의 (Holy Fleece of Sacrifice) | [희생의 양모 성의 (Holy Fleece of Sacrifice)](희생의%20양모%20성의%20%28Holy%20Fleece%20of%20Sacrifice%29.md) |

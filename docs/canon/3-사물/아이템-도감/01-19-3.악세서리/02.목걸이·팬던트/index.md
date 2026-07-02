@@ -6,7 +6,7 @@
 
 # 📚 목걸이·팬던트
 
-## 항목 (31)
+## 항목 (32)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -40,4 +40,5 @@
 | 코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity) | [코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity)](코르디스의%20마지막%20이성%20고리%20%28Choker%20of%20Cordis's%20Last%20Sanity%29.md) |
 | 피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity) | [피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)](피와%20눈물이%20얼룩진%20영원의%20펜던트%20%28Tear-stained%20Pendant%20of%20Eternity%29.md) |
 | 해방의 녹아붙은 목쇠사슬 (Freedom's Neck-Fused Iron Chain) | [해방의 녹아붙은 목쇠사슬 (Freedom's Neck-Fused Iron Chain)](해방의%20녹아붙은%20목쇠사슬%20%28Freedom's%20Neck-Fused%20Iron%20Chain%29.md) |
+| 혼석 염주 족쇄 (Soul-Gem Prayer Shackle) | [혼석 염주 족쇄 (Soul-Gem Prayer Shackle)](혼석%20염주%20족쇄%20%28Soul-Gem%20Prayer%20Shackle%29.md) |
 | 환각의 거울 펜던트 미라지 (Hallucination Pendant Mirror: Mirage) | [환각의 거울 펜던트 미라지 (Hallucination Pendant Mirror: Mirage)](환각의%20거울%20펜던트%20미라지%20%28Hallucination%20Pendant%20Mirror%20Mirage%29.md) |

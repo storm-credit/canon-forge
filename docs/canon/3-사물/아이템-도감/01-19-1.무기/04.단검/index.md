@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (128)
+## 항목 (129)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -100,6 +100,7 @@
 | 은장 단검 '뒷골목의 이빨' (Backstreet Fang Silver Dagger) | [은장 단검 '뒷골목의 이빨' (Backstreet Fang Silver Dagger)](은장%20단검%20'뒷골목의%20이빨'%20%28Backstreet%20Fang%20Silver%20Dagger%29.md) |
 | 은장검 퓨리티 (Silver Dagger Purity) | [은장검 퓨리티 (Silver Dagger Purity)](은장검%20퓨리티%20%28Silver%20Dagger%20Purity%29.md) |
 | 의무 연금술 메스 '스칼펠' (Luke Heidel's Scalpel Dagger) | [의무 연금술 메스 '스칼펠' (Luke Heidel's Scalpel Dagger)](의무%20연금술%20메스%20'스칼펠'%20%28Luke%20Heidel's%20Scalpel%20Dagger%29.md) |
+| 이공간 격리의 X자 균열 단검 (Dimensional Isolation X-Rift Dagger) | [이공간 격리의 X자 균열 단검 (Dimensional Isolation X-Rift Dagger)](이공간%20격리의%20X자%20균열%20단검%20%28Dimensional%20Isolation%20X-Rift%20Dagger%29.md) |
 | 이단의 비수, 녹슨 자비 (Rust Mercy) | [이단의 비수, 녹슨 자비 (Rust Mercy)](이단의%20비수,%20녹슨%20자비%20%28Rust%20Mercy%29.md) |
 | 일루미나스의 낙하 단검 (Falling Blade of 일루미나스) | [일루미나스의 낙하 단검 (Falling Blade of 일루미나스)](일루미나스의%20낙하%20단검%20%28Falling%20Blade%20of%20일루미나스%29.md) |
 | 전장 도살의 전투 단검 (Combat Dagger of Battlefield Slaughter) | [전장 도살의 전투 단검 (Combat Dagger of Battlefield Slaughter)](전장%20도살의%20전투%20단검%20%28Combat%20Dagger%20of%20Battlefield%20Slaughter%29.md) |

@@ -6,7 +6,7 @@
 
 # 📚 성물
 
-## 항목 (61)
+## 항목 (62)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -70,4 +70,5 @@
 | 핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast) | [핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast)](핏방울로%20증식하는%20짐승의%20뼈항아리%20%28Bone-Urn%20of%20the%20Blood-Multiplying%20Beast%29.md) |
 | 핏빛 불꽃이 서린 반마족의 검은 호른 (Bloodflame Horn of the Half-Demon, Dark Hollow Catalyst) | [핏빛 불꽃이 서린 반마족의 검은 호른 (Bloodflame Horn of the Half-Demon, Dark Hollow Catalyst)](핏빛%20불꽃이%20서린%20반마족의%20검은%20호른%20%28Bloodflame%20Horn%20of%20the%20Half-Demon,%20Dark%20Hollow%20Catalyst%29.md) |
 | 혈전의 마도 메아리 뿔피리 (Crimson-Front Arcane Echo War Horn) | [혈전의 마도 메아리 뿔피리 (Crimson-Front Arcane Echo War Horn)](혈전의%20마도%20메아리%20뿔피리%20%28Crimson-Front%20Arcane%20Echo%20War%20Horn%29.md) |
+| 형벌의 십자가 잔해 (Remnant of the Punitive Cross) | [형벌의 십자가 잔해 (Remnant of the Punitive Cross)](형벌의%20십자가%20잔해%20%28Remnant%20of%20the%20Punitive%20Cross%29.md) |
 | 화강암 핵마수 심장의 불씨 봉인 인장 (Ember-Seal Brand of the Granite Core-Beast's Heart) | [화강암 핵마수 심장의 불씨 봉인 인장 (Ember-Seal Brand of the Granite Core-Beast's Heart)](화강암%20핵마수%20심장의%20불씨%20봉인%20인장%20%28Ember-Seal%20Brand%20of%20the%20Granite%20Core-Beast's%20Heart%29.md) |

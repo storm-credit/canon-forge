@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (205)
+## 항목 (210)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -41,6 +41,7 @@
 | 대지의 결계석 닻 (Anchor-Stone of Terra) | [대지의 결계석 닻 (Anchor-Stone of Terra)](대지의%20결계석%20닻%20%28Anchor-Stone%20of%20Terra%29.md) |
 | 독수리의 별 무리 렌즈 (Star-cluster Lens of the Eagle) | [독수리의 별 무리 렌즈 (Star-cluster Lens of the Eagle)](독수리의%20별%20무리%20렌즈%20%28Star-cluster%20Lens%20of%20the%20Eagle%29.md) |
 | 독점의 맹목 베일 (Veil of Monopoly) | [독점의 맹목 베일 (Veil of Monopoly)](독점의%20맹목%20베일%20%28Veil%20of%20Monopoly%29.md) |
+| 딥 포지 황금기 결전 회로심 (Deep Forge Golden-Era Battle Circuit Core) | [딥 포지 황금기 결전 회로심 (Deep Forge Golden-Era Battle Circuit Core)](딥%20포지%20황금기%20결전%20회로심%20%28Deep%20Forge%20Golden-Era%20Battle%20Circuit%20Core%29.md) |
 | 라지엘의 편린 (이단 안구 결합체) | [라지엘의 편린 (이단 안구 결합체)](라지엘의편린.md) |
 | 러시안룰렛 회중시계 (Pocket Watch of Russian Roulette) | [러시안룰렛 회중시계 (Pocket Watch of Russian Roulette)](러시안룰렛%20회중시계%20%28Pocket%20Watch%20of%20Russian%20Roulette%29.md) |
 | 레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound) | [레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound)](레온%20울프하운드의%20달빛%20어금니%20%28Moonlit%20Fang%20of%20the%20Wolfhound%29.md) |
@@ -79,6 +80,7 @@
 | 별빛 눈물의 모래시계 (Hourglass of Starlight Tears) | [별빛 눈물의 모래시계 (Hourglass of Starlight Tears)](별빛%20눈물의%20모래시계%20%28Hourglass%20of%20Starlight%20Tears%29.md) |
 | 보이드 크리스탈 (Void Crystal) | [보이드 크리스탈 (Void Crystal)](보이드%20크리스탈%20%28Void%20Crystal%29.md) |
 | 부동의 말뚝 앵커 (Anchor-Peg of Immobility) | [부동의 말뚝 앵커 (Anchor-Peg of Immobility)](부동의%20말뚝%20앵커%20%28Anchor-Peg%20of%20Immobility%29.md) |
+| 불량품의 무쇠 담뱃대 (Iron Pipe of the Reject) | [불량품의 무쇠 담뱃대 (Iron Pipe of the Reject)](불량품의%20무쇠%20담뱃대%20%28Iron%20Pipe%20of%20the%20Reject%29.md) |
 | 불티를 머금은 강압 풀무 (Bellows of Embers) | [불티를 머금은 강압 풀무 (Bellows of Embers)](불티를%20머금은%20강압%20풀무%20%28Bellows%20of%20Embers%29.md) |
 | 붉은 현석의 심장 | [붉은 현석의 심장](붉은현석의심장.md) |
 | 블루홀 아가미 변환 호흡기 (Blue-Hole Gill Converter) | [블루홀 아가미 변환 호흡기 (Blue-Hole Gill Converter)](블루홀%20아가미%20변환%20호흡기%20%28Blue-Hole%20Gill%20Converter%29.md) |
@@ -113,6 +115,7 @@
 | 심안의 은빛 모노클 (Silver Monocle of Mind's Eye) | [심안의 은빛 모노클 (Silver Monocle of Mind's Eye)](심안의%20은빛%20모노클%20%28Silver%20Monocle%20of%20Mind's%20Eye%29.md) |
 | 심연을 가두는 유리 태풍병 (Glass Typhoon-Bottle Bounding the Abyss) | [심연을 가두는 유리 태풍병 (Glass Typhoon-Bottle Bounding the Abyss)](심연을%20가두는%20유리%20태풍병%20%28Glass%20Typhoon-Bottle%20Bounding%20the%20Abyss%29.md) |
 | 심연을 거르는 부해의 마스크 (Mask of the Toxic Sea Filtering the Abyss) | [심연을 거르는 부해의 마스크 (Mask of the Toxic Sea Filtering the Abyss)](심연을%20거르는%20부해의%20마스크%20%28Mask%20of%20the%20Toxic%20Sea%20Filtering%20the%20Abyss%29.md) |
+| 심장 동력 에테르 코어 (Heart-Drive Ether Core) | [심장 동력 에테르 코어 (Heart-Drive Ether Core)](심장%20동력%20에테르%20코어%20%28Heart-Drive%20Ether%20Core%29.md) |
 | 심장 박동 연동형 해독 펌프 (Heartbeat Auto-Antidote Pump) | [심장 박동 연동형 해독 펌프 (Heartbeat Auto-Antidote Pump)](심장%20박동%20연동형%20해독%20펌프%20%28Heartbeat%20Auto-Antidote%20Pump%29.md) |
 | 아우리온 황가의 번개 각인 (Mark of the Aurion) | [아우리온 황가의 번개 각인 (Mark of the Aurion)](아우리온%20황가의%20번개%20각인%20%28Mark%20of%20the%20Aurion%29.md) |
 | 아카식 마도서의 눈물 젖은 페이지 (Torn Page of the Akashic Tome) | [아카식 마도서의 눈물 젖은 페이지 (Torn Page of the Akashic Tome)](아카식%20마도서의%20눈물%20젖은%20페이지%20%28Torn%20Page%20of%20the%20Akashic%20Tome%29.md) |
@@ -190,6 +193,7 @@
 | 초정밀 마도 심장 박동기 (Arcane Ultra-Precision Pacemaker) | [초정밀 마도 심장 박동기 (Arcane Ultra-Precision Pacemaker)](초정밀%20마도%20심장%20박동기%20%28Arcane%20Ultra-Precision%20Pacemaker%29.md) |
 | 칠흑 안개 파우치 (Pouch of Abyssal Fog) | [칠흑 안개 파우치 (Pouch of Abyssal Fog)](칠흑%20안개%20파우치%20%28Pouch%20of%20Abyssal%20Fog%29.md) |
 | 침몰선의 유카 수은 성냥 (Sunken Mercury Matchsticks) | [침몰선의 유카 수은 성냥 (Sunken Mercury Matchsticks)](침몰선의%20유카%20수은%20성냥%20%28Sunken%20Mercury%20Matchsticks%29.md) |
+| 침묵의 X자 흑실 봉합 (Black-Thread X-Stitch of Silence) | [침묵의 X자 흑실 봉합 (Black-Thread X-Stitch of Silence)](침묵의%20X자%20흑실%20봉합%20%28Black-Thread%20X-Stitch%20of%20Silence%29.md) |
 | 침묵의 은빛 골무 (Thimble of Silversilence) | [침묵의 은빛 골무 (Thimble of Silversilence)](침묵의%20은빛%20골무%20%28Thimble%20of%20Silversilence%29.md) |
 | 침묵의 익사자 군기 '데스 스탠다드' (Death Standard) | [침묵의 익사자 군기 '데스 스탠다드' (Death Standard)](침묵의%20익사자%20군기%20'데스%20스탠다드'%20%28Death%20Standard%29.md) |
 | 침묵하는 폭풍의 나침반 (Compass of Silent Storm) | [침묵하는 폭풍의 나침반 (Compass of Silent Storm)](침묵하는%20폭풍의%20나침반%20%28Compass%20of%20Silent%20Storm%29.md) |
@@ -214,4 +218,5 @@
 | 핏빛 맹세의 뿔나팔 (Horn of the Bloody Oath) | [핏빛 맹세의 뿔나팔 (Horn of the Bloody Oath)](핏빛%20맹세의%20뿔나팔%20%28Horn%20of%20the%20Bloody%20Oath%29.md) |
 | 해신의 반음향 모래시계 (Anti-Echo Hourglass of the Sea God) | [해신의 반음향 모래시계 (Anti-Echo Hourglass of the Sea God)](해신의%20반음향%20모래시계%20%28Anti-Echo%20Hourglass%20of%20the%20Sea%20God%29.md) |
 | 혁명군의 녹아내린 나팔 (Melted Horn of the Revolutionist) | [혁명군의 녹아내린 나팔 (Melted Horn of the Revolutionist)](혁명군의%20녹아내린%20나팔%20%28Melted%20Horn%20of%20the%20Revolutionist%29.md) |
+| 형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment) | [형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment)](형벌의%20십자가%20잔해%20파편%20%28Debris%20of%20the%20Cross%20of%20Punishment%29.md) |
 | 황제결재권의 금홀 (Scepter of Imperial Sanction) | [황제결재권의 금홀 (Scepter of Imperial Sanction)](황제결재권의%20금홀%20%28Scepter%20of%20Imperial%20Sanction%29.md) |

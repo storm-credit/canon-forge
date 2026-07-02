@@ -6,7 +6,7 @@
 
 # 📚 쌍검
 
-## 항목 (25)
+## 항목 (26)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -18,6 +18,7 @@
 | 루프스피리투스의 참격 쌍검 - 펜리르 바이트 (Twin-Blades Fenrir-Bite) | [루프스피리투스의 참격 쌍검 - 펜리르 바이트 (Twin-Blades Fenrir-Bite)](루프스피리투스의%20참격%20쌍검%20-%20펜리르%20바이트%20%28Twin-Blades%20Fenrir-Bite%29.md) |
 | 리바이어던의 이빨 (Fang of Leviathan) | [리바이어던의 이빨 (Fang of Leviathan)](리바이어던의%20이빨%20%28Fang%20of%20Leviathan%29.md) |
 | 바람 나뭇잎 쌍검 '리프블레이드' (Galen Windleaf's Leaf Twin Daggers) | [바람 나뭇잎 쌍검 '리프블레이드' (Galen Windleaf's Leaf Twin Daggers)](바람%20나뭇잎%20쌍검%20'리프블레이드'%20%28Galen%20Windleaf's%20Leaf%20Twin%20Daggers%29.md) |
+| 부메랑 윙 커터 — 카엘의 강철 날개깃 쌍도날 (Boomerang Wing Cutter — Twin Steel Wing-Feather Blades of Kael) | [부메랑 윙 커터 — 카엘의 강철 날개깃 쌍도날 (Boomerang Wing Cutter — Twin Steel Wing-Feather Blades of Kael)](부메랑%20윙%20커터%20—%20카엘의%20강철%20날개깃%20쌍도날%20%28Boomerang%20Wing%20Cutter%20—%20Twin%20Steel%20Wing-Feather%20Blades%20of%20Kael%29.md) |
 | 붉은 달의 시미터 (Scimitar of Red Moon) | [붉은 달의 시미터 (Scimitar of Red Moon)](붉은%20달의%20시미터%20%28Scimitar%20of%20Red%20Moon%29.md) |
 | 블랑 & 누아르 (Blanc & Noir) | [블랑 & 누아르 (Blanc & Noir)](블랑%20&%20누아르%20%28Blanc%20&%20Noir%29.md) |
 | 쌍검 '씨-스왈로우 & 크라켄 투스' (Sea-Swallow & Kraken-Tooth) | [쌍검 '씨-스왈로우 & 크라켄 투스' (Sea-Swallow & Kraken-Tooth)](쌍검%20'씨-스왈로우%20&%20크라켄%20투스'%20%28Sea-Swallow%20&%20Kraken-Tooth%29.md) |

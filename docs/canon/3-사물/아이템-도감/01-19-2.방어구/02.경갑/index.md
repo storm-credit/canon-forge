@@ -6,7 +6,7 @@
 
 # 📚 경갑
 
-## 항목 (45)
+## 항목 (50)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -16,6 +16,7 @@
 | 가죽-티타늄 혼합 경량 돌격 갑주 (Leather-Titanium Hybrid Lightweight Assault Cuirass) | [가죽-티타늄 혼합 경량 돌격 갑주 (Leather-Titanium Hybrid Lightweight Assault Cuirass)](가죽-티타늄%20혼합%20경량%20돌격%20갑주%20%28Leather-Titanium%20Hybrid%20Lightweight%20Assault%20Cuirass%29.md) |
 | 강화된 베히모스 가죽 앞치마 (Behemoth Leather Apron) | [강화된 베히모스 가죽 앞치마 (Behemoth Leather Apron)](강화된%20베히모스%20가죽%20앞치마%20%28Behemoth%20Leather%20Apron%29.md) |
 | 고대 짐승 털가죽 반쪽 요갑 (Primordial Beast Half-Pelt Wrap) | [고대 짐승 털가죽 반쪽 요갑 (Primordial Beast Half-Pelt Wrap)](고대%20짐승%20털가죽%20반쪽%20요갑%20%28Primordial%20Beast%20Half-Pelt%20Wrap%29.md) |
+| 구속구 사슬 부서진 철조각 갑주 (Armor of Binding Chains) | [구속구 사슬 부서진 철조각 갑주 (Armor of Binding Chains)](구속구%20사슬%20부서진%20철조각%20갑주%20%28Armor%20of%20Binding%20Chains%29.md) |
 | 굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog) | [굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog)](굶주린%20들개의%20조악한%20사슬%20가죽%20%28Crude%20Chain-Leather%20of%20Starving%20Wild-Dog%29.md) |
 | 그림자 포식자의 가죽 (Leather of Shadow Eater) | [그림자 포식자의 가죽 (Leather of Shadow Eater)](그림자%20포식자의%20가죽%20%28Leather%20of%20Shadow%20Eater%29.md) |
 | 그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron) | [그을음 찐 마도공학 전투 가죽 앞치마 (Soot-Caked Magitek Combat Leather Apron)](그을음%20찐%20마도공학%20전투%20가죽%20앞치마%20%28Soot-Caked%20Magitek%20Combat%20Leather%20Apron%29.md) |
@@ -35,6 +36,7 @@
 | 비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak) | [비바람 찢는 쐐기형 망토와 가죽 조끼 (Gale-Rending Wedge Cloak)](비바람%20찢는%20쐐기형%20망토와%20가죽%20조끼%20%28Gale-Rending%20Wedge%20Cloak%29.md) |
 | 빙뇌의 가죽 각반 (Leggings of Ice-Thunder) | [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](빙뇌의%20가죽%20각반%20%28Leggings%20of%20Ice-Thunder%29.md) |
 | 빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood) | [빛먹는 거미줄 투구망과 가죽복 (Light-Devouring Silk Hood)](빛먹는%20거미줄%20투구망과%20가죽복%20%28Light-Devouring%20Silk%20Hood%29.md) |
+| 암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket) | [암녹색 바람 비늘 가죽 재킷 (Dark-Green Wind-Scale Leather Jacket)](암녹색%20바람%20비늘%20가죽%20재킷%20%28Dark-Green%20Wind-Scale%20Leather%20Jacket%29.md) |
 | 암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness) | [암반 파편 흡착 반신 충격 수용 흉대 (Rock-Fragment Absorption Half-Torso Impact Harness)](암반%20파편%20흡착%20반신%20충격%20수용%20흉대%20%28Rock-Fragment%20Absorption%20Half-Torso%20Impact%20Harness%29.md) |
 | 에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate) | [에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate)](에메랄드%20백금%20비행%20하프-코르셋%20갑주%20%28Emerald-Platinum%20Aerial%20Half-Corset%20Plate%29.md) |
 | 에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit) | [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](에테리움%20강화%20가죽%20비행%20수트%20%28Ether-Reinforced%20Leather%20Flight%20Suit%29.md) |
@@ -48,9 +50,12 @@
 | 천공의 날개깃 경갑 (Light-Armor of the Zenith Wing-Feather) | [천공의 날개깃 경갑 (Light-Armor of the Zenith Wing-Feather)](천공의%20날개깃%20경갑%20%28Light-Armor%20of%20the%20Zenith%20Wing-Feather%29.md) |
 | 천둥새의 가죽 요대 (Leather Girdle of the Thunderbird) | [천둥새의 가죽 요대 (Leather Girdle of the Thunderbird)](천둥새의%20가죽%20요대%20%28Leather%20Girdle%20of%20the%20Thunderbird%29.md) |
 | 친위대장의 사자 가죽 덧옷 (Lion-Hide Surcoat of the Guard Captain) | [친위대장의 사자 가죽 덧옷 (Lion-Hide Surcoat of the Guard Captain)](친위대장의%20사자%20가죽%20덧옷%20%28Lion-Hide%20Surcoat%20of%20the%20Guard%20Captain%29.md) |
+| 카멜레온 가죽 잿빛 사암 코트 (Ash-Sandstone Chameleon Leather Coat) | [카멜레온 가죽 잿빛 사암 코트 (Ash-Sandstone Chameleon Leather Coat)](카멜레온%20가죽%20잿빛%20사암%20코트%20%28Ash-Sandstone%20Chameleon%20Leather%20Coat%29.md) |
 | 타다 남은 잿빛 가죽 코트 (Charred Ash-Leather Coat) | [타다 남은 잿빛 가죽 코트 (Charred Ash-Leather Coat)](타다%20남은%20잿빛%20가죽%20코트%20%28Charred%20Ash-Leather%20Coat%29.md) |
 | 탐식의 가죽 앞치마 (Leather Apron of Voracity) | [탐식의 가죽 앞치마 (Leather Apron of Voracity)](탐식의%20가죽%20앞치마%20%28Leather%20Apron%20of%20Voracity%29.md) |
+| 폭압 집속의 강철 구속 벨트 (Blast-Pressure Containment Steel Belt) | [폭압 집속의 강철 구속 벨트 (Blast-Pressure Containment Steel Belt)](폭압%20집속의%20강철%20구속%20벨트%20%28Blast-Pressure%20Containment%20Steel%20Belt%29.md) |
 | 피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt) | [피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt)](피로%20물든%20알파의%20목가죽%20%28Blood-Soaked%20Alpha%20Pelt%29.md) |
+| 피와 흙에 절은 야수 통가죽 킬트 (Blood-and-Soil-Soaked Beast-Hide Kilt) | [피와 흙에 절은 야수 통가죽 킬트 (Blood-and-Soil-Soaked Beast-Hide Kilt)](피와%20흙에%20절은%20야수%20통가죽%20킬트%20%28Blood-and-Soil-Soaked%20Beast-Hide%20Kilt%29.md) |
 | 핏빛 비늘 처형자의 붉은 가죽 흉갑 (Blood-Scale Executioner's Crimson Leather Breastplate) | [핏빛 비늘 처형자의 붉은 가죽 흉갑 (Blood-Scale Executioner's Crimson Leather Breastplate)](핏빛%20비늘%20처형자의%20붉은%20가죽%20흉갑%20%28Blood-Scale%20Executioner's%20Crimson%20Leather%20Breastplate%29.md) |
 | 혈맥 압착 마도 허리띠 (Hemoic Pressure Magitech Belt) | [혈맥 압착 마도 허리띠 (Hemoic Pressure Magitech Belt)](혈맥%20압착%20마도%20허리띠%20%28Hemoic%20Pressure%20Magitech%20Belt%29.md) |
 | 혈풍 도륙전의 두꺼운 전투 바지 (Blood-Gale Carnage Battle Trousers) | [혈풍 도륙전의 두꺼운 전투 바지 (Blood-Gale Carnage Battle Trousers)](혈풍%20도륙전의%20두꺼운%20전투%20바지%20%28Blood-Gale%20Carnage%20Battle%20Trousers%29.md) |

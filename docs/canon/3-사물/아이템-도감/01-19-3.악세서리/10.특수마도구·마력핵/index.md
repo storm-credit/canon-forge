@@ -6,7 +6,7 @@
 
 # 📚 특수마도구·마력핵
 
-## 항목 (106)
+## 항목 (113)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -23,6 +23,7 @@
 | 굴절 저격 마석 세트 (Pinball Ricochet Relay Stones) | [굴절 저격 마석 세트 (Pinball Ricochet Relay Stones)](굴절%20저격%20마석%20세트%20%28Pinball%20Ricochet%20Relay%20Stones%29.md) |
 | 기압 맥류 관측 마도 청진기 (Atmospheric Pulse Divination Stethoscope) | [기압 맥류 관측 마도 청진기 (Atmospheric Pulse Divination Stethoscope)](기압%20맥류%20관측%20마도%20청진기%20%28Atmospheric%20Pulse%20Divination%20Stethoscope%29.md) |
 | 깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask) | [깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask)](깨지지%20않는%20영하의%20플라스크%20%28Unbreakable%20Below-Zero%20Flask%29.md) |
+| 꺼지지 않는 비탄의 불씨 (Undying Ember of Lament) | [꺼지지 않는 비탄의 불씨 (Undying Ember of Lament)](꺼지지%20않는%20비탄의%20불씨%20%28Undying%20Ember%20of%20Lament%29.md) |
 | 꺼지지 않는 지핵의 점화 플러그 (Spark-Plug of the Unquenchable Core) | [꺼지지 않는 지핵의 점화 플러그 (Spark-Plug of the Unquenchable Core)](꺼지지%20않는%20지핵의%20점화%20플러그%20%28Spark-Plug%20of%20the%20Unquenchable%20Core%29.md) |
 | 끊지 못한 실의 은제 가위 (Silver Shears of the Uncut Thread) | [끊지 못한 실의 은제 가위 (Silver Shears of the Uncut Thread)](끊지%20못한%20실의%20은제%20가위%20%28Silver%20Shears%20of%20the%20Uncut%20Thread%29.md) |
 | 뇌전 탈수자의 대형 수통 (Thunder-Parched Canteen of the Dehydrated) | [뇌전 탈수자의 대형 수통 (Thunder-Parched Canteen of the Dehydrated)](뇌전%20탈수자의%20대형%20수통%20%28Thunder-Parched%20Canteen%20of%20the%20Dehydrated%29.md) |
@@ -31,9 +32,11 @@
 | 단층핵의 징벌 추 (Pendulum of the Fault-Core Punishment) | [단층핵의 징벌 추 (Pendulum of the Fault-Core Punishment)](단층핵의%20징벌%20추%20%28Pendulum%20of%20the%20Fault-Core%20Punishment%29.md) |
 | 달그림자 반사 도약 발찌 (Moon-Shadow Reflection Step Anklet) | [달그림자 반사 도약 발찌 (Moon-Shadow Reflection Step Anklet)](달그림자%20반사%20도약%20발찌%20%28Moon-Shadow%20Reflection%20Step%20Anklet%29.md) |
 | 달의 혈마 강제 주입 주사기 (Blood-Mana Forced Infusion Syringe) | [달의 혈마 강제 주입 주사기 (Blood-Mana Forced Infusion Syringe)](달의%20혈마%20강제%20주입%20주사기%20%28Blood-Mana%20Forced%20Infusion%20Syringe%29.md) |
+| 독입자 공간 부식 산란 향로 (Poison-Particle Spatial Corrosion Dispersal Censer) | [독입자 공간 부식 산란 향로 (Poison-Particle Spatial Corrosion Dispersal Censer)](독입자%20공간%20부식%20산란%20향로%20%28Poison-Particle%20Spatial%20Corrosion%20Dispersal%20Censer%29.md) |
 | 뒤돌아보는 짐승의 안구 (Eyeball of the Beast Looking Backward) | [뒤돌아보는 짐승의 안구 (Eyeball of the Beast Looking Backward)](뒤돌아보는%20짐승의%20안구%20%28Eyeball%20of%20the%20Beast%20Looking%20Backward%29.md) |
 | 드라코니우스의 희석 용혈 보존병 (Drakonius Diluted Dragon-Blood Vial) | [드라코니우스의 희석 용혈 보존병 (Drakonius Diluted Dragon-Blood Vial)](드라코니우스의%20희석%20용혈%20보존병%20%28Drakonius%20Diluted%20Dragon-Blood%20Vial%29.md) |
 | 마그네틱 펄스 전용 소형 모루 (Magnetic Pulse Personal Anvil) | [마그네틱 펄스 전용 소형 모루 (Magnetic Pulse Personal Anvil)](마그네틱%20펄스%20전용%20소형%20모루%20%28Magnetic%20Pulse%20Personal%20Anvil%29.md) |
+| 마그마 복명 투과 지진 공명반 (Magma Ventriloquism Seismic Resonance Disc) | [마그마 복명 투과 지진 공명반 (Magma Ventriloquism Seismic Resonance Disc)](마그마%20복명%20투과%20지진%20공명반%20%28Magma%20Ventriloquism%20Seismic%20Resonance%20Disc%29.md) |
 | 마그마 서핑 흑연 보드 (Magma-Surf Graphite Board) | [마그마 서핑 흑연 보드 (Magma-Surf Graphite Board)](마그마%20서핑%20흑연%20보드%20%28Magma-Surf%20Graphite%20Board%29.md) |
 | 마나 암연 연초함 '무표정의 연막' (Mana Black-Fume Cigarette Case 'Expressionless Smokescreen') | [마나 암연 연초함 '무표정의 연막' (Mana Black-Fume Cigarette Case 'Expressionless Smokescreen')](마나%20암연%20연초함%20'무표정의%20연막'%20%28Mana%20Black-Fume%20Cigarette%20Case%20of%20Expressionless%20Smokescreen%29.md) |
 | 마나 압축 비상 전투 튜브 (Emergency Combat Mana-Compress Tube) | [마나 압축 비상 전투 튜브 (Emergency Combat Mana-Compress Tube)](마나%20압축%20비상%20전투%20튜브%20%28Emergency%20Combat%20Mana-Compress%20Tube%29.md) |
@@ -61,6 +64,7 @@
 | 속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission) | [속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission)](속삭임의%20막간%20흑색%20부채%20%28Black%20Fan%20of%20the%20Whispering%20Intermission%29.md) |
 | 시신경 억제 앰플 '의안의 밤' (Retinal-Suppression Ampoule — Night of the Machina Eye) | [시신경 억제 앰플 '의안의 밤' (Retinal-Suppression Ampoule — Night of the Machina Eye)](시신경%20억제%20앰플%20'의안의%20밤'%20%28Retinal-Suppression%20Ampoule%20—%20Night%20of%20the%20Machina%20Eye%29.md) |
 | 심연 거머리 배양 유리관 세트 (Abyssal Leech Culture Vial Set) | [심연 거머리 배양 유리관 세트 (Abyssal Leech Culture Vial Set)](심연%20거머리%20배양%20유리관%20세트%20%28Abyssal%20Leech%20Culture%20Vial%20Set%29.md) |
+| 심연 와이어 입체 기동 릴 허리띠 (Abyssal Wire 3D-Maneuver Reel Belt) | [심연 와이어 입체 기동 릴 허리띠 (Abyssal Wire 3D-Maneuver Reel Belt)](심연%20와이어%20입체%20기동%20릴%20허리띠%20%28Abyssal%20Wire%203D-Maneuver%20Reel%20Belt%29.md) |
 | 심연 종양 배양 핵 (Abyssal Tumor Culture Core) | [심연 종양 배양 핵 (Abyssal Tumor Culture Core)](심연%20종양%20배양%20핵%20%28Abyssal%20Tumor%20Culture%20Core%29.md) |
 | 심장이 굳은 룬 용광로의 모루 조각 (Petrified Anvil of the Runeforge) | [심장이 굳은 룬 용광로의 모루 조각 (Petrified Anvil of the Runeforge)](심장이%20굳은%20룬%20용광로의%20모루%20조각%20%28Petrified%20Anvil%20of%20the%20Runeforge%29.md) |
 | 아드레날린 혼합 응고제 주사기 (Adrenaline Compound Coagulant Syringe) | [아드레날린 혼합 응고제 주사기 (Adrenaline Compound Coagulant Syringe)](아드레날린%20혼합%20응고제%20주사기%20%28Adrenaline%20Compound%20Coagulant%20Syringe%29.md) |
@@ -69,7 +73,9 @@
 | 암흑 파장 거울 파편 (Dark-Wave Mirror Shard) | [암흑 파장 거울 파편 (Dark-Wave Mirror Shard)](암흑%20파장%20거울%20파편%20%28Dark-Wave%20Mirror%20Shard%29.md) |
 | 양자 얽힘의 마나 트럼프 카드 (Quantum-Entangled Mana Trump Cards) | [양자 얽힘의 마나 트럼프 카드 (Quantum-Entangled Mana Trump Cards)](양자%20얽힘의%20마나%20트럼프%20카드%20%28Quantum-Entangled%20Mana%20Trump%20Cards%29.md) |
 | 어골 속삭임 통신 바늘 (Fish-Bone Whisper Needle) | [어골 속삭임 통신 바늘 (Fish-Bone Whisper Needle)](어골%20속삭임%20통신%20바늘%20%28Fish-Bone%20Whisper%20Needle%29.md) |
+| 어둠골 룬 스파이더즈 먹이 잉크 결속 펜 (Dark Hollow Rune Spider Ink-Bond Quill) | [어둠골 룬 스파이더즈 먹이 잉크 결속 펜 (Dark Hollow Rune Spider Ink-Bond Quill)](어둠골%20룬%20스파이더즈%20먹이%20잉크%20결속%20펜%20%28Dark%20Hollow%20Rune%20Spider%20Ink-Bond%20Quill%29.md) |
 | 어음 송신 마도 문서함 (Bill-Transfer Arcane Dispatch Case) | [어음 송신 마도 문서함 (Bill-Transfer Arcane Dispatch Case)](어음%20송신%20마도%20문서함%20%28Bill-Transfer%20Arcane%20Dispatch%20Case%29.md) |
+| 언데드 까마귀 시각망 조율 수정 (Undead Crow Vision-Net Synchronization Crystal) | [언데드 까마귀 시각망 조율 수정 (Undead Crow Vision-Net Synchronization Crystal)](언데드%20까마귀%20시각망%20조율%20수정%20%28Undead%20Crow%20Vision-Net%20Synchronization%20Crystal%29.md) |
 | 에테리움 산소통 '하늘의 숨' (Ether-Breather Canister) | [에테리움 산소통 '하늘의 숨' (Ether-Breather Canister)](에테리움%20산소통%20'하늘의%20숨'%20%28Ether-Breather%20Canister%29.md) |
 | 역속박 전투 완박대 (Reverse-Bind Combat Arm Strap) | [역속박 전투 완박대 (Reverse-Bind Combat Arm Strap)](역속박%20전투%20완박대%20%28Reverse-Bind%20Combat%20Arm%20Strap%29.md) |
 | 연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation) | [연산의 은제 회중시계 (Silver Pocket Watch of Probability Calculation)](연산의%20은제%20회중시계%20%28Silver%20Pocket%20Watch%20of%20Probability%20Calculation%29.md) |
@@ -107,6 +113,7 @@
 | 태양 굴절 무희 황금 완환 (Solar-Refraction Dancer's Gold Bangles) | [태양 굴절 무희 황금 완환 (Solar-Refraction Dancer's Gold Bangles)](태양%20굴절%20무희%20황금%20완환%20%28Solar-Refraction%20Dancer's%20Gold%20Bangles%29.md) |
 | 테크노스의 완전 오차 제거 계산반 (Technos Absolute-Error-Purge Calculation Disc) | [테크노스의 완전 오차 제거 계산반 (Technos Absolute-Error-Purge Calculation Disc)](테크노스의%20완전%20오차%20제거%20계산반%20%28Technos%20Absolute-Error-Purge%20Calculation%20Disc%29.md) |
 | 특수 마도구 (Magical Tools & Utilities) | [특수 마도구 (Magical Tools & Utilities)](특수%20마도구%20%28Magical%20Tools%20&%20Utilities%29.md) |
+| 파멸의 서곡 — 어둠 안개 까마귀 구속구 (Overture of Doom — Dark Mist Raven Binding) | [파멸의 서곡 — 어둠 안개 까마귀 구속구 (Overture of Doom — Dark Mist Raven Binding)](파멸의%20서곡%20—%20어둠%20안개%20까마귀%20구속구%20%28Overture%20of%20Doom%20—%20Dark%20Mist%20Raven%20Binding%29.md) |
 | 포르말린 진공 밀봉 강철 플라스크 (Formalin Vacuum-Seal Steel Flask) | [포르말린 진공 밀봉 강철 플라스크 (Formalin Vacuum-Seal Steel Flask)](포르말린%20진공%20밀봉%20강철%20플라스크%20%28Formalin%20Vacuum-Seal%20Steel%20Flask%29.md) |
 | 폭풍신의 갇힌 숨결 (Caged Breath of the Storm-God) | [폭풍신의 갇힌 숨결 (Caged Breath of the Storm-God)](폭풍신의%20갇힌%20숨결%20%28Caged%20Breath%20of%20the%20Storm-God%29.md) |
 | 폭풍의 안장과 은마갑 (Tempest Saddle & Silver Barding) | [폭풍의 안장과 은마갑 (Tempest Saddle & Silver Barding)](폭풍의%20안장과%20은마갑%20%28Tempest%20Saddle%20&%20Silver%20Barding%29.md) |

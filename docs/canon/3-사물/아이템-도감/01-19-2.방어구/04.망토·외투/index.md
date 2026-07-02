@@ -6,7 +6,7 @@
 
 # 📚 망토·외투
 
-## 항목 (60)
+## 항목 (65)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -51,13 +51,16 @@
 | 욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire) | [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](욕망%20흡착의%20은사%20코트%20%28Silver-Thread%20Coat%20of%20Desire%29.md) |
 | 월식의 망토 (Cloak of Lunar Eclipse) | [월식의 망토 (Cloak of Lunar Eclipse)](월식의%20망토%20%28Cloak%20of%20Lunar%20Eclipse%29.md) |
 | 윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream) | [윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream)](윈드스트림의%20사냥%20망토%20%28Hunter's%20Cloak%20of%20Windstream%29.md) |
+| 유랑 극단의 은보라 망토와 깃털 모자 (Silver-Violet Wandering Troupe Cloak & Feather Hat) | [유랑 극단의 은보라 망토와 깃털 모자 (Silver-Violet Wandering Troupe Cloak & Feather Hat)](유랑%20극단의%20은보라%20망토와%20깃털%20모자%20%28Silver-Violet%20Wandering%20Troupe%20Cloak%20&%20Feather%20Hat%29.md) |
 | 이성의 재봉선 망토 (Cape of the Thread of Reason) | [이성의 재봉선 망토 (Cape of the Thread of Reason)](이성의%20재봉선%20망토%20%28Cape%20of%20the%20Thread%20of%20Reason%29.md) |
 | 재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano) | [재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano)](재앙이%20깃든%20화산의%20망토%20%28Cloak%20of%20the%20Calamitous%20Volcano%29.md) |
+| 저주에 타버린 은빛 유랑 망토 (Curse-Charred Silver Wanderer's Cloak) | [저주에 타버린 은빛 유랑 망토 (Curse-Charred Silver Wanderer's Cloak)](저주에%20타버린%20은빛%20유랑%20망토%20%28Curse-Charred%20Silver%20Wanderer's%20Cloak%29.md) |
 | 절연된 참모의 망토 (Insulated Cloak of the Staff) | [절연된 참모의 망토 (Insulated Cloak of the Staff)](절연된%20참모의%20망토%20%28Insulated%20Cloak%20of%20the%20Staff%29.md) |
 | 지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe) | [지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe)](지맥%20황제의%20착좌%20흑요%20장포%20%28Leyline%20Emperor's%20Seated%20Obsidian%20Robe%29.md) |
 | 창백한 밤성운의 베일 (Veil of the Pale Nebula) | [창백한 밤성운의 베일 (Veil of the Pale Nebula)](창백한%20밤성운의%20베일%20%28Veil%20of%20the%20Pale%20Nebula%29.md) |
 | 칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat) | [칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat)](칠흑%20까마귀%20깃털%20장의사%20롱코트%20%28Corvid%20Undertaker's%20Longcoat%29.md) |
 | 칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition) | [칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition)](칠흑%20박학의%20지식인%20코트%20%28Jet-Black%20Scholar's%20Coat%20of%20Erudition%29.md) |
+| 칠흑 홑겹 장검객 활강 망토 (Jet-Black Swordsman's Gliding Cloak) | [칠흑 홑겹 장검객 활강 망토 (Jet-Black Swordsman's Gliding Cloak)](칠흑%20홑겹%20장검객%20활강%20망토%20%28Jet-Black%20Swordsman's%20Gliding%20Cloak%29.md) |
 | 침묵의 흑막 베일 (Silent Veil of the Void) | [침묵의 흑막 베일 (Silent Veil of the Void)](침묵의%20흑막%20베일%20%28Silent%20Veil%20of%20the%20Void%29.md) |
 | 침잠하는 자의 방한 백사 두건 망토 (Hoarfrost Cowl-Cloak of the Sinking Wanderer) | [침잠하는 자의 방한 백사 두건 망토 (Hoarfrost Cowl-Cloak of the Sinking Wanderer)](침잠하는%20자의%20방한%20백사%20두건%20망토%20%28Hoarfrost%20Cowl-Cloak%20of%20the%20Sinking%20Wanderer%29.md) |
 | 카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale) | [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](카멜레온%20용린의%20심연%20망토%20%28Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale%29.md) |
@@ -66,7 +69,9 @@
 | 태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse) | [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](태양풍을%20흡수하는%20일식%28Eclipse%29의%20베일%20%28Veil%20of%20Eclipse%29.md) |
 | 투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void) | [투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void)](투명화%20마법%20도료가%20발린%20위장%20망토%20%28Camouflage%20Cloak%20of%20the%20Void%29.md) |
 | 풍륜 윙 슈트 (Wind-Wheel Wing Suit) | [풍륜 윙 슈트 (Wind-Wheel Wing Suit)](풍륜%20윙%20슈트%20%28Wind-Wheel%20Wing%20Suit%29.md) |
+| 피와 기름이 절은 호위 망토 (Blood-and-Oil-Soaked Retainer's Cloak) | [피와 기름이 절은 호위 망토 (Blood-and-Oil-Soaked Retainer's Cloak)](피와%20기름이%20절은%20호위%20망토%20%28Blood-and-Oil-Soaked%20Retainer's%20Cloak%29.md) |
 | 해진 잿빛 망토 (Tattered Ashen Cloak) | [해진 잿빛 망토 (Tattered Ashen Cloak)](해진%20잿빛%20망토%20%28Tattered%20Ashen%20Cloak%29.md) |
+| 화려한 깃털 장식 낡은 망토 (Tattered Cloak of Opera) | [화려한 깃털 장식 낡은 망토 (Tattered Cloak of Opera)](화려한%20깃털%20장식%20낡은%20망토%20%28Tattered%20Cloak%20of%20Opera%29.md) |
 | 황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower) | [황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower)](황금%20태엽%20역행%20코트%20%28Reverse-Gear%20Golden%20Coat%20of%20the%20Time%20Tower%29.md) |
 | 흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler) | [흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler)](흉갑이%20없는%20투사의%20망토%20%28Cloak%20of%20the%20Bare-Chested%20Brawler%29.md) |
 | 흑우 기병 코트 '까마귀의 날개' (Cavalry Coat of the Raven's Wing) | [흑우 기병 코트 '까마귀의 날개' (Cavalry Coat of the Raven's Wing)](흑우%20기병%20코트%20'까마귀의%20날개'%20%28Cavalry%20Coat%20of%20the%20Raven's%20Wing%29.md) |

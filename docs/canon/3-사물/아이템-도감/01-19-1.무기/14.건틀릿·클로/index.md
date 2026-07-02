@@ -6,12 +6,13 @@
 
 # 📚 건틀릿·클로
 
-## 항목 (40)
+## 항목 (41)
 
 | 아이템 | 링크 |
 |--------|------|
 | 강철 발톱 (Iron Claws) | [강철 발톱 (Iron Claws)](강철%20발톱%20%28Iron%20Claws%29.md) |
 | 거미발톱 건틀릿 (Gauntlet of Spider Claw) | [거미발톱 건틀릿 (Gauntlet of Spider Claw)](거미발톱%20건틀릿%20%28Gauntlet%20of%20Spider%20Claw%29.md) |
+| 검게 칠한 장식 가짜 쇠톱 손톱 (Blackened Decorative Fake Serrated Iron Claws) | [검게 칠한 장식 가짜 쇠톱 손톱 (Blackened Decorative Fake Serrated Iron Claws)](검게%20칠한%20장식%20가짜%20쇠톱%20손톱%20%28Blackened%20Decorative%20Fake%20Serrated%20Iron%20Claws%29.md) |
 | 격투구 - 피에 젖은 권갑 (Blood-soaked Handwraps) | [격투구 - 피에 젖은 권갑 (Blood-soaked Handwraps)](격투구%20-%20피에%20젖은%20권갑%20%28Blood-soaked%20Handwraps%29.md) |
 | 금속 손의 보급 집게 팔 (Steelhand's Supply Grip Arm) | [금속 손의 보급 집게 팔 (Steelhand's Supply Grip Arm)](금속%20손의%20보급%20집게%20팔%20%28Steelhand's%20Supply%20Grip%20Arm%29.md) |
 | 기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet) | [기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet)](기어하트%20마도%20건틀릿%20%28Gearheart's%20Arcane%20Gauntlet%29.md) |
