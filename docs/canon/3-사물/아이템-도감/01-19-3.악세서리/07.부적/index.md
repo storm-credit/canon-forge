@@ -6,13 +6,14 @@
 
 # 📚 부적
 
-## 항목 (115)
+## 항목 (116)
 
 | 아이템 | 링크 |
 |--------|------|
 | 부적 (Amulets) | [부적 (Amulets)](08.부적.md) |
 | 검은 잿빛 맹세의 봉인패 — 세리아 실버문의 저주 서약패 (Ashen-Oath Seal — Seria Silvermoon's Curse-Covenant Talisman) | [검은 잿빛 맹세의 봉인패 — 세리아 실버문의 저주 서약패 (Ashen-Oath Seal — Seria Silvermoon's Curse-Covenant Talisman)](검은%20잿빛%20맹세의%20봉인패%20—%20세리아%20실버문의%20저주%20서약패%20%28Ashen-Oath%20Seal%20—%20Seria%20Silvermoon's%20Curse-Covenant%20Talisman%29.md) |
 | 검은 잿빛 봉인 혈서 부적 '폐의 맹세' (Blood-Oath Seal Charm 'Lung Vow') | [검은 잿빛 봉인 혈서 부적 '폐의 맹세' (Blood-Oath Seal Charm 'Lung Vow')](검은%20잿빛%20봉인%20혈서%20부적%20'폐의%20맹세'%20%28Blood-Oath%20Seal%20Charm%20'Lung%20Vow'%29.md) |
+| 검은 잿빛 봉인 혈서 부적 — 일리오스의 폐의 맹세 (Blood-Oath Seal Charm — Ilios's Lung Vow) | [검은 잿빛 봉인 혈서 부적 — 일리오스의 폐의 맹세 (Blood-Oath Seal Charm — Ilios's Lung Vow)](검은%20잿빛%20봉인%20혈서%20부적%20—%20일리오스의%20폐의%20맹세%20%28Blood-Oath%20Seal%20Charm%20—%20Ilios's%20Lung%20Vow%29.md) |
 | 검은 잿빛 폐의 저주 봉인낙인 '피의 서약' (Blood-Oath Brand Seal of the Lungs of Black Ash) | [검은 잿빛 폐의 저주 봉인낙인 '피의 서약' (Blood-Oath Brand Seal of the Lungs of Black Ash)](검은%20잿빛%20폐의%20저주%20봉인낙인%20'피의%20서약'%20%28Blood-Oath%20Brand%20Seal%20of%20the%20Lungs%20of%20Black%20Ash%29.md) |
 | 검은 잿빛의 폐 봉인 부적 '맹세의 숨결' (Black Ash Lung Seal Charm, Breath of the Oath) | [검은 잿빛의 폐 봉인 부적 '맹세의 숨결' (Black Ash Lung Seal Charm, Breath of the Oath)](검은%20잿빛의%20폐%20봉인%20부적%20'맹세의%20숨결'%20%28Black%20Ash%20Lung%20Seal%20Charm,%20Breath%20of%20the%20Oath%29.md) |
 | 검은 잿빛의 폐 봉인 부적 — 미하일의 혈서 봉인패 (Mikhail's Blood-Oath Lung Seal Talisman) | [검은 잿빛의 폐 봉인 부적 — 미하일의 혈서 봉인패 (Mikhail's Blood-Oath Lung Seal Talisman)](검은%20잿빛의%20폐%20봉인%20부적%20—%20미하일의%20혈서%20봉인패%20%28Mikhail's%20Blood-Oath%20Lung%20Seal%20Talisman%29.md) |

@@ -102,4 +102,4 @@
 ## 🔗 관련 문서
 - [다미안 윈드런너 (Damian Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/01.다미안윈드런너.md)
 - [키르케 영약회 생존자의 야전 경갑 '윈드런너의 흉터 갑주' (Circe's Elixir Order Frontier Field Armor — Windrunner's Scarred Cuirass)](../../01-19-2.방어구/02.경갑/키르케%20영약회%20생존자의%20야전%20경갑%20'윈드런너의%20흉터%20갑주'%20(Circe's%20Elixir%20Order%20Frontier%20Field%20Armor%20—%20Windrunner's%20Scarred%20Cuirass).md)
-- [혈서 맹세 폐봉인 부적 '검은 바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Dark Wind')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20폐봉인%20부적%20'검은%20바람의%20맹서'%20(Blood-Oath%20Lung-Seal%20Talisman%20'Oath%20of%20the%20Dark%20Wind').md)
+- [검은 잿빛 폐의 저주 봉인구 — 다미안 윈드런너의 맹세 부적 (Black-Ash Lung Curse Seal — Damian Windrunner's Oath Charm)](../../01-19-3.악세서리/07.부적/검은%20잿빛%20폐의%20저주%20봉인구%20—%20다미안%20윈드런너의%20맹세%20부적%20(Black-Ash%20Lung%20Curse%20Seal%20—%20Damian%20Windrunner's%20Oath%20Charm).md)

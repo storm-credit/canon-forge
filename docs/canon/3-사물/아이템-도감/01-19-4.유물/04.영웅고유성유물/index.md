@@ -6,7 +6,7 @@
 
 # 📚 영웅고유성유물
 
-## 항목 (215)
+## 항목 (216)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -115,6 +115,7 @@
 | 신경기어 - 다각 렌즈 모노클 (Neural-Gear, Multi-Lens Monocle) | [신경기어 - 다각 렌즈 모노클 (Neural-Gear, Multi-Lens Monocle)](신경기어%20-%20다각%20렌즈%20모노클%20%28Neural-Gear,%20Multi-Lens%20Monocle%29.md) |
 | 신속의 에어로 부츠 제퍼 (Aero Boots of Swiftness: Zephyr) | [신속의 에어로 부츠 제퍼 (Aero Boots of Swiftness: Zephyr)](신속의%20에어로%20부츠%20제퍼%20%28Aero%20Boots%20of%20Swiftness%20Zephyr%29.md) |
 | 심안의 은빛 모노클 (Silver Monocle of Mind's Eye) | [심안의 은빛 모노클 (Silver Monocle of Mind's Eye)](심안의%20은빛%20모노클%20%28Silver%20Monocle%20of%20Mind's%20Eye%29.md) |
+| 심연에 잠긴 짐승뼈 강령패 — 일리오스 아스텔의 침묵하는 유골함 (Abyssal Beast-Bone Necropendant of Ilios Astell) | [심연에 잠긴 짐승뼈 강령패 — 일리오스 아스텔의 침묵하는 유골함 (Abyssal Beast-Bone Necropendant of Ilios Astell)](심연에%20잠긴%20짐승뼈%20강령패%20—%20일리오스%20아스텔의%20침묵하는%20유골함%20%28Abyssal%20Beast-Bone%20Necropendant%20of%20Ilios%20Astell%29.md) |
 | 심연을 가두는 유리 태풍병 (Glass Typhoon-Bottle Bounding the Abyss) | [심연을 가두는 유리 태풍병 (Glass Typhoon-Bottle Bounding the Abyss)](심연을%20가두는%20유리%20태풍병%20%28Glass%20Typhoon-Bottle%20Bounding%20the%20Abyss%29.md) |
 | 심연을 거르는 부해의 마스크 (Mask of the Toxic Sea Filtering the Abyss) | [심연을 거르는 부해의 마스크 (Mask of the Toxic Sea Filtering the Abyss)](심연을%20거르는%20부해의%20마스크%20%28Mask%20of%20the%20Toxic%20Sea%20Filtering%20the%20Abyss%29.md) |
 | 심장 동력 에테르 코어 (Heart-Drive Ether Core) | [심장 동력 에테르 코어 (Heart-Drive Ether Core)](심장%20동력%20에테르%20코어%20%28Heart-Drive%20Ether%20Core%29.md) |
