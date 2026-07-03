@@ -65,8 +65,9 @@ if on('--grades'):
     fail += sum(bad.values())
 
 if on('--vocab'):
-    BAN = ['우주적 십자가', 'Epic Penalty', '우주적 등가교환', '가혹한 참상', 'Bit v4.0 (플레이스홀더', '세계관의 섭리를 비트']
-    NEG = ('아니라', '아니다', '폐기', '금지', '없다', '무관')
+    BAN = ['우주적 십자가', 'Epic Penalty', '우주적 등가교환', '가혹한 참상', 'Bit v4.0 (플레이스홀더', '세계관의 섭리를 비트',
+           '숭고한 십자가', '잔혹한 대가', '혹독한 대가', '코스믹 호러', 'Grim Plausibility', '경박한 수치화']
+    NEG = ('아니라', '아니다', '폐기', '금지', '없다', '무관', '재정의', '소거')
     hits = []
     for p, rel in canon_files():
         t = io.open(p, encoding='utf-8', errors='ignore').read()
