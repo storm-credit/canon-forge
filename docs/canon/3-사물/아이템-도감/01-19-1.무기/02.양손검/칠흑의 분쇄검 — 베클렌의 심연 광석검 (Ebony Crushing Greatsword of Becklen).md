@@ -84,4 +84,5 @@
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/04.아리엔베클렌.md)
 - [생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen)](../10.활·석궁/생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen).md)
+- [흑린 저격수의 야전 반갑 — 베클렌의 은둔 경갑 (Black-Scale Sniper's Half-Plate — Becklen's Blind Armor)](../../01-19-2.방어구/02.경갑/흑린 저격수의 야전 반갑 — 베클렌의 은둔 경갑 (Black-Scale Sniper's Half-Plate — Becklen's Blind Armor).md)
 - [핏빛 맹세의 혈인 부적 '검은 잿빛 폐의 살아있는 서약' (Blood-Oath Seal Charm 'Living Vow of Ashen Lungs')](../../../01-19-3.악세서리/07.부적/핏빛 맹세의 혈인 부적 '검은 잿빛 폐의 살아있는 서약' (Blood-Oath Seal Charm 'Living Vow of Ashen Lungs').md)

@@ -89,4 +89,5 @@
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/04.아리엔베클렌.md)
 - [칠흑의 분쇄검 — 베클렌의 심연 광석검 (Ebony Crushing Greatsword of Becklen)](../02.양손검/칠흑의%20분쇄검%20—%20베클렌의%20심연%20광석검%20(Ebony%20Crushing%20Greatsword%20of%20Becklen).md)
+- [흑린 저격수의 야전 반갑 — 베클렌의 은둔 경갑 (Black-Scale Sniper's Half-Plate — Becklen's Blind Armor)](../../01-19-2.방어구/02.경갑/흑린%20저격수의%20야전%20반갑%20—%20베클렌의%20은둔%20경갑%20(Black-Scale%20Sniper's%20Half-Plate%20—%20Becklen's%20Blind%20Armor).md)
 - [핏빛 맹세의 혈인 부적 '검은 잿빛 폐의 살아있는 서약' (Blood-Oath Seal Charm 'Living Vow of Ashen Lungs')](../../../01-19-3.악세서리/07.부적/핏빛%20맹세의%20혈인%20부적%20'검은%20잿빛%20폐의%20살아있는%20서약'%20(Blood-Oath%20Seal%20Charm%20'Living%20Vow%20of%20Ashen%20Lungs').md)
