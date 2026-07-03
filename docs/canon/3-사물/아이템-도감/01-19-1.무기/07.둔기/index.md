@@ -61,6 +61,7 @@
 | 심문관의 망치 (Xyron Hartman's Inquisitor's Hammer) | [심문관의 망치 (Xyron Hartman's Inquisitor's Hammer)](심문관의%20망치%20%28Xyron%20Hartman's%20Inquisitor's%20Hammer%29.md) |
 | 심연의 망치 둠브링어 (Doombringer) | [심연의 망치 둠브링어 (Doombringer)](심연의%20망치%20둠브링어%20%28Doombringer%29.md) |
 | 심연의 모루 망치 (Anvil-Hammer of the Abyss) | [심연의 모루 망치 (Anvil-Hammer of the Abyss)](심연의%20모루%20망치%20%28Anvil-Hammer%20of%20the%20Abyss%29.md) |
+| 심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace) | [심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace)](심연의%20추%20—%20다미안%20스텔라리스의%20저울추%20사슬철퇴%20%28Weight%20of%20the%20Abyss%20—%20Damian%20Stellaris's%20Ledger-Chain%20Mace%29.md) |
 | 심판의 망치 (Auction Hammer) | [심판의 망치 (Auction Hammer)](심판의%20망치%20%28Auction%20Hammer%29.md) |
 | 심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight') | [심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight')](심해압축%20거대%20투척묘%20'마리아나의%20닻'%20%28Deep-Pressure%20Anchor%20'Mariana's%20Weight'%29.md) |
 | 아이언벨리의 파쇄 메이스 - 둠 불워크 (Shipbreaker Mace, Doom Bulwark) | [아이언벨리의 파쇄 메이스 - 둠 불워크 (Shipbreaker Mace, Doom Bulwark)](아이언벨리의%20파쇄%20메이스%20-%20둠%20불워크%20%28Shipbreaker%20Mace,%20Doom%20Bulwark%29.md) |
