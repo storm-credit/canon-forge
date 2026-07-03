@@ -76,4 +76,5 @@
 ---
 
 ## 🔗 관련 문서
-- 테일런 실브레이커 (Taylun Sealbreaker)
+- [테일런 실브레이커 (Taylun Sealbreaker)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/4.오벨리스크대륙/봉인의수호자/테일런실브레이커.md)
+- [봉인쇄 짐승 건틀릿 (Beast Gauntlets of the Sealing Chain)](../../01-19-2.방어구/08.장갑·손목/봉인쇄%20짐승%20건틀릿%20(Beast%20Gauntlets%20of%20the%20Sealing%20Chain).md)

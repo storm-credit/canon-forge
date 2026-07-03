@@ -79,4 +79,6 @@
 ---
 
 ## 🔗 관련 문서
-- 카시엘라 트라이던 (Cassiela Trident)
+- [카시엘라 트라이던 (Cassiela Trident)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/5.해양대륙/바다의교단/카시엘라트라이던.md)
+- [심해로 짠 산호비늘 갑주 (Coral-Scale Armor of the Deep)](../../01-19-2.방어구/02.경갑/심해로%20짠%20산호비늘%20갑주%20(Coral-Scale%20Armor%20of%20the%20Deep).md)
+- [성해의 산호초 왕관 (Coronet of the Sacred Reef)](../../01-19-3.악세서리/04.머리장식/성해의%20산호초%20왕관%20(Coronet%20of%20the%20Sacred%20Reef).md)

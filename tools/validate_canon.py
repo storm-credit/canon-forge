@@ -11,13 +11,14 @@ CANON = 'docs/canon'
 ARGS = set(sys.argv[1:]) or {'--all'}
 def on(k): return '--all' in ARGS or k in ARGS
 
-META_SKIP = ('_작업계획서', '_커버리지', '_작업프롬프트', '_progress', '_전수분석', '_대륙작업템플릿', '_백과수렴')
+META_SKIP = ('_템플릿-정본', '_작업계획서', '_커버리지', '_작업프롬프트', '_progress', '_전수분석', '_대륙작업템플릿', '_백과수렴')
 
 def canon_files():
     for p in glob.glob(CANON + '/**/*.md', recursive=True):
         pp = p.replace(os.sep, '/')
         rel = pp.split('docs/canon/')[-1]
-        if any(rel.startswith(m) for m in META_SKIP):
+        base = rel.rsplit('/', 1)[-1]
+        if any(rel.startswith(m) or base.startswith(m) for m in META_SKIP):
             continue
         yield p, rel
 
