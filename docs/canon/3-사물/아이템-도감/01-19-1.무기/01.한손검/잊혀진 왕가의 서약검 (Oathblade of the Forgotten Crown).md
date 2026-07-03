@@ -89,4 +89,5 @@
 
 - [아서 펜드래곤 (Arthur Pendragon)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/아서펜드래곤.md)
 - [정령의 활 실페리시움 (Spirit Bow Silphelisium)](../10.활·석궁/정령의 활 실페리시움 (Spirit Bow Silphelisium).md)
+- [낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)](../04.단검/낡은%20왕가%20문장의%20단검%20(Dagger%20of%20the%20Faded%20Royal%20Crest).md) — 로잘린드 맥시무스의 유사 왕가 유물
 - 아르헨타 백은의 추적단 (Argenta Silver Trackers)
