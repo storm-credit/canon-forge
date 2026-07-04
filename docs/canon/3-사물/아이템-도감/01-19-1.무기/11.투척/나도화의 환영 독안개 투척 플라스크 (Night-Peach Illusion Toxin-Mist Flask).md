@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [세라 나이트셰이드 (Sera Nightshade)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/06.세라나이트셰이드.md)
-- [과부의 입맞춤 - 스틸레토 단검 (Widow's Kiss, Stiletto Dagger)](../04.단검/과부의 입맞춤 - 스틸레토 단검 (Widow's Kiss, Stiletto Dagger).md)
+- [과부의 입맞춤 - 스틸레토 단검 (Widow's Kiss, Stiletto Dagger)](../04.단검/과부의 입맞춤 (Widow's Kiss).md)
 - [보이지 않는 살모사 와이어 손가락 건틀릿 (Invisible Viper-Wire Finger Gauntlet)](../14.건틀릿·클로/보이지 않는 살모사 와이어 손가락 건틀릿 (Invisible Viper-Wire Finger Gauntlet).md)

@@ -89,5 +89,5 @@
 
 ## 🔗 관련 문서
 - [카이렌 움브라 (Kyren Umbra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/09.카이렌움브라.md)
-- [절망이 깃든 공허의 뼈단검 (Bone Dagger of the Despair-Void)](../../01-19-1.무기/04.단검/절망이 깃든 공허의 뼈단검 (Bone Dagger of the Despair-Void).md)
+- [절망이 깃든 공허의 뼈단검 (Bone Dagger of the Despair-Void)](../../01-19-1.무기/04.단검/공허의 이빨 (Void Fang).md)
 - [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](../04.망토·외투/골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket).md)

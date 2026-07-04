@@ -114,5 +114,5 @@
 
 ## 🔗 관련 문서
 - [아리엔 크로스 (Arien Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/10.아리엔크로스.md)
-- [개척지 야전 그림자 단검 '침묵의 궤적' (Field Shadow Dagger 'Trajectory of Silence')](../../01-19-1.무기/04.단검/개척지%20야전%20그림자%20단검%20'침묵의%20궤적'%20(Field%20Shadow%20Dagger%20'Trajectory%20of%20Silence').md)
+- [개척지 야전 그림자 단검 '침묵의 궤적' (Field Shadow Dagger 'Trajectory of Silence')](../../01-19-1.무기/04.단검/침묵의%20궤적%20(Trajectory%20of%20Silence).md)
 - [혈서 맹세 저주 봉인 부적 '잿빛 폐의 서약' (Blood-Oath Curse-Seal Talisman 'Vow of the Ashen Lung')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20저주%20봉인%20부적%20'잿빛%20폐의%20서약'%20(Blood-Oath%20Curse-Seal%20Talisman%20'Vow%20of%20the%20Ashen%20Lung').md)

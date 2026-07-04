@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [크리스티앙 베일 (Christian Bale)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/10.크리스티앙베일.md)
-- [재 이전의 쌍단검 — 크리스티앙 베일의 침묵 절개도 (Twin Blades Before Ash — Christian Bale's Silent Incision Daggers)](../../01-19-1.무기/04.단검/재%20이전의%20쌍단검%20—%20크리스티앙%20베일의%20침묵%20절개도%20(Twin%20Blades%20Before%20Ash%20—%20Christian%20Bale's%20Silent%20Incision%20Daggers).md)
+- [재 이전의 쌍단검 — 크리스티앙 베일의 침묵 절개도 (Twin Blades Before Ash — Christian Bale's Silent Incision Daggers)](../../01-19-1.무기/04.단검/무음%20(Hush).md)
 - 이그니스 화염 모루 결사 (Ignis Flame-Anvil Order)

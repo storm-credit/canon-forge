@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [토르발드 실드마이스트 (Thorvald Shield-meister)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/13.토르발드실드마이스트.md)
 - [요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate)](../01.중갑/요새화%20융합%20풀-플레이트%20(Fortified%20Fusion%20Full-Plate).md)
-- [성벽 타격의 도발 단검 (Provocation Parry-Dagger of the Rampart)](../../01-19-1.무기/04.단검/성벽%20타격의%20도발%20단검%20(Provocation%20Parry-Dagger%20of%20the%20Rampart).md)
+- [성벽 타격의 도발 단검 (Provocation Parry-Dagger of the Rampart)](../../01-19-1.무기/04.단검/아이언%20벨%20(Iron%20Bell).md)

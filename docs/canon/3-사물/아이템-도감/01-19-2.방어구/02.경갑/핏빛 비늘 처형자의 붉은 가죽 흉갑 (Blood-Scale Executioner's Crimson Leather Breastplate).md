@@ -79,5 +79,5 @@
 ## 🔗 관련 문서
 - [레갈리안 상그비스 (Regalian Sangvis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/02.레갈리안상그비스.md)
 - [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](../04.망토·외투/카멜레온%20용린의%20심연%20망토%20(Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale).md)
-- [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](../../01-19-1.무기/04.단검/상그비스의%20적화선인장%20단검%20(Crimson-Cactus%20Daggers%20of%20Sangvis).md)
+- [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](../../01-19-1.무기/04.단검/적화선인장%20(Crimson%20Cactus).md)
 - [배교자의 피를 담은 성배 (Chalice of the Apostate's Blood)](../../01-19-3.악세서리/08.성물/배교자의%20피를%20담은%20성배%20(Chalice%20of%20the%20Apostate's%20Blood).md)

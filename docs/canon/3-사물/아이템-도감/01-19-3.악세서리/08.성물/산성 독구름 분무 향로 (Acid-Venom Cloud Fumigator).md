@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [타리아 베네눔 (Taria Venenum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/13.타리아베네눔.md)
 - [맹독을 정화하는 흑진주 염주 (Rosary of the Black Pearl that Purifies Venom)](맹독을 정화하는 흑진주 염주 (Rosary of the Black Pearl that Purifies Venom).md)
-- [베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum)](../../01-19-1.무기/04.단검/베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum).md)
+- [베네눔의 살을 파고드는 가시 달린 주사기 단검 (Thorned Syringe-Dagger of Venenum)](../../01-19-1.무기/04.단검/가시 역류 (Thorn Backflow).md)

@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [제이더 아테르 (Jayder Ater)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/01.제이더아테르.md)
-- [그림자절단의 단검 (Dagger of Shadowsevering)](../04.단검/그림자절단의%20단검%20(Dagger%20of%20Shadowsevering).md)
+- [그림자절단의 단검 (Dagger of Shadowsevering)](../04.단검/움브라킬%20(Umbrakil).md)
 - [밤안개의 가죽 외투 (Leather Cloak of Nightfog)](../../01-19-2.방어구/02.경갑/밤안개의%20가죽%20외투%20(Leather%20Cloak%20of%20Nightfog).md)

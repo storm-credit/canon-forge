@@ -94,4 +94,4 @@
 - [칼렌 노이르 (Kalen Noir)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/05.칼렌노이르.md)
 - [진실 해독의 외안경 (Monocle of Truth Decryption)](../../01-19-4.유물/04.영웅고유성유물/진실 해독의 외안경 (Monocle of Truth Decryption).md)
 - [145페이지 인계 장부 — 비밀의 다락방 열쇠 (Ledger of the 145th Tear)](./145페이지 인계 장부 — 비밀의 다락방 열쇠 (Ledger of the 145th Tear).md)
-- [속삭임의 흑요석 단검 (Obsidian Dagger of Whispers)](../../01-19-1.무기/04.단검/속삭임의 흑요석 단검 (Obsidian Dagger of Whispers).md)
+- [속삭임의 흑요석 단검 (Obsidian Dagger of Whispers)](../../01-19-1.무기/04.단검/옵시디언 위스퍼 (Obsidian Whisper).md)

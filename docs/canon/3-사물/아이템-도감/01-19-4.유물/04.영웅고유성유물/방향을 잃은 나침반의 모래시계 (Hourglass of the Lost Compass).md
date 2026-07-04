@@ -79,4 +79,4 @@
 
 ## 🔗 관련 문서
 - [자비에루스 모르티스 (Xavierus Mortis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/01.자비에루스모르티스.md)
-- [모르티스의 독니(Venom-fang) 쌍단검 (Dual Venomed Daggers of Mortis)](../../../01-19-1.무기/04.단검/모르티스의%20독니(Venom-fang)%20쌍단검%20(Dual%20Venomed%20Daggers%20of%20Mortis).md)
+- [모르티스의 독니(Venom-fang) 쌍단검 (Dual Venomed Daggers of Mortis)](../../../01-19-1.무기/04.단검/독니%20(Venom-fang).md)

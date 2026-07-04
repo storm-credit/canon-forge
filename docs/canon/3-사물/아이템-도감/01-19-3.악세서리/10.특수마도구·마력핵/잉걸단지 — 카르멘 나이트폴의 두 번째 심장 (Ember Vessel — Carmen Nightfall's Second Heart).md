@@ -101,4 +101,4 @@
 ## 🔗 관련 문서
 
 - [카르멘 나이트폴 (Carmen Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/09.카르멘나이트폴.md)
-- [잉걸을 삼킨 쌍단검 — 카르멘 나이트폴의 식지 않는 칼날 (Ember-Fed Twin Daggers — Carmen Nightfall's Cooling-Resistant Blades)](../../01-19-1.무기/04.단검/잉걸을%20삼킨%20쌍단검%20—%20카르멘%20나이트폴의%20식지%20않는%20칼날%20(Ember-Fed%20Twin%20Daggers%20—%20Carmen%20Nightfall's%20Cooling-Resistant%20Blades).md)
+- [잉걸을 삼킨 쌍단검 — 카르멘 나이트폴의 식지 않는 칼날 (Ember-Fed Twin Daggers — Carmen Nightfall's Cooling-Resistant Blades)](../../01-19-1.무기/04.단검/잉걸이빨%20(Emberfang).md)

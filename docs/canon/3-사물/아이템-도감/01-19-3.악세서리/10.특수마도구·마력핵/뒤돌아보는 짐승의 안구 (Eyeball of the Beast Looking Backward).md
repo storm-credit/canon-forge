@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 
 - [코린 섀도헌트 (Corin Shadowhunt)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/11.코린섀도헌트.md)
-- [움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra)](../../01-19-1.무기/04.단검/움브라의%20빛을%20삼키는%20흡광(Absorption)%20쌍단검%20(Light-Devouring%20Dual%20Daggers%20of%20Umbra).md)
+- [움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra)](../../01-19-1.무기/04.단검/움브라%20(Umbra).md)
 - [발소리와 심박을 지우는 심해뱀 비늘 아머 (Abyssal Viper Scale-Armor that Erases Footsteps and Heartbeats)](../../01-19-2.방어구/03.로브·마법복/발소리와%20심박을%20지우는%20심해뱀%20비늘%20아머%20(Abyssal%20Viper%20Scale-Armor%20that%20Erases%20Footsteps%20and%20Heartbeats).md)

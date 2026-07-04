@@ -96,4 +96,4 @@
 - [세바리온 네크로반 (Sevarion Necrovan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/10.세바리온네크로반.md)
 - [심연 종양 배양 핵 (Abyssal Tumor Culture Core)](심연 종양 배양 핵 (Abyssal Tumor Culture Core).md)
 - [포르말린 진공 밀봉 강철 플라스크 (Formalin Vacuum-Seal Steel Flask)](포르말린 진공 밀봉 강철 플라스크 (Formalin Vacuum-Seal Steel Flask).md)
-- [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](../../01-19-1.무기/04.단검/혈생체 해부 메스 (Hemobiomatic Dissection Scalpel).md)
+- [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](../../01-19-1.무기/04.단검/핵절개 메스 (Core Incision Scalpel).md)

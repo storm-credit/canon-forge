@@ -78,6 +78,6 @@
 
 ## 🔗 관련 문서
 - [세라 나이트셰이드 (Sera Nightshade)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/06.세라나이트셰이드.md)
-- [과부의 입맞춤 - 스틸레토 단검 (Widow's Kiss, Stiletto Dagger)](../04.단검/과부의 입맞춤 - 스틸레토 단검 (Widow's Kiss, Stiletto Dagger).md)
+- [과부의 입맞춤 - 스틸레토 단검 (Widow's Kiss, Stiletto Dagger)](../04.단검/과부의 입맞춤 (Widow's Kiss).md)
 - [칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress)](../../01-19-2.방어구/03.로브·마법복/칠흑의 거미줄 코르셋 드레스 (Abyssal Arachnet Corset-Dress).md)
 - [나도화의 환영 독안개 투척 플라스크 (Night-Peach Illusion Toxin-Mist Flask)](../11.투척/나도화의 환영 독안개 투척 플라스크 (Night-Peach Illusion Toxin-Mist Flask).md)

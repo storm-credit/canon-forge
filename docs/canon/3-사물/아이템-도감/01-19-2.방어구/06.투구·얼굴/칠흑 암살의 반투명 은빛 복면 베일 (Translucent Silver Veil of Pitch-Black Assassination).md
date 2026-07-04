@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [세라피나 옴브라 (Seraphina Ombra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/10.세라피나옴브라.md)
-- [독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper)](../../../01-19-1.무기/04.단검/독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper).md)
+- [독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper)](../../../01-19-1.무기/04.단검/독무 (Venom Waltz).md)
 - [일륜의 환상 베일 코트 (Illusion Veil Coat of Sun Halo)](../../03.로브·마법복/일륜의 환상 베일 코트 (Illusion Veil Coat of Sun Halo).md)

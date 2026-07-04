@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 - [카엘 벤투스 (Kael Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/06.카엘벤투스.md)
 - [창공을 찢는 풍차궁 '제피론' (Windmill Bow of Firmament: Zephyron)](../10.활·석궁/창공을%20찢는%20풍차궁%20'제피론'%20(Windmill%20Bow%20of%20Firmament%20Zephyron).md)
-- [바람길 역수의 단검 '벤투스의 입술' (Wind-path Reverse Dagger)](../04.단검/바람길%20역수의%20단검%20'벤투스의%20입술'%20(Wind-path%20Reverse%20Dagger).md)
+- [바람길 역수의 단검 '벤투스의 입술' (Wind-path Reverse Dagger)](../04.단검/벤투스의%20입술%20(Ventus's%20Lips).md)

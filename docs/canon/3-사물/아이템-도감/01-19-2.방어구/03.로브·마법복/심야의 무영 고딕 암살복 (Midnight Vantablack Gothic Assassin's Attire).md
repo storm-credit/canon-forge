@@ -83,6 +83,6 @@
 
 ## 🔗 관련 문서
 - [베아트리스 녹튜아 (Beatrice Noctua)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/10.베아트리스녹튜아.md)
-- [과부의 단검 (Widow's Dagger Woven with Darkness)](../../01-19-1.무기/04.단검/과부의 단검 (Widow's Dagger Woven with Darkness).md)
+- [과부의 단검 (Widow's Dagger Woven with Darkness)](../../01-19-1.무기/04.단검/과부의 실 (Widow's Thread).md)
 - [은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers)](../../01-19-1.무기/11.투척/은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers).md)
 - [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](../04.망토·외투/빛바랜 올빼미 망토 (Faded Cloak of the Owl).md)

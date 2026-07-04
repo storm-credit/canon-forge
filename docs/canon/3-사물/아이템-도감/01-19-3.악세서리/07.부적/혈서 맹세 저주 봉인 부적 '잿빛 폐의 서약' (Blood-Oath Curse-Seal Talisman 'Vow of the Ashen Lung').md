@@ -112,4 +112,4 @@
 ## 🔗 관련 문서
 - [아리엔 크로스 (Arien Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/10.아리엔크로스.md)
 - [칠흑의 분쇄검 — 아리엔 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Arien Cross's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/그레이브웨이트%20(Graveweight).md)
-- [개척지 야전 그림자 단검 '침묵의 궤적' (Field Shadow Dagger 'Trajectory of Silence')](../../01-19-1.무기/04.단검/개척지%20야전%20그림자%20단검%20'침묵의%20궤적'%20(Field%20Shadow%20Dagger%20'Trajectory%20of%20Silence').md)
+- [개척지 야전 그림자 단검 '침묵의 궤적' (Field Shadow Dagger 'Trajectory of Silence')](../../01-19-1.무기/04.단검/침묵의%20궤적%20(Trajectory%20of%20Silence).md)

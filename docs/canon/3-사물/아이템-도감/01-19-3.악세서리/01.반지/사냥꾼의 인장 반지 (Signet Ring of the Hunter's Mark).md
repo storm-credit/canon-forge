@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [제이더 아테르 (Jayder Ater)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/01.제이더아테르.md)
-- [그림자절단의 단검 (Dagger of Shadowsevering)](../../01-19-1.무기/04.단검/그림자절단의%20단검%20(Dagger%20of%20Shadowsevering).md)
+- [그림자절단의 단검 (Dagger of Shadowsevering)](../../01-19-1.무기/04.단검/움브라킬%20(Umbrakil).md)
 - [까마귀의 침묵석 (Silence Stone of the Raven)](../../01-19-4.유물/04.영웅고유성유물/까마귀의%20침묵석%20(Silence%20Stone%20of%20the%20Raven).md)

@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [조타수 칼립소 (Helmsman Calypso)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/11.조타수칼립소.md)
-- [환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)](../04.단검/환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger).md)
+- [환영의 풍압 단검 '트윈 스왈로우' (Twin Swallow Dagger)](../04.단검/트윈 스왈로우 (Twin Swallow).md)
 - [에리안의 혼이 담긴 나침반 목걸이 (Compass Pendant of Elian's Soul)](../../../01-19-3.악세서리/02.목걸이·팬던트/에리안의 혼이 담긴 나침반 목걸이 (Compass Pendant of Elian's Soul).md)

@@ -83,6 +83,6 @@
 
 ## 🔗 관련 문서
 - [베아트리스 녹튜아 (Beatrice Noctua)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/10.베아트리스녹튜아.md)
-- [과부의 단검 (Widow's Dagger Woven with Darkness)](../04.단검/과부의 단검 (Widow's Dagger Woven with Darkness).md)
+- [과부의 단검 (Widow's Dagger Woven with Darkness)](../04.단검/과부의 실 (Widow's Thread).md)
 - [심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire)](../../01-19-2.방어구/03.로브·마법복/심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire).md)
 - [흑연 암흑 연막 플라스크 (Abyssal Smoke Flask of Void)](흑연 암흑 연막 플라스크 (Abyssal Smoke Flask of Void).md)

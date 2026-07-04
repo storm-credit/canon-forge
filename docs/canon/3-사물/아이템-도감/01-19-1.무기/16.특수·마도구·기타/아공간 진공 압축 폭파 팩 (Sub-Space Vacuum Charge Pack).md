@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [도미니크 블랙샤크 (Dominic Blackshark)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/4.도미니크블랙샤크.md)
-- [산호독 암살 단검 '블랙샤크의 이빨' (Coral-Poison Karambit 'Fang of Blackshark')](../04.단검/산호독%20암살%20단검%20'블랙샤크의%20이빨'%20(Coral-Poison%20Karambit%20'Fang%20of%20Blackshark').md)
+- [산호독 암살 단검 '블랙샤크의 이빨' (Coral-Poison Karambit 'Fang of Blackshark')](../04.단검/블랙샤크의%20이빨%20(Fang%20of%20Blackshark).md)
 - [블랙 오퍼레이션 전술 잠수 전투 슈트 (Black-Op Tactical Deep-Dive Combat Suit)](../../01-19-2.방어구/02.경갑/블랙%20오퍼레이션%20전술%20잠수%20전투%20슈트%20(Black-Op%20Tactical%20Deep-Dive%20Combat%20Suit).md)

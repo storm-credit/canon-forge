@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [클라우스 노바 (Klaus Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/4.검은파도용병단/08.클라우스노바.md)
-- [심연 계약자의 인양 작살검 — 다미안 베클렌의 침묵 서약 (Salvager's Reckoning Harpoon-Blade — Damian Becklen's Silent Vow)](../04.단검/심연%20계약자의%20인양%20작살검%20—%20다미안%20베클렌의%20침묵%20서약%20(Salvager's%20Reckoning%20Harpoon-Blade%20—%20Damian%20Becklen's%20Silent%20Vow).md)
+- [심연 계약자의 인양 작살검 — 다미안 베클렌의 침묵 서약 (Salvager's Reckoning Harpoon-Blade — Damian Becklen's Silent Vow)](../04.단검/침묵%20서약%20(Silent%20Vow).md)
 - 검은 파도 용병단 (Black Tide Mercenaries)

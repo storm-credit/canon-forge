@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [레갈리안 상그비스 (Regalian Sangvis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/02.레갈리안상그비스.md)
-- [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](../../01-19-1.무기/04.단검/상그비스의%20적화선인장%20단검%20(Crimson-Cactus%20Daggers%20of%20Sangvis).md)
+- [상그비스의 적화선인장 단검 (Crimson-Cactus Daggers of Sangvis)](../../01-19-1.무기/04.단검/적화선인장%20(Crimson%20Cactus).md)
 - [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](../../01-19-2.방어구/04.망토·외투/카멜레온%20용린의%20심연%20망토%20(Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale).md)

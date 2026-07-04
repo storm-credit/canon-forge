@@ -92,7 +92,7 @@
 
 ## 🔗 관련 문서
 - [세바리온 네크로반 (Sevarion Necrovan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/10.세바리온네크로반.md)
-- [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](../../01-19-1.무기/04.단검/혈생체 해부 메스 (Hemobiomatic Dissection Scalpel).md)
+- [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](../../01-19-1.무기/04.단검/핵절개 메스 (Core Incision Scalpel).md)
 - [비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles)](../../01-19-2.방어구/06.투구·얼굴/비틀린 심연 오염 원형 안경 (Twisted Abyss-Tainted Round Spectacles).md)
 - [악성 종양 자가증식의 배양 가운 (Culture-Gown of Malignant Tumors)](../../01-19-2.방어구/03.로브·마법복/악성 종양 자가증식의 배양 가운 (Culture-Gown of Malignant Tumors).md)
 - [은빛 척수액 주사기형 영혼 추출 코어 (Silver Syringe Core of Soul Extractor)](은빛 척수액 주사기형 영혼 추출 코어 (Silver Syringe Core of Soul Extractor).md)

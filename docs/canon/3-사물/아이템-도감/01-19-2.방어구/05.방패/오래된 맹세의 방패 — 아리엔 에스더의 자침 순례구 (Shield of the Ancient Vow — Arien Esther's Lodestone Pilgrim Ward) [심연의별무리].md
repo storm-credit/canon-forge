@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 
 - [아리엔 에스더 (Arien Esther, 심연의 별무리)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/5.심연의별무리/09.아리엔에스더.md)
-- [자철편 쌍단검 — 아리엔 에스더의 성좌를 부르는 무희검 (Twin Lodestone Daggers — Arien Esther's Constellation-Calling Dancer's Blades)](../../01-19-1.무기/04.단검/자철편 쌍단검 — 아리엔 에스더의 성좌를 부르는 무희검 (Twin Lodestone Daggers — Arien Esther's Constellation-Calling Dancer's Blades) [심연의별무리].md)
+- [자철편 쌍단검 — 아리엔 에스더의 성좌를 부르는 무희검 (Twin Lodestone Daggers — Arien Esther's Constellation-Calling Dancer's Blades)](../../01-19-1.무기/04.단검/별무 (Starwaltz).md)
