@@ -1,11 +1,14 @@
 ---
-정본명: 심연의 망치 둠브링어 (Doombringer)
+정본명: 둠브링어 (Doombringer)
+이명: "07.둔기/심연의 망치 둠브링어 (Doombringer)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 타격류 (Blunts & Axes)/심연의 망치 둠브링어 (Doombringer).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 타격류 (Blunts & Axes)/둠브링어 (Doombringer).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 심연의 망치 둠브링어 (Doombringer)
+# 🗡️ 둠브링어 (Doombringer)
+
+> 이명(異名): 07.둔기/심연의 망치 둠브링어 (Doombringer)
 
 > 시대를 관통하여 전승되는 전설의 무장
 

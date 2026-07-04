@@ -1,11 +1,14 @@
 ---
-정본명: 태양의 망치 솔라리스 (Solaris Hammer)
+정본명: 솔라리스 해머 (Solaris Hammer)
+이명: "07.둔기/태양의 망치 솔라리스 (Solaris Hammer)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 타격류 (Blunts & Axes)/태양의 망치 솔라리스 (Solaris Hammer).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 타격류 (Blunts & Axes)/솔라리스 해머 (Solaris Hammer).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 태양의 망치 솔라리스 (Solaris Hammer)
+# 🗡️ 솔라리스 해머 (Solaris Hammer)
+
+> 이명(異名): 07.둔기/태양의 망치 솔라리스 (Solaris Hammer)
 
 > 시대를 관통하여 전승되는 전설의 무장
 

@@ -1,12 +1,12 @@
 ---
 정본명: 건틀릿·클로
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B7 index 재생성 (2026-07-04)
 ---
 
 # 📚 건틀릿·클로
 
-## 항목 (42)
+## 항목 (44)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -14,6 +14,7 @@
 | 거미발톱 건틀릿 (Gauntlet of Spider Claw) | [거미발톱 건틀릿 (Gauntlet of Spider Claw)](거미발톱%20건틀릿%20%28Gauntlet%20of%20Spider%20Claw%29.md) |
 | 검게 칠한 장식 가짜 쇠톱 손톱 (Blackened Decorative Fake Serrated Iron Claws) | [검게 칠한 장식 가짜 쇠톱 손톱 (Blackened Decorative Fake Serrated Iron Claws)](검게%20칠한%20장식%20가짜%20쇠톱%20손톱%20%28Blackened%20Decorative%20Fake%20Serrated%20Iron%20Claws%29.md) |
 | 격투구 - 피에 젖은 권갑 (Blood-soaked Handwraps) | [격투구 - 피에 젖은 권갑 (Blood-soaked Handwraps)](격투구%20-%20피에%20젖은%20권갑%20%28Blood-soaked%20Handwraps%29.md) |
+| 금빛 서약의 투척 건틀릿 (Gauntlet of the Golden Oath) | [금빛 서약의 투척 건틀릿 (Gauntlet of the Golden Oath)](금빛%20서약의%20투척%20건틀릿%20%28Gauntlet%20of%20the%20Golden%20Oath%29.md) |
 | 금속 손의 보급 집게 팔 (Steelhand's Supply Grip Arm) | [금속 손의 보급 집게 팔 (Steelhand's Supply Grip Arm)](금속%20손의%20보급%20집게%20팔%20%28Steelhand's%20Supply%20Grip%20Arm%29.md) |
 | 기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet) | [기어하트 마도 건틀릿 (Gearheart's Arcane Gauntlet)](기어하트%20마도%20건틀릿%20%28Gearheart's%20Arcane%20Gauntlet%29.md) |
 | 늑대의 발톱 (Claw of Wolf) | [늑대의 발톱 (Claw of Wolf)](늑대의%20발톱%20%28Claw%20of%20Wolf%29.md) |
@@ -26,6 +27,7 @@
 | 보이지 않는 살모사 와이어 손가락 건틀릿 (Invisible Viper-Wire Finger Gauntlet) | [보이지 않는 살모사 와이어 손가락 건틀릿 (Invisible Viper-Wire Finger Gauntlet)](보이지%20않는%20살모사%20와이어%20손가락%20건틀릿%20%28Invisible%20Viper-Wire%20Finger%20Gauntlet%29.md) |
 | 블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw) | [블러드 클로 '녹스하운드의 송곳니' (Kalisa Noxhound's Blood Claw)](블러드%20클로%20'녹스하운드의%20송곳니'%20%28Kalisa%20Noxhound's%20Blood%20Claw%29.md) |
 | 석화의 주먹 (Petrifying Fist) | [석화의 주먹 (Petrifying Fist)](석화의%20주먹%20%28Petrifying%20Fist%29.md) |
+| 송곳니 채무 건틀릿 — 트리스탄 아이언팽의 강제 상환 클로 (Fang of Debt — Tristan Ironfang's Foreclosure Claw) | [송곳니 채무 건틀릿 — 트리스탄 아이언팽의 강제 상환 클로 (Fang of Debt — Tristan Ironfang's Foreclosure Claw)](송곳니%20채무%20건틀릿%20—%20트리스탄%20아이언팽의%20강제%20상환%20클로%20%28Fang%20of%20Debt%20—%20Tristan%20Ironfang's%20Foreclosure%20Claw%29.md) |
 | 아다만티움 너클 (Adamantium Knuckle) | [아다만티움 너클 (Adamantium Knuckle)](아다만티움%20너클%20%28Adamantium%20Knuckle%29.md) |
 | 아이언 피스트 (Iron Fist) | [아이언 피스트 (Iron Fist)](아이언%20피스트%20%28Iron%20Fist%29.md) |
 | 아틀라스 건틀릿 (Atlas Gauntlet) | [아틀라스 건틀릿 (Atlas Gauntlet)](아틀라스%20건틀릿%20%28Atlas%20Gauntlet%29.md) |

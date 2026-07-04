@@ -1,11 +1,14 @@
 ---
-정본명: 심문관의 망치 (Xyron Hartman's Inquisitor's Hammer)
+정본명: 심문관의 망치 (Inquisitor's Hammer)
+이명: "07.둔기/심문관의 망치 (Xyron Hartman's Inquisitor's Hammer)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/09. 둔기 (Blunt Weapons)/심문관의 망치 (Xyron Hartman's Inquisitor's Hammer).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/09. 둔기 (Blunt Weapons)/심문관의 망치 (Inquisitor's Hammer).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 심문관의 망치 (Xyron Hartman's Inquisitor's Hammer)
+# 🗡️ 심문관의 망치 (Inquisitor's Hammer)
+
+> 이명(異名): 07.둔기/심문관의 망치 (Xyron Hartman's Inquisitor's Hammer)
 
 > *"고통을 주는 게 목적이 아니다. 진실을 꺼내기 위함이지."*
 > — 자이론 하트만

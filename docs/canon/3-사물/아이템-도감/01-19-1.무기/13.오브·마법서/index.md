@@ -1,18 +1,19 @@
 ---
 정본명: 오브·마법서
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B7 index 재생성 (2026-07-04)
 ---
 
 # 📚 오브·마법서
 
-## 항목 (57)
+## 항목 (62)
 
 | 아이템 | 링크 |
 |--------|------|
 | 겔라벤투스의 창백한 오브 - 폭풍의 오브 (Pale Orb of Storms) | [겔라벤투스의 창백한 오브 - 폭풍의 오브 (Pale Orb of Storms)](겔라벤투스의%20창백한%20오브%20-%20폭풍의%20오브%20%28Pale%20Orb%20of%20Storms%29.md) |
+| 고인의 이름을 적는 서책 — 세리아 어스바운드의 무료 장례부 (Ledger of the Nameless Dead — Seria Earthbound's Free Burial Register) | [고인의 이름을 적는 서책 — 세리아 어스바운드의 무료 장례부 (Ledger of the Nameless Dead — Seria Earthbound's Free Burial Register)](고인의%20이름을%20적는%20서책%20—%20세리아%20어스바운드의%20무료%20장례부%20%28Ledger%20of%20the%20Nameless%20Dead%20—%20Seria%20Earthbound's%20Free%20Burial%20Register%29.md) |
 | 굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost) | [굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost)](굴라프리즘%20설계봉%20-%20아르키메데스의%20서리%20%28Design%20Wand,%20Archimedes'%20Frost%29.md) |
-| 금단 고서계 공통 특성 | [금단 고서계 공통 특성](금단고서계공통특성.md) |
+| 금단고서계공통특성 | [금단고서계공통특성](금단고서계공통특성.md) |
 | 기아스 법전 (Geas Codex) | [기아스 법전 (Geas Codex)](기아스%20법전%20%28Geas%20Codex%29.md) |
 | 네크로노미콘 사본 (Christopher Nightbloom's Necronomicon Copy) | [네크로노미콘 사본 (Christopher Nightbloom's Necronomicon Copy)](네크로노미콘%20사본%20%28Christopher%20Nightbloom's%20Necronomicon%20Copy%29.md) |
 | 네크로노미콘 사본 (Necronomicon Copy) | [네크로노미콘 사본 (Necronomicon Copy)](네크로노미콘%20사본%20%28Necronomicon%20Copy%29.md) |
@@ -38,13 +39,15 @@
 | 수정 구슬 (Crystal Orb) | [수정 구슬 (Crystal Orb)](수정%20구슬%20%28Crystal%20Orb%29.md) |
 | 수정구류 - 펠라기아의 물방울 홀 (Scepter of the Dewdrop) | [수정구류 - 펠라기아의 물방울 홀 (Scepter of the Dewdrop)](수정구류%20-%20펠라기아의%20물방울%20홀%20%28Scepter%20of%20the%20Dewdrop%29.md) |
 | 심연의 혓바닥이 묶인 금서 (Forbidden Tome of the Abyssal Tongue) | [심연의 혓바닥이 묶인 금서 (Forbidden Tome of the Abyssal Tongue)](심연의%20혓바닥이%20묶인%20금서%20%28Forbidden%20Tome%20of%20the%20Abyssal%20Tongue%29.md) |
+| 심연측심 성위의 (Abyss-Sounding Star-Sphere — Seria Lacroix's Depth Astrolabe) | [심연측심 성위의 (Abyss-Sounding Star-Sphere — Seria Lacroix's Depth Astrolabe)](심연측심%20성위의%20%28Abyss-Sounding%20Star-Sphere%20—%20Seria%20Lacroix's%20Depth%20Astrolabe%29.md) |
 | 아카식 마도서의 찢어진 장 (Torn Page of Akashic Tome) | [아카식 마도서의 찢어진 장 (Torn Page of Akashic Tome)](아카식%20마도서의%20찢어진%20장%20%28Torn%20Page%20of%20Akashic%20Tome%29.md) |
-| 에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron: Orbit of Wisdom) | [에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron: Orbit of Wisdom)](에버크론의%20부유%20서책%20'지혜의%20궤적'%20%28Floating%20Tome%20of%20Everchron%20Orbit%20of%20Wisdom%29.md) |
+| 에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron Orbit of Wisdom) | [에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron Orbit of Wisdom)](에버크론의%20부유%20서책%20'지혜의%20궤적'%20%28Floating%20Tome%20of%20Everchron%20Orbit%20of%20Wisdom%29.md) |
 | 에이드리언 네레우스의 저주받은 고대어 마도서 (Ancient Cursed Grimoire) | [에이드리언 네레우스의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](에이드리언%20네레우스의%20저주받은%20고대어%20마도서%20%28Ancient%20Cursed%20Grimoire%29.md) |
 | 엘드리치 톰 (Nadia Eldrich's Eldritch Tome) | [엘드리치 톰 (Nadia Eldrich's Eldritch Tome)](엘드리치%20톰%20%28Nadia%20Eldrich's%20Eldritch%20Tome%29.md) |
 | 엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire) | [엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](엘리아스%20루미나르의%20저주받은%20고대어%20마도서%20%28Ancient%20Cursed%20Grimoire%29.md) |
 | 엘리아스의 심연 서지학 마도서 (Abyssal Bibliographic Grimoire of Elias) | [엘리아스의 심연 서지학 마도서 (Abyssal Bibliographic Grimoire of Elias)](엘리아스의%20심연%20서지학%20마도서%20%28Abyssal%20Bibliographic%20Grimoire%20of%20Elias%29.md) |
 | 연구 마법서 '딥노어의 별무리' (Elias Deepknower's Research Book Cluster of Deepknower) | [연구 마법서 '딥노어의 별무리' (Elias Deepknower's Research Book Cluster of Deepknower)](연구%20마법서%20'딥노어의%20별무리'%20%28Elias%20Deepknower's%20Research%20Book%20Cluster%20of%20Deepknower%29.md) |
+| 연금 순환구 '별의 수액병' — 세리아 노바의 오러-알케미 치유구 (Alchemical Circulation Orb, Vial of Starsap — Seria Nova's Aura-Alchemy Healing Vessel) | [연금 순환구 '별의 수액병' — 세리아 노바의 오러-알케미 치유구 (Alchemical Circulation Orb, Vial of Starsap — Seria Nova's Aura-Alchemy Healing Vessel)](연금%20순환구%20'별의%20수액병'%20—%20세리아%20노바의%20오러-알케미%20치유구%20%28Alchemical%20Circulation%20Orb,%20Vial%20of%20Starsap%20—%20Seria%20Nova's%20Aura-Alchemy%20Healing%20Vessel%29.md) |
 | 예속의 오브 (Orb of Subjugation) | [예속의 오브 (Orb of Subjugation)](예속의%20오브%20%28Orb%20of%20Subjugation%29.md) |
 | 오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity) | [오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity)](오브류%20-%20톱니바퀴%20지팡이%20이터니티%20%28Cog-Staff%20Eternity%29.md) |
 | 오큘러스 (Oculus) | [오큘러스 (Oculus)](오큘러스%20%28Oculus%29.md) |
@@ -63,7 +66,9 @@
 | 테라알라의 무차별(Indiscriminate) 망막 수정구 (Retinal Crystal Ball of Terra-Ala) | [테라알라의 무차별(Indiscriminate) 망막 수정구 (Retinal Crystal Ball of Terra-Ala)](테라알라의%20무차별%28Indiscriminate%29%20망막%20수정구%20%28Retinal%20Crystal%20Ball%20of%20Terra-Ala%29.md) |
 | 테일런 실브레이커의 저주받은 고대어 마도서 (Ancient Cursed Grimoire) | [테일런 실브레이커의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](테일런%20실브레이커의%20저주받은%20고대어%20마도서%20%28Ancient%20Cursed%20Grimoire%29.md) |
 | 특이점의 보주 (Orb of Singularity) | [특이점의 보주 (Orb of Singularity)](특이점의%20보주%20%28Orb%20of%20Singularity%29.md) |
+| 파문당한 스승의 유고 — 침묵의 강령 필사본 (Excommunicated Master's Last Manuscript, Codex of Silent Necromancy) | [파문당한 스승의 유고 — 침묵의 강령 필사본 (Excommunicated Master's Last Manuscript, Codex of Silent Necromancy)](파문당한%20스승의%20유고%20—%20침묵의%20강령%20필사본%20%28Excommunicated%20Master's%20Last%20Manuscript,%20Codex%20of%20Silent%20Necromancy%29.md) |
 | 하프 오브 제피로스 (Harp of Zephyros) | [하프 오브 제피로스 (Harp of Zephyros)](하프%20오브%20제피로스%20%28Harp%20of%20Zephyros%29.md) |
 | 화산의 심장 (Heart of Volcano) | [화산의 심장 (Heart of Volcano)](화산의%20심장%20%28Heart%20of%20Volcano%29.md) |
 | 황금 법전 (Golden Code) | [황금 법전 (Golden Code)](황금%20법전%20%28Golden%20Code%29.md) |
+| 황혼좌표의 관측구 — 루시안 나이트폴의 저물녘 나침의 (Dusk-Coordinate Orb — Lucian Nightfall's Twilight Astrolabe) | [황혼좌표의 관측구 — 루시안 나이트폴의 저물녘 나침의 (Dusk-Coordinate Orb — Lucian Nightfall's Twilight Astrolabe)](황혼좌표의%20관측구%20—%20루시안%20나이트폴의%20저물녘%20나침의%20%28Dusk-Coordinate%20Orb%20—%20Lucian%20Nightfall's%20Twilight%20Astrolabe%29.md) |
 | 히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues) | [히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues)](히스토리아의%20혓바닥이%20달린%20악요%28惡妖%29의%20금서%20%28Forbidden%20Book%20of%20the%20Wicked%20FIend%20with%20Tongues%29.md) |

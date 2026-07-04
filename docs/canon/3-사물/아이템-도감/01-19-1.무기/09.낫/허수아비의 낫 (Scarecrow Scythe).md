@@ -1,11 +1,14 @@
 ---
-정본명: 환영 밀밭의 허수아비 낫 — 발두르 그레이의 기근환영도 (Scarecrow Scythe of the Illusory Wheat Field — Baldur Gray's Famine-Mirage Blade)
+정본명: 허수아비의 낫 (Scarecrow Scythe)
+이명: "09.낫/환영 밀밭의 허수아비 낫 — 발두르 그레이의 기근환영도 (Scarecrow Scythe of the Illusory Wheat Field — Baldur Gray's Famine-Mirage Blade)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "발두르 그레이 (Baldur Gray) 서사 신규 편입 — 2026-07-03 도감 보강"
 검증상태: 신설 (2026-07-03)
 ---
 
-# 🗡️ 환영 밀밭의 허수아비 낫 — 발두르 그레이의 기근환영도 (Scarecrow Scythe of the Illusory Wheat Field — Baldur Gray's Famine-Mirage Blade)
+# 🗡️ 허수아비의 낫 (Scarecrow Scythe)
+
+> 이명(異名): 09.낫/환영 밀밭의 허수아비 낫 — 발두르 그레이의 기근환영도 (Scarecrow Scythe of the Illusory Wheat Field — Baldur Gray's Famine-Mirage Blade)
 
 > *"당신 눈에는 황금빛 들판이 보이겠지. 내 눈에는 아직도 아무것도 자라지 않은 땅이 보인다."*
 > — 발두르 그레이

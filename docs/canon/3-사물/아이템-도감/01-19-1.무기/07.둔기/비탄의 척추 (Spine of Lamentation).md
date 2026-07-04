@@ -1,11 +1,14 @@
 ---
-정본명: 비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation: Doombringer)
+정본명: 비탄의 척추 (Spine of Lamentation)
+이명: "07.둔기/비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation Doombringer)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/09.둔기/비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation: Doombringer).md"
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation: Doombringer)
+# 🗡️ 비탄의 척추 (Spine of Lamentation)
+
+> 이명(異名): 07.둔기/비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation Doombringer)
 
 > 영웅 네크로스 소울리퍼의 전용 장비
 

@@ -89,4 +89,4 @@
 
 - [실바리온 엘도라 (Sylvarion Eldora)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/01.실바리온엘도라.md)
 - [시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../01-19-4.유물/04.영웅고유성유물/시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga).md)
-- [창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)](../../../01-19-1.무기/06.창/창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis).md)
+- [창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)](../../../01-19-1.무기/06.창/창세의 가지 (Genesis Bough).md)

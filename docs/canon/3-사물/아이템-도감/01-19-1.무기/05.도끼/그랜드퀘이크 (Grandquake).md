@@ -1,11 +1,14 @@
 ---
-정본명: 대지진의 도끼 (Axe of Cataclysm)
+정본명: 그랜드퀘이크 (Grandquake)
+이명: "05.도끼/대지진의 도끼 (Axe of Cataclysm)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/08. 도끼 (Axes)/대지진의 도끼 (Axe of Cataclysm).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/08. 도끼 (Axes)/그랜드퀘이크 (Grandquake).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 대지진의 도끼 (Axe of Cataclysm)
+# 🗡️ 그랜드퀘이크 (Grandquake)
+
+> 이명(異名): 05.도끼/대지진의 도끼 (Axe of Cataclysm)
 
 > *"이 도끼가 땅에 닿으면 산이 움직인다. 내가 원하면."*
 > — 잔드리크 레드스톰

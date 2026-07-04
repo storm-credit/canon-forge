@@ -1,11 +1,14 @@
 ---
-정본명: 마동 수정의 채찍 (Magitech Crystal Lash of Mikhail)
+정본명: 크리스탈 래시 (Crystal Lash)
+이명: "08.채찍/마동 수정의 채찍 (Magitech Crystal Lash of Mikhail)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/08. 채찍/마동 수정의 채찍 (Magitech Crystal Lash of Mikhail).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/08. 채찍/크리스탈 래시 (Crystal Lash).md"
 검증상태: Phase 4 리치 v2 신설 (2026-07-03)
 ---
 
-# 🗡️ 마동 수정의 채찍 (Magitech Crystal Lash of Mikhail)
+# 🗡️ 크리스탈 래시 (Crystal Lash)
+
+> 이명(異名): 08.채찍/마동 수정의 채찍 (Magitech Crystal Lash of Mikhail)
 
 > 영웅 미하일 아스텔의 전용 장비
 

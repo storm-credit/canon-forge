@@ -1,11 +1,14 @@
 ---
-정본명: 제피로스의 폭풍창 (Storm Lance of Zephyros)
+정본명: 템페스타 (Tempesta)
+이명: "06.창/제피로스의 폭풍창 (Storm Lance of Zephyros)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/07. 창 (Spears)/W-SH-06. 제피로스의 폭풍창 (Storm Lance of Zephyros).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/07. 창 (Spears)/W-SH-06. 템페스타 (Tempesta).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 제피로스의 폭풍창 (Storm Lance of Zephyros)
+# 🗡️ 템페스타 (Tempesta)
+
+> 이명(異名): 06.창/제피로스의 폭풍창 (Storm Lance of Zephyros)
 
 > *"구름을 찢어라. 우리의 길이 곧 창공의 율법이다."*
 > — 은빛 그리폰에 올라탄 루시안의 출격 구호

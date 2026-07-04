@@ -1,11 +1,14 @@
 ---
-정본명: 침묵의 수확낫 — 에일린 윈드런너의 그림자 사슬낫 (Silent Reaper — Eileen Windrunner's Shadow-Chain Sickle)
+정본명: 사일런트 리퍼 (Silent Reaper)
+이명: "09.낫/침묵의 수확낫 — 에일린 윈드런너의 그림자 사슬낫 (Silent Reaper — Eileen Windrunner's Shadow-Chain Sickle)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "에일린 윈드런너 (Eileen Windrunner) 서사 신규 편입 — 2026-07-03 도감 보강"
 검증상태: 신설 (2026-07-03)
 ---
 
-# 🗡️ 침묵의 수확낫 — 에일린 윈드런너의 그림자 사슬낫 (Silent Reaper — Eileen Windrunner's Shadow-Chain Sickle)
+# 🗡️ 사일런트 리퍼 (Silent Reaper)
+
+> 이명(異名): 09.낫/침묵의 수확낫 — 에일린 윈드런너의 그림자 사슬낫 (Silent Reaper — Eileen Windrunner's Shadow-Chain Sickle)
 
 > *"안개를 가르는 자들은 눈물을 흘리지 않는다. 오직 맹세를 읊조릴 뿐이다."*
 > — 침묵의 형제단 계율, 에일린 윈드런너가 늘 되새기는 구절

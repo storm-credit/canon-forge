@@ -1,11 +1,14 @@
 ---
-정본명: 불꽃의 창 이그니스 (Spear of Ignis)
+정본명: 이그니스 스피어 (Ignis Spear)
+이명: "06.창/불꽃의 창 이그니스 (Spear of Ignis)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/02. 장창류 (Polearms & Lances)/불꽃의 창 이그니스 (Spear of Ignis).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/02. 장창류 (Polearms & Lances)/이그니스 스피어 (Ignis Spear).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 불꽃의 창 이그니스 (Spear of Ignis)
+# 🗡️ 이그니스 스피어 (Ignis Spear)
+
+> 이명(異名): 06.창/불꽃의 창 이그니스 (Spear of Ignis)
 
 > 시대를 관통하여 전승되는 전설의 무장
 

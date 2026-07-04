@@ -1,11 +1,14 @@
 ---
-정본명: 학살자의 도끼 (Axe of Slaughter)
+정본명: 학살자 (The Slaughterer)
+이명: "05.도끼/학살자의 도끼 (Axe of Slaughter)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/08. 도끼 (Axes)/학살자의 도끼 (Axe of Slaughter).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/08. 도끼 (Axes)/학살자 (The Slaughterer).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 학살자의 도끼 (Axe of Slaughter)
+# 🗡️ 학살자 (The Slaughterer)
+
+> 이명(異名): 05.도끼/학살자의 도끼 (Axe of Slaughter)
 
 > *"날이 무뎌진 적이 없다. 그 전에 모두 재가 되어버리니까."*
 > — 칼바스 카니지 (Carnage)

@@ -1,11 +1,14 @@
 ---
-정본명: 아크투루스의 심판봉 (Gavel of Arcturus)
+정본명: 심판봉 (Gavel of Arcturus)
+이명: "07.둔기/아크투루스의 심판봉 (Gavel of Arcturus)_1"
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/09.둔기/아크투루스의 심판봉 (Gavel of Arcturus).md"
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 아크투루스의 심판봉 (Gavel of Arcturus)
+# 🗡️ 심판봉 (Gavel of Arcturus)
+
+> 이명(異名): 07.둔기/아크투루스의 심판봉 (Gavel of Arcturus)_1
 
 > 영웅 카시엘 아크투루스의 전용 장비
 

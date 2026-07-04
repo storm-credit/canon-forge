@@ -1,11 +1,14 @@
 ---
-정본명: 창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)
+정본명: 창세의 가지 (Genesis Bough)
+이명: "06.창/창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/07.창/창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/07.창/창세의 가지 (Genesis Bough).md"
 검증상태: Phase 3 리치 v2 (피닉스소드 템플릿, 2026-06-23)
 ---
 
-# 🗡️ 창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)
+# 🗡️ 창세의 가지 (Genesis Bough)
+
+> 이명(異名): 06.창/창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)
 
 > 영웅 실바리온 엘도라의 전용 장비
 
