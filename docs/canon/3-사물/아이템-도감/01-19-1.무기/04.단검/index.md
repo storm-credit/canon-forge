@@ -6,7 +6,7 @@
 
 # 📚 단검
 
-## 항목 (139)
+## 항목 (140)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -74,6 +74,7 @@
 | 섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger) | [섬광 반투명 대동맥 단검 (Translucent Flash Artery Dagger)](섬광%20반투명%20대동맥%20단검%20%28Translucent%20Flash%20Artery%20Dagger%29.md) |
 | 성벽 타격의 도발 단검 (Provocation Parry-Dagger of the Rampart) | [성벽 타격의 도발 단검 (Provocation Parry-Dagger of the Rampart)](성벽%20타격의%20도발%20단검%20%28Provocation%20Parry-Dagger%20of%20the%20Rampart%29.md) |
 | 성혈 의례 침잠 단도 (Blood-Rite Immersion Blade) | [성혈 의례 침잠 단도 (Blood-Rite Immersion Blade)](성혈%20의례%20침잠%20단도%20%28Blood-Rite%20Immersion%20Blade%29.md) |
+| 섬의 마지막 도약 — 추락의 찰나검 (Last Leap of the Isle, Blade of the Falling Instant) | [섬의 마지막 도약 — 추락의 찰나검 (Last Leap of the Isle, Blade of the Falling Instant)](섬의%20마지막%20도약%20—%20추락의%20찰나검%20%28Last%20Leap%20of%20the%20Isle,%20Blade%20of%20the%20Falling%20Instant%29.md) |
 | 셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크) | [셰릴 블레이크의 그림자 단검 (Shadow Dagger of 셰릴 블레이크)](셰릴%20블레이크의%20그림자%20단검%20%28Shadow%20Dagger%20of%20셰릴%20블레이크%29.md) |
 | 속삭임의 쌍단검 (Daggers of Whispers) | [속삭임의 쌍단검 (Daggers of Whispers)](속삭임의%20쌍단검%20%28Daggers%20of%20Whispers%29.md) |
 | 속삭임의 흑요석 단검 (Obsidian Dagger of Whispers) | [속삭임의 흑요석 단검 (Obsidian Dagger of Whispers)](속삭임의%20흑요석%20단검%20%28Obsidian%20Dagger%20of%20Whispers%29.md) |

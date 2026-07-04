@@ -6,7 +6,7 @@
 
 # 📚 특수·마도구·기타
 
-## 항목 (283)
+## 항목 (284)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -29,6 +29,7 @@
 | 광학 투영 섬광파 포인터 (Optical Projection Laser Pointer) | [광학 투영 섬광파 포인터 (Optical Projection Laser Pointer)](광학%20투영%20섬광파%20포인터%20%28Optical%20Projection%20Laser%20Pointer%29.md) |
 | 그린 블러드 쿠크리(Greenblood Kukri) | [그린 블러드 쿠크리(Greenblood Kukri)](그린%20블러드%20쿠크리%28Greenblood%20Kukri%29.md) |
 | 그림자 공간 단절 와이어 (Shadow-Severance Wire) | [그림자 공간 단절 와이어 (Shadow-Severance Wire)](그림자%20공간%20단절%20와이어%20%28Shadow-Severance%20Wire%29.md) |
+| 그림자 없는 철사 조각 (Shadowless Wire) | [그림자 없는 철사 조각 (Shadowless Wire)](그림자%20없는%20철사%20조각%20%28Shadowless%20Wire%29.md) |
 | 그림자 잠수의 차원 인장 (Dimensional Seal of Shadow Submersion) | [그림자 잠수의 차원 인장 (Dimensional Seal of Shadow Submersion)](그림자%20잠수의%20차원%20인장%20%28Dimensional%20Seal%20of%20Shadow%20Submersion%29.md) |
 | 극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table) | [극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table)](극전술%20환영%20입체진%20지휘%20테이블%20%28Omni-Tactics%20Holographic%20Command%20Table%29.md) |
 | 글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus) | [글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus)](글리파투스의%20각인%20방치%20정%20%28Engraving%20Chisel%20of%20Glyphatus%29.md) |
