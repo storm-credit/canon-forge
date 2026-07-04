@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [세리안 이그니스 (Serian Ignis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/09.세리안이그니스.md)
 - [이그니스의 용암맥 파괴 직도 (Lava-Veined Destruction Dao of Ignis)](../01.한손검/홍련직도 (Crimson Lotus Dao).md)
-- [빈민가산 불씨 심지 코어 (Slum-Made Ember Wick Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/마도공학 백과 - 빈민가산 불씨 심지 코어 (Slum-Made Ember Wick Core).md)
+- [빈민가산 불씨 심지 코어 (Slum-Made Ember Wick Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/최초의 불씨 (First Ember).md)

@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [카사리우스 비덴 (Casarius Viden)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/12.카사리우스비덴.md)
-- [천 개의 눈을 가진 악마의 단안경 (Monocle of the Thousand-Eyed Demon)](../../01-19-3.악세서리/08.성물/천%20개의%20눈을%20가진%20악마의%20단안경%20(Monocle%20of%20the%20Thousand-Eyed%20Demon).md)
+- [천 개의 눈을 가진 악마의 단안경 (Monocle of the Thousand-Eyed Demon)](../../01-19-3.악세서리/08.성물/천안의%20단안경%20(Thousand-Eye%20Monocle).md)
 - [반향음 소거의 침묵 로브 (Silence Robe of Echo Cancellation)](../03.로브·마법복/들리지%20않는%20자%20(The%20Unheard).md)

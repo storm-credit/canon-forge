@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [코르부스 네크로티아 (Corvus Necrotia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/09.코르부스네크로티아.md)
 - [백골 집사들의 뼈무덤 카라페이스 (Bone-Mound Carapace)](골집사 뼈무덤 (Bonewarden Ossuary).md)
-- [익사체 손가락 뼈 염주 (Drowned-Child Finger-Bone Rosary)](../../01-19-3.악세서리/08.성물/익사체 손가락 뼈 염주 (Drowned-Child Finger-Bone Rosary).md)
+- [익사체 손가락 뼈 염주 (Drowned-Child Finger-Bone Rosary)](../../01-19-3.악세서리/08.성물/메아 필리 (Mea Fili).md)

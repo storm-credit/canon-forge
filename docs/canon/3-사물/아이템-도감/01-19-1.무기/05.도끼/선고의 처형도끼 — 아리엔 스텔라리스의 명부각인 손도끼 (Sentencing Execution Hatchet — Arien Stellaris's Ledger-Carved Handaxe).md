@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 
 - [아리엔 스텔라리스 (Arien Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/8.바이퍼해적단/06.아리엔스텔라리스.md)
-- [독사의 처형명부 (Viper's Execution Ledger)](../../01-19-3.악세서리/07.부적/독사의 처형명부 — 아리엔 스텔라리스의 죄상기록 부적 (Viper's Execution Ledger — Arien Stellaris's Charge-Record Charm).md)
+- [독사의 처형명부 (Viper's Execution Ledger)](../../01-19-3.악세서리/07.부적/취소선의 이름들 (The Struck Names).md)

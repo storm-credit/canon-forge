@@ -98,6 +98,6 @@
 ## 🔗 관련 문서
 
 - [크세노스 아르카디아 (Xenos Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/02.크세노스아르카디아.md)
-- [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](../../01-19-3.악세서리/01.반지/아츠%20교차의%20시간%20각인%20반지%20(Chrono-Engraved%20Ring%20of%20the%20Art-Cross).md) — 타임 붐바 방출 시 반지의 고정점 좌표와 연동하여 탄착 정밀도를 보정한다.
-- [조로 봉인의 에테르 채무 완대 (Ether-Debt Brace of Senescence-Seal)](../../01-19-3.악세서리/10.특수마도구·마력핵/조로%20봉인의%20에테르%20채무%20완대%20(Ether-Debt%20Brace%20of%20Senescence-Seal).md) — 타임 붐바 전량 해제 후 플럭스 격증을 부분 억제하는 보조 장비.
+- [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](../../01-19-3.악세서리/01.반지/크로노웨지%20(Chronowedge).md) — 타임 붐바 방출 시 반지의 고정점 좌표와 연동하여 탄착 정밀도를 보정한다.
+- [조로 봉인의 에테르 채무 완대 (Ether-Debt Brace of Senescence-Seal)](../../01-19-3.악세서리/10.특수마도구·마력핵/라이프라인%20(Lifeline).md) — 타임 붐바 전량 해제 후 플럭스 격증을 부분 억제하는 보조 장비.
 - [영원 회귀의 시간 모래시계 (Hourglass of Eternal Recurrence)](../../01-19-1.무기/16.특수·마도구·기타/아이온%20(Aion).md)

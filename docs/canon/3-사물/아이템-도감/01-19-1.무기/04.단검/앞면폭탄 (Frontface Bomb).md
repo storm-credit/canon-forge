@@ -62,7 +62,7 @@
 붉은사막 부족의 정규 병사들은 이 단검을 표준 무기로 인정하지 않는다. 규격도 없고, 카트리지 폭발이 소유자 본인에게도 역류할 위험이 있어 '안전 보증 없음' 판정이 내려졌기 때문이다. 그 결과 타리온만 쓰는 비공인 무기가 되었고, 타리온은 그 점을 신경 쓰지 않는다. "규격에 맞는 무기는 적도 방어하는 법을 안다"는 게 그의 변명이다.
 
 ### 관련 캐릭터
-- **타리온 카오스** — 이 단검은 타리온의 근접 변칙기 전부를 담당한다. 원거리 지뢰 매설이 주전이고 근접 전투는 최후 수단이지만, 그 최후 수단이 이 단검이 있는 한 상대에게 예상치 못한 결과를 안겨준다. 점화석과의 복합 운용 시, 단검 카트리지 폭발과 동시에 점화석으로 근처 매설 지뢰를 연쇄 기폭시키는 콤보가 가능하다. → [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths).md)
+- **타리온 카오스** — 이 단검은 타리온의 근접 변칙기 전부를 담당한다. 원거리 지뢰 매설이 주전이고 근접 전투는 최후 수단이지만, 그 최후 수단이 이 단검이 있는 한 상대에게 예상치 못한 결과를 안겨준다. 점화석과의 복합 운용 시, 단검 카트리지 폭발과 동시에 점화석으로 근처 매설 지뢰를 연쇄 기폭시키는 콤보가 가능하다. → [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/불나방의 입맞춤 (Fire-Moth's Kiss).md)
 
 ---
 
@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [타리온 카오스 (Tarion Khaos)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/05.타리온카오스.md)
-- [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths).md)
+- [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/불나방의 입맞춤 (Fire-Moth's Kiss).md)
 - [카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos)](../../13.오브·마법서/카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos).md)

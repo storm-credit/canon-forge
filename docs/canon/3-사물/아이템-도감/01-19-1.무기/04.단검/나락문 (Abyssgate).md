@@ -98,4 +98,4 @@
 
 - [카리나 녹턴 (Karina Nocturne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/09.카리나녹턴.md)
 - [녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night)](../03.쌍검/녹턴의%20쌍검%20밤의%20베일%20(Twin%20Blades%20of%20Nocturne%20Veil%20of%20Night).md)
-- [심연 와이어 입체 기동 릴 허리띠 (Abyssal Wire 3D-Maneuver Reel Belt)](../../../01-19-3.악세서리/10.특수마도구·마력핵/심연%20와이어%20입체%20기동%20릴%20허리띠%20(Abyssal%20Wire%203D-Maneuver%20Reel%20Belt).md)
+- [심연 와이어 입체 기동 릴 허리띠 (Abyssal Wire 3D-Maneuver Reel Belt)](../../../01-19-3.악세서리/10.특수마도구·마력핵/섀도우스윙%20(Shadowswing).md)

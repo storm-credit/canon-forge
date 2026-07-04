@@ -99,5 +99,5 @@
 - [모건 아이언클래드 (Morgan Ironclad)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/10.모건아이언클래드.md)
 - [움직이는 거북선의 타워 실드 '바다의 요새' (Tower Shield 'Fortress of the Sea')](../05.방패/바다의%20요새%20(Fortress%20of%20the%20Sea).md)
 - [강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace)](../../01-19-1.무기/07.둔기/강철%20해일의%20철퇴%20'파도%20부수기'%20(Tidebreaker%20Mace).md)
-- [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](../../01-19-3.악세서리/01.반지/무게%20중심의%20마그넷%20링%20(Magnet%20Ring%20of%20Gravity%20Base).md)
+- [무게 중심의 마그넷 링 (Magnet Ring of Gravity Base)](../../01-19-3.악세서리/01.반지/앵커%20(Anchor).md)
 - [심연강 밀봉 전장 투구 '바다의 장벽' (Abyss Steel Sealed Battle Helm 'Bulwark of the Sea')](../06.투구·얼굴/바다의%20장벽%20(Bulwark%20of%20the%20Sea).md)

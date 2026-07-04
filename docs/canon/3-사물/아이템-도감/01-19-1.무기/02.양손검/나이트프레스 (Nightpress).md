@@ -112,4 +112,4 @@
 ## 🔗 관련 문서
 - [아이리스 그레이슨 (Iris Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/05.아이리스그레이슨.md)
 - [개척지 흉터 야전 경갑 — 아이리스 그레이슨의 흉터 외투 (Frontier Scar Field Armor — Iris Grayson's Scarred Coat)](../../01-19-2.방어구/02.경갑/핏빛%20흉터%20(Bloodscar%20Vestige).md)
-- [잿빛 폐의 피 맹세 부적 — 아이리스 그레이슨의 혈서 봉인 (Ash-Lung Blood-Oath Talisman — Iris Grayson's Blood-Writ Seal)](../../01-19-3.악세서리/07.부적/잿빛%20폐의%20피%20맹세%20부적%20—%20아이리스%20그레이슨의%20혈서%20봉인%20(Ash-Lung%20Blood-Oath%20Talisman%20—%20Iris%20Grayson's%20Blood-Writ%20Seal).md)
+- [잿빛 폐의 피 맹세 부적 — 아이리스 그레이슨의 혈서 봉인 (Ash-Lung Blood-Oath Talisman — Iris Grayson's Blood-Writ Seal)](../../01-19-3.악세서리/07.부적/숨결의%20서약%20(Breathbound%20Oath).md)

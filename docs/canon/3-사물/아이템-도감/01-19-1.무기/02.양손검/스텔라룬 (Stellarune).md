@@ -118,5 +118,5 @@
 
 - [실비아 스텔라리스 (Silvia Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/10.실비아스텔라리스.md)
 - [주얼 크래프터의 전투 세공 장갑 (Jewel Crafter's Combat Engraving Gauntlets)](../../01-19-2.방어구/08.장갑·손목/세컨드%20핸드%20(Second%20Hand).md)
-- [혈석 충성 인장반 '스텔라리스의 피 서약' (Blood-Gem Loyalty Signet Ring 'Stellaris Blood Oath')](../../01-19-3.악세서리/01.반지/혈석%20충성%20인장반%20'스텔라리스의%20피%20서약'%20(Blood-Gem%20Loyalty%20Signet%20Ring%20'Stellaris%20Blood%20Oath').md)
+- [혈석 충성 인장반 '스텔라리스의 피 서약' (Blood-Gem Loyalty Signet Ring 'Stellaris Blood Oath')](../../01-19-3.악세서리/01.반지/스텔라리스%20피서약%20(Stellaris%20Blood%20Oath).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

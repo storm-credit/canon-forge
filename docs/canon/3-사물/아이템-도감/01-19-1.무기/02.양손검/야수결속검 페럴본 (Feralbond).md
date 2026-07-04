@@ -99,6 +99,6 @@
 ## 🔗 관련 문서
 - [미하일 할로윈 (Mikhail Halloween)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/04.미하일할로윈.md)
 - [개척지 야수 가죽 흉갑 — 미하일 할로윈의 흉터 갑주 (Beast-Hide Field Cuirass of Mikhail Halloween — Armor of Scars)](../../../01-19-2.방어구/02.경갑/애쉬크러셔%20(Ashcrusher).md)
-- [검은 잿빛의 폐 봉인 혈인패 — 미하일 할로윈의 저주 억제 부적 (Mikhail Halloween's Blood-Brand Lung Seal Talisman)](../../../01-19-3.악세서리/07.부적/검은%20잿빛의%20폐%20봉인%20혈인패%20—%20미하일%20할로윈의%20저주%20억제%20부적%20(Mikhail%20Halloween's%20Blood-Brand%20Lung%20Seal%20Talisman).md)
-- [야수 결속의 혈서 서약환 — 미하일 할로윈의 가이아나 계약반지 (Beastbound Blood-Oath Ring — Mikhail Halloween's Gaiana Pact Band)](../../../01-19-3.악세서리/01.반지/야수%20결속의%20혈서%20서약환%20—%20미하일%20할로윈의%20가이아나%20계약반지%20(Beastbound%20Blood-Oath%20Ring%20—%20Mikhail%20Halloween's%20Gaiana%20Pact%20Band).md)
+- [검은 잿빛의 폐 봉인 혈인패 — 미하일 할로윈의 저주 억제 부적 (Mikhail Halloween's Blood-Brand Lung Seal Talisman)](../../../01-19-3.악세서리/07.부적/혈맹인%20(Bloodpact%20Seal).md)
+- [야수 결속의 혈서 서약환 — 미하일 할로윈의 가이아나 계약반지 (Beastbound Blood-Oath Ring — Mikhail Halloween's Gaiana Pact Band)](../../../01-19-3.악세서리/01.반지/비스트오스%20(Beastoath).md)
 - 가이아나 태고의 야수 결속단 (Gaiana Primal Beastbound)

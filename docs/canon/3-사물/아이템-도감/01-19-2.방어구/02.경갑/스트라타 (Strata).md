@@ -106,4 +106,4 @@
 
 - [에일린 그레이슨 (Eileen Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/08.에일린그레이슨.md)
 - [칠흑의 분쇄검 — 에일린 그레이슨의 심연 광석 분쇄검 (Abyss-Ore Crushing Greatsword of Eileen Grayson)](../../01-19-1.무기/02.양손검/울음검%20야생기억%20(Wildmemory%20Keen).md)
-- [피로 쓰인 맹세의 흑요 봉인패 — 그레이슨의 잿빛 폐 (Black Obsidian Seal-Plate of the Blood-Written Oath — Grayson's Ashen Lung)](../../01-19-3.악세서리/07.부적/피로%20쓰인%20맹세의%20흑요%20봉인패%20—%20그레이슨의%20잿빛%20폐%20(Black%20Obsidian%20Seal-Plate%20of%20the%20Blood-Written%20Oath%20—%20Grayson's%20Ashen%20Lung).md)
+- [피로 쓰인 맹세의 흑요 봉인패 — 그레이슨의 잿빛 폐 (Black Obsidian Seal-Plate of the Blood-Written Oath — Grayson's Ashen Lung)](../../01-19-3.악세서리/07.부적/흑요%20봉인패%20(Obsidian%20Seal).md)

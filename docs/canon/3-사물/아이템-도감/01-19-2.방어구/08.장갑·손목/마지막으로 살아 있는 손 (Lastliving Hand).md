@@ -68,7 +68,7 @@
 붉은사막 부족 내에서 폭약공이 장갑을 직접 닦는 것은 일종의 자기 보호 신호로 통한다. "이 장갑을 닦을 만큼 오래 살고 싶다"는 의미로 읽힌다. 타리온 카오스가 자신의 몸이 조만간 거대한 폭탄으로 내파될 것임을 알면서도 이 장갑을 계속 닦는 행위에 대해, 부족 장로들은 일체 언급을 피한다.
 
 ### 관련 캐릭터
-- **타리온 카오스** — 그의 몸 전체가 망가져가는 와중에 유일하게 살아 있는 것이 이 장갑 속의 손가락 감각이다. 수천 마리 불나방이 갇힌 점화석을 쥐거나, 단검 카트리지를 교체하거나, 도화선 끝을 확인하는 모든 행위가 이 장갑이 기능하는 한에서만 가능하다. → [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths).md) / [폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger)](../../../01-19-1.무기/04.단검/앞면폭탄 (Frontface Bomb).md)
+- **타리온 카오스** — 그의 몸 전체가 망가져가는 와중에 유일하게 살아 있는 것이 이 장갑 속의 손가락 감각이다. 수천 마리 불나방이 갇힌 점화석을 쥐거나, 단검 카트리지를 교체하거나, 도화선 끝을 확인하는 모든 행위가 이 장갑이 기능하는 한에서만 가능하다. → [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/불나방의 입맞춤 (Fire-Moth's Kiss).md) / [폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger)](../../../01-19-1.무기/04.단검/앞면폭탄 (Frontface Bomb).md)
 
 ---
 
@@ -89,6 +89,6 @@
 
 ## 🔗 관련 문서
 - [타리온 카오스 (Tarion Khaos)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/05.타리온카오스.md)
-- [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths).md)
+- [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/불나방의 입맞춤 (Fire-Moth's Kiss).md)
 - [폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger)](../../../01-19-1.무기/04.단검/앞면폭탄 (Frontface Bomb).md)
 - [내폭(Anti-Blast) 화학처리된 넝마 가죽 코트 (Blast-Resistant Chemical Rag-Coat)](../02.경갑/불굴의 넝마 (Indomitable Rag).md)

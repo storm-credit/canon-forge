@@ -103,5 +103,5 @@
 
 - [타르곤 스톰브링어 (Targon Stormbringer)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/15.타르곤스톰브링어.md)
 - [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](../../../아이템-도감/01-19-2.방어구/01.중갑/천뢰%20창격갑%20(Skyfall%20Spearplate).md)
-- [폭풍 기사단의 서약석 (Oath Stone of the Storm Knights)](../../../아이템-도감/01-19-3.악세서리/07.부적/폭풍%20기사단의%20서약석%20(Oath%20Stone%20of%20the%20Storm%20Knights).md)
+- [폭풍 기사단의 서약석 (Oath Stone of the Storm Knights)](../../../아이템-도감/01-19-3.악세서리/07.부적/폭풍의%20서약석%20(Storm%20Oath%20Stone).md)
 - 폭풍의 성채 (Tempest Keep)

@@ -124,5 +124,5 @@
 ## 🔗 관련 문서
 
 - [크리스티앙 바스커빌 (Christian Baskerville)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/10.크리스티앙바스커빌.md)
-- [혈서 봉인 '검은 잿빛의 서약' — 크리스티앙의 야전 봉인패 (Blood-Writ Seal 'Vow of Black Ash' — Christian's Field Oath Plate)](../../01-19-3.악세서리/07.부적/혈서 봉인 '검은 잿빛의 서약' — 크리스티앙의 야전 봉인패 (Blood-Writ Seal 'Vow of Black Ash' — Christian's Field Oath Plate).md)
+- [혈서 봉인 '검은 잿빛의 서약' — 크리스티앙의 야전 봉인패 (Blood-Writ Seal 'Vow of Black Ash' — Christian's Field Oath Plate)](../../01-19-3.악세서리/07.부적/애쉬포지 (Ashforge).md)
 - 제피로스 바람의 전령 상단 (Zephyrus Heralds of the Wind)

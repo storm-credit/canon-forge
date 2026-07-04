@@ -98,4 +98,4 @@
 ## 🔗 관련 문서
 - [디트리히 블러드워커 (Dietrich Bloodwalker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/03.디트리히블러드워커.md)
 - [칠흑의 분쇄검 — 블러드워커의 야생 원석 분쇄검 (Black Crusher Greatsword — Bloodwalker's Wild-Ore Crusher)](../../01-19-1.무기/02.양손검/블러드클레이버%20(Bloodcleaver).md)
-- [혈서 생명 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Vitality Seal Talisman 'Vow of the Ashen Lung')](../../01-19-3.악세서리/07.부적/혈서%20생명%20봉인%20부적%20'잿빛%20폐의%20맹서'%20(Blood-Writ%20Vitality%20Seal%20Talisman%20'Vow%20of%20the%20Ashen%20Lung').md)
+- [혈서 생명 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Vitality Seal Talisman 'Vow of the Ashen Lung')](../../01-19-3.악세서리/07.부적/블러드바인드%20(Bloodbind).md)

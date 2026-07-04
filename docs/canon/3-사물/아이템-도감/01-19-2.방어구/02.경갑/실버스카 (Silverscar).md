@@ -115,4 +115,4 @@
 
 - [아이리스 블랙스미스 (Iris Blacksmith)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/07.아이리스블랙스미스.md)
 - [칠흑의 분쇄검 — 아이리스 블랙스미스의 심연 광석검 (Ebony Crushing Greatsword of Iris Blacksmith)](../../01-19-1.무기/02.양손검/스틸브레이커%20(Steelbreaker).md)
-- [핏빛 맹세 봉인 부적 '잿빛 폐의 서약' — 아이리스 블랙스미스 (Blood-Vow Seal Charm 'Ashen Lung Vow' — Iris Blacksmith)](../../01-19-3.악세서리/07.부적/핏빛%20맹세%20봉인%20부적%20'잿빛%20폐의%20서약'%20—%20아이리스%20블랙스미스%20(Blood-Vow%20Seal%20Charm%20'Ashen%20Lung%20Vow'%20—%20Iris%20Blacksmith).md)
+- [핏빛 맹세 봉인 부적 '잿빛 폐의 서약' — 아이리스 블랙스미스 (Blood-Vow Seal Charm 'Ashen Lung Vow' — Iris Blacksmith)](../../01-19-3.악세서리/07.부적/펄스워드%20(Pulseward).md)

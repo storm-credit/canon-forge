@@ -1,46 +1,50 @@
 ---
 정본명: 머리장식
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B10 index 재생성 (2026-07-04)
 ---
 
 # 📚 머리장식
 
-## 항목 (34)
+## 항목 (38)
 
 | 아이템 | 링크 |
 |--------|------|
-| 머리장식 (Tiaras) | [머리장식 (Tiaras)](05.머리장식.md) |
-| 광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire) | [광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire)](광명%20제국의%20절대%20황제관%20%28Absolute%20Imperial%20Crown%20of%20the%20Radiant%20Empire%29.md) |
-| 네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign) | [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](네크로폴리스%20망자의%20골제관%20%28Bone%20Diadem%20of%20the%20Necropolis%20Sovereign%29.md) |
-| 노르다리스의 청백 서리관 (Pale-Blue Frost Coronet of Nordaris) | [노르다리스의 청백 서리관 (Pale-Blue Frost Coronet of Nordaris)](노르다리스의%20청백%20서리관%20%28Pale-Blue%20Frost%20Coronet%20of%20Nordaris%29.md) |
+| 05.머리장식 | [05.머리장식](05.머리장식.md) |
+| 글라시비녹스 (Glacivenox) | [글라시비녹스 (Glacivenox)](글라시비녹스%20%28Glacivenox%29.md) |
 | 녹아내린 태양의 가시 왕관 (Melting Crown of Sol) | [녹아내린 태양의 가시 왕관 (Melting Crown of Sol)](녹아내린%20태양의%20가시%20왕관%20%28Melting%20Crown%20of%20Sol%29.md) |
-| 눈보라 주술사단 제1영매 뼈 관 (First-Medium Bone Crown of the Blizzard Shamans) | [눈보라 주술사단 제1영매 뼈 관 (First-Medium Bone Crown of the Blizzard Shamans)](눈보라%20주술사단%20제1영매%20뼈%20관%20%28First-Medium%20Bone%20Crown%20of%20the%20Blizzard%20Shamans%29.md) |
+| 다곤의 시선 (Gaze of Dagon) | [다곤의 시선 (Gaze of Dagon)](다곤의%20시선%20%28Gaze%20of%20Dagon%29.md) |
 | 대속의 가시관 (Crown of Vicarious Thorns) | [대속의 가시관 (Crown of Vicarious Thorns)](대속의%20가시관%20%28Crown%20of%20Vicarious%20Thorns%29.md) |
-| 더스크마르크의 두꺼운 은테 마도구 안경 (Thick-Frame Silver Arcane Spectacles of Duskmark) | [더스크마르크의 두꺼운 은테 마도구 안경 (Thick-Frame Silver Arcane Spectacles of Duskmark)](더스크마르크의%20두꺼운%20은테%20마도구%20안경%20%28Thick-Frame%20Silver%20Arcane%20Spectacles%20of%20Duskmark%29.md) |
-| 동토의 여제(Empress) 티아라 | [동토의 여제(Empress) 티아라](동토의%20여제%28Empress%29%20티아라.md) |
-| 백야의 성모관 영원한 눈꽃 성관 (Holy Crown of the White Night Mother - Eternal Snowflake Diadem) | [백야의 성모관 영원한 눈꽃 성관 (Holy Crown of the White Night Mother - Eternal Snowflake Diadem)](백야의%20성모관%20영원한%20눈꽃%20성관%20%28Holy%20Crown%20of%20the%20White%20Night%20Mother%20-%20Eternal%20Snowflake%20Diadem%29.md) |
+| 루나베일 은테안경 (Lunavale Silver Spectacles) | [루나베일 은테안경 (Lunavale Silver Spectacles)](루나베일%20은테안경%20%28Lunavale%20Silver%20Spectacles%29.md) |
+| 백면의 익사가면 (Drownmask of a Hundred Faces) | [백면의 익사가면 (Drownmask of a Hundred Faces)](백면의%20익사가면%20%28Drownmask%20of%20a%20Hundred%20Faces%29.md) |
+| 백야성모관 (Crown of the White Night Mother) | [백야성모관 (Crown of the White Night Mother)](백야성모관%20%28Crown%20of%20the%20White%20Night%20Mother%29.md) |
+| 베리타스크 (Veritasque) | [베리타스크 (Veritasque)](베리타스크%20%28Veritasque%29.md) |
+| 베릴 감시석 (Beryl Watchstone) | [베릴 감시석 (Beryl Watchstone)](베릴%20감시석%20%28Beryl%20Watchstone%29.md) |
 | 복수의 황혼 가면 (Twilight Mask of Vengeance) | [복수의 황혼 가면 (Twilight Mask of Vengeance)](복수의%20황혼%20가면%20%28Twilight%20Mask%20of%20Vengeance%29.md) |
-| 산호 주교관 — 입을 벌린 조개의 관 (Coral Archbishop's Crown — Crown of the Gaping Clam) | [산호 주교관 — 입을 벌린 조개의 관 (Coral Archbishop's Crown — Crown of the Gaping Clam)](산호%20주교관%20—%20입을%20벌린%20조개의%20관%20%28Coral%20Archbishop's%20Crown%20—%20Crown%20of%20the%20Gaping%20Clam%29.md) |
-| 성단의 에메랄드 점멸 후광 (Emerald Stellar Cluster Halo) | [성단의 에메랄드 점멸 후광 (Emerald Stellar Cluster Halo)](성단의%20에메랄드%20점멸%20후광%20%28Emerald%20Stellar%20Cluster%20Halo%29.md) |
+| 부러진 후광 (Broken Halo) | [부러진 후광 (Broken Halo)](부러진%20후광%20%28Broken%20Halo%29.md) |
+| 사일런티스 (Silentis) | [사일런티스 (Silentis)](사일런티스%20%28Silentis%29.md) |
+| 산기누스 (Sanguis) | [산기누스 (Sanguis)](산기누스%20%28Sanguis%29.md) |
+| 서리스 서클릿 (Seris Circlet) | [서리스 서클릿 (Seris Circlet)](서리스%20서클릿%20%28Seris%20Circlet%29.md) |
+| 성단후광 (Stellar Cluster Halo) | [성단후광 (Stellar Cluster Halo)](성단후광%20%28Stellar%20Cluster%20Halo%29.md) |
 | 성채의 티아라 (Tiara of Acropolis) | [성채의 티아라 (Tiara of Acropolis)](성채의%20티아라%20%28Tiara%20of%20Acropolis%29.md) |
-| 세린의 은테 안경 (Silver-Rimmed Spectacles of Serin) | [세린의 은테 안경 (Silver-Rimmed Spectacles of Serin)](세린의%20은테%20안경%20%28Silver-Rimmed%20Spectacles%20of%20Serin%29.md) |
+| 성해의 산호초 왕관 (Coronet of the Sacred Reef) | [성해의 산호초 왕관 (Coronet of the Sacred Reef)](성해의%20산호초%20왕관%20%28Coronet%20of%20the%20Sacred%20Reef%29.md) |
+| 소음 봉인의 은막 (Silver Veil of Noise Seal) | [소음 봉인의 은막 (Silver Veil of Noise Seal)](소음%20봉인의%20은막%20%28Silver%20Veil%20of%20Noise%20Seal%29.md) |
+| 솔레미넨스 (Soleminence) | [솔레미넨스 (Soleminence)](솔레미넨스%20%28Soleminence%29.md) |
 | 실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty) | [실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty)](실바나리스%20녹엽%20군주관%20%28Sylvanaris%20Crown%20of%20Verdant%20Sovereignty%29.md) |
-| 심연 사념 차폐 안대 — 소음 봉인의 은막 (Abyssal Thought-Shield Blindfold — Silver Veil of Noise Seal) | [심연 사념 차폐 안대 — 소음 봉인의 은막 (Abyssal Thought-Shield Blindfold — Silver Veil of Noise Seal)](심연%20사념%20차폐%20안대%20—%20소음%20봉인의%20은막%20%28Abyssal%20Thought-Shield%20Blindfold%20—%20Silver%20Veil%20of%20Noise%20Seal%29.md) |
-| 아르카디아 황실 제국관 (Crown of the Arcadia Empire) | [아르카디아 황실 제국관 (Crown of the Arcadia Empire)](아르카디아%20황실%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md) |
-| 운명 감시석 베릴 (Beryl Watchstone of Destiny) | [운명 감시석 베릴 (Beryl Watchstone of Destiny)](운명%20감시석%20베릴%20%28Beryl%20Watchstone%20of%20Destiny%29.md) |
-| 월식의 은가루 비녀 (Silver-Dust Hairpin of Lunar Eclipse) | [월식의 은가루 비녀 (Silver-Dust Hairpin of Lunar Eclipse)](월식의%20은가루%20비녀%20%28Silver-Dust%20Hairpin%20of%20Lunar%20Eclipse%29.md) |
-| 은제 전술 마도 안경 (Silver Tactical Mage-Spectacles) | [은제 전술 마도 안경 (Silver Tactical Mage-Spectacles)](은제%20전술%20마도%20안경%20%28Silver%20Tactical%20Mage-Spectacles%29.md) |
-| 잿빛 밤의 절반 복면 (Half-Mask of the Ashen Night) | [잿빛 밤의 절반 복면 (Half-Mask of the Ashen Night)](잿빛%20밤의%20절반%20복면%20%28Half-Mask%20of%20the%20Ashen%20Night%29.md) |
-| 조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn) | [조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn)](조각난%20여명의%20부러진%20후광%20%28Broken%20Halo%20of%20Fragmented%20Dawn%29.md) |
-| 종교백과 - 꿰뚫린 심장의 무음 제례 머리띠 (Headband of the Silent Ritual of the Pierced Heart) | [종교백과 - 꿰뚫린 심장의 무음 제례 머리띠 (Headband of the Silent Ritual of the Pierced Heart)](종교백과%20-%20꿰뚫린%20심장의%20무음%20제례%20머리띠%20%28Headband%20of%20the%20Silent%20Ritual%20of%20the%20Pierced%20Heart%29.md) |
-| 종교백과 - 은폐의 황륜 (Golden Halo of Concealment) | [종교백과 - 은폐의 황륜 (Golden Halo of Concealment)](종교백과%20-%20은폐의%20황륜%20%28Golden%20Halo%20of%20Concealment%29.md) |
-| 진주빛 망사 안대 — 다곤의 시선 (Pearl Veil Blindfold — Gaze of Dagon) | [진주빛 망사 안대 — 다곤의 시선 (Pearl Veil Blindfold — Gaze of Dagon)](진주빛%20망사%20안대%20—%20다곤의%20시선%20%28Pearl%20Veil%20Blindfold%20—%20Gaze%20of%20Dagon%29.md) |
-| 참회의 봉안 눈가리개 (Penitent's Sealed Blindfold) | [참회의 봉안 눈가리개 (Penitent's Sealed Blindfold)](참회의%20봉안%20눈가리개%20%28Penitent's%20Sealed%20Blindfold%29.md) |
-| 창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark) | [창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark)](창공%20성궤의%20황금%20제독관%20%28Admiral's%20Crown%20of%20the%20Zenith%20Ark%29.md) |
-| 카이저의 왕관 파편 (Fragment of the Kaiser's Crown) | [카이저의 왕관 파편 (Fragment of the Kaiser's Crown)](카이저의%20왕관%20파편%20%28Fragment%20of%20the%20Kaiser's%20Crown%29.md) |
-| 쾌속 해류 편광 고글 (Slipstream Polarized Goggles) | [쾌속 해류 편광 고글 (Slipstream Polarized Goggles)](쾌속%20해류%20편광%20고글%20%28Slipstream%20Polarized%20Goggles%29.md) |
-| 통합의 핏빛 왕관 (Crown of Iron Unification) | [통합의 핏빛 왕관 (Crown of Iron Unification)](통합의%20핏빛%20왕관%20%28Crown%20of%20Iron%20Unification%29.md) |
-| 퇴화한 눈을 감싼 회개의 가시관 붕대 (Thorn-Crown Bandage of Penitent Blinded Eyes) | [퇴화한 눈을 감싼 회개의 가시관 붕대 (Thorn-Crown Bandage of Penitent Blinded Eyes)](퇴화한%20눈을%20감싼%20회개의%20가시관%20붕대%20%28Thorn-Crown%20Bandage%20of%20Penitent%20Blinded%20Eyes%29.md) |
-| 황혼 이중성의 균열 후광 (Rift Halo of Twilight Duality) | [황혼 이중성의 균열 후광 (Rift Halo of Twilight Duality)](황혼%20이중성의%20균열%20후광%20%28Rift%20Halo%20of%20Twilight%20Duality%29.md) |
-| 흑일륜의 재관 (Ashen Crown of the Black Sun) | [흑일륜의 재관 (Ashen Crown of the Black Sun)](흑일륜의%20재관%20%28Ashen%20Crown%20of%20the%20Black%20Sun%29.md) |
+| 아라크네 (Arachne) | [아라크네 (Arachne)](아라크네%20%28Arachne%29.md) |
+| 아르카디아 제국관 (Crown of the Arcadia Empire) | [아르카디아 제국관 (Crown of the Arcadia Empire)](아르카디아%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md) |
+| 아우룸베일 (Aurumveil) | [아우룸베일 (Aurumveil)](아우룸베일%20%28Aurumveil%29.md) |
+| 아텐 (Aten) | [아텐 (Aten)](아텐%20%28Aten%29.md) |
+| 애쉬볼 (Ashvoid) | [애쉬볼 (Ashvoid)](애쉬볼%20%28Ashvoid%29.md) |
+| 에클립사 (Eclipsa) | [에클립사 (Eclipsa)](에클립사%20%28Eclipsa%29.md) |
+| 오스레갈리아 (Ossregalia) | [오스레갈리아 (Ossregalia)](오스레갈리아%20%28Ossregalia%29.md) |
+| 입 벌린 조개관 (Crown of the Gaping Clam) | [입 벌린 조개관 (Crown of the Gaping Clam)](입%20벌린%20조개관%20%28Crown%20of%20the%20Gaping%20Clam%29.md) |
+| 제니스아크 (Zenith Ark) | [제니스아크 (Zenith Ark)](제니스아크%20%28Zenith%20Ark%29.md) |
+| 카이저크론 (Kaiserkron) | [카이저크론 (Kaiserkron)](카이저크론%20%28Kaiserkron%29.md) |
+| 크레푸스쿨룸 (Crepusculum) | [크레푸스쿨룸 (Crepusculum)](크레푸스쿨룸%20%28Crepusculum%29.md) |
+| 크립톱시스 (Cryptopsis) | [크립톱시스 (Cryptopsis)](크립톱시스%20%28Cryptopsis%29.md) |
+| 페니텐시아 (Penitentia) | [페니텐시아 (Penitentia)](페니텐시아%20%28Penitentia%29.md) |
+| 편광 고글 (Polarized Goggles) | [편광 고글 (Polarized Goggles)](편광%20고글%20%28Polarized%20Goggles%29.md) |
+| 프로스트헤임 (Frostheim) | [프로스트헤임 (Frostheim)](프로스트헤임%20%28Frostheim%29.md) |
+| 헥사그노시스 (Hexagnosis) | [헥사그노시스 (Hexagnosis)](헥사그노시스%20%28Hexagnosis%29.md) |
+| 히에말리스 (Hiemalis) | [히에말리스 (Hiemalis)](히에말리스%20%28Hiemalis%29.md) |

@@ -106,4 +106,4 @@
 ## 🔗 관련 문서
 - [루시안 그레이슨 (Lucian Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/02.루시안그레이슨.md)
 - [칠흑의 분쇄검 — 루시안 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Lucian Grayson's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/룬기류검%20그레이룬%20(Grayrune).md)
-- [혈서 맹세의 저주 봉인패 — 루시안 그레이슨의 잿빛 폐 (Blood-Oath Curse Seal Plate — Lucian Grayson's Ashen Lung)](../../01-19-3.악세서리/07.부적/혈서%20맹세의%20저주%20봉인패%20—%20루시안%20그레이슨의%20잿빛%20폐%20(Blood-Oath%20Curse%20Seal%20Plate%20—%20Lucian%20Grayson's%20Ashen%20Lung).md)
+- [혈서 맹세의 저주 봉인패 — 루시안 그레이슨의 잿빛 폐 (Blood-Oath Curse Seal Plate — Lucian Grayson's Ashen Lung)](../../01-19-3.악세서리/07.부적/애쉬바인드%20(Ashbind).md)

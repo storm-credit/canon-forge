@@ -116,6 +116,6 @@
 ## 🔗 관련 문서
 - [일리오스 아스텔 (Ilios Astell)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/08.일리오스아스텔.md)
 - [심연에 잠긴 짐승뼈 강령패 — 일리오스 아스텔의 침묵하는 유골함 (Abyssal Beast-Bone Necropendant of Ilios Astell)](../../01-19-4.유물/04.영웅고유성유물/빚의%20유골함%20(Reliquary%20of%20Debt).md)
-- [검은 잿빛 봉인 혈서 부적 — 일리오스의 폐의 맹세 (Blood-Oath Seal Charm — Ilios's Lung Vow)](../../01-19-3.악세서리/07.부적/검은%20잿빛%20봉인%20혈서%20부적%20—%20일리오스의%20폐의%20맹세%20(Blood-Oath%20Seal%20Charm%20—%20Ilios's%20Lung%20Vow).md)
+- [검은 잿빛 봉인 혈서 부적 — 일리오스의 폐의 맹세 (Blood-Oath Seal Charm — Ilios's Lung Vow)](../../01-19-3.악세서리/07.부적/잿빛%20불씨%20(Ashen%20Ember).md)
 - 제피로스 바람의 전령 상단 (Zephyrus Heralds of the Wind)
 - 에반 (대소환사) — 일리오스의 저주를 멈출 수 있는 유일한 존재

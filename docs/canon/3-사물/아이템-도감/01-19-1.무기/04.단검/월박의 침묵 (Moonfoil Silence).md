@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [키리엘 루나스트라 (Kyrielle Lunastra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/05.키리엘루나스트라.md)
 - [루나스트라의 월식 쌍겸 (Eclipse Dual-Scythes of Lunastra)](../16.특수·마도구·기타/월식 쌍겸 (Eclipse Scythes).md)
-- [배교된 달의 눈물방울 (Teardrop of the Apostate Moon)](../../../01-19-3.악세서리/02.목걸이·팬던트/배교된 달의 눈물방울 (Teardrop of the Apostate Moon).md)
+- [배교된 달의 눈물방울 (Teardrop of the Apostate Moon)](../../../01-19-3.악세서리/02.목걸이·팬던트/루나 라크리마 (Luna Lacrima).md)

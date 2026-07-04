@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [네크론 바르헴 (Necron Barhem)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/13.네크론바르헴.md)
-- [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](../../../01-19-3.악세서리/04.머리장식/네크로폴리스%20망자의%20골제관%20(Bone%20Diadem%20of%20the%20Necropolis%20Sovereign).md)
+- [네크로폴리스 망자의 골제관 (Bone Diadem of the Necropolis Sovereign)](../../../01-19-3.악세서리/04.머리장식/오스레갈리아%20(Ossregalia).md)
 - [부서진 망자의 해골 홀 (Shattered Scepter of the Dead)](망자의%20문%20(Gate%20of%20the%20Dead).md)

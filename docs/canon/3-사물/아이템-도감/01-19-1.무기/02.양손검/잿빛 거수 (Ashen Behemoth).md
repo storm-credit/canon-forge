@@ -110,4 +110,4 @@
 
 ## 🔗 관련 문서
 - [아테나 아르트리우스 (Athena Artorius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/06.아테나아르트리우스.md)
-- [혈서 맹세 폐봉인 부적 '피와 바람의 각인' (Blood-Oath Lung-Seal Talisman 'Brand of Blood and Wind')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20폐봉인%20부적%20'피와%20바람의%20각인'%20(Blood-Oath%20Lung-Seal%20Talisman%20'Brand%20of%20Blood%20and%20Wind').md)
+- [혈서 맹세 폐봉인 부적 '피와 바람의 각인' (Blood-Oath Lung-Seal Talisman 'Brand of Blood and Wind')](../../01-19-3.악세서리/07.부적/블러드브랜드%20(Blood%20Brand).md)

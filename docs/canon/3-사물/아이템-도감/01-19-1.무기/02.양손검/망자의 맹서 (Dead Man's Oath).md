@@ -110,5 +110,5 @@
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/01.가웨인노바.md)
 - [검은 모루 연합 개척지 흑린 전투갑 (Black Anvil Pioneer's Combat Hide)](../../01-19-2.방어구/02.경갑/흑린의%20침묵%20(Blackscale%20Silence).md)
-- [혈서 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Seal Charm 'Ashen Lung's Oath')](../../01-19-3.악세서리/07.부적/혈서%20봉인%20부적%20'잿빛%20폐의%20맹서'%20(Blood-Writ%20Seal%20Charm%20'Ashen%20Lung's%20Oath').md)
+- [혈서 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Seal Charm 'Ashen Lung's Oath')](../../01-19-3.악세서리/07.부적/잿빛%20폐의%20맹서%20(Ashen%20Lung's%20Oath).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

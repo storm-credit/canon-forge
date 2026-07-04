@@ -103,4 +103,4 @@
 
 - [로잘린드 에스더 (Rosalind Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/04.로잘린드에스더.md)
 - [개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate)](../../01-19-2.방어구/01.중갑/스카르헬름 (Scarhelm).md)
-- [맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood-Oath Covenant Ring — Ashen Shackle)](../../01-19-3.악세서리/01.반지/맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood-Oath Covenant Ring — Ashen Shackle).md)
+- [맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood-Oath Covenant Ring — Ashen Shackle)](../../01-19-3.악세서리/01.반지/언브로큰 (Unbroken).md)

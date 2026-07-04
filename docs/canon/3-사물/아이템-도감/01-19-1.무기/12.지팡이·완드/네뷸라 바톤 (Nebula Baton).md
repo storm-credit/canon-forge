@@ -86,5 +86,5 @@
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/9.황금기계단/02.가웨인노바.md)
 - [정제사의 응결 로브 (Refiner's Coagulant Robe)](../../01-19-2.방어구/03.로브·마법복/코아굴라%20(Coagula).md)
-- [수은 정제 도가니 세트 (Mercury-Refining Crucible Set)](../../01-19-3.악세서리/10.특수마도구·마력핵/수은%20정제%20도가니%20세트%20(Mercury-Refining%20Crucible%20Set).md)
+- [수은 정제 도가니 세트 (Mercury-Refining Crucible Set)](../../01-19-3.악세서리/10.특수마도구·마력핵/리플로우%20(Reflow).md)
 - [고대명검 이시스-아스트라 (Ancient Blade Isis-Astra)](../01.한손검/고대명검%20이시스-아스트라%20(Ancient%20Blade%20Isis-Astra).md) — 동일 원석 계보의 다른 소유자 개체 (본 도구는 그 파편에서 재단된 별개 물건)

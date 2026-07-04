@@ -89,4 +89,4 @@
 ## 🔗 관련 문서
 - [리아넬 오르도리아 (Lianel Ordoria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/13.리아넬오르도리아.md)
 - [오르도리아의 강압 균형 추 도끼창 (Halberd of Ordoria's Counterweight)](../../01-19-1.무기/06.창/오르도리아의%20강압%20균형%20추%20도끼창%20(Halberd%20of%20Ordoria's%20Counterweight).md)
-- [종교백과 - 오르도스의 십자가 헌법전 (Cruciform Codex of Ordos)](../../01-19-3.악세서리/08.성물/종교백과%20-%20오르도스의%20십자가%20헌법전%20(Cruciform%20Codex%20of%20Ordos).md)
+- [종교백과 - 오르도스의 십자가 헌법전 (Cruciform Codex of Ordos)](../../01-19-3.악세서리/08.성물/오르도스%20(Ordos).md)

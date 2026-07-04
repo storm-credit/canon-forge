@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/9.황금기계단/02.가웨인노바.md)
 - [수은 유도봉 '성운의 지휘봉' (Mercury-Guiding Rod, Baton of the Nebula)](../../01-19-1.무기/12.지팡이·완드/네뷸라%20바톤%20(Nebula%20Baton).md)
-- [수은 정제 도가니 세트 (Mercury-Refining Crucible Set)](../../01-19-3.악세서리/10.특수마도구·마력핵/수은%20정제%20도가니%20세트%20(Mercury-Refining%20Crucible%20Set).md)
+- [수은 정제 도가니 세트 (Mercury-Refining Crucible Set)](../../01-19-3.악세서리/10.특수마도구·마력핵/리플로우%20(Reflow).md)

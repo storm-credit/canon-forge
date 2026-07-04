@@ -85,4 +85,4 @@
 ## 🔗 관련 문서
 - [바르모르 페루스덴스 (Barmor Ferrusdens)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/07.바르모르페루스덴스.md)
 - [페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens)](../05.방패/영결%20(Eternal%20Bind).md)
-- [지핵석의 반지 (Ring of the Core-Mantle)](../../01-19-3.악세서리/01.반지/지핵석의%20반지%20(Ring%20of%20the%20Core-Mantle).md)
+- [지핵석의 반지 (Ring of the Core-Mantle)](../../01-19-3.악세서리/01.반지/게아코르%20(Gaeacore).md)

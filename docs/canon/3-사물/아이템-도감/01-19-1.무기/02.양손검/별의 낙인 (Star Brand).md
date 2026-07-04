@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [카르멘 아르트리우스 (Carmen Artorius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/10.카르멘아르트리우스.md)
-- [맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood Oath Covenant Ring — Ashen Shackle)](../../01-19-3.악세서리/01.반지/맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood Oath Covenant Ring — Ashen Shackle).md)
+- [맹세의 피 서약반 — 검은 잿빛 족쇄 (Blood Oath Covenant Ring — Ashen Shackle)](../../01-19-3.악세서리/01.반지/네버페이드 (Neverfade).md)
 - [개척지의 흉터 야전 경갑 (Frontier Scar Field Chainmail)](../../01-19-2.방어구/02.경갑/살아남은 갑옷 (Survivor's Weave).md)

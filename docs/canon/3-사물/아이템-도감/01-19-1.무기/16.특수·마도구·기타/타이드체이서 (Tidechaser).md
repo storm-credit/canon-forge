@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [나마리에 아비소 (Namarie Abysso)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/07.나마리에아비소.md)
 - [고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash')](../06.창/고대 포식룡의 작살 창 '샤크투스 크래시' (Predator's Harpoon 'Sharktooth Crash').md) — 패널의 조류 공명 폭주 중 창을 전방 투사할 때, 창의 역조류 반응이 패널 파고와 합산되어 돌진 위력이 배가된다.
-- [괴수 계약 인장 야광 타투 (Beast-Pact Luminous Contract Brand Tattoo)](../../01-19-3.악세서리/07.부적/괴수 계약 인장 야광 타투 (Beast-Pact Luminous Contract Brand Tattoo).md) — 패널 조류 공명 발동 시 타투 문양이 연동 발광하며, 연결된 바다거북 군락의 복종 반응이 더 깊어진다.
+- [괴수 계약 인장 야광 타투 (Beast-Pact Luminous Contract Brand Tattoo)](../../01-19-3.악세서리/07.부적/적목 (Crimson-Eye).md) — 패널 조류 공명 발동 시 타투 문양이 연동 발광하며, 연결된 바다거북 군락의 복종 반응이 더 깊어진다.

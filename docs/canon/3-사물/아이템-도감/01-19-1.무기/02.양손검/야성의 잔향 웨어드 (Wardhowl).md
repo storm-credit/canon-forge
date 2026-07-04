@@ -111,4 +111,4 @@
 
 - [루시안 에스더 (Lucian Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/02.루시안에스더.md)
 - [어둠을 꿰뚫는 마나 석궁 '잿빛 침묵' (Dark-Piercing Mana Crossbow 'Ashen Silence')](../10.활·석궁/잿빛 침묵 (Ashen Silence).md)
-- [피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent)](../../01-19-3.악세서리/01.반지/피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent).md)
+- [피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent)](../../01-19-3.악세서리/01.반지/오스벤트 (Oathbent).md)

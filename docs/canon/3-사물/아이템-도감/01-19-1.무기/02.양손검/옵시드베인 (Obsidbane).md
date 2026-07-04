@@ -123,4 +123,4 @@
 ## 🔗 관련 문서
 
 - [세리아 크로스 (Seria Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/08.세리아크로스.md)
-- [혈서 맹세 봉인 부적 — 세리아 크로스의 검은 잿빛 봉인 (Blood-Oath Seal Talisman — Seria Cross's Black Ash Lung Seal)](../../01-19-3.악세서리/07.부적/혈서%20맹세%20봉인%20부적%20—%20세리아%20크로스의%20검은%20잿빛%20봉인%20(Blood-Oath%20Seal%20Talisman%20—%20Seria%20Cross's%20Black%20Ash%20Lung%20Seal).md)
+- [혈서 맹세 봉인 부적 — 세리아 크로스의 검은 잿빛 봉인 (Blood-Oath Seal Talisman — Seria Cross's Black Ash Lung Seal)](../../01-19-3.악세서리/07.부적/씰앵커%20(Seal%20Anchor).md)

@@ -104,5 +104,5 @@
 
 - [테오도르 뱅가드 (Theodor Vanguard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/12.테오도르뱅가드.md)
 - [뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard)](../07.둔기/뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard).md)
-- [전장 독해 예지경 (Battlefield-Reading Foresight Spectacles)](../../../01-19-3.악세서리/10.특수마도구·마력핵/전장 독해 예지경 (Battlefield-Reading Foresight Spectacles).md)
-- [전쟁의 아카이브 구체 (Chronicles of War Sphere)](../../../01-19-3.악세서리/09.보석/전쟁의 아카이브 구체 (Chronicles of War Sphere).md)
+- [전장 독해 예지경 (Battlefield-Reading Foresight Spectacles)](../../../01-19-3.악세서리/10.특수마도구·마력핵/만안경 (Myriadscope).md)
+- [전쟁의 아카이브 구체 (Chronicles of War Sphere)](../../../01-19-3.악세서리/09.보석/전쟁의 아카이브 (War Archive).md)

@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 
 - [샤를리아 나이트폴 (Charlia Nightfall)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/12.샤를리아나이트폴.md)
-- [끊어진 칠흑의 활시위 (Torn Ebony Bowstring)](../../../01-19-3.악세서리/07.부적/끊어진 칠흑의 활시위 (Torn Ebony Bowstring).md)
+- [끊어진 칠흑의 활시위 (Torn Ebony Bowstring)](../../../01-19-3.악세서리/07.부적/시위의 기억 (Memory of the String).md)

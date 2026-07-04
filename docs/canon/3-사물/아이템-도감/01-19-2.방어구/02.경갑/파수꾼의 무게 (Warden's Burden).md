@@ -104,4 +104,4 @@
 
 - [이벨린 아르젠트 (Evelynn Argent)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/09.이벨린아르젠트.md)
 - [짓눌린 포효 — 이벨린 아르젠트의 심연 강철 대부 (Crushed Roar — Evelynn Argent's Abyssal Steel Battleaxe)](../../01-19-1.무기/05.도끼/짓눌린%20포효%20—%20이벨린%20아르젠트의%20심연%20강철%20대부%20(Crushed%20Roar%20—%20Evelynn%20Argent's%20Abyssal%20Steel%20Battleaxe).md)
-- [검은 잿빛 폐의 저주 억제 목걸이 — 이벨린 아르젠트의 그르렁거림을 삼키는 패 (Black-Ash Lung Curse Suppression Pendant — Evelynn Argent's Growl-Silencing Plate)](../../01-19-3.악세서리/07.부적/검은%20잿빛%20폐의%20저주%20억제%20목걸이%20—%20이벨린%20아르젠트의%20그르렁거림을%20삼키는%20패%20(Black-Ash%20Lung%20Curse%20Suppression%20Pendant%20—%20Evelynn%20Argent's%20Growl-Silencing%20Plate).md)
+- [검은 잿빛 폐의 저주 억제 목걸이 — 이벨린 아르젠트의 그르렁거림을 삼키는 패 (Black-Ash Lung Curse Suppression Pendant — Evelynn Argent's Growl-Silencing Plate)](../../01-19-3.악세서리/07.부적/그롤허시%20(Growlhush).md)

@@ -91,4 +91,4 @@
 - [카를로스 드 베가 (Carlos de Vega)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/9.카를로스드베가.md)
 - [쌍검 '씨-스왈로우 & 크라켄 투스' (Sea-Swallow & Kraken-Tooth)](../03.쌍검/쌍검%20'씨-스왈로우%20&%20크라켄%20투스'%20(Sea-Swallow%20&%20Kraken-Tooth).md)
 - [풍파의 도약 부츠 (Boots of the Gale-Leap)](../../01-19-4.유물/04.영웅고유성유물/세%20번의%20폭풍%20(Three%20Storms).md)
-- [마력장 호루라기 '바다매의 외침' (Sea-Hawk Whistle of Mana-Field Command)](../../01-19-3.악세서리/10.특수마도구·마력핵/마력장%20호루라기%20'바다매의%20외침'%20(Sea-Hawk%20Whistle%20of%20Mana-Field%20Command).md)
+- [마력장 호루라기 '바다매의 외침' (Sea-Hawk Whistle of Mana-Field Command)](../../01-19-3.악세서리/10.특수마도구·마력핵/바다매의%20외침%20(Sea-Hawk's%20Cry).md)

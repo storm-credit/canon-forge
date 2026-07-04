@@ -117,4 +117,4 @@
 ## 🔗 관련 문서
 
 - [아리엔 맥시무스 (Arien Maximus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/07.아리엔맥시무스.md)
-- [피를 태운 맹세의 잿빛 폐 봉인 부적 — 아리엔의 혈서 봉인패 (Blood-Burning Oath Talisman of Ashen Lung — Arien's Blood-Writ Seal)](../../01-19-3.악세서리/07.부적/피를%20태운%20맹세의%20잿빛%20폐%20봉인%20부적%20—%20아리엔의%20혈서%20봉인패%20(Blood-Burning%20Oath%20Talisman%20of%20Ashen%20Lung%20—%20Arien's%20Blood-Writ%20Seal).md)
+- [피를 태운 맹세의 잿빛 폐 봉인 부적 — 아리엔의 혈서 봉인패 (Blood-Burning Oath Talisman of Ashen Lung — Arien's Blood-Writ Seal)](../../01-19-3.악세서리/07.부적/팬텀애시%20(Phantomash).md)

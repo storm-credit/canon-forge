@@ -115,5 +115,5 @@
 
 ## 🔗 관련 문서
 - [보리스 크림슨 (Boris Crimson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/09.보리스크림슨.md)
-- [피로 쓰인 맹세의 혈판 '잿빛 폐의 봉인' (Blood-Written Vow Plate 'Seal of Ash Lungs')](../../01-19-3.악세서리/07.부적/피로%20쓰인%20맹세의%20혈판%20'잿빛%20폐의%20봉인'%20(Blood-Written%20Vow%20Plate%20'Seal%20of%20Ash%20Lungs').md)
+- [피로 쓰인 맹세의 혈판 '잿빛 폐의 봉인' (Blood-Written Vow Plate 'Seal of Ash Lungs')](../../01-19-3.악세서리/07.부적/애시퀼%20(Ashquell).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

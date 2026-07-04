@@ -85,5 +85,5 @@
 
 ## 🔗 관련 문서
 - [세실리아 메르카토르 (Cecilia Mercator)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/06.세실리아메르카토르.md)
-- [은단풍의 최면 향로 (Censer of Silver Maple)](../../../01-19-3.악세서리/08.성물/은단풍의%20최면%20향로%20(Censer%20of%20Silver%20Maple).md)
+- [은단풍의 최면 향로 (Censer of Silver Maple)](../../../01-19-3.악세서리/08.성물/실버메이플%20센서%20(Silvermaple%20Censer).md)
 - [계약의 깃펜 (Quill of Contract)](계약의%20깃펜%20(Quill%20of%20Contract).md)

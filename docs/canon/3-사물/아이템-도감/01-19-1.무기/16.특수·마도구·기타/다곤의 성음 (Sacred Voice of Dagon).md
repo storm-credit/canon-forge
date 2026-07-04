@@ -109,4 +109,4 @@
 - [산호 지휘봉 '세이렌의 숨결' (Coral Baton 'Siren's Breath')](../07.둔기/산호%20지휘봉%20'세이렌의%20숨결'%20(Coral%20Baton%20'Siren's%20Breath').md)
 - [익사자의 오르골 (Music Box of the Drowned)](../../01-19-4.유물/04.영웅고유성유물/수장곡%20(Dirge%20of%20the%20Drowned).md)
 - [물보라의 신기루 장막 (Mirage Veil of Seafoam)](../../01-19-2.방어구/04.망토·외투/세이렌%20미라주%20(Siren%20Mirage).md)
-- [진주빛 망사 안대 — 다곤의 시선 (Pearl Veil Blindfold — Gaze of Dagon)](../../01-19-3.악세서리/04.머리장식/진주빛%20망사%20안대%20—%20다곤의%20시선%20(Pearl%20Veil%20Blindfold%20—%20Gaze%20of%20Dagon).md)
+- [진주빛 망사 안대 — 다곤의 시선 (Pearl Veil Blindfold — Gaze of Dagon)](../../01-19-3.악세서리/04.머리장식/다곤의%20시선%20(Gaze%20of%20Dagon).md)

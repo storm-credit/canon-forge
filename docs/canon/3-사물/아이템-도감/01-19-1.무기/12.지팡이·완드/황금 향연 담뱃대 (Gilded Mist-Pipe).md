@@ -96,5 +96,5 @@
 
 - [마리엔느 에테리아 (Marienne Etheria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/12.마리엔느에테리아.md)
 - [에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist)](../망각%20(Oblivion).md)
-- [망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke)](../../../01-19-3.악세서리/01.반지/망각의%20연기%20진주%20반지%20(Pearl%20Ring%20of%20Oblivion%20Smoke).md)
+- [망각의 연기 진주 반지 (Pearl Ring of Oblivion Smoke)](../../../01-19-3.악세서리/01.반지/앙코르%20(Encore).md)
 - [도주와 교환의 신기루 코르셋 (Mirage-Corset of Exchange)](../../../01-19-2.방어구/03.로브·마법복/미라주%20페르뮈%20(Mirage%20Permut).md)

@@ -94,5 +94,5 @@
 ## 🔗 관련 문서
 
 - [아리엔 스카이폴 (Arien Skyfall)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/20.아리엔스카이폴.md)
-- [창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark)](../../01-19-3.악세서리/04.머리장식/창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark).md)
+- [창공 성궤의 황금 제독관 (Admiral's Crown of the Zenith Ark)](../../01-19-3.악세서리/04.머리장식/제니스아크 (Zenith Ark).md)
 - [지휘봉 - 바람의 성해 지휘봉 (Baton of the Astral Winds)](../../01-19-1.무기/01.한손검/성해의 바람지휘봉 (Astral Wind Baton).md)

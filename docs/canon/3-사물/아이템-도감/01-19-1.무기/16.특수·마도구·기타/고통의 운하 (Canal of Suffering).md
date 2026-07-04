@@ -98,4 +98,4 @@
 
 - [바르마 더 사일런트 (Barma the Silent)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/14.바르마더사일런트.md)
 - [(소리 없는 기도)(Arts - 정적의 안식처)](../01.한손검/소리%20없는%20기도%20(Silent%20Prayer).md)
-- [형벌의 십자가 잔해 (Remnant of the Punitive Cross)](../../../01-19-3.악세서리/08.성물/형벌의%20십자가%20잔해%20(Remnant%20of%20the%20Punitive%20Cross).md)
+- [형벌의 십자가 잔해 (Remnant of the Punitive Cross)](../../../01-19-3.악세서리/08.성물/실렌티움%20크룩스%20(Silentium%20Crux).md)

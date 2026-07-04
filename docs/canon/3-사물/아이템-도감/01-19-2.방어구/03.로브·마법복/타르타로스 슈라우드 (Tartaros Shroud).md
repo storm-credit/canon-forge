@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [모르데카이 타르타로스 (Mordecai Tartaros)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/03.모르데카이타르타로스.md)
 - [순교자의 뒤틀린 뼈 구속구 (Twisted Bone Shackles of the Martyr)](순교의 결박 (Martyr's Binding).md)
-- [파멸의 서곡 — 어둠 안개 까마귀 구속구 (Overture of Doom — Dark Mist Raven Binding)](../../01-19-3.악세서리/10.특수마도구·마력핵/파멸의 서곡 — 어둠 안개 까마귀 구속구 (Overture of Doom — Dark Mist Raven Binding).md)
+- [파멸의 서곡 — 어둠 안개 까마귀 구속구 (Overture of Doom — Dark Mist Raven Binding)](../../01-19-3.악세서리/10.특수마도구·마력핵/파멸의 서곡 (Overture of Doom).md)

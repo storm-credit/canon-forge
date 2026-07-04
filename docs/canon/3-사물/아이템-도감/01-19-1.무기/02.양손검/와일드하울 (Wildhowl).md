@@ -109,4 +109,4 @@
 ## 🔗 관련 문서
 - [베아트리체 윈드런너 (Beatrice Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/05.베아트리체윈드런너.md)
 - [가이아나 야수결속단의 야성 정령 결속 야전갑 (Gaiana Beastbound Spirit-Bonded Field Wargear)](../../01-19-2.방어구/02.경갑/야생의%20기억갑%20(Wildmemory%20Hide).md)
-- [혈서 맹세 폐봉인 부적 '바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Wind')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20폐봉인%20부적%20'바람의%20맹서'%20(Blood-Oath%20Lung-Seal%20Talisman%20'Oath%20of%20the%20Wind').md)
+- [혈서 맹세 폐봉인 부적 '바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Wind')](../../01-19-3.악세서리/07.부적/와일드윈드%20(Wildwind).md)

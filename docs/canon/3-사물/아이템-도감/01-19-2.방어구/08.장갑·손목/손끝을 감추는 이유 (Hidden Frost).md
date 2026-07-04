@@ -84,4 +84,4 @@
 - [글라키에스의 뼈에 붙은 서리 지팡이 (Bone-Clinging Frost-Staff of Glacies)](../../01-19-1.무기/12.지팡이·완드/글라키에스%20(Glacies).md)
 - [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](../02.경갑/열을%20삼키는%20코어%20(Heartcore%20Ember).md)
 - [동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles)](../06.투구·얼굴/프로스트게이즈%20(Frost-Gaze).md)
-- [깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask)](../../01-19-3.악세서리/10.특수마도구·마력핵/깨지지%20않는%20영하의%20플라스크%20(Unbreakable%20Below-Zero%20Flask).md)
+- [깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask)](../../01-19-3.악세서리/10.특수마도구·마력핵/니힐프로스트%20(Nihilfrost).md)

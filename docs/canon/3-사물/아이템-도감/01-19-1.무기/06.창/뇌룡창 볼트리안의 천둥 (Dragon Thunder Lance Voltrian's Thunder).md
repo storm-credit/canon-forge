@@ -97,4 +97,4 @@
 
 - [알렉시온 볼트리안 (Alexion Voltrius)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/01.알렉시온볼트리안.md)
 - [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](../../01-19-2.방어구/06.투구·얼굴/선봉의 뇌진 (Vanguard's Thunder-Crest).md)
-- [천둥이 서린 부러진 창끝 (Shattered Spear-tip of Thunder)](../../01-19-3.악세서리/09.보석/천둥이 서린 부러진 창끝 (Shattered Spear-tip of Thunder).md)
+- [천둥이 서린 부러진 창끝 (Shattered Spear-tip of Thunder)](../../01-19-3.악세서리/09.보석/볼트샤드 (Voltshard).md)

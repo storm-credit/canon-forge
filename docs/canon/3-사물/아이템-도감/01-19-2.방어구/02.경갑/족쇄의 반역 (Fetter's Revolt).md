@@ -90,4 +90,4 @@
 - [바르가스 카르네지 (Vargas Carnage)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/08.바르가스카르네지.md)
 - [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher)](../../01-19-1.무기/02.양손검/스컬 크러셔 (Skull Crusher).md)
 - [학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain)](../08.장갑·손목/슬로터체인 (Slaughter Chain).md)
-- [붉은 피의 계약 초커 (Choker of Crimson Blood Contract)](../../01-19-3.악세서리/02.목걸이·팬던트/붉은 피의 계약 초커 (Choker of Crimson Blood Contract).md)
+- [붉은 피의 계약 초커 (Choker of Crimson Blood Contract)](../../01-19-3.악세서리/02.목걸이·팬던트/카르네지 혈계약 (Carnage Bloodpact).md)

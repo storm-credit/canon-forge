@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [일루미나스 (Illuminas)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/01.일루미나스.md)
-- [광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire)](../../../01-19-3.악세서리/04.머리장식/광명%20제국의%20절대%20황제관%20(Absolute%20Imperial%20Crown%20of%20the%20Radiant%20Empire).md)
-- [일루미나스의 광휘가 깃든 금잔 (Chalice of Illuminas' Radiance)](../../../01-19-3.악세서리/08.성물/일루미나스의%20광휘가%20깃든%20금잔%20(Chalice%20of%20Illuminas'%20Radiance).md)
+- [광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire)](../../../01-19-3.악세서리/04.머리장식/솔레미넨스%20(Soleminence).md)
+- [일루미나스의 광휘가 깃든 금잔 (Chalice of Illuminas' Radiance)](../../../01-19-3.악세서리/08.성물/솔%20임페리%20(Sol%20Imperii).md)

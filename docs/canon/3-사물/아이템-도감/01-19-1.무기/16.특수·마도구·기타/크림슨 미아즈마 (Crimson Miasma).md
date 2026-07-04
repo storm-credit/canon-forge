@@ -88,4 +88,4 @@
 
 ## 🔗 관련 문서
 - [오르펠리안 크림소어 (Orphelian Crimsoar)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/02.오르펠리안크림소어.md)
-- [미완의 최종 피험체 기록 코어 (Incomplete Final Subject Archive Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/미완의%20최종%20피험체%20기록%20코어%20(Incomplete%20Final%20Subject%20Archive%20Core).md)
+- [미완의 최종 피험체 기록 코어 (Incomplete Final Subject Archive Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/크림소어%20기록핵%20(Crimsoar%20Archive%20Core).md)

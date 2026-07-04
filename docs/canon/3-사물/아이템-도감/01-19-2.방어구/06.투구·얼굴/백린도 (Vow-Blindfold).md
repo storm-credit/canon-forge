@@ -85,4 +85,4 @@
 ## 🔗 관련 문서
 - [타릭 솔라리스 (Tarik Solaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/11.타릭솔라리스.md)
 - [여명의 참극도 호라이즌 (Blade of Dawn's Tragedy: Horizon)](../../01-19-1.무기/01.한손검/호라이즌%20(Horizon).md)
-- [일식의 모래시계 향로 (Hourglass Censer of Solar Eclipse)](../../01-19-3.악세서리/08.성물/일식의%20모래시계%20향로%20(Hourglass%20Censer%20of%20Solar%20Eclipse).md)
+- [일식의 모래시계 향로 (Hourglass Censer of Solar Eclipse)](../../01-19-3.악세서리/08.성물/일식의%20향로%20(Eclipse%20Censer).md)

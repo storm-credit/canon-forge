@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [고르 베헤모스 (Gore Behemoth)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/12.고르베헤모스.md)
-- [분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang)](../02.목걸이·팬던트/분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang).md)
+- [분노한 거인의 이빨 목걸이 (Necklace of the Angry Giant's Fang)](../02.목걸이·팬던트/베헤모스의 엄니 (Behemoth's Fang).md)
 - [불사의 흑강 갑각 편측 견갑 (Black-Steel Undying Carapace Half-Pauldron)](../../01-19-2.방어구/07.견갑/무너지지 않는 산 (Unbroken Mountain).md)

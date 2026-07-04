@@ -89,5 +89,5 @@
 
 - [베르드론 겔루울루스 (Berdron Geluululatus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/10.베르드론겔루울루스.md)
 - [단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate)](../01.중갑/영결%20(Eterna).md)
-- [열팽창 밸브 초커 (Thermal-Expansion Valve Choker)](../../01-19-3.악세서리/02.목걸이·팬던트/열팽창%20밸브%20초커%20(Thermal-Expansion%20Valve%20Choker).md)
+- [열팽창 밸브 초커 (Thermal-Expansion Valve Choker)](../../01-19-3.악세서리/02.목걸이·팬던트/겔루베르수스%20(Geluversus).md)
 - [겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell)](../../01-19-1.무기/16.특수·마도구·기타/염옥과%20빙옥%20(Inferno%20and%20Glacial-Hell).md)

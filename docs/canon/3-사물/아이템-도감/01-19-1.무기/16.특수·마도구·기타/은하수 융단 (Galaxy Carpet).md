@@ -89,5 +89,5 @@
 ## 🔗 관련 문서
 - [실비아 스텔라 (Sylvia Stella)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/02.실비아스텔라.md)
 - [천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony)](../07.둔기/천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony).md)
-- [은하수 문신 (Tattoo of the Milky Way)](../../01-19-3.악세서리/07.부적/은하수 문신 (Tattoo of the Milky Way).md)
+- [은하수 문신 (Tattoo of the Milky Way)](../../01-19-3.악세서리/07.부적/성도의 봉인 (Stellar-Map Seal).md)
 - [위상 별자리 투영 성도 (Phase Constellation Map Projection)](스타더스트 성도 (Stardust Star-Chart).md)

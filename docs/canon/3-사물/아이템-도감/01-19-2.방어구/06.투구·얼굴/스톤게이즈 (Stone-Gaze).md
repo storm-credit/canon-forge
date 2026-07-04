@@ -84,6 +84,6 @@
 
 ## 🔗 관련 문서
 - [비로누스 듀네사르 (Vironus Dunesar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/14.비로누스듀네사르.md)
-- [종교백과 - 대지를 붙잡은 산성(Living Castle)의 닻 (Anchor of the Living Castle)](../../01-19-3.악세서리/08.성물/종교백과%20-%20대지를%20붙잡은%20산성(Living%20Castle)의%20닻%20(Anchor%20of%20the%20Living%20Castle).md)
-- [모래시계 지형 기어 팔찌 한 쌍 (Hourglass-Geomancer Gear Bracelet Pair)](../../01-19-3.악세서리/10.특수마도구·마력핵/모래시계%20지형%20기어%20팔찌%20한%20쌍%20(Hourglass-Geomancer%20Gear%20Bracelet%20Pair).md)
+- [종교백과 - 대지를 붙잡은 산성(Living Castle)의 닻 (Anchor of the Living Castle)](../../01-19-3.악세서리/08.성물/테라비바%20(Terra%20Viva).md)
+- [모래시계 지형 기어 팔찌 한 쌍 (Hourglass-Geomancer Gear Bracelet Pair)](../../01-19-3.악세서리/10.특수마도구·마력핵/사구지휘기어%20(Duneconductor%20Gears).md)
 - [석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons)](../03.로브·마법복/두네사르%20(Dunesar).md)

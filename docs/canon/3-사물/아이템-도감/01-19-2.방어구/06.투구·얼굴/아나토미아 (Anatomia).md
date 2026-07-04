@@ -91,5 +91,5 @@
 
 ## 🔗 관련 문서
 - [세바리온 네크로반 (Sevarion Necrovan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/10.세바리온네크로반.md)
-- [심연 종양 배양 핵 (Abyssal Tumor Culture Core)](../../01-19-3.악세서리/10.특수마도구·마력핵/심연 종양 배양 핵 (Abyssal Tumor Culture Core).md)
+- [심연 종양 배양 핵 (Abyssal Tumor Culture Core)](../../01-19-3.악세서리/10.특수마도구·마력핵/언데드하트 (Deathless Heart).md)
 - [혈생체 해부 메스 (Hemobiomatic Dissection Scalpel)](../../01-19-1.무기/04.단검/핵절개 메스 (Core Incision Scalpel).md)

@@ -105,5 +105,5 @@
 
 - [아이리넬 크로니아 (Irinel Chronia)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/16.아이리넬크로니아.md)
 - [운명의 태엽침 — 크로니아의 부러진 시침 (Shattered Hour-Hand of Chronia, Needle of Fate)](크로니아의 부러진 시침 (Shattered Hour-Hand of Chronia).md)
-- [미완방정식의 크로니아 단안경 (Chronia Monocle of the Unfinished Equation)](../../../01-19-3.악세서리/10.특수마도구·마력핵/미완방정식의 크로니아 단안경 (Chronia Monocle of the Unfinished Equation).md)
+- [미완방정식의 크로니아 단안경 (Chronia Monocle of the Unfinished Equation)](../../../01-19-3.악세서리/10.특수마도구·마력핵/크로니아 단안경 (Chronia Monocle).md)
 - 시간의 탑 폐허 (Chrono Spire Ruins)

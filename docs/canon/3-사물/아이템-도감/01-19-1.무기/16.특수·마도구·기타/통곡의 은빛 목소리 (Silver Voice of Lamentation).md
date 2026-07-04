@@ -108,6 +108,6 @@
 
 ## 🔗 관련 문서
 - [아즈라엘 아리아 (Azrael Aria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/14.아즈라엘아리아.md)
-- [원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament)](../../01-19-3.악세서리/08.성물/원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament).md)
+- [원혼 봉인의 은빛 자물쇠 (Silver Padlock of Bound Lament)](../../01-19-3.악세서리/08.성물/라멘트 락 (Lament Lock).md)
 - [망각의 진동 베일 (Vibration Veil of Oblivion)](../../01-19-2.방어구/04.망토·외투/레테 베일 (Lethe Veil).md)
 - [진혼의 오르골 (Music Box of Requiem)](../../01-19-4.유물/04.영웅고유성유물/레퀴에스카트 (Requiescat).md)

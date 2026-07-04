@@ -93,5 +93,5 @@
 ## 🔗 관련 문서
 
 - [드라코스 라자루스 (Drakos Lazarus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/11.드라코스라자루스.md)
-- [심연의 영기 향로벨 (Bell of Abyssal Aura Censer)](../../01-19-3.악세서리/08.성물/심연의%20영기%20향로벨%20(Bell%20of%20Abyssal%20Aura%20Censer).md)
+- [심연의 영기 향로벨 (Bell of Abyssal Aura Censer)](../../01-19-3.악세서리/08.성물/사일런트%20톨%20(Silent%20Toll).md)
 - [순교자의 검은 거미줄 수단 (Cassock of Martyr's Black Spider-Web)](../../01-19-2.방어구/03.로브·마법복/심연의%20거미줄%20(Abyssal%20Web).md)

@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [엘리사 듄워커 (Elisa Dunewalker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/06.엘리사듄워커.md)
 - [모래에 젖지 않는 실리카 나노섬유 로브 (Silica Nano-fiber Robe Impervious to Sand)](../03.로브·마법복/트레이스리스%20(Traceless%20Trail).md) — 나노섬유 로브와 겹침 착용 시 모래 투과 차단 효과가 중첩 발동된다.
-- [바닥 없는 침전의 나침반 (Compass of the Bottomless Sediment)](../../01-19-3.악세서리/08.성물/바닥%20없는%20침전의%20나침반%20(Compass%20of%20the%20Bottomless%20Sediment).md) — 나침반 발동 후 근육 액화 증후군 위험이 증가하는 상황에서 망토 냉기 지연 효과가 발동한다.
+- [바닥 없는 침전의 나침반 (Compass of the Bottomless Sediment)](../../01-19-3.악세서리/08.성물/사불라%20(Sabula).md) — 나침반 발동 후 근육 액화 증후군 위험이 증가하는 상황에서 망토 냉기 지연 효과가 발동한다.

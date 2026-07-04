@@ -86,4 +86,4 @@
 - [풍향계의 깃털 코트 (Feather Coat of the Vane)](../03.로브·마법복/베인펠트%20(Vanefelt).md)
 - [시아노벤투스의 창공궁 - 북풍 (Azure Bow of Northwind)](../../01-19-1.무기/10.활·석궁/북풍의%20창공%20(Azure%20Northwind).md)
 - [창백한 대기압 앵무조개 (Pale Barometric Nautilus)](../../01-19-4.유물/04.영웅고유성유물/폭풍의%20눈%20(Storm's%20Eye).md)
-- [아이스세인트 사수단 단장 징표 (Icesaint Archers Captain's Mark)](../../01-19-3.악세서리/07.부적/아이스세인트%20사수단%20단장%20징표%20(Icesaint%20Archers%20Captain's%20Mark).md)
+- [아이스세인트 사수단 단장 징표 (Icesaint Archers Captain's Mark)](../../01-19-3.악세서리/07.부적/하늘의%20눈%20(Sky's%20Eye).md)

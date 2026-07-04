@@ -118,4 +118,4 @@
 
 ## 🔗 관련 문서
 - [로엔그린 그레이슨 (Lohengrin Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/02.로엔그린그레이슨.md)
-- [잿빛 폐의 피로 쓰인 맹세 봉인패 — 로엔그린의 검은 잿빛 폐 (Ash-Lung Blood-Written Oath Seal-Plate — Lohengrin's Lungs of Black Ash)](../../01-19-3.악세서리/07.부적/잿빛%20폐의%20피로%20쓰인%20맹세%20봉인패%20—%20로엔그린의%20검은%20잿빛%20폐%20(Ash-Lung%20Blood-Written%20Oath%20Seal-Plate%20—%20Lohengrin's%20Lungs%20of%20Black%20Ash).md)
+- [잿빛 폐의 피로 쓰인 맹세 봉인패 — 로엔그린의 검은 잿빛 폐 (Ash-Lung Blood-Written Oath Seal-Plate — Lohengrin's Lungs of Black Ash)](../../01-19-3.악세서리/07.부적/바래지%20않는%20맹세%20(Unfading%20Oath).md)

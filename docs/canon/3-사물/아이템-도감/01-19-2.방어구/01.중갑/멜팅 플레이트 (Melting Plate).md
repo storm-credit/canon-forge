@@ -62,7 +62,7 @@
 
 ### 관련 캐릭터
 - **타이러스 루이나** — 제작자이자 유일한 착용자. 흉갑은 코어와의 열 결합이 진행된 상태로 기술적으로는 신체 일부에 근접한다. 플럭스 폭주(Meltdown) 상태에서 흉갑 일부가 생살과 유착되는 현상이 기록되어 있으며, 타이러스는 이를 "처음 이걸 붙였을 때랑 똑같다"고 표현한 바 있다.
-- 관련 장비: [적열 마석 코어 (Incandescent Manastone Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/적열 마석 코어 (Incandescent Manastone Core).md)
+- 관련 장비: [적열 마석 코어 (Incandescent Manastone Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/루이나 노심 (Ruina Core).md)
 
 ---
 
@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [타이러스 루이나 (Tyrus Ruina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/10.타이러스루이나.md)
-- [적열 마석 코어 (Incandescent Manastone Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/적열 마석 코어 (Incandescent Manastone Core).md)
+- [적열 마석 코어 (Incandescent Manastone Core)](../../../01-19-3.악세서리/10.특수마도구·마력핵/루이나 노심 (Ruina Core).md)
 - [해방자의 적열 해머 (Redheat Hammer of the Liberator)](../../01-19-1.무기/07.둔기/해방자의 적열 해머 (Redheat Hammer of the Liberator).md)

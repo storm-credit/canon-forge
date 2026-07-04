@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 
 - [기네비어 코어스 (Guinevere Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/01.기네비어코어스.md)
-- [거수 소환의 피갈기 정령 팔찌 (Beast-Spirit Blood-Offering Binding Bracelet)](../../01-19-3.악세서리/10.특수마도구·마력핵/거수%20소환의%20피갈기%20정령%20팔찌%20(Beast-Spirit%20Blood-Offering%20Binding%20Bracelet).md)
-- [혈서 충성 폐봉인 부적 '검은 잿빛의 사슬' (Blood-Oath Loyalty Lung-Seal Talisman 'Chain of Black Ash')](../../01-19-3.악세서리/07.부적/혈서%20충성%20폐봉인%20부적%20'검은%20잿빛의%20사슬'%20(Blood-Oath%20Loyalty%20Lung-Seal%20Talisman%20'Chain%20of%20Black%20Ash').md)
+- [거수 소환의 피갈기 정령 팔찌 (Beast-Spirit Blood-Offering Binding Bracelet)](../../01-19-3.악세서리/10.특수마도구·마력핵/트라이클로%20(Triclaw).md)
+- [혈서 충성 폐봉인 부적 '검은 잿빛의 사슬' (Blood-Oath Loyalty Lung-Seal Talisman 'Chain of Black Ash')](../../01-19-3.악세서리/07.부적/검은%20잿빛의%20사슬%20(Chain%20of%20Black%20Ash).md)

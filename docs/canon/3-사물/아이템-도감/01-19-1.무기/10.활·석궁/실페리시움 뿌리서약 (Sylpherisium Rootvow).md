@@ -90,4 +90,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 어스바운드 (Guinevere Earthbound)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/4.황야의추적자들/기네비어어스바운드.md)
-- [가문의 낡은 은훈장 — 침묵한 긍지 (Old Silver House-Medal — Silenced Pride)](../../01-19-3.악세서리/06.훈장/가문의%20낡은%20은훈장%20—%20침묵한%20긍지%20(Old%20Silver%20House-Medal%20—%20Silenced%20Pride).md)
+- [가문의 낡은 은훈장 — 침묵한 긍지 (Old Silver House-Medal — Silenced Pride)](../../01-19-3.악세서리/06.훈장/침묵한%20긍지%20(Silenced%20Pride).md)

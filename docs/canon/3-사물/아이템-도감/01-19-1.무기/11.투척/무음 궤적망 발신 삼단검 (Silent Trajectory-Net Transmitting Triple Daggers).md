@@ -91,4 +91,4 @@
 
 - [코린 섀도헌트 (Corin Shadowhunt)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/11.코린섀도헌트.md)
 - [움브라의 빛을 삼키는 흡광(Absorption) 쌍단검 (Light-Devouring Dual Daggers of Umbra)](../04.단검/움브라%20(Umbra).md)
-- [뒤돌아보는 짐승의 안구 (Eyeball of the Beast Looking Backward)](../../01-19-3.악세서리/10.특수마도구·마력핵/뒤돌아보는%20짐승의%20안구%20(Eyeball%20of%20the%20Beast%20Looking%20Backward).md)
+- [뒤돌아보는 짐승의 안구 (Eyeball of the Beast Looking Backward)](../../01-19-3.악세서리/10.특수마도구·마력핵/베스티스%20옵스큐라%20(Bestis%20Obscura).md)

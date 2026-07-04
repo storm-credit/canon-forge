@@ -98,5 +98,5 @@
 
 - [크세노스 아르카디아 (Xenos Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/02.크세노스아르카디아.md)
 - [크로노스의 황금 눈 시계추 (Golden Pendulum with the Eye of Chronos)](../07.둔기/크로노스의%20황금%20눈%20시계추%20%28Golden%20Pendulum%20with%20the%20Eye%20of%20Chronos%29.md)
-- [조로 봉인의 에테르 채무 완대 (Ether-Debt Brace of Senescence-Seal)](../../01-19-3.악세서리/10.특수마도구·마력핵/조로%20봉인의%20에테르%20채무%20완대%20(Ether-Debt%20Brace%20of%20Senescence-Seal).md)
-- [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](../../01-19-3.악세서리/01.반지/아츠%20교차의%20시간%20각인%20반지%20(Chrono-Engraved%20Ring%20of%20the%20Art-Cross).md)
+- [조로 봉인의 에테르 채무 완대 (Ether-Debt Brace of Senescence-Seal)](../../01-19-3.악세서리/10.특수마도구·마력핵/라이프라인%20(Lifeline).md)
+- [아츠 교차의 시간 각인 반지 (Chrono-Engraved Ring of the Art-Cross)](../../01-19-3.악세서리/01.반지/크로노웨지%20(Chronowedge).md)

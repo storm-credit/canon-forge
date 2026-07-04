@@ -88,4 +88,4 @@
 - [갈라드리온 베일 (Galadrion Veil)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/09.갈라드리온베일.md)
 - [벨룸의 빛을 집어삼키는 심연핵(Abyssal Core) 지팡이 (Staff of the Light-Devouring Abyssal Core of Velum)](../12.지팡이·완드/심연핵%20(Abyssal%20Core).md)
 - [암전 벨벳 피부 은폐 두꺼운 장갑 (Blackout Velvet Skin-Concealing Thick Gloves)](../../01-19-2.방어구/08.장갑·손목/누아르베일%20(Noirveil).md)
-- [종교백과 - 눈꺼풀을 꿰매버린 이단의 성배 (Chalice of the Heretic with Sewn Eyelids)](../../01-19-3.악세서리/08.성물/종교백과%20-%20눈꺼풀을%20꿰매버린%20이단의%20성배%20(Chalice%20of%20the%20Heretic%20with%20Sewn%20Eyelids).md)
+- [종교백과 - 눈꺼풀을 꿰매버린 이단의 성배 (Chalice of the Heretic with Sewn Eyelids)](../../01-19-3.악세서리/08.성물/녹스%20칼릭스%20(Nox%20Calix).md)

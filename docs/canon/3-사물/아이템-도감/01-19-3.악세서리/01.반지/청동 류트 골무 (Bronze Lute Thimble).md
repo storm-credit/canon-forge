@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [실버리안 레퀴엠 (Silverian Requiem)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/13.실버리안레퀴엠.md)
 - [레퀴엠의 은빛 활과 자신의 갈비뼈 류트 (Silver Bow of Requiem & Ribcage Lute of Own)](../../01-19-1.무기/10.활·석궁/실버%20레퀴엠%20(Silver%20Requiem).md)
-- [목소리 없는 가수의 부서진 악보석 (Broken Music-Stone of the Voiceless Singer)](../09.보석/목소리%20없는%20가수의%20부서진%20악보석%20(Broken%20Music-Stone%20of%20the%20Voiceless%20Singer).md)
+- [목소리 없는 가수의 부서진 악보석 (Broken Music-Stone of the Voiceless Singer)](../09.보석/무성의%20아리아%20(Voiceless%20Aria).md)

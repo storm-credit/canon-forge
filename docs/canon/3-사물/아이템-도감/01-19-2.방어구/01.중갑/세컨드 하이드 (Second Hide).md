@@ -107,5 +107,5 @@
 
 - [실비아 코어스 (Silvia Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/05.실비아코어스.md)
 - [칠흑의 분쇄검 — 실비아 코어스의 심연 광석 분쇄검 (Cores Abyssal Ore Crushing Greatsword)](../../01-19-1.무기/02.양손검/블러드코어%20(Bloodcore).md)
-- [검은 잿빛의 맹세 인장반 — 코어스의 저주 결속반지 (Black-Ash Oath Signet Ring — Cores's Curse-Binding Ring)](../../01-19-3.악세서리/01.반지/검은%20잿빛의%20맹세%20인장반%20—%20코어스의%20저주%20결속반지%20(Black-Ash%20Oath%20Signet%20Ring%20—%20Cores's%20Curse-Binding%20Ring).md)
+- [검은 잿빛의 맹세 인장반 — 코어스의 저주 결속반지 (Black-Ash Oath Signet Ring — Cores's Curse-Binding Ring)](../../01-19-3.악세서리/01.반지/잿빛%20서약%20(Ashen%20Oath).md)
 - 키르케의 영약 결사단 (Circe's Elixir Order)

@@ -104,4 +104,4 @@
 ## 🔗 관련 문서
 
 - [카르멘 나이트폴 (Carmen Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/09.카르멘나이트폴.md)
-- [잉걸단지 — 카르멘 나이트폴의 두 번째 심장 (Ember Vessel — Carmen Nightfall's Second Heart)](../../01-19-3.악세서리/10.특수마도구·마력핵/잉걸단지%20—%20카르멘%20나이트폴의%20두%20번째%20심장%20(Ember%20Vessel%20—%20Carmen%20Nightfall's%20Second%20Heart).md)
+- [잉걸단지 — 카르멘 나이트폴의 두 번째 심장 (Ember Vessel — Carmen Nightfall's Second Heart)](../../01-19-3.악세서리/10.특수마도구·마력핵/잉걸단지%20(Ember%20Vessel).md)

@@ -86,5 +86,5 @@
 ## 🔗 관련 문서
 
 - [발그린 파이어포지 (Valgrin Fireforge)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/05.발그린파이어포지.md)
-- [위성 동기 기계 파리 정찰안 군단 (Satellite-Sync Mechanical Fly Scout-Swarm)](../../01-19-3.악세서리/10.특수마도구·마력핵/위성%20동기%20기계%20파리%20정찰안%20군단%20(Satellite-Sync%20Mechanical%20Fly%20Scout-Swarm).md)
+- [위성 동기 기계 파리 정찰안 군단 (Satellite-Sync Mechanical Fly Scout-Swarm)](../../01-19-3.악세서리/10.특수마도구·마력핵/아르고스%20(Argus).md)
 - [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](../01.중갑/골리앗%20(Goliath).md)

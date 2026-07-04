@@ -98,4 +98,4 @@
 
 - [아스모디안 레이븐하트 (Asmodian Ravenhart)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/04.아스모디안레이븐하트.md)
 - [아스모디안 레이븐하트의 미완성 직검 (Unfinished Blade of 아스모디안 레이븐하트)](언휘튼%20%28Unwhetted%29.md)
-- [저주받은 혈염의 인장 (Cursed Signet of Bloodflame)](../../01-19-3.악세서리/01.반지/저주받은%20혈염의%20인장%20%28Cursed%20Signet%20of%20Bloodflame%29.md)
+- [저주받은 혈염의 인장 (Cursed Signet of Bloodflame)](../../01-19-3.악세서리/01.반지/레이븐브랜드%20%28Ravenbrand%29.md)

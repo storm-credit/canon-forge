@@ -111,4 +111,4 @@
 - [세리아 에스더 (Seria Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/07.세리아에스더.md)
 - [칠흑의 그림자검 — 세리아 에스더의 야수혈 섀도 블레이드 (Ebony Shadow Blade — Seria Esther's Beastblood Shadow Sword)](../01.한손검/거수의 궤적 (Beast-Path Stroke).md)
 - [야수혈 섀도 그레이브 — 세리아 에스더의 개척지 야전 경갑 (Beastblood Shadow Grave — Seria Esther's Frontier Field Leather Armor)](../../01-19-2.방어구/02.경갑/섀도 그레이브 (Shadow Grave).md)
-- [흑잿빛 맹세의 서약패 — 섀도 댄서의 족쇄 (Ashen-Oath Covenant Plate — Shadow Dancer's Shackle)](../../01-19-3.악세서리/07.부적/흑잿빛 맹세의 서약패 — 섀도 댄서의 족쇄 (Ashen-Oath Covenant Plate — Shadow Dancer's Shackle).md)
+- [흑잿빛 맹세의 서약패 — 섀도 댄서의 족쇄 (Ashen-Oath Covenant Plate — Shadow Dancer's Shackle)](../../01-19-3.악세서리/07.부적/섀도 댄서의 족쇄 (Shadow Dancer Shackle).md)

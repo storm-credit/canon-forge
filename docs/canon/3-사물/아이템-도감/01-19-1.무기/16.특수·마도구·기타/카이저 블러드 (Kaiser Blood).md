@@ -99,6 +99,6 @@
 ## 🔗 관련 문서
 
 - [레온하트 에르드반 (Leonhart Erdvan)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/02.레온하트에르드반.md)
-- [카이저의 왕관 파편 (Fragment of the Kaiser's Crown)](../../../01-19-3.악세서리/04.머리장식/카이저의 왕관 파편 (Fragment of the Kaiser's Crown).md)
-- [카이저의 최후 칙서 파편 (Fragment of the Kaiser's Last Edict)](../../../01-19-3.악세서리/10.특수마도구·마력핵/카이저의 최후 칙서 파편 (Fragment of the Kaiser's Last Edict).md)
+- [카이저의 왕관 파편 (Fragment of the Kaiser's Crown)](../../../01-19-3.악세서리/04.머리장식/카이저크론 (Kaiserkron).md)
+- [카이저의 최후 칙서 파편 (Fragment of the Kaiser's Last Edict)](../../../01-19-3.악세서리/10.특수마도구·마력핵/최후 칙서 (Last Edict).md)
 - 마도제국 폐허 (Ruins of Arcania)

@@ -82,6 +82,6 @@
 
 ## 🔗 관련 문서
 - [세리아 카디널 (Seria Cardinal)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/6.밤의계약단/03.세리아카디널.md)
-- [호박봉인 목걸이 — 세리아 카디널의 유예목걸이 (Amber-Seal Pendant — Seria Cardinal's Grace-Period Pendant)](../../01-19-3.악세서리/02.목걸이·팬던트/호박봉인%20목걸이%20—%20세리아%20카디널의%20유예목걸이%20(Amber-Seal%20Pendant%20—%20Seria%20Cardinal's%20Grace-Period%20Pendant)%20[밤의계약단].md)
+- [호박봉인 목걸이 — 세리아 카디널의 유예목걸이 (Amber-Seal Pendant — Seria Cardinal's Grace-Period Pendant)](../../01-19-3.악세서리/02.목걸이·팬던트/그라티아%20(Gratia).md)
 - [고대 명검 이시스-아스트라 — 세리아 카디널의 침묵서약검 (어둠의 손 개체)](../../01-19-1.무기/01.한손검/침묵검%20이시스-아스트라%20(Silence%20Blade%20Isis-Astra).md)
 - 밤의 계약단 (Coven of the Night)

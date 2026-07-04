@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 - [카리온 바트록 (Karion Batrok)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/07.카리온바트록.md)
 - [말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer)](심연의 껍질 (Abyssal Husk).md)
-- [혈령 거머리 팔찌 (Blood-Spirit Leech Bracer)](../../01-19-3.악세서리/07.부적/혈령 거머리 팔찌 (Blood-Spirit Leech Bracer).md)
-- [핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast)](../../01-19-3.악세서리/08.성물/핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast).md)
+- [혈령 거머리 팔찌 (Blood-Spirit Leech Bracer)](../../01-19-3.악세서리/07.부적/블러드피더 (Bloodfeeder).md)
+- [핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast)](../../01-19-3.악세서리/08.성물/피조차 마르는 제단 (The Parched Altar).md)

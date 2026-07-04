@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [알라리안 아르젠툼 (Alarian Argentum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/03.알라리안아르젠툼.md)
-- [전장 나팔 텔레파시 (Horn of Battlefield Telepathy)](../../01-19-3.악세서리/02.목걸이·팬던트/전장%20나팔%20텔레파시%20(Horn%20of%20Battlefield%20Telepathy).md)
+- [전장 나팔 텔레파시 (Horn of Battlefield Telepathy)](../../01-19-3.악세서리/02.목걸이·팬던트/클라리온%20(Clarion).md)
 - [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](../01.중갑/미러라이트%20(Mirrolight).md)

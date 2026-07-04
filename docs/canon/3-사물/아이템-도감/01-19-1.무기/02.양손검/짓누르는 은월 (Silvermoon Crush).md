@@ -111,5 +111,5 @@
 
 - [에일린 실버문 (Eileen Silvermoon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/09.에일린실버문.md)
 - [피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor)](../../01-19-2.방어구/01.중갑/상흔의 은월갑 (Silvermoon Scarplate).md)
-- [혈서 봉인 '검은 잿빛의 맹세' — 에일린 실버문의 저주 봉인 부적 (Blood-Writ Seal 'Oath of Black Ash' — Eileen Silvermoon's Curse-Seal Talisman)](../../01-19-3.악세서리/07.부적/혈서 봉인 '검은 잿빛의 맹세' — 에일린 실버문의 저주 봉인 부적 (Blood-Writ Seal 'Oath of Black Ash' — Eileen Silvermoon's Curse-Seal Talisman).md)
+- [혈서 봉인 '검은 잿빛의 맹세' — 에일린 실버문의 저주 봉인 부적 (Blood-Writ Seal 'Oath of Black Ash' — Eileen Silvermoon's Curse-Seal Talisman)](../../01-19-3.악세서리/07.부적/검은 잿빛의 맹세 (Oath of Black Ash).md)
 - 아르헨타 백은의 추적단 (Argenta Silver Trackers)

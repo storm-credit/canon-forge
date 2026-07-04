@@ -112,5 +112,5 @@
 - [세리아 실버문 (Seria Silvermoon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/06.세리아실버문.md)
 - [개척지 유산의 흑철 저격궁 — 세리아 실버문의 실루엣 브레이커 (Ashwood Reaper — Seria Silvermoon's Silhouette Breaker)](../10.활·석궁/실루엣 브레이커 (Silhouette Breaker).md)
 - [야수혈 암살자의 그림자 외투 — 세리아 실버문의 개척지 야전 경갑 (Beastblood Assassin's Shadow Coat — Seria Silvermoon's Frontier Field Armor)](../../01-19-2.방어구/02.경갑/그림자 봉합 (Shadowseam).md)
-- [검은 잿빛 맹세의 봉인패 — 세리아 실버문의 저주 서약패 (Ashen-Oath Seal — Seria Silvermoon's Curse-Covenant Talisman)](../../01-19-3.악세서리/07.부적/검은 잿빛 맹세의 봉인패 — 세리아 실버문의 저주 서약패 (Ashen-Oath Seal — Seria Silvermoon's Curse-Covenant Talisman).md)
+- [검은 잿빛 맹세의 봉인패 — 세리아 실버문의 저주 서약패 (Ashen-Oath Seal — Seria Silvermoon's Curse-Covenant Talisman)](../../01-19-3.악세서리/07.부적/검은 잿빛의 닻 (Ashen-Black Anchor).md)
 - 가이아나 태고의 야수 결속단 (Gaiana Primal Beastbound)

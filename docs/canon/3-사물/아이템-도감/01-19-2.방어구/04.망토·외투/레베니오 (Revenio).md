@@ -92,4 +92,4 @@
 
 - [루시안 에스더 (Lucian Esther)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/8.템플러성기사금고/루시안에스더.md)
 - [이름 없는 자들의 검 — 루시안 에스더의 무명장검 (Nameless Blade — Lucian Esther's Unmarked Longsword)](../../01-19-1.무기/02.양손검/이름 없는 자들의 검 (Nameless Blade).md)
-- [수호자의 서약패 — 루시안 에스더의 무명 성물 (Ward of the Nameless Oath — Lucian Esther's Unmarked Relic)](../../01-19-3.악세서리/08.성물/수호자의 서약패 — 루시안 에스더의 무명 성물 (Ward of the Nameless Oath — Lucian Esther's Unmarked Relic).md)
+- [수호자의 서약패 — 루시안 에스더의 무명 성물 (Ward of the Nameless Oath — Lucian Esther's Unmarked Relic)](../../01-19-3.악세서리/08.성물/수호자의 서약패 (Ward of the Nameless Oath).md)

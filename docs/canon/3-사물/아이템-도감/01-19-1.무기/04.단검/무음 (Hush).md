@@ -116,5 +116,5 @@
 ## 🔗 관련 문서
 
 - [크리스티앙 베일 (Christian Bale)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/10.크리스티앙베일.md)
-- [잿빛 침묵의 봉인 베일 — 크리스티앙의 얼굴을 가리는 천 (Ashen-Silence Ward Veil — Christian's Face-Concealing Wrap)](../../01-19-3.악세서리/07.부적/잿빛%20침묵의%20봉인%20베일%20—%20크리스티앙의%20얼굴을%20가리는%20천%20(Ashen-Silence%20Ward%20Veil%20—%20Christian's%20Face-Concealing%20Wrap).md)
+- [잿빛 침묵의 봉인 베일 — 크리스티앙의 얼굴을 가리는 천 (Ashen-Silence Ward Veil — Christian's Face-Concealing Wrap)](../../01-19-3.악세서리/07.부적/애쉬베일%20(Ashveil).md)
 - 이그니스 화염 모루 결사 (Ignis Flame-Anvil Order)

@@ -70,7 +70,7 @@
 ### 관련 캐릭터
 
 - **이안탈루스 에버론** — 현 소유자. 이 도구를 무기라 부르지 않는다 — "접합기"라고만 한다. 적에게 쓸 때조차 접합기라고 한다. 이것이 그의 실용주의의 가장 징그러운 표현이다.
-- **[피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion)](../../../01-19-3.악세서리/08.성물/피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion).md)** — 이안탈루스 에버론의 다른 전용 장비. 단지가 죽어가는 자의 심장을 연명시킨다면, 이 투척기는 그 심장에 사지를 붙여 다시 걷게 만든다. 작업 순서는 단지가 먼저다.
+- **[피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion)](../../../01-19-3.악세서리/08.성물/흑수액 심장 (Black Sap Heart).md)** — 이안탈루스 에버론의 다른 전용 장비. 단지가 죽어가는 자의 심장을 연명시킨다면, 이 투척기는 그 심장에 사지를 붙여 다시 걷게 만든다. 작업 순서는 단지가 먼저다.
 
 ---
 
@@ -93,5 +93,5 @@
 ## 🔗 관련 문서
 
 - [이안탈루스 에버론 (Iantalus Eberon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/08.이안탈루스에버론.md)
-- [피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion)](../../../01-19-3.악세서리/08.성물/피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion).md)
+- [피를 송진으로 치환하는 카노푸스 단지 (Canopic Jar of Blood-to-Resin Conversion)](../../../01-19-3.악세서리/08.성물/흑수액 심장 (Black Sap Heart).md)
 - [아이테르눔의 무덤 기록이 새겨진 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum)](아이테르눔의 무덤%28Tomb%29 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum).md)

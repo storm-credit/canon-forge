@@ -99,4 +99,4 @@
 
 - [엘리아스 루미나르 (Elias Luminar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/02.엘리아스루미나르.md)
 - [엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](./엘리아스%20루미나르의%20저주받은%20고대어%20마도서%20(Ancient%20Cursed%20Grimoire).md)
-- [망각 봉인의 활자핵 구체 (Glyph-Core Orb of Oblivion Seal)](../../01-19-3.악세서리/09.보석/망각%20봉인의%20활자핵%20구체%20(Glyph-Core%20Orb%20of%20Oblivion%20Seal).md)
+- [망각 봉인의 활자핵 구체 (Glyph-Core Orb of Oblivion Seal)](../../01-19-3.악세서리/09.보석/아카식%20오브%20(Akashic%20Orb).md)

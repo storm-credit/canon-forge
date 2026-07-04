@@ -118,4 +118,4 @@
 
 - [카르멘 나이트폴 (Carmen Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/09.카르멘나이트폴.md)
 - [생명을 태운 야전 저격궁 — 카르멘 나이트폴의 맹수 사냥 장궁 (Life-Fire Field Sniper Bow — Carmen Nightfall's Beast Hunter Longbow)](../10.활·석궁/비올라스트%20(Violast).md)
-- [혈서 봉인 부적 '검은 잿빛의 족쇄' — 카르멘 나이트폴의 저주 억제 봉인패 (Blood-Writ Seal Talisman 'Shackle of Black Ash' — Carmen Nightfall's Curse Suppression Seal)](../../01-19-3.악세서리/07.부적/혈서%20봉인%20부적%20'검은%20잿빛의%20족쇄'%20—%20카르멘%20나이트폴의%20저주%20억제%20봉인패%20(Blood-Writ%20Seal%20Talisman%20'Shackle%20of%20Black%20Ash'%20—%20Carmen%20Nightfall's%20Curse%20Suppression%20Seal).md)
+- [혈서 봉인 부적 '검은 잿빛의 족쇄' — 카르멘 나이트폴의 저주 억제 봉인패 (Blood-Writ Seal Talisman 'Shackle of Black Ash' — Carmen Nightfall's Curse Suppression Seal)](../../01-19-3.악세서리/07.부적/검은%20잿빛의%20족쇄%20(Shackle%20of%20Black%20Ash).md)

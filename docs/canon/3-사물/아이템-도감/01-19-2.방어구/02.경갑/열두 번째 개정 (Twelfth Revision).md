@@ -85,4 +85,4 @@
 - [발렌티아의 빛이 압축된 궤도 폭발 투창 (Calculated Orbital Explosive Javelin of Valentia)](../../01-19-1.무기/06.창/발렌티아의%20빛이%20압축된%20궤도%20폭발%20투창%20(Calculated%20Orbital%20Explosive%20Javelin%20of%20Valentia).md)
 - [무중력(Zero-G)의 천공석 비행 부츠 (Hovering Boots of Zenith-Stone)](../09.장화·각반/마지막%20천공석%20(Last%20Zenith-Stone).md)
 - [이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles)](../06.투구·얼굴/이카리온%20(Icarion).md)
-- [발렌티아의 허공 보관함 (Valentia's Void Arsenal)](../../../01-19-3.악세서리/10.특수마도구·마력핵/발렌티아의%20허공%20보관함%20(Valentia's%20Void%20Arsenal).md)
+- [발렌티아의 허공 보관함 (Valentia's Void Arsenal)](../../../01-19-3.악세서리/10.특수마도구·마력핵/발렌티아%20허공고%20(Valentia's%20Void%20Arsenal).md)

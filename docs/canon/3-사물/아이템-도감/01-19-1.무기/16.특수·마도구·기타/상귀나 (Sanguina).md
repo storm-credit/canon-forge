@@ -89,4 +89,4 @@
 ## 🔗 관련 문서
 - [에스마레다 나이트셰이드 (Esmareda Nightshade)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/12.에스마레다나이트셰이드.md)
 - [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](../11.투척/천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams Agony).md)
-- [독입자 공간 부식 산란 향로 (Poison-Particle Spatial Corrosion Dispersal Censer)](../../../01-19-3.악세서리/10.특수마도구·마력핵/독입자 공간 부식 산란 향로 (Poison-Particle Spatial Corrosion Dispersal Censer).md)
+- [독입자 공간 부식 산란 향로 (Poison-Particle Spatial Corrosion Dispersal Censer)](../../../01-19-3.악세서리/10.특수마도구·마력핵/베놈 스모크 (Venom Smoke).md)

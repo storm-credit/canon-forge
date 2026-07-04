@@ -66,7 +66,7 @@
 
 ### 관련 캐릭터
 - **벨트라누스 템페스투스** — 팔뚝에 이식된 뇌전 도관과 이 장갑은 사실상 하나의 회로다. 장갑 없이는 도관의 마나를 외부로 제어 방출할 수 없으며, 장갑 없이 마력을 무리하게 방출하면 팔뚝 혈관이 과전압으로 터진다.
-- **[천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord)](../../01-19-3.악세서리/08.성물/천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord).md)** — 뼛조각이 강제 방전되어 마력이 폭발적으로 복구될 때, 이 장갑이 그 과잉 전류를 유일하게 외부로 제어 방출할 수 있는 통로가 된다. 두 장비가 동시에 한계를 넘으면 파이프는 반드시 일부 터진다.
+- **[천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord)](../../01-19-3.악세서리/08.성물/벼락의 유언 (Lightning's Last Will).md)** — 뼛조각이 강제 방전되어 마력이 폭발적으로 복구될 때, 이 장갑이 그 과잉 전류를 유일하게 외부로 제어 방출할 수 있는 통로가 된다. 두 장비가 동시에 한계를 넘으면 파이프는 반드시 일부 터진다.
 
 ---
 
@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 - [벨트라누스 템페스투스 (Beltranus Tempestus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/03.벨트라누스템페스투스.md)
 - [절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud)](../01.중갑/스톰프루프 (Stormproof).md)
-- [천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord)](../../01-19-3.악세서리/08.성물/천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord).md)
+- [천둥 군주의 부러진 번개 뼛조각 (Fractured Lightning-bone of the Thunder Lord)](../../01-19-3.악세서리/08.성물/벼락의 유언 (Lightning's Last Will).md)

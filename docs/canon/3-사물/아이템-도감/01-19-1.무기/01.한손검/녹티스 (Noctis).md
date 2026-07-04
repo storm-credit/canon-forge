@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [라그날 벨모어 (Ragnar Belmore)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/09.라그날벨모어.md)
 - [라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield)](../../01-19-2.방어구/05.방패/어둠쐐기 (Dark-Wedge).md)
-- [피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)](../../01-19-3.악세서리/02.목걸이·팬던트/피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity).md)
+- [피와 눈물이 얼룩진 영원의 펜던트 (Tear-stained Pendant of Eternity)](../../01-19-3.악세서리/02.목걸이·팬던트/영원의 눈물 (Eternal Tear).md)
