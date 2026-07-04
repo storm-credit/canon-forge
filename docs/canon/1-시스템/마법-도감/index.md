@@ -36,7 +36,7 @@ canon_id: system.magic.lexicon.index
 | 6-2-5 | 💤 [꿈 마법 (Oneiromancy)](6-2-5.꿈마법.md) | 88 |
 | 6-2-6 | 🧠 [텔레파시 마법 (Telepathy)](6-2-6.텔레파시마법.md) | 88 |
 | 6-2-7 | 👁️ [환각 마법 (Illusion)](6-2-7.환각마법.md) | 88 |
-| 6-2-8 | 🐍 [맹독 마법 (Toxikinesis)](6-2-8.맹독마법.md) | 91 |
+| 6-2-8 | 🐍 [맹독 마법 (Toxikinesis)](6-2-8.맹독마법.md) | 92 |
 | 6-2-9 | 💀 [강령 마법 (Necromancy)](6-2-9.강령마법.md) | 90 |
 | 6-2-10 | 🩸 [혈액 마법 (Hemomancy)](6-2-10.혈액마법.md) | 64 |
 | 6-2-11 | 🌌 [차원 마법 (Dimensional)](6-2-11.차원마법.md) | 88 |
