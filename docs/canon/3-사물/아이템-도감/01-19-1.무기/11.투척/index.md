@@ -6,11 +6,12 @@
 
 # 📚 투척
 
-## 항목 (28)
+## 항목 (29)
 
 | 아이템 | 링크 |
 |--------|------|
 | 교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose') | [교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose')](교단%20은화%20투척%20단검%20세트%20'칠흑%20자매의%20꽃잎'%20%28Church%20Silver-Petal%20Throwing%20Dagger%20Set%20'Ebon%20Sisters'%20Rose'%29.md) |
+| 닻사슬 강철 투망 — 클라우스 라크루아의 포박 서약 (Anchor-Chain Steel Net — Klaus Lacroix's Binding Vow) | [닻사슬 강철 투망 — 클라우스 라크루아의 포박 서약 (Anchor-Chain Steel Net — Klaus Lacroix's Binding Vow)](닻사슬%20강철%20투망%20—%20클라우스%20라크루아의%20포박%20서약%20%28Anchor-Chain%20Steel%20Net%20—%20Klaus%20Lacroix's%20Binding%20Vow%29.md) |
 | 까마귀 발톱 투척 단검 세트 (Raven Talon Throwing Dagger Set) | [까마귀 발톱 투척 단검 세트 (Raven Talon Throwing Dagger Set)](까마귀%20발톱%20투척%20단검%20세트%20%28Raven%20Talon%20Throwing%20Dagger%20Set%29.md) |
 | 나도화의 환영 독안개 투척 플라스크 (Night-Peach Illusion Toxin-Mist Flask) | [나도화의 환영 독안개 투척 플라스크 (Night-Peach Illusion Toxin-Mist Flask)](나도화의%20환영%20독안개%20투척%20플라스크%20%28Night-Peach%20Illusion%20Toxin-Mist%20Flask%29.md) |
 | 대공 투척 원판 '산성화의 낙진' (Anti-Air Acid-Rain Throwing Disc) | [대공 투척 원판 '산성화의 낙진' (Anti-Air Acid-Rain Throwing Disc)](대공%20투척%20원판%20'산성화의%20낙진'%20%28Anti-Air%20Acid-Rain%20Throwing%20Disc%29.md) |
