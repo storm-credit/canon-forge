@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/01.가웨인스텔라리스.md)
-- [칠흑의 분쇄검 '심연의 광석' (Black Crusher Greatsword 'Ore of the Abyss')](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20'심연의%20광석'%20(Black%20Crusher%20Greatsword%20'Ore%20of%20the%20Abyss').md)
+- [칠흑의 분쇄검 '심연의 광석' (Black Crusher Greatsword 'Ore of the Abyss')](../../01-19-1.무기/02.양손검/보이드아이언%20(Voidiron).md)
 - 아스트라 대륙 개척자 연맹 (Astral Pioneer's Guild)

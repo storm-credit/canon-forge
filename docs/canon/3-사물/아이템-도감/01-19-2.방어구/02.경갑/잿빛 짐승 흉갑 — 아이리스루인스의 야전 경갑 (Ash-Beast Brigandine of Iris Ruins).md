@@ -89,4 +89,4 @@
 
 ## 🔗 관련 문서
 - [아이리스루인스 (Iris Ruins)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/06.아이리스루인스.md)
-- [칠흑의 분쇄검 — 아이리스루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Iris Ruins)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20아이리스루인스의%20심연%20광석%20분쇄검%20(Abyssal%20Ore%20Crushing%20Greatsword%20of%20Iris%20Ruins).md)
+- [칠흑의 분쇄검 — 아이리스루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Iris Ruins)](../../01-19-1.무기/02.양손검/와일드루인%20(Wildruin).md)

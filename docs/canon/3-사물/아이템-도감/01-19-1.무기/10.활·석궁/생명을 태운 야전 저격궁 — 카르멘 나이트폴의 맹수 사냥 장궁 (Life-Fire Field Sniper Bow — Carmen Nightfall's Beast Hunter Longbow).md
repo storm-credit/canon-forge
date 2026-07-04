@@ -105,5 +105,5 @@
 ## 🔗 관련 문서
 
 - [카르멘 나이트폴 (Carmen Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/09.카르멘나이트폴.md)
-- [칠흑의 분쇄검 — 카르멘 나이트폴의 심연 광석 야전검 (Ebony Crusher — Carmen Nightfall's Abyssal Ore Field Blade)](../02.양손검/칠흑의%20분쇄검%20—%20카르멘%20나이트폴의%20심연%20광석%20야전검%20(Ebony%20Crusher%20—%20Carmen%20Nightfall's%20Abyssal%20Ore%20Field%20Blade).md)
+- [칠흑의 분쇄검 — 카르멘 나이트폴의 심연 광석 야전검 (Ebony Crusher — Carmen Nightfall's Abyssal Ore Field Blade)](../02.양손검/이름%20없는%20날%20(The%20Nameless%20Edge).md)
 - [혈서 봉인 부적 '검은 잿빛의 족쇄' — 카르멘 나이트폴의 저주 억제 봉인패 (Blood-Writ Seal Talisman 'Shackle of Black Ash' — Carmen Nightfall's Curse Suppression Seal)](../../01-19-3.악세서리/07.부적/혈서%20봉인%20부적%20'검은%20잿빛의%20족쇄'%20—%20카르멘%20나이트폴의%20저주%20억제%20봉인패%20(Blood-Writ%20Seal%20Talisman%20'Shackle%20of%20Black%20Ash'%20—%20Carmen%20Nightfall's%20Curse%20Suppression%20Seal).md)

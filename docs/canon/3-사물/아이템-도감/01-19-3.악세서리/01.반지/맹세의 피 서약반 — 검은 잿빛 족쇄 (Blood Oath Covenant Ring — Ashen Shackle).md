@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [카르멘 아르트리우스 (Carmen Artorius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/10.카르멘아르트리우스.md)
-- [칠흑의 분쇄검 (Black Crushing Blade of the Void)](../../01-19-1.무기/02.양손검/칠흑의 분쇄검 (Black Crushing Blade of the Void).md)
+- [칠흑의 분쇄검 (Black Crushing Blade of the Void)](../../01-19-1.무기/02.양손검/별의 낙인 (Star Brand).md)
 - [개척지의 흉터 야전 경갑 (Frontier Scar Field Chainmail)](../../01-19-2.방어구/02.경갑/개척지의 흉터 야전 경갑 (Frontier Scar Field Chainmail).md)

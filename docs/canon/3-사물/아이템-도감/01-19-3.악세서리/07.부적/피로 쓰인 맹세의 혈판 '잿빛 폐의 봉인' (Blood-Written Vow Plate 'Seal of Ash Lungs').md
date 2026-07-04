@@ -99,5 +99,5 @@
 
 ## 🔗 관련 문서
 - [보리스 크림슨 (Boris Crimson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/09.보리스크림슨.md)
-- [칠흑의 분쇄검 — 보리스 크림슨의 야전 분쇄검 (Black Crushing Greatsword of Boris Crimson)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20보리스%20크림슨의%20야전%20분쇄검%20(Black%20Crushing%20Greatsword%20of%20Boris%20Crimson).md)
+- [칠흑의 분쇄검 — 보리스 크림슨의 야전 분쇄검 (Black Crushing Greatsword of Boris Crimson)](../../01-19-1.무기/02.양손검/블러드엠버%20(Bloodember).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 헬하운드 (Gawain Hellhound)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/02.가웨인헬하운드.md)
-- [칠흑의 분쇄검 — 발두르 헬하운드의 심연 광석 분쇄검 (Ebony Crusher — Baldur Hellhound's Abyssal Ore Greatsword)](../02.양손검/칠흑의%20분쇄검%20—%20발두르%20헬하운드의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Baldur%20Hellhound's%20Abyssal%20Ore%20Greatsword).md) — 무혈연 동성(同姓) 헬하운드의 무기, 다른 조직·다른 저주 계보
+- [칠흑의 분쇄검 — 발두르 헬하운드의 심연 광석 분쇄검 (Ebony Crusher — Baldur Hellhound's Abyssal Ore Greatsword)](../02.양손검/헬하운드%20팽%20(Hellhound%20Fang).md) — 무혈연 동성(同姓) 헬하운드의 무기, 다른 조직·다른 저주 계보
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry) — 보름달 결사단

@@ -92,4 +92,4 @@
 ## 🔗 관련 문서
 - [베아트리체 아스텔 (Beatrice Astell)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/08.베아트리체아스텔.md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)
-- [칠흑의 분쇄검 (Black Abyss Crushing Blade)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20(Black%20Abyss%20Crushing%20Blade).md)
+- [칠흑의 분쇄검 (Black Abyss Crushing Blade)](../../01-19-1.무기/02.양손검/디르가%20(Dirga).md)

@@ -79,4 +79,4 @@
 
 ## 🔗 관련 문서
 - [알라리안 아르젠툼 (Alarian Argentum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/03.알라리안아르젠툼.md)
-- [순백의 맹세가 서린 성수대검 (Greatsword Imbued with the Pure White Oath)](../../01-19-1.무기/02.양손검/순백의%20맹세가%20서린%20성수대검%20(Greatsword%20Imbued%20with%20the%20Pure%20White%20Oath).md)
+- [순백의 맹세가 서린 성수대검 (Greatsword Imbued with the Pure White Oath)](../../01-19-1.무기/02.양손검/성수의%20맹세%20(Hallowed%20Oath).md)

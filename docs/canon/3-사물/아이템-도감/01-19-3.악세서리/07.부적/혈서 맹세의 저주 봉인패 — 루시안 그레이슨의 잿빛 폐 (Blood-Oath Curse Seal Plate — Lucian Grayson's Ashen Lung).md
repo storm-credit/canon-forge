@@ -91,5 +91,5 @@
 
 ## 🔗 관련 문서
 - [루시안 그레이슨 (Lucian Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/02.루시안그레이슨.md)
-- [칠흑의 분쇄검 — 루시안 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Lucian Grayson's Abyssal Ore Crusher)](../../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20루시안%20그레이슨의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Lucian%20Grayson's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 루시안 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Lucian Grayson's Abyssal Ore Crusher)](../../../01-19-1.무기/02.양손검/룬기류검%20그레이룬%20(Grayrune).md)
 - [개척지 야전 생존자의 흉터 경갑 — 루시안 그레이슨의 흉터 (Frontier Scar Field Armor — Lucian Grayson's Scars)](../../01-19-2.방어구/02.경갑/개척지%20야전%20생존자의%20흉터%20경갑%20—%20루시안%20그레이슨의%20흉터%20(Frontier%20Scar%20Field%20Armor%20—%20Lucian%20Grayson's%20Scars).md)

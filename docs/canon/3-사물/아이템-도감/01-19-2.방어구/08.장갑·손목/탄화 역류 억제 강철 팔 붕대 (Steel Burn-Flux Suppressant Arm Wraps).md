@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 
 - [가이우스 레오니다스 (Gaius Leonidas)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/06.가이우스레오니다스.md)
-- [레오니다스의 눈부신 심판 대검 (Blinding Judgment Greatblade of Leonidas)](../../01-19-1.무기/02.양손검/레오니다스의%20눈부신%20심판%20대검%20(Blinding%20Judgment%20Greatblade%20of%20Leonidas).md) — 이 붕대가 억제하려는 탄화의 원인 무기.
+- [레오니다스의 눈부신 심판 대검 (Blinding Judgment Greatblade of Leonidas)](../../01-19-1.무기/02.양손검/블라인딩%20저지먼트%20(Blinding%20Judgment).md) — 이 붕대가 억제하려는 탄화의 원인 무기.

@@ -79,5 +79,5 @@
 
 ## 🔗 관련 문서
 - [이르바인 솔라페인 (Irvine Solafane)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/10.이르바인솔라페인.md)
-- [솔라페인의 성화를 머금은 처단 대검 (Cleansing Greatsword of Solafane)](../../01-19-1.무기/02.양손검/솔라페인의%20성화를%20머금은%20처단%20대검%20(Cleansing%20Greatsword%20of%20Solafane).md)
+- [솔라페인의 성화를 머금은 처단 대검 (Cleansing Greatsword of Solafane)](../../01-19-1.무기/02.양손검/성화%20처단%20(Sacred%20Pyre).md)
 - [순백의 맹세 건틀릿 (Gauntlets of the White Vow)](../08.장갑·손목/순백의%20맹세%20건틀릿%20(Gauntlets%20of%20the%20White%20Vow).md)

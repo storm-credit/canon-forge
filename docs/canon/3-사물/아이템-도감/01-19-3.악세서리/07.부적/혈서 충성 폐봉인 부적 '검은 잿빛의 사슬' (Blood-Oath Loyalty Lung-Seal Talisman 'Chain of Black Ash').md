@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [기네비어 코어스 (Guinevere Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/01.기네비어코어스.md)
-- [야수결속단의 심연 분쇄검 (Beastbound Abyss-Forged Crushing Greatsword)](../../01-19-1.무기/02.양손검/야수결속단의%20심연%20분쇄검%20(Beastbound%20Abyss-Forged%20Crushing%20Greatsword).md)
+- [야수결속단의 심연 분쇄검 (Beastbound Abyss-Forged Crushing Greatsword)](../../01-19-1.무기/02.양손검/베헤모스%20(Behemoth).md)
 - [거수 소환의 피갈기 정령 팔찌 (Beast-Spirit Blood-Offering Binding Bracelet)](../10.특수마도구·마력핵/거수%20소환의%20피갈기%20정령%20팔찌%20(Beast-Spirit%20Blood-Offering%20Binding%20Bracelet).md)

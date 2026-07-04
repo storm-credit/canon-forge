@@ -107,5 +107,5 @@
 ## 🔗 관련 문서
 - [다미안 팔콘 (Damian Falcon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/02.다미안팔콘.md)
 - 가이아나 야수 결속단 (Gaiana Primal Beastbound)
-- [칠흑의 분쇄검 '팔콘의 야수 궤적' (Obsidian Crusher 'Falcon's Beast-Trail Greatsword')](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20'팔콘의%20야수%20궤적'%20(Obsidian%20Crusher%20'Falcon's%20Beast-Trail%20Greatsword').md)
+- [칠흑의 분쇄검 '팔콘의 야수 궤적' (Obsidian Crusher 'Falcon's Beast-Trail Greatsword')](../../01-19-1.무기/02.양손검/옵시디언%20팽%20(Obsidian%20Fang).md)
 - [피를 불태운 맹세의 각인 — 팔콘의 혈서 부적 (Blood-Oath Brand of the Burning Vow — Falcon's Blood-Script Amulet)](../../01-19-3.악세서리/07.부적/피를%20불태운%20맹세의%20각인%20—%20팔콘의%20혈서%20부적%20(Blood-Oath%20Brand%20of%20the%20Burning%20Vow%20—%20Falcon's%20Blood-Script%20Amulet).md)

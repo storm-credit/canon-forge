@@ -108,6 +108,6 @@
 
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/01.가웨인노바.md)
-- [칠흑의 분쇄검 '망자의 맹서' (Black Crusher Greatsword 'Dead Man's Oath')](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20'망자의%20맹서'%20(Black%20Crusher%20Greatsword%20'Dead%20Man's%20Oath').md)
+- [칠흑의 분쇄검 '망자의 맹서' (Black Crusher Greatsword 'Dead Man's Oath')](../../01-19-1.무기/02.양손검/망자의%20맹서%20(Dead%20Man's%20Oath).md)
 - [혈서 봉인 부적 '잿빛 폐의 맹서' (Blood-Writ Seal Charm 'Ashen Lung's Oath')](../../01-19-3.악세서리/07.부적/혈서%20봉인%20부적%20'잿빛%20폐의%20맹서'%20(Blood-Writ%20Seal%20Charm%20'Ashen%20Lung's%20Oath').md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

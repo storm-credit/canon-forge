@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [세리아 에스더 (Seria Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/07.세리아에스더.md)
-- [칠흑의 분쇄검 — 세리아 에스더의 혼맹 파쇄검 (Ebony Crusher — Seria Esther's Soul-Bond Greatsword)](../../01-19-1.무기/02.양손검/칠흑의 분쇄검 — 세리아 에스더의 혼맹 파쇄검 (Ebony Crusher — Seria Esther's Soul-Bond Greatsword).md)
+- [칠흑의 분쇄검 — 세리아 에스더의 혼맹 파쇄검 (Ebony Crusher — Seria Esther's Soul-Bond Greatsword)](../../01-19-1.무기/02.양손검/그림팽 (Grimfang).md)
 - [검은 잿빛 혼맹의 서약패 — 세리아 에스더의 폐 봉인구 (Black-Ash Soul-Bond Covenant Plate — Seria Esther's Lung Seal)](../../01-19-3.악세서리/07.부적/검은 잿빛 혼맹의 서약패 — 세리아 에스더의 폐 봉인구 (Black-Ash Soul-Bond Covenant Plate — Seria Esther's Lung Seal).md)

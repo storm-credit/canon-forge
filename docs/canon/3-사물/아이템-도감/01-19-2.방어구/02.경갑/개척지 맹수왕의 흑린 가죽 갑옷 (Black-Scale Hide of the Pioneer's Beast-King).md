@@ -96,5 +96,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 카디널 (Gawain Cardinal)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/02.가웨인카디널.md)
-- [칠흑의 분쇄검 (Obsidian Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20(Obsidian%20Crusher,%20Gawain%20Cardinal's%20Greatsword).md)
+- [칠흑의 분쇄검 (Obsidian Crusher)](../../01-19-1.무기/02.양손검/바스티온%20(Bastion).md)
 - 아스트라 대륙 개척자 연맹 (Astral Pioneer's Guild)

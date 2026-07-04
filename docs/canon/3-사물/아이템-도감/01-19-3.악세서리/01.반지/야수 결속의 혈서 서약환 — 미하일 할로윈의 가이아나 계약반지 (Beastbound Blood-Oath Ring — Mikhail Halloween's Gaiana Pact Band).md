@@ -97,6 +97,6 @@
 
 ## 🔗 관련 문서
 - [미하일 할로윈 (Mikhail Halloween)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/04.미하일할로윈.md)
-- [칠흑의 분쇄검 — 미하일 할로윈의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Halloween)](../../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20미하일%20할로윈의%20심연%20광석%20분쇄검%20(Abyssal%20Ore%20Crushing%20Greatsword%20of%20Mikhail%20Halloween).md)
+- [칠흑의 분쇄검 — 미하일 할로윈의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Halloween)](../../../01-19-1.무기/02.양손검/야수결속검%20페럴본%20(Feralbond).md)
 - [검은 잿빛의 폐 봉인 혈인패 — 미하일 할로윈의 저주 억제 부적 (Mikhail Halloween's Blood-Brand Lung Seal Talisman)](../../../01-19-3.악세서리/07.부적/검은%20잿빛의%20폐%20봉인%20혈인패%20—%20미하일%20할로윈의%20저주%20억제%20부적%20(Mikhail%20Halloween's%20Blood-Brand%20Lung%20Seal%20Talisman).md)
 - 가이아나 태고의 야수 결속단 (Gaiana Primal Beastbound)

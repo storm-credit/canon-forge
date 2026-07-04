@@ -107,5 +107,5 @@
 
 ## 🔗 관련 문서
 - [아이리스 그레이슨 (Iris Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/05.아이리스그레이슨.md)
-- [칠흑의 분쇄검 — 아이리스 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Grayson's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20아이리스%20그레이슨의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Iris%20Grayson's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 아이리스 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Iris Grayson's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/나이트프레스%20(Nightpress).md)
 - [개척지 흉터 야전 경갑 — 아이리스 그레이슨의 흉터 외투 (Frontier Scar Field Armor — Iris Grayson's Scarred Coat)](../../01-19-2.방어구/02.경갑/개척지%20흉터%20야전%20경갑%20—%20아이리스%20그레이슨의%20흉터%20외투%20(Frontier%20Scar%20Field%20Armor%20—%20Iris%20Grayson's%20Scarred%20Coat).md)

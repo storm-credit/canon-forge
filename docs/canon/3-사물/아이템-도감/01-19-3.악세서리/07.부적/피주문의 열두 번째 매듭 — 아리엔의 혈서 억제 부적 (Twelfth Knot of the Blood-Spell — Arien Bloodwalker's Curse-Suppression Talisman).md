@@ -111,5 +111,5 @@
 ## 🔗 관련 문서
 
 - [아리엔 블러드워커 (Arien Bloodwalker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/06.아리엔블러드워커.md)
-- [룬각인 분쇄검 — 아리엔 블러드워커의 피주문 대검 (Rune-Etched Crusher — Arien Bloodwalker's Blood-Spell Greatsword)](../../01-19-1.무기/02.양손검/룬각인 분쇄검 — 아리엔 블러드워커의 피주문 대검 (Rune-Etched Crusher — Arien Bloodwalker's Blood-Spell Greatsword).md)
+- [룬각인 분쇄검 — 아리엔 블러드워커의 피주문 대검 (Rune-Etched Crusher — Arien Bloodwalker's Blood-Spell Greatsword)](../../01-19-1.무기/02.양손검/열두 혈문 (Twelve Blood-Runes).md)
 - [야전 배틀메이지 코트 — 아리엔 블러드워커의 이중 결속 외투 (Field Battle-Mage Coat — Arien Bloodwalker's Twofold-Bound Overcoat)](../../01-19-2.방어구/03.로브·마법복/야전 배틀메이지 코트 — 아리엔 블러드워커의 이중 결속 외투 (Field Battle-Mage Coat — Arien Bloodwalker's Twofold-Bound Overcoat).md)

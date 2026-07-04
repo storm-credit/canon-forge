@@ -93,5 +93,5 @@
 
 ## 🔗 관련 문서
 - [루시안 루미너스 (Lucian Luminous)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/05.루시안루미너스.md)
-- [칠흑의 분쇄검 — 루시안 루미너스의 심연 광석검 (Ebony Crusher — Lucian Luminous's Abyssal Ore Greatsword)](../../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20루시안%20루미너스의%20심연%20광석검%20(Ebony%20Crusher%20—%20Lucian%20Luminous's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 루시안 루미너스의 심연 광석검 (Ebony Crusher — Lucian Luminous's Abyssal Ore Greatsword)](../../../01-19-1.무기/02.양손검/마력흡착검%20볼레인%20(Voreign).md)
 - [개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate)](../../../01-19-2.방어구/01.중갑/개척지의%20상흔%20야전%20흉갑%20—%20루시안%20루미너스의%20생존%20갑주%20(Frontier%20Scar%20Breastplate%20—%20Lucian%20Luminous's%20Survival%20Plate).md)

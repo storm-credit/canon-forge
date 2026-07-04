@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [다미안 윈드런너 (Damian Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/01.다미안윈드런너.md)
-- [칠흑의 분쇄검 — 다미안 윈드런너의 심연 광석 분쇄검 (Black Crusher Greatsword — Damian Windrunner's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20다미안%20윈드런너의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Damian%20Windrunner's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 다미안 윈드런너의 심연 광석 분쇄검 (Black Crusher Greatsword — Damian Windrunner's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/게일브레이커%20(Galebreaker).md)
 - [키르케 영약회 생존자의 야전 경갑 '윈드런너의 흉터 갑주' (Circe's Elixir Order Frontier Field Armor — Windrunner's Scarred Cuirass)](../../01-19-2.방어구/02.경갑/키르케%20영약회%20생존자의%20야전%20경갑%20'윈드런너의%20흉터%20갑주'%20(Circe's%20Elixir%20Order%20Frontier%20Field%20Armor%20—%20Windrunner's%20Scarred%20Cuirass).md)

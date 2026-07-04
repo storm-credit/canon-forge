@@ -88,4 +88,4 @@
 
 ## 🔗 관련 문서
 - [미하일 베를란 (Mikhail Verlan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/04.미하일베를란.md)
-- [칠흑의 분쇄검 — 미하일 베를란의 심연 광석 분쇄검 (Ebony Crusher — Mikhail Verlan's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20미하일%20베를란의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Mikhail%20Verlan's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 미하일 베를란의 심연 광석 분쇄검 (Ebony Crusher — Mikhail Verlan's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/거울%20속%20짐승검%20미렐베인%20(Mirrelbane).md)

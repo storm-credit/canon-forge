@@ -89,5 +89,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris) — 발키리아 용병단](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/02.가웨인스텔라리스.md)
-- [저물지 않는 별의 파쇄검 — 가웨인 스텔라리스의 야간 돌격 대검 (Undying Star Crusher — Gawain Stellaris's Night-Charge Greatsword)](../../01-19-1.무기/02.양손검/저물지%20않는%20별의%20파쇄검%20—%20가웨인%20스텔라리스의%20야간%20돌격%20대검%20(Undying%20Star%20Crusher%20—%20Gawain%20Stellaris's%20Night-Charge%20Greatsword).md)
+- [저물지 않는 별의 파쇄검 — 가웨인 스텔라리스의 야간 돌격 대검 (Undying Star Crusher — Gawain Stellaris's Night-Charge Greatsword)](../../01-19-1.무기/02.양손검/스텔라%20인빅타%20(Stella%20Invicta).md)
 - 발키리아 용병단 (Valkyria Mercenaries)

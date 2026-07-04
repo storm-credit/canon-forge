@@ -98,6 +98,6 @@
 
 ## 🔗 관련 문서
 - [일리오스 아스텔 (Ilios Astell)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/08.일리오스아스텔.md)
-- [칠흑의 분쇄검 — 일리오스 아스텔의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Ilios Astell)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20일리오스%20아스텔의%20심연%20광석%20분쇄검%20(Abyssal%20Ore%20Crushing%20Greatsword%20of%20Ilios%20Astell).md)
+- [칠흑의 분쇄검 — 일리오스 아스텔의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Ilios Astell)](../../01-19-1.무기/02.양손검/침묵의%20동반자%20(Silent%20Companion).md)
 - 제피로스 바람의 전령 상단 (Zephyrus Heralds of the Wind)
 - 에반 무영 라크라시스 (Evan) — 일리오스의 저주를 멈출 수 있는 유일한 존재

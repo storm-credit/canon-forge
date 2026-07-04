@@ -105,4 +105,4 @@
 ## 🔗 관련 문서
 - [다미안 다크홈 (Damian Darkholm)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/02.다미안다크홈.md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)
-- [칠흑의 분쇄검 '다크홈의 심연 광석' (Darkholm's Obsidian Crusher Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20'다크홈의%20심연%20광석'%20(Darkholm's%20Obsidian%20Crusher%20Greatsword).md)
+- [칠흑의 분쇄검 '다크홈의 심연 광석' (Darkholm's Obsidian Crusher Greatsword)](../../01-19-1.무기/02.양손검/애쉬바인%20(Ashvein).md)

@@ -92,6 +92,6 @@
 
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/01.가웨인스텔라리스.md)
-- [백야의 늑대 분쇄검 — 가웨인 스텔라리스의 돌파조 대검 (White Night Wolf's Crusher — Gawain Stellaris's Breach Greatsword)](../../01-19-1.무기/02.양손검/백야의%20늑대%20분쇄검%20—%20가웨인%20스텔라리스의%20돌파조%20대검%20(White%20Night%20Wolf's%20Crusher%20—%20Gawain%20Stellaris's%20Breach%20Greatsword).md)
+- [백야의 늑대 분쇄검 — 가웨인 스텔라리스의 돌파조 대검 (White Night Wolf's Crusher — Gawain Stellaris's Breach Greatsword)](../../01-19-1.무기/02.양손검/가웨인의%20저울%20(Gawain's%20Scale).md)
 - [검은 사냥개 열혈 인장반 — 가웨인 스텔라리스의 생사 표식 (Black Hound Heat-Signet Ring — Gawain Stellaris's Mark of Life and Death)](../../01-19-3.악세서리/01.반지/검은%20사냥개%20열혈%20인장반%20—%20가웨인%20스텔라리스의%20생사%20표식%20(Black%20Hound%20Heat-Signet%20Ring%20—%20Gawain%20Stellaris's%20Mark%20of%20Life%20and%20Death).md)
 - 아스트라 개척 연맹 (Astral Pioneers)

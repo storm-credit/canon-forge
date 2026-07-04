@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [오리온 스텔라 (Orion Stella)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/08.오리온스텔라.md)
-- [칠흑의 분쇄검 (Black-Ore Crushing Sword)](../02.양손검/칠흑의%20분쇄검%20(Orion%20Stella's%20Black-Ore%20Crushing%20Sword).md)
+- [칠흑의 분쇄검 (Black-Ore Crushing Sword)](../02.양손검/어스크러셔%20(Earthcrusher).md)

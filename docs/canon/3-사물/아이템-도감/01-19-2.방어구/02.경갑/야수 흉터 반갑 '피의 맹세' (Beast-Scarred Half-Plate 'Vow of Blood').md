@@ -109,6 +109,6 @@
 
 ## 🔗 관련 문서
 - [보리스 크림슨 (Boris Crimson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/09.보리스크림슨.md)
-- [칠흑의 분쇄검 — 보리스 크림슨의 야전 분쇄검 (Black Crushing Greatsword of Boris Crimson)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20보리스%20크림슨의%20야전%20분쇄검%20(Black%20Crushing%20Greatsword%20of%20Boris%20Crimson).md)
+- [칠흑의 분쇄검 — 보리스 크림슨의 야전 분쇄검 (Black Crushing Greatsword of Boris Crimson)](../../01-19-1.무기/02.양손검/블러드엠버%20(Bloodember).md)
 - [피로 쓰인 맹세의 혈판 '잿빛 폐의 봉인' (Blood-Written Vow Plate 'Seal of Ash Lungs')](../../01-19-3.악세서리/07.부적/피로%20쓰인%20맹세의%20혈판%20'잿빛%20폐의%20봉인'%20(Blood-Written%20Vow%20Plate%20'Seal%20of%20Ash%20Lungs').md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

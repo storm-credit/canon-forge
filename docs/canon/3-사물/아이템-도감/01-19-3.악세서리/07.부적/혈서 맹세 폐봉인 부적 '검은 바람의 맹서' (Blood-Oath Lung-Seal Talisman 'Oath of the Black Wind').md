@@ -99,5 +99,5 @@
 
 ## 🔗 관련 문서
 - [이졸데 윈드런너 (Isolde Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/07.이졸데윈드런너.md)
-- [칠흑의 분쇄검 — 이졸데 윈드런너의 심연 광석 야전 분쇄검 (Black Crusher Greatsword — Isolde Windrunner's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20이졸데%20윈드런너의%20심연%20광석%20야전%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Isolde%20Windrunner's%20Abyssal%20Ore%20Field%20Blade).md)
+- [칠흑의 분쇄검 — 이졸데 윈드런너의 심연 광석 야전 분쇄검 (Black Crusher Greatsword — Isolde Windrunner's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/혈기의%20울림%20(Bloodtoll).md)
 - [제피로스 대상단의 거친 심연 가죽 야전갑 (Zephyrus Syndicate's Crude Abyssal-Leather Field Wargear)](../../01-19-2.방어구/02.경갑/제피로스%20대상단의%20거친%20심연%20가죽%20야전갑%20(Zephyrus%20Syndicate's%20Crude%20Abyssal-Leather%20Field%20Wargear).md)

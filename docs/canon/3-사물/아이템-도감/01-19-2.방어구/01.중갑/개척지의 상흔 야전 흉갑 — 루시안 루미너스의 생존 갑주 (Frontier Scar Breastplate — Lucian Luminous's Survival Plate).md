@@ -98,5 +98,5 @@
 
 ## 🔗 관련 문서
 - [루시안 루미너스 (Lucian Luminous)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/05.루시안루미너스.md)
-- [칠흑의 분쇄검 — 루시안 루미너스의 심연 광석검 (Ebony Crusher — Lucian Luminous's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20루시안%20루미너스의%20심연%20광석검%20(Ebony%20Crusher%20—%20Lucian%20Luminous's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 루시안 루미너스의 심연 광석검 (Ebony Crusher — Lucian Luminous's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/마력흡착검%20볼레인%20(Voreign).md)
 - [혈서 맹세의 저주 봉인패 '검은 잿빛을 버티는 자' (Blood-Oath Curse Seal Plate 'One Who Endures the Black Ash')](../../01-19-3.악세서리/07.부적/혈서%20맹세의%20저주%20봉인패%20'검은%20잿빛을%20버티는%20자'%20(Blood-Oath%20Curse%20Seal%20Plate%20'One%20Who%20Endures%20the%20Black%20Ash').md)

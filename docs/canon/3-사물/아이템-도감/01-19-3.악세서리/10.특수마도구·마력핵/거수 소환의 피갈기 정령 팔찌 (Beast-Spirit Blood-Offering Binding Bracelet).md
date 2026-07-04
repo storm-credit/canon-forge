@@ -92,5 +92,5 @@
 ## 🔗 관련 문서
 
 - [기네비어 코어스 (Guinevere Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/01.기네비어코어스.md)
-- [야수결속단의 심연 분쇄검 (Beastbound Abyss-Forged Crushing Greatsword)](../../01-19-1.무기/02.양손검/야수결속단의%20심연%20분쇄검%20(Beastbound%20Abyss-Forged%20Crushing%20Greatsword).md)
+- [야수결속단의 심연 분쇄검 (Beastbound Abyss-Forged Crushing Greatsword)](../../01-19-1.무기/02.양손검/베헤모스%20(Behemoth).md)
 - [혈서 충성 폐봉인 부적 '검은 잿빛의 사슬' (Blood-Oath Loyalty Lung-Seal Talisman 'Chain of Black Ash')](../07.부적/혈서%20충성%20폐봉인%20부적%20'검은%20잿빛의%20사슬'%20(Blood-Oath%20Loyalty%20Lung-Seal%20Talisman%20'Chain%20of%20Black%20Ash').md)

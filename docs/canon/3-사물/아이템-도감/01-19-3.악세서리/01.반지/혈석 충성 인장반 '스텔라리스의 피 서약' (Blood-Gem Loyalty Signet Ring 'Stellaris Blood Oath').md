@@ -107,6 +107,6 @@
 ## 🔗 관련 문서
 
 - [실비아 스텔라리스 (Silvia Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/10.실비아스텔라리스.md)
-- [칠흑의 분쇄검 — 실비아 스텔라리스의 심연 광석 분쇄검 (Stellaris Abyssal Ore Crushing Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20실비아%20스텔라리스의%20심연%20광석%20분쇄검%20(Stellaris%20Abyssal%20Ore%20Crushing%20Greatsword).md)
+- [칠흑의 분쇄검 — 실비아 스텔라리스의 심연 광석 분쇄검 (Stellaris Abyssal Ore Crushing Greatsword)](../../01-19-1.무기/02.양손검/스텔라룬%20(Stellarune).md)
 - [주얼 크래프터의 전투 세공 장갑 (Jewel Crafter's Combat Engraving Gauntlets)](../../01-19-2.방어구/08.장갑·손목/주얼%20크래프터의%20전투%20세공%20장갑%20(Jewel%20Crafter's%20Combat%20Engraving%20Gauntlets).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

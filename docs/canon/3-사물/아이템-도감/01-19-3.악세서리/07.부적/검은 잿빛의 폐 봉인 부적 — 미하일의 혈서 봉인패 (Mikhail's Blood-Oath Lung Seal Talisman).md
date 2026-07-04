@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [미하일 루인스 (Mikhail Ruins)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/07.미하일루인스.md)
-- [칠흑의 분쇄검 — 미하일 루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Ruins)](../../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20미하일%20루인스의%20심연%20광석%20분쇄검%20(Abyssal%20Ore%20Crushing%20Greatsword%20of%20Mikhail%20Ruins).md)
+- [칠흑의 분쇄검 — 미하일 루인스의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Mikhail Ruins)](../../../01-19-1.무기/02.양손검/포식자%20사냥검%20그림포일%20(Grimspoil).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

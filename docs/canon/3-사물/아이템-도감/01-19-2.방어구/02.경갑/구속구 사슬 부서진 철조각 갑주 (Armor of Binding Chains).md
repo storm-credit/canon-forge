@@ -63,7 +63,7 @@
 
 ### 관련 캐릭터
 - **바르가스 카르네지** — 갑주의 제작자이자 유일한 착용자. 노예 시절의 구속 사슬을 자발적으로 자기 몸에 묶었다는 사실이 그의 철학 — "족쇄는 날 길들이지 못한다, 내가 그 족쇄를 갑옷으로 만들어버렸기 때문이다" — 의 가장 직접적인 물적 증거다.
-- 참조: [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher)](../../01-19-1.무기/02.양손검/부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher).md) — 사슬과 대검은 학살자의 사슬 건틀릿을 통해 연결되어, 세 장비가 하나의 전투 시스템을 구성한다.
+- 참조: [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher)](../../01-19-1.무기/02.양손검/스컬 크러셔 (Skull Crusher).md) — 사슬과 대검은 학살자의 사슬 건틀릿을 통해 연결되어, 세 장비가 하나의 전투 시스템을 구성한다.
 - 참조: [학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain)](../08.장갑·손목/학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain).md) — 건틀릿의 팔목 사슬과 갑주의 구속 사슬이 물리적으로 연결되어 대검 회수 작동 시 갑주 전체 사슬 구조가 연동된다.
 
 ---
@@ -85,6 +85,6 @@
 
 ## 🔗 관련 문서
 - [바르가스 카르네지 (Vargas Carnage)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/08.바르가스카르네지.md)
-- [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher)](../../01-19-1.무기/02.양손검/부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher).md)
+- [부러진 파성 대검 스컬 크러셔 (Broken Siege-Greatsword Skull Crusher)](../../01-19-1.무기/02.양손검/스컬 크러셔 (Skull Crusher).md)
 - [학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain)](../08.장갑·손목/학살자의 사슬 건틀릿 (Gauntlet of the Slaughterer's Chain).md)
 - [붉은 피의 계약 초커 (Choker of Crimson Blood Contract)](../../01-19-3.악세서리/02.목걸이·팬던트/붉은 피의 계약 초커 (Choker of Crimson Blood Contract).md)

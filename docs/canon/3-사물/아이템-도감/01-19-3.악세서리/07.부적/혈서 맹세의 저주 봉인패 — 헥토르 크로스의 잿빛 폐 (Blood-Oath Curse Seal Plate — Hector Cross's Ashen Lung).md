@@ -86,4 +86,4 @@
 
 ## 🔗 관련 문서
 - [헥토르 크로스 (Hector Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/10.헥토르크로스.md)
-- [칠흑의 분쇄검 — 헥토르 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Hector Cross's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20헥토르%20크로스의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Hector%20Cross's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 헥토르 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Hector Cross's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/거수의%20궤적%20(Beast's%20Arc).md)

@@ -90,4 +90,4 @@
 - [엘리시아 던브레이커 (Elysia Dawnbreaker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/10.엘리시아던브레이커.md)
 - [단절의 쐐기 (Wedge of Severance)](../../../01-19-3.악세서리/05.브로치/단절의 쐐기 (Wedge of Severance).md)
 - [타락 천사의 일식 방패 에이지스 (Eclipse Shield of Fallen Angel: Aegis)](../../05.방패/타락 천사의 일식 방패 에이지스 (Eclipse Shield of Fallen Angel Aegis).md)
-- [칠흑 대검 던브레이커 (Greatsword of Ebony: Dawnbreaker)](../../../01-19-1.무기/02.양손검/칠흑 대검 던브레이커 (Greatsword of Ebony Dawnbreaker).md)
+- [칠흑 대검 던브레이커 (Greatsword of Ebony: Dawnbreaker)](../../../01-19-1.무기/02.양손검/던브레이커 (Dawnbreaker).md)

@@ -110,5 +110,5 @@
 ## 🔗 관련 문서
 
 - [루시안 에스더 (Lucian Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/02.루시안에스더.md)
-- [칠흑의 분쇄검 — 루시안 에스더의 심연 광석 분쇄검 (Ebony Crusher — Lucian Esther's Abyssal Ore Greatsword)](../02.양손검/칠흑의 분쇄검 — 루시안 에스더의 심연 광석 분쇄검 (Ebony Crusher — Lucian Esther's Abyssal Ore Greatsword).md)
+- [칠흑의 분쇄검 — 루시안 에스더의 심연 광석 분쇄검 (Ebony Crusher — Lucian Esther's Abyssal Ore Greatsword)](../02.양손검/야성의 잔향 웨어드 (Wardhowl).md)
 - [피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent)](../../01-19-3.악세서리/01.반지/피를 태운 맹세의 흑철 서약반 — 꺾여도 끊기지 않는 (Blood-Fired Oath Ring of Black Iron — Unbreakable Even When Bent).md)

@@ -91,4 +91,4 @@
 - [엘리시아 던브레이커 (Elysia Dawnbreaker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/10.엘리시아던브레이커.md)
 - [에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss)](../../01-19-2.방어구/01.중갑/에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss).md)
 - [조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn)](../04.머리장식/조각난 여명의 부러진 후광 (Broken Halo of Fragmented Dawn).md)
-- [칠흑 대검 던브레이커 (Greatsword of Ebony: Dawnbreaker)](../../01-19-1.무기/02.양손검/칠흑 대검 던브레이커 (Greatsword of Ebony Dawnbreaker).md)
+- [칠흑 대검 던브레이커 (Greatsword of Ebony: Dawnbreaker)](../../01-19-1.무기/02.양손검/던브레이커 (Dawnbreaker).md)

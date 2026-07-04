@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [일루미나스 (Illuminas)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/01.일루미나스.md)
 - [광명 제국의 절대 황제관 (Absolute Imperial Crown of the Radiant Empire)](../../04.머리장식/광명%20제국의%20절대%20황제관%20(Absolute%20Imperial%20Crown%20of%20the%20Radiant%20Empire).md)
-- [심판의 빛창 — 아크투루스의 파편검 (Splinter-Sword of Arcturus, Blade of Divine Verdict)](../../../01-19-1.무기/02.양손검/심판의%20빛창%20—%20아크투루스의%20파편검%20(Splinter-Sword%20of%20Arcturus,%20Blade%20of%20Divine%20Verdict).md)
+- [심판의 빛창 — 아크투루스의 파편검 (Splinter-Sword of Arcturus, Blade of Divine Verdict)](../../../01-19-1.무기/02.양손검/심판의%20빛창%20(Blade%20of%20Divine%20Verdict).md)

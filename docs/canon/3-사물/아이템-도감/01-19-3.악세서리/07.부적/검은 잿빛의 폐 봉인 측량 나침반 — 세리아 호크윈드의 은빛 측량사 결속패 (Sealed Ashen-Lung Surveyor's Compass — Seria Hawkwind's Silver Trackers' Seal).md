@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [세리아 호크윈드 (Seria Hawkwind)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/08.세리아호크윈드.md)
-- [칠흑의 분쇄검 — 세리아 호크윈드의 심연 광석 분쇄검 (Ebony Crusher — Seria Hawkwind's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20세리아%20호크윈드의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Seria%20Hawkwind's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 세리아 호크윈드의 심연 광석 분쇄검 (Ebony Crusher — Seria Hawkwind's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/호크폴%20(Hawkfall).md)
 - [이그니스 결사 (Ignis Order) — 세력 개요](../../../../2-무대/세력/길드연합/이그니스결사/이그니스결사.md)

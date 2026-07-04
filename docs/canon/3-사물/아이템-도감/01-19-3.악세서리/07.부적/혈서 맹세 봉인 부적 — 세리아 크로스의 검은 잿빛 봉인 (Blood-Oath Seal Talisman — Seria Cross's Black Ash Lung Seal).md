@@ -97,4 +97,4 @@
 ## 🔗 관련 문서
 
 - [세리아 크로스 (Seria Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/08.세리아크로스.md)
-- [칠흑의 분쇄검 — 세리아 크로스의 심연 광석 분쇄검 (Obsidian Crusher — Seria Cross's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20세리아%20크로스의%20심연%20광석%20분쇄검%20(Obsidian%20Crusher%20—%20Seria%20Cross's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 세리아 크로스의 심연 광석 분쇄검 (Obsidian Crusher — Seria Cross's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/옵시드베인%20(Obsidbane).md)

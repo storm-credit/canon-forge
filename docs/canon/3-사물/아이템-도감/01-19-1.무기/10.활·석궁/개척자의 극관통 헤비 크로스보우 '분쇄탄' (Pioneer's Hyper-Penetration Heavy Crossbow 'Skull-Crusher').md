@@ -83,4 +83,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 어스바운드 (Guinevere Earthbound)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/03.기네비어어스바운드.md)
-- [칠흑의 분쇄검 (Black Crushing Greatsword)](../02.양손검/칠흑의%20분쇄검%20(Black%20Crushing%20Greatsword).md)
+- [칠흑의 분쇄검 (Black Crushing Greatsword)](../02.양손검/어스브레이커%20(Earthbreaker).md)

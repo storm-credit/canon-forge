@@ -101,5 +101,5 @@
 ## 🔗 관련 문서
 
 - [루시안 바스커빌 (Lucian Baskerville)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/06.루시안바스커빌.md)
-- [칠흑의 분쇄검 — 바스커빌의 심연 광석검 (Abyss-Ore Greatsword of Baskerville)](../../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20바스커빌의%20심연%20광석검%20(Abyss-Ore%20Greatsword%20of%20Baskerville).md)
+- [칠흑의 분쇄검 — 바스커빌의 심연 광석검 (Abyss-Ore Greatsword of Baskerville)](../../../01-19-1.무기/02.양손검/동의하는%20검%20어센트%20(Assent).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [아리엔 루미너스 (Arien Luminous)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/06.아리엔루미너스.md)
-- [칠흑의 분쇄검 (Black Crushing Sword of the Abyss)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20(Black%20Crushing%20Sword%20of%20the%20Abyss).md) ← 관련 무기
+- [칠흑의 분쇄검 (Black Crushing Sword of the Abyss)](../../01-19-1.무기/02.양손검/어비스팽%20(Abyss%20Fang).md) ← 관련 무기

@@ -93,5 +93,5 @@
 
 ## 🔗 관련 문서
 - [디트리히 블러드워커 (Dietrich Bloodwalker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/03.디트리히블러드워커.md)
-- [칠흑의 분쇄검 — 블러드워커의 야생 원석 분쇄검 (Black Crusher Greatsword — Bloodwalker's Wild-Ore Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20블러드워커의%20야생%20원석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Bloodwalker's%20Wild-Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 블러드워커의 야생 원석 분쇄검 (Black Crusher Greatsword — Bloodwalker's Wild-Ore Crusher)](../../01-19-1.무기/02.양손검/블러드클레이버%20(Bloodcleaver).md)
 - [피의 서약 야전 흉갑 '흉터의 갑주' (Blood-Oath Field Breastplate 'Armor of Scars')](../../01-19-2.방어구/02.경갑/피의%20서약%20야전%20흉갑%20'흉터의%20갑주'%20(Blood-Oath%20Field%20Breastplate%20'Armor%20of%20Scars').md)

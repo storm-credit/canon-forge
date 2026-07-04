@@ -104,4 +104,4 @@
 ## 🔗 관련 문서
 
 - [미하일 그레이슨 (Mikhail Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/03.미하일그레이슨.md)
-- [칠흑의 분쇄검 — 미하일 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Mikhail Grayson's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20미하일%20그레이슨의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Mikhail%20Grayson's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 미하일 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Mikhail Grayson's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/봉심%20혈서검%20오스번%20(Oathborn).md)

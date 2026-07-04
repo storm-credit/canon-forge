@@ -95,5 +95,5 @@
 
 ## 🔗 관련 문서
 - [디트리히 블랙스미스 (Dietrich Blacksmith)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/03.디트리히블랙스미스.md)
-- [칠흑의 분쇄검 — 블랙스미스의 심연 광석 분쇄검 (Black Crusher Greatsword — Blacksmith's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20블랙스미스의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Blacksmith's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 블랙스미스의 심연 광석 분쇄검 (Black Crusher Greatsword — Blacksmith's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/에이펙스브레이커%20(Apexbreaker).md)
 - [야수 개척자의 야전 흉갑 '생존자의 갑옷' (Beastbound Pioneer's Field Breastplate 'Survivor's Armor')](../../01-19-2.방어구/02.경갑/야수%20개척자의%20야전%20흉갑%20'생존자의%20갑옷'%20(Beastbound%20Pioneer's%20Field%20Breastplate%20'Survivor's%20Armor').md)

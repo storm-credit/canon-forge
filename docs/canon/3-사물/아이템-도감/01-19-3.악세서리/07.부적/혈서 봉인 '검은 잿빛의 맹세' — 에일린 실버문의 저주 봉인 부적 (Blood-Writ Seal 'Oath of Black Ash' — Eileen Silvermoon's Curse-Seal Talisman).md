@@ -104,6 +104,6 @@
 ## 🔗 관련 문서
 
 - [에일린 실버문 (Eileen Silvermoon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/09.에일린실버문.md)
-- [칠흑의 분쇄검 — 에일린 실버문의 심연 광석 야전검 (Ebony Crusher — Eileen Silvermoon's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/칠흑의 분쇄검 — 에일린 실버문의 심연 광석 야전검 (Ebony Crusher — Eileen Silvermoon's Abyssal Ore Field Blade).md)
+- [칠흑의 분쇄검 — 에일린 실버문의 심연 광석 야전검 (Ebony Crusher — Eileen Silvermoon's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/짓누르는 은월 (Silvermoon Crush).md)
 - [피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor)](../../01-19-2.방어구/01.중갑/피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor).md)
 - 아르헨타 백은의 추적단 (Argenta Silver Trackers)

@@ -105,4 +105,4 @@
 ## 🔗 관련 문서
 
 - [발두르 헬하운드 (Baldur Hellhound)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/03.발두르헬하운드.md)
-- [칠흑의 분쇄검 — 발두르 헬하운드의 심연 광석 분쇄검 (Ebony Crusher — Baldur Hellhound's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20발두르%20헬하운드의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Baldur%20Hellhound's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 발두르 헬하운드의 심연 광석 분쇄검 (Ebony Crusher — Baldur Hellhound's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/헬하운드%20팽%20(Hellhound%20Fang).md)

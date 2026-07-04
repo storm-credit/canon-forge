@@ -103,4 +103,4 @@
 ## 🔗 관련 문서
 
 - [발렌타인 라크루아 (Valentine Lacroix)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/04.발렌타인라크루아.md)
-- [칠흑의 분쇄검 — 라크루아의 심연 광석 분쇄검 (Ebony Crusher — Lacroix's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20라크루아의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Lacroix's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 라크루아의 심연 광석 분쇄검 (Ebony Crusher — Lacroix's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/베놈브랜드%20(Venombrand).md)

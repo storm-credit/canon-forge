@@ -105,5 +105,5 @@
 
 ## 🔗 관련 문서
 - [아리엔 크로스 (Arien Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/10.아리엔크로스.md)
-- [칠흑의 분쇄검 — 아리엔 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Arien Cross's Abyssal Ore Crusher)](../../02.양손검/칠흑의%20분쇄검%20—%20아리엔%20크로스의%20심연%20광석%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Arien%20Cross's%20Abyssal%20Ore%20Crusher).md)
+- [칠흑의 분쇄검 — 아리엔 크로스의 심연 광석 분쇄검 (Black Crusher Greatsword — Arien Cross's Abyssal Ore Crusher)](../../02.양손검/그레이브웨이트%20(Graveweight).md)
 - [혈서 맹세 저주 봉인 부적 '잿빛 폐의 서약' (Blood-Oath Curse-Seal Talisman 'Vow of the Ashen Lung')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20저주%20봉인%20부적%20'잿빛%20폐의%20서약'%20(Blood-Oath%20Curse-Seal%20Talisman%20'Vow%20of%20the%20Ashen%20Lung').md)

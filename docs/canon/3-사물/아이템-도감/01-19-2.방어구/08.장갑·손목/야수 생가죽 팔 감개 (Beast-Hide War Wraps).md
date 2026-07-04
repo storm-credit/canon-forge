@@ -77,5 +77,5 @@
 
 ## 🔗 관련 문서
 - [드레이크 루가 (Drake Ruga)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/02.드레이크루가.md)
-- [심연포효의 대검 (Greatsword of Abyssal Roar)](../../01-19-1.무기/02.양손검/심연포효의 대검 (Greatsword of Abyssal Roar).md)
+- [심연포효의 대검 (Greatsword of Abyssal Roar)](../../01-19-1.무기/02.양손검/심연포효 (Abyssal Roar).md)
 - [맹수왕의 사슬 흉갑 (Chainmail of the Beast King)](../01.중갑/맹수왕의 사슬 흉갑 (Chainmail of the Beast King).md)

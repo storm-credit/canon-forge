@@ -99,5 +99,5 @@
 ## 🔗 관련 문서
 
 - [로잘린드 루인스 (Rosalind Ruins)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/03.로잘린드루인스.md)
-- [폐허의 분쇄검 — 로잘린드 루인스의 붉은 불문율 집행검 (Ruinbringer — Rosalind Ruins's Crimson-Law Executioner Greatsword)](../../01-19-1.무기/02.양손검/폐허의 분쇄검 — 로잘린드 루인스의 붉은 불문율 집행검 (Ruinbringer — Rosalind Ruins's Crimson-Law Executioner Greatsword).md)
+- [폐허의 분쇄검 — 로잘린드 루인스의 붉은 불문율 집행검 (Ruinbringer — Rosalind Ruins's Crimson-Law Executioner Greatsword)](../../01-19-1.무기/02.양손검/폐허의 분쇄검 (Ruinbringer).md)
 - [발키리아 용병단 — 세력 개요](../../../../2-무대/세력/용병단/발키리아용병단/발키리아용병단.md)

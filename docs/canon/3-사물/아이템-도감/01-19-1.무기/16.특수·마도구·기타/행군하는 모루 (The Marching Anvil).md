@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [세리아 스텔라리스 (Seria Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/07.세리아스텔라리스.md)
-- [모루의 유언 — 세리아 스텔라리스의 야전 벼림 분쇄검 (Anvil's Last Word — Seria Stellaris's Field-Forged Crushing Greatsword)](../02.양손검/모루의%20유언%20—%20세리아%20스텔라리스의%20야전%20벼림%20분쇄검%20(Anvil's%20Last%20Word%20—%20Seria%20Stellaris's%20Field-Forged%20Crushing%20Greatsword).md)
+- [모루의 유언 — 세리아 스텔라리스의 야전 벼림 분쇄검 (Anvil's Last Word — Seria Stellaris's Field-Forged Crushing Greatsword)](../02.양손검/모루의%20유언%20(Anvil's%20Last%20Word).md)
 - 이그니스 화염 모루 결사 (Ignis Flame-Anvil Order)

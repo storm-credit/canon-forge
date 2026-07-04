@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/01.가웨인노바.md)
-- [백은의 대열검 '열일곱 번째 이름' (Silver-White Line Blade, The Seventeenth Name)](../../01-19-1.무기/02.양손검/백은의%20대열검%20'열일곱%20번째%20이름'%20(Silver-White%20Line%20Blade,%20The%20Seventeenth%20Name).md)
+- [백은의 대열검 '열일곱 번째 이름' (Silver-White Line Blade, The Seventeenth Name)](../../01-19-1.무기/02.양손검/열일곱%20번째%20이름%20(The%20Seventeenth%20Name).md)
 - 발키리아 전장의 맹세 용병단 (Valkyria Oathbound Mercenaries)

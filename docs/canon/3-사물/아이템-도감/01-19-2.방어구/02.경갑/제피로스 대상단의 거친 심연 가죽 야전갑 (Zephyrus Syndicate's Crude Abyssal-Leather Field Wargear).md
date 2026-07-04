@@ -100,5 +100,5 @@
 
 ## 🔗 관련 문서
 - [이졸데 윈드런너 (Isolde Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/07.이졸데윈드런너.md)
-- [칠흑의 분쇄검 — 이졸데 윈드런너의 심연 광석 야전 분쇄검 (Black Crusher Greatsword — Isolde Windrunner's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20이졸데%20윈드런너의%20심연%20광석%20야전%20분쇄검%20(Black%20Crusher%20Greatsword%20—%20Isolde%20Windrunner's%20Abyssal%20Ore%20Field%20Blade).md)
+- [칠흑의 분쇄검 — 이졸데 윈드런너의 심연 광석 야전 분쇄검 (Black Crusher Greatsword — Isolde Windrunner's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/혈기의%20울림%20(Bloodtoll).md)
 - [혈서 맹세 폐봉인 부적 '검은 바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Black Wind')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20폐봉인%20부적%20'검은%20바람의%20맹서'%20(Blood-Oath%20Lung-Seal%20Talisman%20'Oath%20of%20the%20Black%20Wind').md)

@@ -92,6 +92,6 @@
 ## 🔗 관련 문서
 
 - [실비아 코어스 (Silvia Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/05.실비아코어스.md)
-- [칠흑의 분쇄검 — 실비아 코어스의 심연 광석 분쇄검 (Cores Abyssal Ore Crushing Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20실비아%20코어스의%20심연%20광석%20분쇄검%20(Cores%20Abyssal%20Ore%20Crushing%20Greatsword).md)
+- [칠흑의 분쇄검 — 실비아 코어스의 심연 광석 분쇄검 (Cores Abyssal Ore Crushing Greatsword)](../../01-19-1.무기/02.양손검/블러드코어%20(Bloodcore).md)
 - [개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate)](../../01-19-2.방어구/01.중갑/개척지%20상흔의%20야전%20흉갑%20—%20실비아%20코어스의%20생존%20갑주%20(Frontier-Scar%20Field%20Breastplate%20—%20Silvia%20Cores's%20Survival%20Plate).md)
 - 키르케의 영약 결사단 (Circe's Elixir Order)

@@ -85,4 +85,4 @@
 
 ## 🔗 관련 문서
 - [마그누스 글래시아 (Magnus Glacia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/02.마그누스글래시아.md)
-- [글래시아의 혹한 대검 - 퍼마프로스트 (Greatsword of Glacia, Permafrost)](../../01-19-1.무기/02.양손검/글래시아의%20혹한%20대검%20-%20퍼마프로스트%20(Greatsword%20of%20Glacia,%20Permafrost).md)
+- [글래시아의 혹한 대검 - 퍼마프로스트 (Greatsword of Glacia, Permafrost)](../../01-19-1.무기/02.양손검/퍼마프로스트%20(Permafrost).md)

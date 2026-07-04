@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [에일린 크림슨 (Eileen Crimson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/08.에일린크림슨.md)
-- [칠흑의 분쇄검 — 에일린 크림슨의 진홍 공명 분쇄검 (Ebony Crusher — Eileen Crimson's Crimson-Resonance Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20에일린%20크림슨의%20진홍%20공명%20분쇄검%20(Ebony%20Crusher%20—%20Eileen%20Crimson's%20Crimson-Resonance%20Greatsword).md)
+- [칠흑의 분쇄검 — 에일린 크림슨의 진홍 공명 분쇄검 (Ebony Crusher — Eileen Crimson's Crimson-Resonance Greatsword)](../../01-19-1.무기/02.양손검/진홍%20공명검%20(Crimson%20Resonance).md)
 - 발키리아 전장의 맹세 용병단 (Valkyria Oathbound Mercenaries)

@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [오리온 스텔라 (Orion Stella)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/08.오리온스텔라.md)
-- [칠흑의 분쇄검 (Black-Ore Crushing Sword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20(Orion%20Stella's%20Black-Ore%20Crushing%20Sword).md)
+- [칠흑의 분쇄검 (Black-Ore Crushing Sword)](../../01-19-1.무기/02.양손검/어스크러셔%20(Earthcrusher).md)
 - [검은 잿빛의 폐 봉인 부적 '맹세의 숨결' (Black Ash Lung Seal Charm, Breath of the Oath)](../../01-19-3.악세서리/07.부적/검은%20잿빛의%20폐%20봉인%20부적%20'맹세의%20숨결'%20(Black%20Ash%20Lung%20Seal%20Charm,%20Breath%20of%20the%20Oath).md)

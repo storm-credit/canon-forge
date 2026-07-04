@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [로잘린드 에스더 (Rosalind Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/04.로잘린드에스더.md)
-- [칠흑의 분쇄검 — 로잘린드 에스더의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Esther's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의 분쇄검 — 로잘린드 에스더의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Esther's Abyssal Ore Greatsword).md)
+- [칠흑의 분쇄검 — 로잘린드 에스더의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Esther's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/비스트프린트 (Beastprint).md)
 - [개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate)](../../01-19-2.방어구/01.중갑/개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate).md)

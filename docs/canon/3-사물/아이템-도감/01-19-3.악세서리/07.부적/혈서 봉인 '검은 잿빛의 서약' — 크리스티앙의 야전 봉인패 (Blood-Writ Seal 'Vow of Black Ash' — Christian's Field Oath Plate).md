@@ -100,5 +100,5 @@
 ## 🔗 관련 문서
 
 - [크리스티앙 바스커빌 (Christian Baskerville)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/10.크리스티앙바스커빌.md)
-- [칠흑의 분쇄검 — 크리스티앙 바스커빌의 심연 광석 분쇄검 (Ebony Crusher — Christian Baskerville's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20크리스티앙%20바스커빌의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Christian%20Baskerville's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 크리스티앙 바스커빌의 심연 광석 분쇄검 (Ebony Crusher — Christian Baskerville's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/피의%20룬검%20(Bloodrune).md)
 - 제피로스 바람의 전령 상단 (Zephyrus Heralds of the Wind)

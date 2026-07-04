@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [헥토르 나이트폴 (Hector Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/7.옴니버스서고/10.헥토르나이트폴.md)
-- [혈서 개통검 — 헥토르 나이트폴의 결계 파쇄 분쇄검 (Blood-Writ Breach Blade — Hector Nightfall's Ward-Shattering Greatsword)](../../01-19-1.무기/02.양손검/혈서%20개통검%20—%20헥토르%20나이트폴의%20결계%20파쇄%20분쇄검%20(Blood-Writ%20Breach%20Blade%20—%20Hector%20Nightfall's%20Ward-Shattering%20Greatsword).md)
+- [혈서 개통검 — 헥토르 나이트폴의 결계 파쇄 분쇄검 (Blood-Writ Breach Blade — Hector Nightfall's Ward-Shattering Greatsword)](../../01-19-1.무기/02.양손검/개통의%20일격%20(Breachbringer).md)
 - [옴니버스 서고 (Omnibus Archives)](../../../../2-무대/세력/그림자첩보/옴니버스서고/옴니버스서고.md)

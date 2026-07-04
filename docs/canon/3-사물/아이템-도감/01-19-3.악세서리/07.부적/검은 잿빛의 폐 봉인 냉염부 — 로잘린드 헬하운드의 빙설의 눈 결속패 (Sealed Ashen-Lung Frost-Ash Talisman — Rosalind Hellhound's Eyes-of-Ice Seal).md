@@ -105,5 +105,5 @@
 ## 🔗 관련 문서
 
 - [로잘린드 헬하운드 (Rosalind Hellhound)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/02.로잘린드헬하운드.md)
-- [칠흑의 분쇄검 — 로잘린드 헬하운드의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Hellhound's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20로잘린드%20헬하운드의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Rosalind%20Hellhound's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 로잘린드 헬하운드의 심연 광석 분쇄검 (Ebony Crusher — Rosalind Hellhound's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/냉염거부검%20프리질%20(Frigil%20the%20Fireless).md)
 - [이그니스 결사 (Ignis Order) — 세력 개요](../../../../2-무대/세력/길드연합/이그니스결사/이그니스결사.md)

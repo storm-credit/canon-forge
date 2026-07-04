@@ -118,4 +118,4 @@
 ## 🔗 관련 문서
 
 - [아리엔 맥시무스 (Arien Maximus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/07.아리엔맥시무스.md)
-- [칠흑의 분쇄검 — 아리엔 맥시무스의 심연 광석 분쇄검 (Ebony Crusher — Arien Maximus's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20아리엔%20맥시무스의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Arien%20Maximus's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 아리엔 맥시무스의 심연 광석 분쇄검 (Ebony Crusher — Arien Maximus's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/팬텀브레이크%20(Phantombreak).md)

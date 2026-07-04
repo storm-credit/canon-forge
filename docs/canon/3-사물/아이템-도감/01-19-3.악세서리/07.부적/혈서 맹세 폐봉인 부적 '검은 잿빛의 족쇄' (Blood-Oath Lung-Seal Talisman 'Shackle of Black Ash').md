@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [기네비어 어스바운드 (Guinevere Earthbound)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/03.기네비어어스바운드.md)
-- [칠흑의 분쇄검 (Black Crushing Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20(Black%20Crushing%20Greatsword).md)
+- [칠흑의 분쇄검 (Black Crushing Greatsword)](../../01-19-1.무기/02.양손검/어스브레이커%20(Earthbreaker).md)
 - [개척자의 극관통 헤비 크로스보우 '분쇄탄' (Pioneer's Hyper-Penetration Heavy Crossbow 'Skull-Crusher')](../../01-19-1.무기/10.활·석궁/개척자의%20극관통%20헤비%20크로스보우%20'분쇄탄'%20(Pioneer's%20Hyper-Penetration%20Heavy%20Crossbow%20'Skull-Crusher').md)

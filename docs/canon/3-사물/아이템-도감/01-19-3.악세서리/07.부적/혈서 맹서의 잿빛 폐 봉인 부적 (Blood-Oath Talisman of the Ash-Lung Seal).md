@@ -86,5 +86,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 에스더 (Valentine Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/05.발렌타인에스더.md)
-- [칠흑의 분쇄검 — 발렌타인 에스더의 심연 광석 분쇄검 (Ebony Crusher — Valentine Esther's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/칠흑의%20분쇄검%20—%20발렌타인%20에스더의%20심연%20광석%20분쇄검%20(Ebony%20Crusher%20—%20Valentine%20Esther's%20Abyssal%20Ore%20Greatsword).md)
+- [칠흑의 분쇄검 — 발렌타인 에스더의 심연 광석 분쇄검 (Ebony Crusher — Valentine Esther's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/팬텀%20팽%20(Phantom%20Fang).md)
 - [잿빛 개척지 환술사의 야전 로브 (Ash-Frontier Illusionist's Field Robe)](../../01-19-2.방어구/03.로브·마법복/잿빛%20개척지%20환술사의%20야전%20로브%20(Ash-Frontier%20Illusionist's%20Field%20Robe).md)
