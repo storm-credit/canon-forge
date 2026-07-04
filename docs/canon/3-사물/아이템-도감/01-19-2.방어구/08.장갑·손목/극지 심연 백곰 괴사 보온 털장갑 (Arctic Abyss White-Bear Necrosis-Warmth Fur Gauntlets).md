@@ -78,7 +78,7 @@
 
 ## 🔗 관련 문서
 - [세리온 아크티스 (Serion Arctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/03.세리온아크티스.md)
-- [글라키에스의 뼈에 붙은 서리 지팡이 (Bone-Clinging Frost-Staff of Glacies)](../../01-19-1.무기/12.지팡이·완드/글라키에스의%20뼈에%20붙은%20서리%20지팡이%20(Bone-Clinging%20Frost-Staff%20of%20Glacies).md)
+- [글라키에스의 뼈에 붙은 서리 지팡이 (Bone-Clinging Frost-Staff of Glacies)](../../01-19-1.무기/12.지팡이·완드/글라키에스%20(Glacies).md)
 - [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](../02.경갑/열을%20삼키는%20코어(Core)%20흡수%20백곰%20가죽%20(Core-Absorbing%20White-Bear%20Hide%20that%20Devours%20Heat).md)
 - [동상 괴사 은폐 두꺼운 뿔테 안경 (Frostbitten Necrosis-Concealing Thick Horn-Rimmed Spectacles)](../06.투구·얼굴/동상%20괴사%20은폐%20두꺼운%20뿔테%20안경%20(Frostbitten%20Necrosis-Concealing%20Thick%20Horn-Rimmed%20Spectacles).md)
 - [깨지지 않는 영하의 플라스크 (Unbreakable Below-Zero Flask)](../../01-19-3.악세서리/10.특수마도구·마력핵/깨지지%20않는%20영하의%20플라스크%20(Unbreakable%20Below-Zero%20Flask).md)

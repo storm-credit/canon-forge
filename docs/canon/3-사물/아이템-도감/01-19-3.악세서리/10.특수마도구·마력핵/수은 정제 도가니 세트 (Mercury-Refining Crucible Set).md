@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/9.황금기계단/02.가웨인노바.md)
-- [수은 유도봉 '성운의 지휘봉' (Mercury-Guiding Rod, Baton of the Nebula)](../../01-19-1.무기/12.지팡이·완드/수은%20유도봉%20'성운의%20지휘봉'%20(Mercury-Guiding%20Rod,%20Baton%20of%20the%20Nebula).md)
+- [수은 유도봉 '성운의 지휘봉' (Mercury-Guiding Rod, Baton of the Nebula)](../../01-19-1.무기/12.지팡이·완드/네뷸라%20바톤%20(Nebula%20Baton).md)
 - [정제사의 응결 로브 (Refiner's Coagulant Robe)](../../01-19-2.방어구/03.로브·마법복/정제사의%20응결%20로브%20(Refiner's%20Coagulant%20Robe).md)

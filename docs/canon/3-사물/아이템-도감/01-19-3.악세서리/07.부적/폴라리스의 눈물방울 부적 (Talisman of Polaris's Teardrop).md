@@ -76,5 +76,5 @@
 ## 🔗 관련 문서
 
 - [라디안 폴라리스 (Radian Polaris)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/3.프로스트대륙/빙하의신전/라디안폴라리스.md)
-- [겨울 밤의 별 지팡이 (Staff of Winter's Eve)](../../01-19-1.무기/12.지팡이·완드/겨울%20밤의%20별%20지팡이%20(Staff%20of%20Winter's%20Eve).md)
+- [겨울 밤의 별 지팡이 (Staff of Winter's Eve)](../../01-19-1.무기/12.지팡이·완드/윈터스텔라%20(Winterstella).md)
 - [여신의 거울 파편 (Shard of the Goddess's Mirror)](../../01-19-4.유물/04.영웅고유성유물/여신의%20거울%20파편%20(Shard%20of%20the%20Goddess's%20Mirror).md)

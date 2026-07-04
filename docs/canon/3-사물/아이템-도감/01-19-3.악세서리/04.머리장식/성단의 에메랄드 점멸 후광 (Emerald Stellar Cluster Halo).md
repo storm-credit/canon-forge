@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 
 - [에일린 스텔라리아 (Aelrin Stellaria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/12.에일린스텔라리아.md)
-- [별무리를 잉태한 은혜의 제례 지팡이 (Ceremonial Staff Embracing Constellations)](../../01-19-1.무기/12.지팡이·완드/별무리를%20잉태한%20은혜의%20제례%20지팡이%20(Ceremonial%20Staff%20Embracing%20Constellations).md)
+- [별무리를 잉태한 은혜의 제례 지팡이 (Ceremonial Staff Embracing Constellations)](../../01-19-1.무기/12.지팡이·완드/별의%20제관%20(Star-Chosen%20Regalia).md)
 - [강제 해독의 성수 채찍 (Holy-Water Whip of Forced Detoxification)](../../01-19-1.무기/08.채찍/강제%20해독의%20성수%20채찍%20(Holy-Water%20Whip%20of%20Forced%20Detoxification).md)

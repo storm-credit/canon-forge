@@ -101,6 +101,6 @@
 ## 🔗 관련 문서
 
 - [정보단 여왕 이리나 폰 루즈](../../../../4-인물/영웅-백과/01-14-2.현존영웅/정보단여왕이리나폰루즈.md)
-- [사념 지휘봉 — 절대 소음의 지휘자 (Thought-Baton — Conductor of Absolute Silence)](../../01-19-1.무기/12.지팡이·완드/사념%20지휘봉%20—%20절대%20소음의%20지휘자%20(Thought-Baton%20—%20Conductor%20of%20Absolute%20Silence).md)
+- [사념 지휘봉 — 절대 소음의 지휘자 (Thought-Baton — Conductor of Absolute Silence)](../../01-19-1.무기/12.지팡이·완드/사일런트%20마에스트로%20(Silent%20Maestro).md)
 - [은빛 심연 강제 사념 역투영 방어구 (Aegis Whisper-Deflection Array)](../../01-19-2.방어구/03.로브·마법복/은빛%20심연%20강제%20사념%20역투영%20방어구%20(Aegis%20Whisper-Deflection%20Array).md)
 - [에테르 진정제 마석 점적 수액 장치 (Ether-Sedative Manastone Intravenous Drip Device)](../10.특수마도구·마력핵/에테르%20진정제%20마석%20점적%20수액%20장치%20(Ether-Sedative%20Manastone%20Intravenous%20Drip%20Device).md)

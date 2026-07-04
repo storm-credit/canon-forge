@@ -96,4 +96,4 @@
 - [크세노스 아르카디아 (Xenos Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/02.크세노스아르카디아.md)
 - [침묵 압박의 은제 회중시계 (Silver Pocket Watch of Silent Pressure)](../10.특수마도구·마력핵/침묵%20압박의%20은제%20회중시계%20(Silver%20Pocket%20Watch%20of%20Silent%20Pressure).md)
 - [별자리 시간 룬 딥블루 로브 (Constellation-Rune Deep-Blue Robe of the Chrono-Scholar)](../../01-19-2.방어구/03.로브·마법복/별자리%20시간%20룬%20딥블루%20로브%20%28Constellation-Rune%20Deep-Blue%20Robe%20of%20the%20Chrono-Scholar%29.md)
-- [강제 숙성 부패 시간 가속 완드 (Time-Acceleration Wand of Forced Senescent Decay)](../../01-19-1.무기/12.지팡이·완드/강제%20숙성%20부패%20시간%20가속%20완드%20(Time-Acceleration%20Wand%20of%20Forced%20Senescent%20Decay).md)
+- [강제 숙성 부패 시간 가속 완드 (Time-Acceleration Wand of Forced Senescent Decay)](../../01-19-1.무기/12.지팡이·완드/루스트반타%20(Rustvanta).md)

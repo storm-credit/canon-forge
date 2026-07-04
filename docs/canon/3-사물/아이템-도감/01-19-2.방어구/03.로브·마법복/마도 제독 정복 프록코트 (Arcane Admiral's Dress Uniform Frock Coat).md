@@ -80,5 +80,5 @@
 
 ## 🔗 관련 문서
 - [에스메랄다 나빌란테 (Esmeralda Nabilante)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/3.에스메랄다나빌란테.md)
-- [천둥새의 부리 지팡이 '썬더콜러' (Thunderbird's Beak Staff 'Thunder Caller')](../../01-19-1.무기/12.지팡이·완드/천둥새의 부리 지팡이 '썬더콜러' (Thunderbird's Beak Staff 'Thunder Caller').md)
+- [천둥새의 부리 지팡이 '썬더콜러' (Thunderbird's Beak Staff 'Thunder Caller')](../../01-19-1.무기/12.지팡이·완드/썬더콜러 (Thunder Caller).md)
 - [역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field)](../04.망토·외투/역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field).md)

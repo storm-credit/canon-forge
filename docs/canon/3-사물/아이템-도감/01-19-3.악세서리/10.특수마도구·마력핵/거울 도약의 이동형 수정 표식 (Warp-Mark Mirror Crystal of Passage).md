@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [미레이나 크리스타리아 (Mireina Crystaria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/09.미레이나크리스타리아.md)
 - [은빛 육면체의 이지스 코어 (Hexahedron Core of Silver Aegis)](은빛 육면체의 이지스 코어 (Hexahedron Core of Silver Aegis).md)
-- [크리스타리아의 심연 관측 마도 지팡이 (Abyssal-observing Staff of Crystaria)](../../01-19-1.무기/12.지팡이·완드/크리스타리아의 심연 관측 마도 지팡이 (Abyssal-observing Staff of Crystaria).md)
+- [크리스타리아의 심연 관측 마도 지팡이 (Abyssal-observing Staff of Crystaria)](../../01-19-1.무기/12.지팡이·완드/심연안 (Abyssgazer).md)

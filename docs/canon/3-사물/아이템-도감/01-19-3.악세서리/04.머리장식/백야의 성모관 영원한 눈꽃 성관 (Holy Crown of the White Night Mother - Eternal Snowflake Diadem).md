@@ -99,7 +99,7 @@
 ## 🔗 관련 문서
 
 - [아나스타샤 히베르눔 (Anastasia Hibernum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/01.아나스타샤히베르눔.md)
-- [창세의 빙정 지팡이 - 영원의 횃불 (Ice-Crystal Staff of Genesis, Torch of Eternity)](../../01-19-1.무기/12.지팡이·완드/창세의%20빙정%20지팡이%20-%20영원의%20횃불%20(Ice-Crystal%20Staff%20of%20Genesis,%20Torch%20of%20Eternity).md)
+- [창세의 빙정 지팡이 - 영원의 횃불 (Ice-Crystal Staff of Genesis, Torch of Eternity)](../../01-19-1.무기/12.지팡이·완드/영원의%20횃불%20(Torch%20of%20Eternity).md)
 - [순례자의 눈꽃 예복 (Snowflake Vestments of the Pilgrim)](../../01-19-2.방어구/03.로브·마법복/순례자의%20눈꽃%20예복%20(Snowflake%20Vestments%20of%20the%20Pilgrim).md)
 - [침묵의 요람 백야의 향로벨 (Cradle-of-Silence Bell-Censer of the White Night)](../08.성물/침묵의%20요람%20백야의%20향로벨%20(Cradle-of-Silence%20Bell-Censer%20of%20the%20White%20Night).md)
 - [창백한 봉인의 고요 인장 (Pale Seal Signet of Stillness)](../01.반지/창백한%20봉인의%20고요%20인장%20(Pale%20Seal%20Signet%20of%20Stillness).md)

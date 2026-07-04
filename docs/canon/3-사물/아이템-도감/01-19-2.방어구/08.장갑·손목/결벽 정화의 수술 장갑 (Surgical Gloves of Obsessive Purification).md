@@ -78,4 +78,4 @@
 
 ## 🔗 관련 문서
 - [아이리스 블루타이드 (Iris Bluetide)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/10.아이리스블루타이드.md)
-- [성수 정제 지팡이 '눈물의 지성소' (Purification Staff 'Sanctuary of Tears')](../../01-19-1.무기/12.지팡이·완드/성수%20정제%20지팡이%20'눈물의%20지성소'%20(Purification%20Staff%20'Sanctuary%20of%20Tears').md)
+- [성수 정제 지팡이 '눈물의 지성소' (Purification Staff 'Sanctuary of Tears')](../../01-19-1.무기/12.지팡이·완드/눈물의%20지성소%20(Sanctuary%20of%20Tears).md)

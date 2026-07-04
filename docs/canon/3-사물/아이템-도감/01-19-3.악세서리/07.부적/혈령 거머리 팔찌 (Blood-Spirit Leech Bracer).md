@@ -59,7 +59,7 @@
 
 ### 관련 캐릭터
 - **카리온 바트록** — 제작자이자 유일한 착용자. '이것들은 나보다 오래 살 것이다'라는 말을 농담처럼 하지만 진심으로 들린다.
-- 참조: [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox).md) — 지팡이의 혈액 응집 마나와 거머리의 원격 흡수 능력이 연계될 때, 적의 혈류를 굳히는 동시에 카리온 쪽으로 당기는 이중 제어가 가능하다.
+- 참조: [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스 혈령 (Batrox Blood-Seal).md) — 지팡이의 혈액 응집 마나와 거머리의 원격 흡수 능력이 연계될 때, 적의 혈류를 굳히는 동시에 카리온 쪽으로 당기는 이중 제어가 가능하다.
 
 ---
 
@@ -80,6 +80,6 @@
 
 ## 🔗 관련 문서
 - [카리온 바트록 (Karion Batrok)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/07.카리온바트록.md)
-- [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox).md)
+- [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스 혈령 (Batrox Blood-Seal).md)
 - [까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor)](../../../01-19-2.방어구/02.경갑/까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor).md)
 - [핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast)](../08.성물/핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast).md)

@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 
 - [마리엔느 에테리아 (Marienne Etheria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/12.마리엔느에테리아.md)
-- [에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist)](../../01-19-1.무기/12.지팡이·완드/에테리아의%20잊혀진%20안개%20지팡이%20(Staff%20of%20Etheria's%20Forgotten%20Mist).md)
+- [에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist)](../../01-19-1.무기/12.지팡이·완드/망각%20(Oblivion).md)
 - [도주와 교환의 신기루 코르셋 (Mirage-Corset of Exchange)](../../01-19-2.방어구/03.로브·마법복/도주와%20교환의%20신기루%20코르셋%20(Mirage-Corset%20of%20Exchange).md)

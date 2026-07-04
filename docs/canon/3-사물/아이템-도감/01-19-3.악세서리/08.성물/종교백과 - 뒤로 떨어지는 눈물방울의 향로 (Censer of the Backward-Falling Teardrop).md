@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [칼리아나 크로니아 (Kalyana Chronia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/01.칼리아나크로니아.md)
-- [크로노스의 멈춰버린 시계추 지팡이 (Pendulum-Staff of Stopped Time of Chronos)](../../01-19-1.무기/12.지팡이·완드/크로노스의 멈춰버린 시계추 지팡이 (Pendulum-Staff of Stopped Time of Chronos).md)
+- [크로노스의 멈춰버린 시계추 지팡이 (Pendulum-Staff of Stopped Time of Chronos)](../../01-19-1.무기/12.지팡이·완드/크로노스 (Chronos).md)
 - [먼지 쌓인 역사의 수의 로브 (Shroud-Robe of Dusted History)](../../01-19-2.방어구/03.로브·마법복/먼지 쌓인 역사의 수의 로브 (Shroud-Robe of Dusted History).md)

@@ -58,7 +58,7 @@
 
 ### 관련 캐릭터
 - **카리온 바트록** — 현재의 항아리 봉인 계승자. 그는 항아리를 성구라기보다 '아직 채워지지 않은 장부'라 부른다.
-- 참조: [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox).md) — 지팡이의 응혈 마나와 항아리의 혈우 발동은 연계 사용 시 증폭된다.
+- 참조: [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스 혈령 (Batrox Blood-Seal).md) — 지팡이의 응혈 마나와 항아리의 혈우 발동은 연계 사용 시 증폭된다.
 
 ---
 
@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [카리온 바트록 (Karion Batrok)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/07.카리온바트록.md)
-- [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox).md)
+- [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스 혈령 (Batrox Blood-Seal).md)
 - [말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer)](../../../01-19-2.방어구/02.경갑/말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer).md)

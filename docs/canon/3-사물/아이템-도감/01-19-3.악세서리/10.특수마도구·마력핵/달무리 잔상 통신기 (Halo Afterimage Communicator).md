@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [세린 루나베일 (Serin Lunavale)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/02.세린루나베일.md)
-- [달무리의 지팡이 '루나베일 결계장' (Staff of Moon Halo)](../../01-19-1.무기/12.지팡이·완드/달무리의%20지팡이%20'루나베일%20결계장'%20(Staff%20of%20Moon%20Halo).md)
+- [달무리의 지팡이 '루나베일 결계장' (Staff of Moon Halo)](../../01-19-1.무기/12.지팡이·완드/루나베일%20결계장%20(Lunavale%20Ward).md)
 - [달빛 마나 캔디 — 세린의 응급 각성제 (Moonlight Mana Candy — Serin's Emergency Stimulant)](달빛%20마나%20캔디%20—%20세린의%20응급%20각성제%20(Moonlight%20Mana%20Candy%20—%20Serin's%20Emergency%20Stimulant).md)

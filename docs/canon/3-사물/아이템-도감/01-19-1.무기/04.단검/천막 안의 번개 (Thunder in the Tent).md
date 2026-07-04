@@ -80,4 +80,4 @@
 
 ## 🔗 관련 문서
 - [아스트리온 벨리우스 (Astrion Velius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/06.아스트리온벨리우스.md)
-- [벨리우스의 천둥심장 역장 지팡이 (Thunderheart Force-Staff of Velius)](../../12.지팡이·완드/벨리우스의%20천둥심장%20역장%20지팡이%20(Thunderheart%20Force-Staff%20of%20Velius).md)
+- [벨리우스의 천둥심장 역장 지팡이 (Thunderheart Force-Staff of Velius)](../../12.지팡이·완드/천둥심장%20(Thunderheart).md)

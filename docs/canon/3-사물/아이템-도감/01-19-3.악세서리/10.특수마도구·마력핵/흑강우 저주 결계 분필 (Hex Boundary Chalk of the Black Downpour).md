@@ -92,6 +92,6 @@
 ## 🔗 관련 문서
 
 - [칼리스타 테네브리스 (Kalista Tenebris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/03.칼리스타테네브리스.md)
-- [테네브리움의 어둠 지팡이 '장막' (Staff of Tenebrium: The Veil)](../../01-19-1.무기/12.지팡이·완드/테네브리움의%20어둠%20지팡이%20'장막'%20(Staff%20of%20Tenebrium%20The%20Veil).md)
+- [테네브리움의 어둠 지팡이 '장막' (Staff of Tenebrium: The Veil)](../../01-19-1.무기/12.지팡이·완드/장막%20(The%20Veil).md)
 - [보랏빛 실뜨기 저주 인장 반지 (Violet Cradle-String Curse Sigil Ring)](../01.반지/보랏빛%20실뜨기%20저주%20인장%20반지%20(Violet%20Cradle-String%20Curse%20Sigil%20Ring).md)
 - [침묵의 귀신나방 마도 포자낭 (Ghost-Moth Silence Arcane Sporocyst)](침묵의%20귀신나방%20마도%20포자낭%20(Ghost-Moth%20Silence%20Arcane%20Sporocyst).md)

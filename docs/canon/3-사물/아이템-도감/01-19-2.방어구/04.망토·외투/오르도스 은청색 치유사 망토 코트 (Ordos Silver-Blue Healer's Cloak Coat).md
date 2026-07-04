@@ -84,4 +84,4 @@
 ## 🔗 관련 문서
 - [로라디아 클레멘티아 (Loradia Clementia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/06.로라디아클레멘티아.md)
 - [비둘기 깃털의 구명 견갑 (Lifesaving Pauldron of Dove Feathers)](../07.견갑/비둘기%20깃털의%20구명%20견갑%20(Lifesaving%20Pauldron%20of%20Dove%20Feathers).md)
-- [순례자의 은빛 지팡이 '클레멘티아의 은총' (Silver Staff of the Pilgrim: Grace of Clementia)](../../01-19-1.무기/12.지팡이·완드/순례자의%20은빛%20지팡이%20'클레멘티아의%20은총'%20(Silver%20Staff%20of%20the%20Pilgrim%20Grace%20of%20Clementia).md)
+- [순례자의 은빛 지팡이 '클레멘티아의 은총' (Silver Staff of the Pilgrim: Grace of Clementia)](../../01-19-1.무기/12.지팡이·완드/클레멘티아의%20은총%20(Grace%20of%20Clementia).md)

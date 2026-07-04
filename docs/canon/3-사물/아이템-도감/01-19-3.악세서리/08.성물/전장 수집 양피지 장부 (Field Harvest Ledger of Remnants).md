@@ -104,6 +104,6 @@
 ## 🔗 관련 문서
 
 - [네크로스 벨로그 (Necros Velrog)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/03.네크로스벨로그.md)
-- [벨로그의 비명 묘비명 지팡이 (Screaming Tombstone Staff of Velrog)](../../01-19-1.무기/12.지팡이·완드/벨로그의%20비명%20묘비명%20지팡이%20(Screaming%20Tombstone%20Staff%20of%20Velrog).md)
+- [벨로그의 비명 묘비명 지팡이 (Screaming Tombstone Staff of Velrog)](../../01-19-1.무기/12.지팡이·완드/망자의%20울림%20(Voice%20of%20the%20Interred).md)
 - [망령 원한 갑주 (Wraith-Grudge Spirit Armor)](../../01-19-2.방어구/01.중갑/망령%20원한%20갑주%20(Wraith-Grudge%20Spirit%20Armor).md)
 - [칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat)](../../01-19-2.방어구/04.망토·외투/칠흑%20까마귀%20깃털%20장의사%20롱코트%20(Corvid%20Undertaker's%20Longcoat).md)

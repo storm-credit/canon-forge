@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [아르테니아 플라멜 (Artenia Flamel)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/03.아르테니아플라멜.md)
-- [플라멜의 흑염 지팡이 (Staff of Black Flame)](../../../01-19-1.무기/12.지팡이·완드/플라멜의 흑염 지팡이 (Staff of Black Flame).md)
+- [플라멜의 흑염 지팡이 (Staff of Black Flame)](../../../01-19-1.무기/12.지팡이·완드/아트로플라마 (Atroflamma).md)
 - [플라멜의 잿빛 귀걸이 봉인 케이스 (Sealed Case of Flamel's Ashen Earring)](../../08.성물/플라멜의 잿빛 귀걸이 봉인 케이스 (Sealed Case of Flamel's Ashen Earring).md)

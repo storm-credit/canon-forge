@@ -102,5 +102,5 @@
 ## 🔗 관련 문서
 
 - [다미안 베일 (Damian Bale)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/5.스틱스심연의금고/다미안베일.md)
-- [사령 지팡이 — 스틱스의 뱃삯 (Necromancer's Staff, Fare of the Styx)](../12.지팡이·완드/사령 지팡이 — 스틱스의 뱃삯 (Necromancer's Staff, Fare of the Styx).md)
+- [사령 지팡이 — 스틱스의 뱃삯 (Necromancer's Staff, Fare of the Styx)](../12.지팡이·완드/스틱스의 뱃삯 (Fare of the Styx).md)
 - [네크로노미콘 사본 (Necronomicon Copy)](네크로노미콘 사본 (Necronomicon Copy).md) — 동종 금서 계열 참조(발토르 라벤하트 소유, 별개 개체)

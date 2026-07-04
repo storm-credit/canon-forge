@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [베르제일 플레게톤 (Berzeil Phlegethon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/08.베르제일플레게톤.md)
 - [탄화된 어머니의 묵주 (Carbonized Rosary of the Mother)](../../01-19-4.유물/04.영웅고유성유물/탄화된 어머니의 묵주 (Carbonized Rosary of the Mother).md)
-- [비탄의 화로 플레게톤 스태프 (Brazier of Lament Phlegethon Staff)](../../01-19-1.무기/12.지팡이·완드/비탄의 화로 플레게톤 스태프 (Brazier of Lament Phlegethon Staff).md)
+- [비탄의 화로 플레게톤 스태프 (Brazier of Lament Phlegethon Staff)](../../01-19-1.무기/12.지팡이·완드/플레게톤 (Phlegethon).md)

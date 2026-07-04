@@ -77,6 +77,6 @@
 
 ## 🔗 관련 문서
 - [세리온 아크티스 (Serion Arctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/03.세리온아크티스.md)
-- [글라키에스의 뼈에 붙은 서리 지팡이 (Bone-Clinging Frost-Staff of Glacies)](../../01-19-1.무기/12.지팡이·완드/글라키에스의%20뼈에%20붙은%20서리%20지팡이%20(Bone-Clinging%20Frost-Staff%20of%20Glacies).md)
+- [글라키에스의 뼈에 붙은 서리 지팡이 (Bone-Clinging Frost-Staff of Glacies)](../../01-19-1.무기/12.지팡이·완드/글라키에스%20(Glacies).md)
 - [열을 삼키는 코어(Core) 흡수 백곰 가죽 (Core-Absorbing White-Bear Hide that Devours Heat)](../02.경갑/열을%20삼키는%20코어(Core)%20흡수%20백곰%20가죽%20(Core-Absorbing%20White-Bear%20Hide%20that%20Devours%20Heat).md)
 - [극지 심연 백곰 괴사 보온 털장갑 (Arctic Abyss White-Bear Necrosis-Warmth Fur Gauntlets)](../08.장갑·손목/극지%20심연%20백곰%20괴사%20보온%20털장갑%20(Arctic%20Abyss%20White-Bear%20Necrosis-Warmth%20Fur%20Gauntlets).md)

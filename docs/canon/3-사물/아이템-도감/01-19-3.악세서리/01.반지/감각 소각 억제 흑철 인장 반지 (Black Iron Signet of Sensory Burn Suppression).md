@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [마르쿠스 코르부스 (Marcus Corvus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/03.마르쿠스코르부스.md)
 - [사각지대의 눈 가리개 (Blindfold of the Blind Spot)](../../01-19-4.유물/04.영웅고유성유물/사각지대의%20눈%20가리개%20(Blindfold%20of%20the%20Blind%20Spot).md)
-- [심연을 삼키는 어둠의 지팡이 (Staff of Darkness Swallowing the Abyss)](../../01-19-1.무기/12.지팡이·완드/심연을%20삼키는%20어둠의%20지팡이%20(Staff%20of%20Darkness%20Swallowing%20the%20Abyss).md)
+- [심연을 삼키는 어둠의 지팡이 (Staff of Darkness Swallowing the Abyss)](../../01-19-1.무기/12.지팡이·완드/칠흑의%20아가리%20(Maw%20of%20the%20Eclipse).md)

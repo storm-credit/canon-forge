@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [칼리스타 테네브리스 (Kalista Tenebris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/03.칼리스타테네브리스.md)
-- [테네브리움의 어둠 지팡이 '장막' (Staff of Tenebrium: The Veil)](../../01-19-1.무기/12.지팡이·완드/테네브리움의%20어둠%20지팡이%20'장막'%20(Staff%20of%20Tenebrium%20The%20Veil).md)
+- [테네브리움의 어둠 지팡이 '장막' (Staff of Tenebrium: The Veil)](../../01-19-1.무기/12.지팡이·완드/장막%20(The%20Veil).md)
 - [오염된 피를 뽑는 은장도 (Silver Dagger of the Tainted Blood)](../../01-19-4.유물/04.영웅고유성유물/오염된%20피를%20뽑는%20은장도%20(Silver%20Dagger%20of%20the%20Tainted%20Blood).md)

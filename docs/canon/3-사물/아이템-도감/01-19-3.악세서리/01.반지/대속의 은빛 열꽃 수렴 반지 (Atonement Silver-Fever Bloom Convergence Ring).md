@@ -98,6 +98,6 @@
 ## 🔗 관련 문서
 
 - [세라핀 플로스니비스 (Seraphine Flosnivis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/03.세라핀플로스니비스.md)
-- [플로스니비스의 물방울 지팡이 - 수련의 이슬 (Dewdrop Staff of Water-Lily)](../../01-19-1.무기/12.지팡이·완드/플로스니비스의%20물방울%20지팡이%20-%20수련의%20이슬%20(Dewdrop%20Staff%20of%20Water-Lily).md)
+- [플로스니비스의 물방울 지팡이 - 수련의 이슬 (Dewdrop Staff of Water-Lily)](../../01-19-1.무기/12.지팡이·완드/수련의%20이슬%20(Dewdrop%20of%20Water-Lily).md)
 - [서리꽃 씨앗 낭 (Frost-Bloom Seed Satchel)](../07.부적/서리꽃%20씨앗%20낭%20(Frost-Bloom%20Seed%20Satchel).md)
 - [대속의 빙화 기도서 (Atonement Ice-Blossom Prayerbook)](../../01-19-1.무기/13.오브·마법서/대속의%20빙화%20기도서%20(Atonement%20Ice-Blossom%20Prayerbook).md)

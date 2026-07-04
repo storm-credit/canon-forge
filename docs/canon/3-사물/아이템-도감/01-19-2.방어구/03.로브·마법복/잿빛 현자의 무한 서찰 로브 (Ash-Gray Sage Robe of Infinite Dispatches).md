@@ -89,6 +89,6 @@
 ## 🔗 관련 문서
 
 - [그라모스 사피엔시아 (Gramos Sapiencia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/07.그라모스사피엔시아.md)
-- [현자의 시선 그라모스 스태프 (Gaze of the Sage: Gramos Staff)](../../01-19-1.무기/12.지팡이·완드/현자의%20시선%20그라모스%20스태프%20%28Gaze%20of%20the%20Sage%20Gramos%20Staff%29.md)
+- [현자의 시선 그라모스 스태프 (Gaze of the Sage: Gramos Staff)](../../01-19-1.무기/12.지팡이·완드/그라모스%20스태프%20%28Gramos%20Staff%29.md)
 - [천체의 은금 모노클 진실의 창 (Truth's Eye Silver-Gold Monocle)](../../01-19-2.방어구/06.투구·얼굴/천체의%20은금%20모노클%20진실의%20창%20%28Truth%27s%20Eye%20Silver-Gold%20Monocle%29.md)
 - [공허를 채우는 황금빛 양피지 마도서 옴니버스 (Golden Parchment Tome of the Void: Omnibus)](../../01-19-4.유물/04.영웅고유성유물/공허를%20채우는%20황금빛%20양피지%20마도서%20옴니버스%20%28Golden%20Parchment%20Tome%20of%20the%20Void%20Omnibus%29.md)

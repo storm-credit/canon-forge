@@ -93,5 +93,5 @@
 ## 🔗 관련 문서
 
 - [그림록 블랙파우더 (Grimlok Blackpowder)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/03.그림록블랙파우더.md)
-- [풀베리온의 지휘관 포효 지팡이 (Commander's Roar-Baton of Pulverion)](../../01-19-1.무기/12.지팡이·완드/풀베리온의%20지휘관%20포효%20지팡이%20(Commander's%20Roar-Baton%20of%20Pulverion).md)
+- [풀베리온의 지휘관 포효 지팡이 (Commander's Roar-Baton of Pulverion)](../../01-19-1.무기/12.지팡이·완드/클라모르%20(Clamor).md)
 - [절대 좌표 영점 나침반 (Absolute Zero-Coordinate Compass)](../../01-19-4.유물/04.영웅고유성유물/절대%20좌표%20영점%20나침반%20(Absolute%20Zero-Coordinate%20Compass).md)

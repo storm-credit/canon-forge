@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [네크로스 벨로그 (Necros Velrog)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/03.네크로스벨로그.md)
-- [벨로그의 비명 묘비명 지팡이 (Screaming Tombstone Staff of Velrog)](../../01-19-1.무기/12.지팡이·완드/벨로그의%20비명%20묘비명%20지팡이%20(Screaming%20Tombstone%20Staff%20of%20Velrog).md)
+- [벨로그의 비명 묘비명 지팡이 (Screaming Tombstone Staff of Velrog)](../../01-19-1.무기/12.지팡이·완드/망자의%20울림%20(Voice%20of%20the%20Interred).md)
 - [비뢰의 사슬 조끼 (Chain-Vest of Lament)](../../01-19-2.방어구/03.로브·마법복/비뢰의%20사슬%20조끼%20(Chain-Vest%20of%20Lament).md)

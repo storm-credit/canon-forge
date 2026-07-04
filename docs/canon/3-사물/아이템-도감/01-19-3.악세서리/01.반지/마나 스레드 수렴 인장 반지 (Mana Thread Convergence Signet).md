@@ -102,5 +102,5 @@
 ## 🔗 관련 문서
 
 - [율리우스 아우렐리우스 (Julius Aurelius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md)
-- [아우렐리우스의 여명 지팡이 (Staff of Dawn's Aurelius)](../../01-19-1.무기/12.지팡이·완드/아우렐리우스의%20여명%20지팡이%20(Staff%20of%20Dawn's%20Aurelius)_2.md)
+- [아우렐리우스의 여명 지팡이 (Staff of Dawn's Aurelius)](../../01-19-1.무기/12.지팡이·완드/여명의%20홀%20(Scepter%20of%20Dawn).md)
 - [기억의 피눈물 비망록 (Inkblood Memory Codex)](../08.성물/기억의%20피눈물%20비망록%20(Inkblood%20Memory%20Codex).md)

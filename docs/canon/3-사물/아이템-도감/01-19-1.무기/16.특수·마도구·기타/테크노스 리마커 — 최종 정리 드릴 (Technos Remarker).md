@@ -91,4 +91,4 @@
 
 - [바실리온 테크노스 (Basilion Technos)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/06.바실리온테크노스.md)
 - [테크노스의 완전 오차 제거 계산반 (Technos Absolute-Error-Purge Calculation Disc)](../../../01-19-3.악세서리/10.특수마도구·마력핵/테크노스의%20완전%20오차%20제거%20계산반%20(Technos%20Absolute-Error-Purge%20Calculation%20Disc).md)
-- [바실리온 테크노스의 기억의 빛 완드 (Wand of Remembered Light)](../../12.지팡이·완드/바실리온%20테크노스의%20기억의%20빛%20완드%20(Wand%20of%20Remembered%20Light).md)
+- [바실리온 테크노스의 기억의 빛 완드 (Wand of Remembered Light)](../../12.지팡이·완드/공명%20결정봉%20(Resonance%20Crystalwand).md)

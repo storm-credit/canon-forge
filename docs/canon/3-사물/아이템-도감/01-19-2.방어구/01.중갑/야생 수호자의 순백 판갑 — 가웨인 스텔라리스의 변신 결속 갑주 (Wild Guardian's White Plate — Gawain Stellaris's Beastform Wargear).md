@@ -80,5 +80,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris) — 자연의 방랑자](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/12.자연의방랑자/01.가웨인스텔라리스.md)
-- [곰뼈 오라클 지팡이 '뿌리의 노래' — 가웨인 스텔라리스의 야생 매개체 (Bearbone Oracle Staff, Song of the Root — Gawain Stellaris's Wild Conduit)](../../01-19-1.무기/12.지팡이·완드/곰뼈%20오라클%20지팡이%20'뿌리의%20노래'%20—%20가웨인%20스텔라리스의%20야생%20매개체%20(Bearbone%20Oracle%20Staff,%20Song%20of%20the%20Root%20—%20Gawain%20Stellaris's%20Wild%20Conduit).md)
+- [곰뼈 오라클 지팡이 '뿌리의 노래' — 가웨인 스텔라리스의 야생 매개체 (Bearbone Oracle Staff, Song of the Root — Gawain Stellaris's Wild Conduit)](../../01-19-1.무기/12.지팡이·완드/뿌리의%20노래%20(Song%20of%20the%20Root).md)
 - [자연의 방랑자](../../../../2-무대/세력/용병단/자연의방랑자/자연의방랑자.md)

@@ -94,5 +94,5 @@
 ## 🔗 관련 문서
 
 - [테일런 아에투스 (Taelrun Aetus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/01.테일런아에투스.md)
-- [천공의 닻 지팡이 '아에투스의 사슬' (Staff of the Celestial Anchor)](../../01-19-1.무기/12.지팡이·완드/천공의%20닻%20지팡이%20'아에투스의%20사슬'%20(Staff%20of%20the%20Celestial%20Anchor).md)
+- [천공의 닻 지팡이 '아에투스의 사슬' (Staff of the Celestial Anchor)](../../01-19-1.무기/12.지팡이·완드/아에투스의%20사슬%20(Aetus's%20Chain).md)
 - [오르도스의 성해반 (Astrolabe of Ordos)](오르도스의%20성해반%20(Astrolabe%20of%20Ordos).md)

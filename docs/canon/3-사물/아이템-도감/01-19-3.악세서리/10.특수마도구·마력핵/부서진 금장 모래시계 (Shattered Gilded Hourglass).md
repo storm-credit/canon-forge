@@ -97,5 +97,5 @@
 ## 🔗 관련 문서
 
 - [칼리아나 크로니아 (Kalyana Chronia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/01.칼리아나크로니아.md)
-- [크로노스의 멈춰버린 시계추 지팡이 (Pendulum-Staff of Stopped Time of Chronos)](../../01-19-1.무기/12.지팡이·완드/크로노스의 멈춰버린 시계추 지팡이 (Pendulum-Staff of Stopped Time of Chronos).md)
+- [크로노스의 멈춰버린 시계추 지팡이 (Pendulum-Staff of Stopped Time of Chronos)](../../01-19-1.무기/12.지팡이·완드/크로노스 (Chronos).md)
 - [종교백과 - 뒤로 떨어지는 눈물방울의 향로 (Censer of the Backward-Falling Teardrop)](../08.성물/종교백과 - 뒤로 떨어지는 눈물방울의 향로 (Censer of the Backward-Falling Teardrop).md)

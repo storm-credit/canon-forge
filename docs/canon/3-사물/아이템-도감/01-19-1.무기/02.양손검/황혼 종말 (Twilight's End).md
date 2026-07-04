@@ -111,4 +111,4 @@
 
 - [다크엔드 라미엘 (Darkend Ramiel)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/18.다크엔드라미엘.md)
 - [황혼 이중성의 균열 후광 (Rift Halo of Twilight Duality)](../../../01-19-3.악세서리/04.머리장식/황혼%20이중성의%20균열%20후광%20(Rift%20Halo%20of%20Twilight%20Duality).md)
-- [다크엔드 라미엘의 기억의 빛 완드 (Wand of Remembered Light)](../../12.지팡이·완드/다크엔드%20라미엘의%20기억의%20빛%20완드%20(Wand%20of%20Remembered%20Light).md)
+- [다크엔드 라미엘의 기억의 빛 완드 (Wand of Remembered Light)](../../12.지팡이·완드/기억의%20빛%20(Remembered%20Light).md)
