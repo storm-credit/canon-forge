@@ -94,5 +94,5 @@
 ## 🔗 관련 문서
 
 - [세리아 스텔라리스 (Seria Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/1.저주받은용병단/06.세리아스텔라리스.md)
-- [별자리를 잃지 않는 안내자 (The Guide Who Never Loses the Stars)](../../01-19-1.무기/01.한손검/별자리를%20잃지%20않는%20안내자%20(The%20Guide%20Who%20Never%20Loses%20the%20Stars).md)
+- [별자리를 잃지 않는 안내자 (The Guide Who Never Loses the Stars)](../../01-19-1.무기/01.한손검/스텔라%20두칸%20(Stella%20Ducem).md)
 - 저주받은 용병단 (Cursed Mercenaries)

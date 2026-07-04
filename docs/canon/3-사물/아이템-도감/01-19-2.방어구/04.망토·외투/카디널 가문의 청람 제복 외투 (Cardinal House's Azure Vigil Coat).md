@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [실비아 카디널 (Silvia Cardinal)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/2.창백한거미줄첩보망/실비아카디널.md)
-- [카디널 파수대의 서약검 '별빛에 지지 않는 밤' (Cardinal Vigil's Oathblade — Night That Yields to No Star)](../../01-19-1.무기/01.한손검/카디널 파수대의 서약검 '별빛에 지지 않는 밤' (Cardinal Vigil's Oathblade — Night That Yields to No Star).md)
+- [카디널 파수대의 서약검 '별빛에 지지 않는 밤' (Cardinal Vigil's Oathblade — Night That Yields to No Star)](../../01-19-1.무기/01.한손검/별빛에 지지 않는 밤 (Night That Yields to No Star).md)
 - [창백한 거미줄 첩보망](../../../../2-무대/세력/그림자첩보/창백한거미줄/창백한거미줄.md)

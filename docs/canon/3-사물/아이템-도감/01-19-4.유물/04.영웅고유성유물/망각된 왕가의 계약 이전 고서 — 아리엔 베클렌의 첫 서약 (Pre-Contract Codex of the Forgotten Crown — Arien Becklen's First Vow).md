@@ -47,4 +47,4 @@
 
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/11.신성계약단/09.아리엔베클렌.md)
-- [맹세지킴이 — 아리엔 베클렌의 눈먼 재판검 (Oathkeeper — Arien Becklen's Blind Verdict Blade)](../../01-19-1.무기/01.한손검/맹세지킴이 — 아리엔 베클렌의 눈먼 재판검 (Oathkeeper — Arien Becklen's Blind Verdict Blade).md)
+- [맹세지킴이 — 아리엔 베클렌의 눈먼 재판검 (Oathkeeper — Arien Becklen's Blind Verdict Blade)](../../01-19-1.무기/01.한손검/맹세지킴이 (Oathkeeper).md)

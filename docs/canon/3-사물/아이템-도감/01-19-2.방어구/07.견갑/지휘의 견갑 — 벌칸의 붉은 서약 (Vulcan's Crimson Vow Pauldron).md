@@ -85,5 +85,5 @@
 ## 🔗 관련 문서
 
 - [베가 아이언클래드 (Vega Ironclad)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/베가아이언클래드.md)
-- [용광로의 유성검 — 스텔라 인페르노 (Stella Inferno, Meteor Blade of the Vulcan Forge)](../../01-19-1.무기/01.한손검/용광로의 유성검 — 스텔라 인페르노 (Stella Inferno, Meteor Blade of the Vulcan Forge).md)
+- [용광로의 유성검 — 스텔라 인페르노 (Stella Inferno, Meteor Blade of the Vulcan Forge)](../../01-19-1.무기/01.한손검/스텔라 인페르노 (Stella Inferno).md)
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry)

@@ -93,5 +93,5 @@
 ## 🔗 관련 문서
 
 - [로잘린드 맥시무스 (Rosalind Maximus)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/5.아발론철도공사/로잘린드맥시무스.md)
-- [룬각인 마검 레일커터 (Rune-Engraved Runeblade — Railcutter)](../01.한손검/룬각인%20마검%20레일커터%20(Rune-Engraved%20Runeblade%20—%20Railcutter).md)
+- [룬각인 마검 레일커터 (Rune-Engraved Runeblade — Railcutter)](../01.한손검/레일커터%20(Railcutter).md)
 - [잊혀진 왕가의 서약검 (Oathblade of the Forgotten Crown)](../01.한손검/잊혀진%20왕가의%20서약검%20(Oathblade%20of%20the%20Forgotten%20Crown).md) — 아서 펜드래곤의 유사 왕가 유물

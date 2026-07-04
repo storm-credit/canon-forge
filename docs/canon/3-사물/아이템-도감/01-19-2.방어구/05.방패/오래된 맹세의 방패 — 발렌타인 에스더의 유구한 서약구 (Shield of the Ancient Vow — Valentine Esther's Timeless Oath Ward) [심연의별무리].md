@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 
 - [발렌타인 에스더 (Valentine Esther, 심연의 별무리)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/5.심연의별무리/04.발렌타인에스더.md)
-- [별빛의 시 — 발렌타인 에스더의 서약쾌검 (Poetry of Starlight — Valentine Esther's Vowbound Swiftblade)](../../01-19-1.무기/01.한손검/별빛의 시 — 발렌타인 에스더의 서약쾌검 (Poetry of Starlight — Valentine Esther's Vowbound Swiftblade) [심연의별무리].md)
+- [별빛의 시 — 발렌타인 에스더의 서약쾌검 (Poetry of Starlight — Valentine Esther's Vowbound Swiftblade)](../../01-19-1.무기/01.한손검/아비스텔라 (Abystella).md)

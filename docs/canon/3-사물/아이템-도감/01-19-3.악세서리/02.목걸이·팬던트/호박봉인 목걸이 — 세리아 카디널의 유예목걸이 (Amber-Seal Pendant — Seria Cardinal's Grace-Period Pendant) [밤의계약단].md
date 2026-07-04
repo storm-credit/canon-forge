@@ -80,5 +80,5 @@
 
 ## 🔗 관련 문서
 - [세리아 카디널 (Seria Cardinal)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/6.밤의계약단/03.세리아카디널.md)
-- [고대 명검 이시스-아스트라 — 세리아 카디널의 재움의 서약검 (Ancient Blade Isis-Astra — Seria Cardinal's Vow of Stillness Blade)](../../01-19-1.무기/01.한손검/고대%20명검%20이시스-아스트라%20—%20세리아%20카디널의%20재움의%20서약검%20(Ancient%20Blade%20Isis-Astra%20—%20Seria%20Cardinal's%20Vow%20of%20Stillness%20Blade)%20[밤의계약단].md)
+- [고대 명검 이시스-아스트라 — 세리아 카디널의 재움의 서약검 (Ancient Blade Isis-Astra — Seria Cardinal's Vow of Stillness Blade)](../../01-19-1.무기/01.한손검/재움검%20이시스-아스트라%20(Stilling%20Blade%20Isis-Astra).md)
 - 밤의 계약단 (Coven of the Night)

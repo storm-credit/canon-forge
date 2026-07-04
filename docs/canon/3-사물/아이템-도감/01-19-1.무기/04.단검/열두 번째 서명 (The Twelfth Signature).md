@@ -102,4 +102,4 @@
 ## 🔗 관련 문서
 - [아테나 아르트리우스 (Athena Artorius, 저주받은 용병단)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/1.저주받은용병단/08.아테나아르트리우스.md)
 - [저주받은 용병단](../../../../2-무대/세력/용병단/저주받은용병단/저주받은용병단.md)
-- [서약 봉인검 '별빛에 저무는 밤' (Vow-Sealed Blade — Night That Fades to Starlight)](../01.한손검/서약%20봉인검%20'별빛에%20저무는%20밤'%20(Vow-Sealed%20Blade%20—%20Night%20That%20Fades%20to%20Starlight).md)
+- [서약 봉인검 '별빛에 저무는 밤' (Vow-Sealed Blade — Night That Fades to Starlight)](../01.한손검/별빛에%20저무는%20밤%20(Night%20That%20Fades%20to%20Starlight).md)

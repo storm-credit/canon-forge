@@ -96,5 +96,5 @@
 ## 🔗 관련 문서
 
 - [시리우스 에스더 (Sirius Esther)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/6.밤의계약단/시리우스에스더.md)
-- [별의 잔영을 벼린 이중검 — 시리우스 에스더의 야경검 (Blade of Star-Afterimage — Sirius Esther's Night-Vigil Sword)](../../01-19-1.무기/01.한손검/별의%20잔영을%20벼린%20이중검%20—%20시리우스%20에스더의%20야경검%20(Blade%20of%20Star-Afterimage%20—%20Sirius%20Esther's%20Night-Vigil%20Sword).md)
+- [별의 잔영을 벼린 이중검 — 시리우스 에스더의 야경검 (Blade of Star-Afterimage — Sirius Esther's Night-Vigil Sword)](../../01-19-1.무기/01.한손검/디에스%20녹스%20(Dies%20Nox).md)
 - 밤의 계약단 (Coven of the Night)

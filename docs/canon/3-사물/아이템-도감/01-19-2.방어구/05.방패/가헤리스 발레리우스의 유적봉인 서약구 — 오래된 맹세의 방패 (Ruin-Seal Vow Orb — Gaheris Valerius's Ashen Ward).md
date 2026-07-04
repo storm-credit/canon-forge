@@ -93,5 +93,5 @@
 
 ## 🔗 관련 문서
 - [가헤리스 발레리우스 (Gaheris Valerius, 미다스 연금술 철고)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/7.미다스연금술철고/01.가헤리스발레리우스.md)
-- [유적각인 룬검 이시스-아스트라 — 가헤리스 발레리우스의 별빛순례 서약검 (Ruin-Etched Runeblade Isis-Astra — Gaheris Valerius's Starlit Pilgrim Oath Blade)](../../01-19-1.무기/01.한손검/유적각인 룬검 이시스-아스트라 — 가헤리스 발레리우스의 별빛순례 서약검 (Ruin-Etched Runeblade Isis-Astra — Gaheris Valerius's Starlit Pilgrim Oath Blade).md)
+- [유적각인 룬검 이시스-아스트라 — 가헤리스 발레리우스의 별빛순례 서약검 (Ruin-Etched Runeblade Isis-Astra — Gaheris Valerius's Starlit Pilgrim Oath Blade)](../../01-19-1.무기/01.한손검/룬베일 (Runveil).md)
 - 미다스 연금술 철고 (Midas Alchemical Vault)

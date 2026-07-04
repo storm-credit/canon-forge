@@ -86,4 +86,4 @@
 
 ## 🔗 관련 문서
 - [카르멘 어스바운드 (Carmen Earthbound)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/1.천상의서고/카르멘어스바운드.md)
-- [별빛 서약검 — 유리스텔라 (Starlight Oathblade — Yulistella)](../../01-19-1.무기/01.한손검/별빛 서약검 — 유리스텔라 (Starlight Oathblade — Yulistella).md)
+- [별빛 서약검 — 유리스텔라 (Starlight Oathblade — Yulistella)](../../01-19-1.무기/01.한손검/유리스텔라 (Yulistella).md)

@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [카르멘 라크루아 (Carmen Lacroix)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/9.루벨라이트보석상단/06.카르멘라크루아.md)
-- [루벨라이트 레이피어 — 발두르 할로윈의 보석화 도검 (Rubellite Rapier — Baldur Halloween's Petrifying Blade)](../01.한손검/루벨라이트%20레이피어%20—%20발두르%20할로윈의%20보석화%20도검%20(Rubellite%20Rapier%20—%20Baldur%20Halloween's%20Petrifying%20Blade).md) — 동일 계보 원형
+- [루벨라이트 레이피어 — 발두르 할로윈의 보석화 도검 (Rubellite Rapier — Baldur Halloween's Petrifying Blade)](../01.한손검/찬란한%20단두대%20(Radiant%20Guillotine).md) — 동일 계보 원형
 - 루벨라이트 보석 상단 (Rubellite Jewel Alliance) — 보름달 결사단

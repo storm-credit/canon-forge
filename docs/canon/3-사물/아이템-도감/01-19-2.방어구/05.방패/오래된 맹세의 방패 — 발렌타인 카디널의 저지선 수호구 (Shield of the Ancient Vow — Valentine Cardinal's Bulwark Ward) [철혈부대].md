@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 카디널 (Valentine Cardinal, 철혈 부대)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/6.철혈부대/05.발렌타인카디널.md)
-- [저지선에 벼린 유혈검 — 발렌타인 카디널의 서약검 (Bulwark-Forged Bloodblade — Valentine Cardinal's Vow Sword)](../../01-19-1.무기/01.한손검/저지선에 벼린 유혈검 — 발렌타인 카디널의 서약검 (Bulwark-Forged Bloodblade — Valentine Cardinal's Vow Sword) [철혈부대].md)
+- [저지선에 벼린 유혈검 — 발렌타인 카디널의 서약검 (Bulwark-Forged Bloodblade — Valentine Cardinal's Vow Sword)](../../01-19-1.무기/01.한손검/블러드 벌워크 (Blood Bulwark).md)
 - [철혈 부대](../../../../2-무대/세력/용병단/철혈부대/철혈부대.md)

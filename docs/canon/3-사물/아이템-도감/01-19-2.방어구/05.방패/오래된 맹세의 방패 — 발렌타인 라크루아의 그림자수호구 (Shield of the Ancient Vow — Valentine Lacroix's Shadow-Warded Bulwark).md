@@ -103,6 +103,6 @@
 ## 🔗 관련 문서
 
 - [발렌타인 라크루아 (Valentine Lacroix, 어둠의 손)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/1.어둠의손/02.발렌타인라크루아.md)
-- [별빛의 시 — 발렌타인 라크루아의 그림자서약검 (Poetry of Starlight — Valentine Lacroix's Shadow-Oath Blade)](../../01-19-1.무기/01.한손검/별빛의%20시%20—%20발렌타인%20라크루아의%20그림자서약검%20(Poetry%20of%20Starlight%20—%20Valentine%20Lacroix's%20Shadow-Oath%20Blade).md)
+- [별빛의 시 — 발렌타인 라크루아의 그림자서약검 (Poetry of Starlight — Valentine Lacroix's Shadow-Oath Blade)](../../01-19-1.무기/01.한손검/움브라스텔라%20(Umbrastella).md)
 - [어둠의 손 (Shadow Hand)](../../../../2-무대/세력/그림자첩보/어둠의손/어둠의손.md)
 - [오래된 맹세의 방패 — 발렌타인 라크루아의 유구한 수호구 (붉은 칼날 용병단, 동명이인 무관 장비)](../오래된%20맹세의%20방패%20—%20발렌타인%20라크루아의%20유구한%20수호구%20(Shield%20of%20the%20Ancient%20Vow%20—%20Valentine%20Lacroix's%20Timeworn%20Ward).md)

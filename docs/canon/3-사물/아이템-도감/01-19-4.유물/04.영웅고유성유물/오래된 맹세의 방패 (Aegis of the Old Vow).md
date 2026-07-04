@@ -85,5 +85,5 @@
 ## 🔗 관련 문서
 
 - [헤카테 베일 (Hecate Bale)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/4.옵시디언중립금고/헤카테베일.md)
-- [방랑자의 룬검 — 이정표의 노래 (Wanderer's Rune-Blade, Song of the Waymark)](../../01-19-1.무기/01.한손검/방랑자의 룬검 — 이정표의 노래 (Wanderer's Rune-Blade, Song of the Waymark).md)
+- [방랑자의 룬검 — 이정표의 노래 (Wanderer's Rune-Blade, Song of the Waymark)](../../01-19-1.무기/01.한손검/비아룬 (Viarune).md)
 - 옵시디언 중립 금고 (Obsidian Vaults)
