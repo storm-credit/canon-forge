@@ -92,5 +92,5 @@
 ## 🔗 관련 문서
 
 - [드라코스 라자루스 (Drakos Lazarus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/11.드라코스라자루스.md)
-- [부러진 회개의 은십자가 테오스 (Broken Silver-Cross of Repentance Theos)](../../01-19-1.무기/16.특수·마도구·기타/부러진%20회개의%20은십자가%20테오스%20(Broken%20Silver-Cross%20of%20Repentance%20Theos).md)
+- [부러진 회개의 은십자가 테오스 (Broken Silver-Cross of Repentance Theos)](../../01-19-1.무기/16.특수·마도구·기타/테오스%20(Theos).md)
 - [순교자의 검은 거미줄 수단 (Cassock of Martyr's Black Spider-Web)](../../01-19-2.방어구/03.로브·마법복/순교자의%20검은%20거미줄%20수단%20(Cassock%20of%20Martyr's%20Black%20Spider-Web).md)

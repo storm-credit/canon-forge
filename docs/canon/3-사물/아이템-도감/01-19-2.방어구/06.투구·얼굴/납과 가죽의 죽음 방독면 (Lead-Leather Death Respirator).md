@@ -101,4 +101,4 @@
 - [하드리아누스 풀비스 (Hadrianus Pulvis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/11.하드리아누스풀비스.md)
 - [강철 인공기도 파이프 (Steel Artificial Trachea Pipe)](../../../01-19-3.악세서리/10.특수마도구·마력핵/강철%20인공기도%20파이프%20(Steel%20Artificial%20Trachea%20Pipe).md)
 - [먼지를 흡수하는 죽음의 수의(Shroud) 로브 (Death-Shroud Robe that Absorbs Dust)](../03.로브·마법복/먼지를%20흡수하는%20죽음의%20수의(Shroud)%20로브%20(Death-Shroud%20Robe%20that%20Absorbs%20Dust).md)
-- [마그나카르타의 숨 막히는 항아리 (Suffocating Urn of Magna Carta)](../../01-19-1.무기/16.특수·마도구·기타/마그나카르타의%20숨%20막히는%20항아리%20(Suffocating%20Urn%20of%20Magna%20Carta).md)
+- [마그나카르타의 숨 막히는 항아리 (Suffocating Urn of Magna Carta)](../../01-19-1.무기/16.특수·마도구·기타/마그나카르타%20(Magna%20Carta).md)

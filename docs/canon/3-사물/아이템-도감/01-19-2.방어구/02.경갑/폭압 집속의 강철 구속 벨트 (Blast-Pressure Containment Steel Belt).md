@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [모루타락 골고타 (Mortarak Golgotha)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/05.모루타락골고타.md)
-- [화산재의 거둥 볼카누스 (Colossal Pillar of Ash: Volcanus)](../../01-19-1.무기/16.특수·마도구·기타/화산재의 거둥 볼카누스 (Colossal Pillar of Ash Volcanus).md)
+- [화산재의 거둥 볼카누스 (Colossal Pillar of Ash: Volcanus)](../../01-19-1.무기/16.특수·마도구·기타/볼카누스 (Volcanus).md)
 - [절연의 흑갑 로브 (Insulation Dark-Armor Robe)](../03.로브·마법복/절연의 흑갑 로브 (Insulation Dark-Armor Robe).md)

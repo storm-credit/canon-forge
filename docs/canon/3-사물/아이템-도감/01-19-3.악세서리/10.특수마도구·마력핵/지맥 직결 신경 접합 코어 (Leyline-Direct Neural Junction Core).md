@@ -61,7 +61,7 @@
 코어를 이식받은 이후 제레시스 아르카디아가 자신의 연인 이름을 기억하는지 여부는 마법협회 내에서 금기시된 질문이다.
 
 ### 관련 캐릭터
-- **제레시스 아르카디아** — 이식자이자 유일한 사용자. 코어는 제레시스 아르카디아를 황제로 만들었고, 동시에 황제가 아닌 자신을 조금씩 지워가는 장치다. 그는 이것을 안다. (연계: [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](../../01-19-1.무기/16.특수·마도구·기타/통제와%20심연의%20지배%20옥좌%20%28Throne%20of%20Abyssal%20Dominion%29.md), [아르카디아 황실 제국관 (Crown of the Arcadia Empire)](../04.머리장식/아르카디아%20황실%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md))
+- **제레시스 아르카디아** — 이식자이자 유일한 사용자. 코어는 제레시스 아르카디아를 황제로 만들었고, 동시에 황제가 아닌 자신을 조금씩 지워가는 장치다. 그는 이것을 안다. (연계: [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](../../01-19-1.무기/16.특수·마도구·기타/아비스%20도미니온%20%28Abyss%20Dominion%29.md), [아르카디아 황실 제국관 (Crown of the Arcadia Empire)](../04.머리장식/아르카디아%20황실%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md))
 
 ---
 
@@ -82,6 +82,6 @@
 
 ## 🔗 관련 문서
 - 제레시스 아르카디아 (Jeresys Arcadia)
-- [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](../../01-19-1.무기/16.특수·마도구·기타/통제와%20심연의%20지배%20옥좌%20%28Throne%20of%20Abyssal%20Dominion%29.md)
+- [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](../../01-19-1.무기/16.특수·마도구·기타/아비스%20도미니온%20%28Abyss%20Dominion%29.md)
 - [아르카디아 황실 제국관 (Crown of the Arcadia Empire)](../04.머리장식/아르카디아%20황실%20제국관%20%28Crown%20of%20the%20Arcadia%20Empire%29.md)
 - [황제의 마나 각인 인장반지 (Imperial Mana-Brand Signet Ring)](../01.반지/황제의%20마나%20각인%20인장반지%20%28Imperial%20Mana-Brand%20Signet%20Ring%29.md)

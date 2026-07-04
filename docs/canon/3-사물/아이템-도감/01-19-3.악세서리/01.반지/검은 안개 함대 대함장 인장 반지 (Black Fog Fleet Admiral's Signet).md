@@ -97,4 +97,4 @@
 - [카이우스 녹턴 (Kaius Nocturne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/01.카이우스녹턴.md)
 - [저주받은 선장의 룬 코트 (Cursed Captain's Rune-Coat)](../../../01-19-2.방어구/03.로브·마법복/저주받은 선장의 룬 코트 (Cursed Captain's Rune-Coat).md)
 - [어골 속삭임 통신 바늘 (Fish-Bone Whisper Needle)](../10.특수마도구·마력핵/어골 속삭임 통신 바늘 (Fish-Bone Whisper Needle).md)
-- [심연의 닻 (Abyssal Anchor)](../../../01-19-1.무기/16.특수·마도구·기타/심연의 닻 (Abyssal Anchor).md)
+- [심연의 닻 (Abyssal Anchor)](../../../01-19-1.무기/16.특수·마도구·기타/녹턴 앵커 (Nocturne Anchor).md)

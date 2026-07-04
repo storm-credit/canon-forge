@@ -80,4 +80,4 @@
 
 ## 🔗 관련 문서
 - [오르펠리안 크림소어 (Orphelian Crimsoar)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/02.오르펠리안크림소어.md)
-- [오르펠리안의 부식 앰플 벨트 (Corrosion Ampoule Belt of the Crimson Lab's Final Subject)](../../01-19-1.무기/16.특수·마도구·기타/오르펠리안의%20부식%20앰플%20벨트%20(Corrosion%20Ampoule%20Belt%20of%20the%20Crimson%20Lab's%20Final%20Subject).md)
+- [오르펠리안의 부식 앰플 벨트 (Corrosion Ampoule Belt of the Crimson Lab's Final Subject)](../../01-19-1.무기/16.특수·마도구·기타/크림슨%20미아즈마%20(Crimson%20Miasma).md)

@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [탈리아 에테리아 (Talia Aetheria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/06.탈리아에테리아.md)
-- [천공을 연주하는 폭풍왕의 하프 (Harp of the Storm-King Playing the Firmament)](../../01-19-1.무기/16.특수·마도구·기타/천공을%20연주하는%20폭풍왕의%20하프%20(Harp%20of%20the%20Storm-King%20Playing%20the%20Firmament).md)
+- [천공을 연주하는 폭풍왕의 하프 (Harp of the Storm-King Playing the Firmament)](../../01-19-1.무기/16.특수·마도구·기타/폭풍왕의%20서곡%20(Storm-King's%20Overture).md)
 - [베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield)](../05.방패/베르누이의%20단열%20실드%20코르셋%20(Corset%20of%20Bernoulli's%20Adiabatic%20Shield).md)

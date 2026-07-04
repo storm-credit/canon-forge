@@ -79,5 +79,5 @@
 
 ## 🔗 관련 문서
 - [볼그라드 스틸비어드 (Bolgrad Steelbeard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/01.볼그라드스틸비어드.md)
-- [형의 재를 품은 포지마스터의 흑모루 (Black Anvil of the Forgemaster, Cradling a Brother's Ashes)](../16.특수·마도구·기타/형의 재를 품은 포지마스터의 흑모루 (Black Anvil of the Forgemaster, Cradling a Brother's Ashes).md)
+- [형의 재를 품은 포지마스터의 흑모루 (Black Anvil of the Forgemaster, Cradling a Brother's Ashes)](../16.특수·마도구·기타/프라테르나 (Fraterna).md)
 - [포지마스터의 용접된 닻 방패 (Welded Anchor-Shield of the Forgemaster)](../../01-19-2.방어구/05.방패/포지마스터의 용접된 닻 방패 (Welded Anchor-Shield of the Forgemaster).md)

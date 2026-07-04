@@ -77,5 +77,5 @@
 
 ## 🔗 관련 문서
 - [세라피나 알 나하르 (Seraphina Al-Nahar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/02.세라피나알나하르.md)
-- [알 나하르의 굴절된 태양륜 (Refracted Sun-Chakram of Al-Nahar)](../../01-19-1.무기/16.특수·마도구·기타/알%20나하르의%20굴절된%20태양륜%20(Refracted%20Sun-Chakram%20of%20Al-Nahar).md)
+- [알 나하르의 굴절된 태양륜 (Refracted Sun-Chakram of Al-Nahar)](../../01-19-1.무기/16.특수·마도구·기타/헬리온%20(Helion).md)
 - [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](../../01-19-2.방어구/04.망토·외투/태양풍을%20흡수하는%20일식(Eclipse)의%20베일%20(Veil%20of%20Eclipse).md)

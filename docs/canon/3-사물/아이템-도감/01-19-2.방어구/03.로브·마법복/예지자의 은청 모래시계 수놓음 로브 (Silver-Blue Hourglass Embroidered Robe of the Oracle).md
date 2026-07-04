@@ -89,5 +89,5 @@
 ## 🔗 관련 문서
 
 - [엘리아 프레비아 (Elia Praevia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/05.엘리아프레비아.md)
-- [프레비아의 예지 수정막대 '시선' (Crystal Rod of Foresight: The Gaze)](../../01-19-1.무기/16.특수·마도구·기타/프레비아의 예지 수정막대 '시선' (Crystal Rod of Foresight The Gaze).md)
+- [프레비아의 예지 수정막대 '시선' (Crystal Rod of Foresight: The Gaze)](../../01-19-1.무기/16.특수·마도구·기타/시선 (The Gaze).md)
 - [불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion)](../04.망토·외투/불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion).md)

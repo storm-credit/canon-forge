@@ -80,5 +80,5 @@
 
 ## 🔗 관련 문서
 - [루시엔 아르티팩스 (Lucien Artifex)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/12.루시엔아르티팩스.md)
-- [잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time)](../../01-19-1.무기/16.특수·마도구·기타/잊혀진%20시간의%20파쇄%20곡괭이-탐사등%20(Pickaxe-Lantern%20of%20Forgotten%20Time).md)
+- [잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time)](../../01-19-1.무기/16.특수·마도구·기타/크로노스파이크%20(Chronospike).md)
 - [흙먼지 절은 현장 가죽 코트 (Field-Worn Leather Duster of the Excavation Front)](../02.경갑/흙먼지%20절은%20현장%20가죽%20코트%20(Field-Worn%20Leather%20Duster%20of%20the%20Excavation%20Front).md)

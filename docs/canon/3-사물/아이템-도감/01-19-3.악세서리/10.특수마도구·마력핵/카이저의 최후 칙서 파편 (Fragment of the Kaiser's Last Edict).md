@@ -100,5 +100,5 @@
 
 - [레온하트 에르드반 (Leonhart Erdvan)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/02.레온하트에르드반.md)
 - [카이저의 왕관 파편 (Fragment of the Kaiser's Crown)](../04.머리장식/카이저의 왕관 파편 (Fragment of the Kaiser's Crown).md)
-- [시간의 검 카이저 블러드 (Kaiser Blood)](../../../01-19-1.무기/16.특수·마도구·기타/시간의 검 카이저 블러드 (Kaiser Blood).md)
+- [시간의 검 카이저 블러드 (Kaiser Blood)](../../../01-19-1.무기/16.특수·마도구·기타/카이저 블러드 (Kaiser Blood).md)
 - 마도제국 폐허 (Ruins of Arcania)

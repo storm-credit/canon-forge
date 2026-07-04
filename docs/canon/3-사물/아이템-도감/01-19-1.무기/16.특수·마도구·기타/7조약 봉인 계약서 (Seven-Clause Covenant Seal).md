@@ -84,4 +84,4 @@
 - [세실리아 메르카토르 (Cecilia Mercator)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/06.세실리아메르카토르.md)
 - [계약의 깃펜 (Quill of Contract)](계약의%20깃펜%20(Quill%20of%20Contract).md)
 - [심연 봉쇄의 인장 반지 (Signet Ring of Abyssal Seal)](../../../01-19-3.악세서리/01.반지/심연%20봉쇄의%20인장%20반지%20(Signet%20Ring%20of%20Abyssal%20Seal).md)
-- [마력 각인 은폐 서신 (Mana-Imprinted Invisible Script)](마력%20각인%20은폐%20서신%20(Mana-Imprinted%20Invisible%20Script).md)
+- [마력 각인 은폐 서신 (Mana-Imprinted Invisible Script)](사일런트스크립트%20(Silent%20Script).md)

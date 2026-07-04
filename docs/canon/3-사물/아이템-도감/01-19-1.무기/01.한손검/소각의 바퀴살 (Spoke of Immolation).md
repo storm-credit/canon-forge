@@ -106,5 +106,5 @@
 ## 🔗 관련 문서
 
 - [라그나 솔 (Ragna Sol)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/17.라그나솔.md)
-- [태양 수레바퀴의 궤적 (Orbit of the Solar Wheel)](../16.특수·마도구·기타/태양 수레바퀴의 궤적 (Orbit of the Solar Wheel).md)
+- [태양 수레바퀴의 궤적 (Orbit of the Solar Wheel)](../16.특수·마도구·기타/솔라 오르비스 (Sol Orbis).md)
 - [흑일륜의 재관 (Ashen Crown of the Black Sun)](../../../01-19-3.악세서리/04.머리장식/흑일륜의 재관 (Ashen Crown of the Black Sun).md)

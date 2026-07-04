@@ -92,5 +92,5 @@
 
 ## 🔗 관련 문서
 - [마리안 히베르나콜보 (Marianne Hibernavoco)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/09.마리안히베르나콜보.md)
-- [울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling)](../../01-19-1.무기/16.특수·마도구·기타/울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling).md)
+- [울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling)](../../01-19-1.무기/16.특수·마도구·기타/울부짖는 빙금 피리 (Howling Ice-Flute).md)
 - [설표의 기둥 치마 (Pillar-Skirt of the Snow Leopard)](../03.로브·마법복/설표의 기둥 치마 (Pillar-Skirt of the Snow Leopard).md)

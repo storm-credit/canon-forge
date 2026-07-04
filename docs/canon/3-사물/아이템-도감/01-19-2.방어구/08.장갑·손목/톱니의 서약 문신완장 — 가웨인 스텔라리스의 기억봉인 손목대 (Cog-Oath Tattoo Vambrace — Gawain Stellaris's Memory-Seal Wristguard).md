@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris) — 황금 기계단](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/9.황금기계단/03.가웨인스텔라리스.md)
-- [소울기어 마리오네트 프레임 — 가웨인 스텔라리스의 유해 결속 인형틀 (Soul-Gear Marionette Frame — Gawain Stellaris's Remains-Bound Puppet Rig)](../../01-19-1.무기/16.특수·마도구·기타/소울기어%20마리오네트%20프레임%20—%20가웨인%20스텔라리스의%20유해%20결속%20인형틀%20(Soul-Gear%20Marionette%20Frame%20—%20Gawain%20Stellaris's%20Remains-Bound%20Puppet%20Rig).md)
+- [소울기어 마리오네트 프레임 — 가웨인 스텔라리스의 유해 결속 인형틀 (Soul-Gear Marionette Frame — Gawain Stellaris's Remains-Bound Puppet Rig)](../../01-19-1.무기/16.특수·마도구·기타/유해의%20합창단%20(Chorus%20of%20the%20Remains).md)
 - [황금 기계단](../../../../2-무대/세력/용병단/황금기계단/황금기계단.md)

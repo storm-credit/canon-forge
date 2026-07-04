@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 - [카엘 벤투스 (Kael Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/07.카엘벤투스.md)
 - [독수리의 별 무리 렌즈 (Star-cluster Lens of the Eagle)](독수리의%20별%20무리%20렌즈%20(Star-cluster%20Lens%20of%20the%20Eagle).md)
-- [색인 마나 깃털 신호탄 — 카엘의 하늘 암호 (Color-Coded Mana Feather Signal — Sky Cipher of Kael)](../../01-19-1.무기/16.특수·마도구·기타/색인%20마나%20깃털%20신호탄%20—%20카엘의%20하늘%20암호%20(Color-Coded%20Mana%20Feather%20Signal%20—%20Sky%20Cipher%20of%20Kael).md)
+- [색인 마나 깃털 신호탄 — 카엘의 하늘 암호 (Color-Coded Mana Feather Signal — Sky Cipher of Kael)](../../01-19-1.무기/16.특수·마도구·기타/카엘의%20별자리%20(Constellation%20of%20Kael).md)

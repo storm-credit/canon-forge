@@ -77,7 +77,7 @@
 | 맹약검 이시스-아스트라 (Vowblade Isis-Astra) | [맹약검 이시스-아스트라 (Vowblade Isis-Astra)](맹약검%20이시스-아스트라%20%28Vowblade%20Isis-Astra%29.md) |
 | 모르티스 (Mortis) | [모르티스 (Mortis)](모르티스%20%28Mortis%29.md) |
 | 뫼비우스서약검 이시스-아스트라 — 아리엔 노바의 미로회귀검 (Möbius-Oath Blade Isis-Astra — Arien Nova's Labyrinth-Return Blade) | [뫼비우스서약검 이시스-아스트라 — 아리엔 노바의 미로회귀검 (Möbius-Oath Blade Isis-Astra — Arien Nova's Labyrinth-Return Blade)](뫼비우스서약검%20이시스-아스트라%20—%20아리엔%20노바의%20미로회귀검%20%28Möbius-Oath%20Blade%20Isis-Astra%20—%20Arien%20Nova's%20Labyrinth-Return%20Blade%29.md) |
-| 묘지기의 관 (Coffin of Weapons) | [묘지기의 관 (Coffin of Weapons)](묘지기의%20관%20%28Coffin%20of%20Weapons%29.md) |
+| 묘지기의 관 (Coffin of Weapons) | [묘지기의 관 (Coffin of Weapons)](../16.특수·마도구·기타/묘지기의%20관%20%28Gravekeeper's%20Coffin%29.md) |
 | 무명 장검 (Nameless Longsword) | [무명 장검 (Nameless Longsword)](무명%20장검%20%28Nameless%20Longsword%29.md) |
 | 묵언검 '별빛의 시' — 실비아 나이트폴의 기아스 검무 (Vow-Silenced Blade, Poetry of Starlight — Silvia Nightfall's Geas Swordplay) | [묵언검 '별빛의 시' — 실비아 나이트폴의 기아스 검무 (Vow-Silenced Blade, Poetry of Starlight — Silvia Nightfall's Geas Swordplay)](묵언검%20'별빛의%20시'%20—%20실비아%20나이트폴의%20기아스%20검무%20%28Vow-Silenced%20Blade,%20Poetry%20of%20Starlight%20—%20Silvia%20Nightfall's%20Geas%20Swordplay%29.md) |
 | 묵언검 이시스-아스트라 — 기네비어 스텔라리스의 기아스 서약검 (Silent-Vow Blade Isis-Astra — Guinevere Stellaris's Geas-Bound Blade) | [묵언검 이시스-아스트라 — 기네비어 스텔라리스의 기아스 서약검 (Silent-Vow Blade Isis-Astra — Guinevere Stellaris's Geas-Bound Blade)](묵언검%20이시스-아스트라%20—%20기네비어%20스텔라리스의%20기아스%20서약검%20%28Silent-Vow%20Blade%20Isis-Astra%20—%20Guinevere%20Stellaris's%20Geas-Bound%20Blade%29.md) |

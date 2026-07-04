@@ -85,4 +85,4 @@
 - [데이비온 어비스 (Davion Abyss)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/12.데이비온어비스.md)
 - [강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun)](../06.창/강철%20폭발%20삼지창과%20작살포%20%28Exploding%20Trident%20%26%20Auto-Harpoon%20Gun%29.md)
 - [초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit)](../../01-19-2.방어구/03.로브·마법복/초중량%20마도%20다이빙%20슈트%20%28Hyper-Weight%20Arcane%20Diving%20Suit%29.md)
-- [워터 제트 추진 마나 등짐 탱크 (Water-Jet Mana Propulsion Backpack)](../16.특수·마도구·기타/워터%20제트%20추진%20마나%20등짐%20탱크%20%28Water-Jet%20Mana%20Propulsion%20Backpack%29.md)
+- [워터 제트 추진 마나 등짐 탱크 (Water-Jet Mana Propulsion Backpack)](../16.특수·마도구·기타/쌍%20물고기%20%28Twin-Fish%29.md)

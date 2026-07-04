@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [바르마 사일런티움 (Barma Silentium)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/14.바르마사일런티움.md)
-- [사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium)](../../../01-19-1.무기/16.특수·마도구·기타/사일런티움의%20무거운%20대속%20묵주%20(Heavy%20Rosary%20of%20Atonement%20of%20Silentium).md)
+- [사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium)](../../../01-19-1.무기/16.특수·마도구·기타/대속의%20묵주%20(Rosary%20of%20Atonement).md)
 - [피로 얼룩진 백색 세례수병 (Blood-Stained White Baptismal Water Bottle)](피로%20얼룩진%20백색%20세례수병%20(Blood-Stained%20White%20Baptismal%20Water%20Bottle).md)

@@ -79,5 +79,5 @@
 
 ## 🔗 관련 문서
 - [브루모어 레드모루 (Brumor Red-anvil)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/09.브루모어레드모루.md)
-- [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](../../01-19-1.무기/16.특수·마도구·기타/인쿠디스의%20형상기억%20분쇄마치%20(Shape-Memory%20Crusher%20of%20Incudis).md)
+- [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](../../01-19-1.무기/16.특수·마도구·기타/인쿠디스%20(Incudis).md)
 - [불꽃 수염 소형 모루 부적 (Ember-Beard Miniature Anvil Charm)](../07.부적/불꽃%20수염%20소형%20모루%20부적%20(Ember-Beard%20Miniature%20Anvil%20Charm).md)

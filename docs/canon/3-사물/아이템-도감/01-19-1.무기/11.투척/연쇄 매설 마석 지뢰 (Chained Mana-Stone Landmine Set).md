@@ -86,4 +86,4 @@
 ## 🔗 관련 문서
 - [세바스찬 아이언웨이크 (Sebastian Ironwake)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/13.세바스찬아이언웨이크.md)
 - [휴대용 연축 다연장 마도 중기관총 '그라인더' (Rotary M-Gun 'The Grinder')](../15.화기/휴대용%20연축%20다연장%20마도%20중기관총%20'그라인더'%20%28Rotary%20M-Gun%20'The%20Grinder'%29.md)
-- [수면 쇠사슬 방벽 기폭 제어반 (Sub-Surface Chain Barricade Control Panel)](../16.특수·마도구·기타/수면%20쇠사슬%20방벽%20기폭%20제어반%20%28Sub-Surface%20Chain%20Barricade%20Control%20Panel%29.md)
+- [수면 쇠사슬 방벽 기폭 제어반 (Sub-Surface Chain Barricade Control Panel)](../16.특수·마도구·기타/세바스찬의%20오르간%20%28Sebastian's%20Organ%29.md)

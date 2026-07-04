@@ -93,5 +93,5 @@
 
 - [네리안 겔루팔루스 (Nerian Gelupalus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/08.네리안겔루팔루스.md)
 - [겔루팔루스의 해부용 사슬 낫 - 백야의 면도날 (Anatomy Chain-Scythe, White-Night Razor)](../09.낫/겔루팔루스의%20해부용%20사슬%20낫%20-%20백야의%20면도날%20(Anatomy%20Chain-Scythe,%20White-Night%20Razor).md)
-- [심문관의 얼음 결박 쇠사슬 (Inquisitor's Ice-Binding Shackle Chains)](../16.특수·마도구·기타/심문관의%20얼음%20결박%20쇠사슬%20(Inquisitor's%20Ice-Binding%20Shackle%20Chains).md)
+- [심문관의 얼음 결박 쇠사슬 (Inquisitor's Ice-Binding Shackle Chains)](../16.특수·마도구·기타/서리%20자백%20(Frost%20Confession).md)
 - [무통증의 구속 마스크 (Pain-Numbing Restraint Mask)](../../01-19-4.유물/04.영웅고유성유물/무통증의%20구속%20마스크%20(Pain-Numbing%20Restraint%20Mask).md)

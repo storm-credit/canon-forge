@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 
 - [베르드론 겔루울루스 (Berdron Geluululatus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/10.베르드론겔루울루스.md)
-- [겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell)](../../01-19-1.무기/16.특수·마도구·기타/겔루울루스의%20쌍인부%20-%20염옥과%20빙옥%20(Twin%20Axes%20of%20Inferno%20and%20Glacial-Hell).md)
+- [겔루울루스의 쌍인부 - 염옥과 빙옥 (Twin Axes of Inferno and Glacial-Hell)](../../01-19-1.무기/16.특수·마도구·기타/염옥과%20빙옥%20(Inferno%20and%20Glacial-Hell).md)
 - [단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate)](../01.중갑/단열의%20검붉은%20코뿔소%20판갑%20(Insulated%20Crimson%20Rhino-Plate).md)

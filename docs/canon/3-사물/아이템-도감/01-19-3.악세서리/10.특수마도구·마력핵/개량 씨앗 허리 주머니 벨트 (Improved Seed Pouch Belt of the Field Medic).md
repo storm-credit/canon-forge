@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [테라스 솔라비드 (Terras Solavid)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/13.테라스솔라비드.md)
-- [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](../../../01-19-1.무기/16.특수·마도구·기타/솔라비드의%20움트는%20세계수%20묘목%20(Sapling%20of%20Solavid's%20Sprouting%20World%20Tree).md)
+- [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](../../../01-19-1.무기/16.특수·마도구·기타/세계수%20묘목%20(World%20Tree%20Sapling).md)
 - [피 묻은 생명 인도자의 밀짚모자 (Bloodstained Straw Hat of the Life-Guide)](../../../01-19-2.방어구/06.투구·얼굴/피%20묻은%20생명%20인도자의%20밀짚모자%20(Bloodstained%20Straw%20Hat%20of%20the%20Life-Guide).md)

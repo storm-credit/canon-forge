@@ -81,4 +81,4 @@
 ## 🔗 관련 문서
 - [제레시스 아르카디아 (Jeresys Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/01.제레시스아르카디아.md)
 - [시공간 단절의 패러독스 황의 (Robes of Spatiotemporal Severance)](../03.로브·마법복/시공간%20단절의%20패러독스%20황의%20(Robes%20of%20Spatiotemporal%20Severance).md)
-- [아르카디아의 종말 심판장 (Judgment Staff of Arcadia)](../../01-19-1.무기/16.특수·마도구·기타/아르카디아의%20종말%20심판장%20(Judgment%20Staff%20of%20Arcadia).md)
+- [아르카디아의 종말 심판장 (Judgment Staff of Arcadia)](../../01-19-1.무기/16.특수·마도구·기타/종말%20심판장%20(Staff%20of%20Final%20Verdict).md)

@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [아라크네 소울위버 (Arachne Soulweaver)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/11.아라크네소울위버.md)
-- [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](../../01-19-1.무기/16.특수·마도구·기타/위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament).md)
+- [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](../../01-19-1.무기/16.특수·마도구·기타/비탄의 실패 (Reel of Lament).md)
 - [맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity)](../../01-19-3.악세서리/02.목걸이·팬던트/맹목적 모성애의 심장 펜던트 (Heart Pendant of Blind Maternity).md)

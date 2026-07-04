@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 
 - [테오릭 볼칸 (Theoric Volcan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/11.테오릭볼칸.md)
-- [설계자의 차원 나침반 (Dimensional Compass of the Architect)](../../01-19-1.무기/16.특수·마도구·기타/설계자의%20차원%20나침반%20(Dimensional%20Compass%20of%20the%20Architect).md)
+- [설계자의 차원 나침반 (Dimensional Compass of the Architect)](../../01-19-1.무기/16.특수·마도구·기타/아키텍트%20콤파스%20(Architect's%20Compass).md)
 - [절연된 참모의 망토 (Insulated Cloak of the Staff)](../04.망토·외투/절연된%20참모의%20망토%20(Insulated%20Cloak%20of%20the%20Staff).md)

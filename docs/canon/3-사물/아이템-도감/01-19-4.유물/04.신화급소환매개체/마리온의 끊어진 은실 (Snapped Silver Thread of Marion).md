@@ -86,5 +86,5 @@
 ## 🔗 관련 문서
 
 - [세레니아 마리온 (Serenia Marion)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/08.세레니아마리온.md)
-- [운명의 실 얽힌 타래 (Spool of Fate's Thread)](../../01-19-1.무기/16.특수·마도구·기타/운명의 실 얽힌 타래 (Spool of Fate's Thread).md)
+- [운명의 실 얽힌 타래 (Spool of Fate's Thread)](../../01-19-1.무기/16.특수·마도구·기타/라케시스 (Lachesis).md)
 - [마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork)](../04.영웅고유성유물/마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork).md)

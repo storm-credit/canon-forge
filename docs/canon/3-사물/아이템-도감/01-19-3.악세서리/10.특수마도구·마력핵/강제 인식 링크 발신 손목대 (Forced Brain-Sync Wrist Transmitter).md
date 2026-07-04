@@ -100,4 +100,4 @@
 - [테오도르 뱅가드 (Theodor Vanguard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/12.테오도르뱅가드.md)
 - [전장 독해 예지경 (Battlefield-Reading Foresight Spectacles)](전장 독해 예지경 (Battlefield-Reading Foresight Spectacles).md)
 - [뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard)](../../01-19-1.무기/07.둔기/뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard).md)
-- [극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table)](../../01-19-1.무기/16.특수·마도구·기타/극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table).md)
+- [극전술 환영 입체진 지휘 테이블 (Omni-Tactics Holographic Command Table)](../../01-19-1.무기/16.특수·마도구·기타/세계재단반 (Worldloom Table).md)

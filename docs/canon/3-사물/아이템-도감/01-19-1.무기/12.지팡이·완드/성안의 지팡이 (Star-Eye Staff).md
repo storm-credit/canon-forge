@@ -96,5 +96,5 @@
 ## 🔗 관련 문서
 
 - [엘리노어 아스트랄 (Eleanor Astral)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/10.엘리노어아스트랄.md)
-- [천구경 아스트랄라베 (Celestial Sphere Astrolabe)](../16.특수%C2%B7마도구%C2%B7기타/천구경%20아스트랄라베%20(Celestial%20Sphere%20Astrolabe).md)
+- [천구경 아스트랄라베 (Celestial Sphere Astrolabe)](../16.특수%C2%B7마도구%C2%B7기타/항성의%20정조준%20(Stellar%20Convergence).md)
 - [룬 자수 칠흑 안대 (Runic Embroidery Pitch-Black Blindfold)](../../01-19-2.방어구/06.투구%C2%B7얼굴/룬%20자수%20칠흑%20안대%20(Runic%20Embroidery%20Pitch-Black%20Blindfold).md)

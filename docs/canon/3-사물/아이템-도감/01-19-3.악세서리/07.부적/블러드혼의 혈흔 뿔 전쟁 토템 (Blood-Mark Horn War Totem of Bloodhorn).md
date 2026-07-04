@@ -86,4 +86,4 @@
 - [발라가르 블러드혼 (Balagar Bloodhorn)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/10.발라가르블러드혼.md)
 - [피와 살점이 말라붙은 50kg짜리 마력의 코뚜레 (Nose Ring of the Chieftain)](피와 살점이 말라붙은 50kg짜리 마력의 코뚜레 (Nose Ring of the Chieftain).md)
 - [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](../../01-19-2.방어구/01.중갑/블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren).md)
-- [강철 요새의 뜯겨진 철골 기둥 (Steel Pillar of Fortress)](../../01-19-1.무기/16.특수·마도구·기타/강철 요새의 뜯겨진 철골 기둥(Steel Pillar of Fortress).md)
+- [강철 요새의 뜯겨진 철골 기둥 (Steel Pillar of Fortress)](../../01-19-1.무기/16.특수·마도구·기타/요새 자체 (The Fortress Itself).md)

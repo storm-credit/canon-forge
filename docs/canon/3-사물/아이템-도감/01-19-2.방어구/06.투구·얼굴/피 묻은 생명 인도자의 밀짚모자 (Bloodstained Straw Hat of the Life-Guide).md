@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [테라스 솔라비드 (Terras Solavid)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/13.테라스솔라비드.md)
-- [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](../../01-19-1.무기/16.특수·마도구·기타/솔라비드의%20움트는%20세계수%20묘목%20(Sapling%20of%20Solavid's%20Sprouting%20World%20Tree).md)
+- [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](../../01-19-1.무기/16.특수·마도구·기타/세계수%20묘목%20(World%20Tree%20Sapling).md)
 - [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](../04.망토·외투/비탄의%20넝쿨손%20구호%20망토%20(Mantle%20of%20Sorrow's%20Tendrils).md)

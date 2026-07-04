@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [베르트람 글라스페인 (Bertram Glasspane)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/11.베르트람글라스페인.md)
-- [연금술사의 유탄 발사기 (Alchemist's Grenade Launcher)](../../01-19-1.무기/16.특수·마도구·기타/연금술사의%20유탄%20발사기%20(Alchemist's%20Grenade%20Launcher).md)
+- [연금술사의 유탄 발사기 (Alchemist's Grenade Launcher)](../../01-19-1.무기/16.특수·마도구·기타/포탄티스%20(Potantis).md)
 - [글라스페인의 산독 연성 가죽 전투 코트 (Acid-Alchemic Tanned Battle Coat of Glasspane)](../02.경갑/글라스페인의%20산독%20연성%20가죽%20전투%20코트%20(Acid-Alchemic%20Tanned%20Battle%20Coat%20of%20Glasspane).md)

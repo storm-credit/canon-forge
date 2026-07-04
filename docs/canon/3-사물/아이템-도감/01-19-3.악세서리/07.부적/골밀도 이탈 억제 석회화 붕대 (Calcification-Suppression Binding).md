@@ -89,5 +89,5 @@
 
 ## 🔗 관련 문서
 - [제라르드 파브리스 (Gerard Fabrice)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/02.제라르드파브리스.md)
-- [파브리스의 기하학 컴퍼스 (Geometric Compass of Fabrice)](../../01-19-1.무기/16.특수·마도구·기타/파브리스의 기하학 컴퍼스 (Geometric Compass of Fabrice).md)
+- [파브리스의 기하학 컴퍼스 (Geometric Compass of Fabrice)](../../01-19-1.무기/16.특수·마도구·기타/테셀라 (Tessella).md)
 - [철벽의 수장 코트 (Coat of the Bastion Head)](../../01-19-2.방어구/03.로브·마법복/철벽의 수장 코트 (Coat of the Bastion Head).md)

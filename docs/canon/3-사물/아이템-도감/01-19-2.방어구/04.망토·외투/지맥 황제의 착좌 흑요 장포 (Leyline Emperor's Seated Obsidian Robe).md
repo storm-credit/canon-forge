@@ -80,6 +80,6 @@
 
 ## 🔗 관련 문서
 - 제레시스 아르카디아 (Jeresys Arcadia)
-- [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](../../01-19-1.무기/16.특수·마도구·기타/통제와%20심연의%20지배%20옥좌%20%28Throne%20of%20Abyssal%20Dominion%29.md)
+- [통제와 심연의 지배 옥좌 (Throne of Abyssal Dominion)](../../01-19-1.무기/16.특수·마도구·기타/아비스%20도미니온%20%28Abyss%20Dominion%29.md)
 - [절대 규율의 황금수 황의 (Golden Vestments of Absolute Law)](../03.로브·마법복/절대%20규율의%20황금수%20황의%20%28Golden%20Vestments%20of%20Absolute%20Law%29.md)
 - [지맥 직결 신경 접합 코어 (Leyline-Direct Neural Junction Core)](../../01-19-3.악세서리/10.특수마도구·마력핵/지맥%20직결%20신경%20접합%20코어%20%28Leyline-Direct%20Neural%20Junction%20Core%29.md)

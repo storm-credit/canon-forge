@@ -99,5 +99,5 @@
 ## 🔗 관련 문서
 
 - [에리온 베르날리스 (Erion Vernalis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/07.에리온베르날리스.md)
-- [생명을 포식하는 코프시드의 묘목 (Seedling of Corpseed, the Life-Devourer)](../../01-19-1.무기/16.특수·마도구·기타/생명을%20포식하는%20코프시드의%20묘목%20(Seedling%20of%20Corpseed,%20the%20Life-Devourer).md)
+- [생명을 포식하는 코프시드의 묘목 (Seedling of Corpseed, the Life-Devourer)](../../01-19-1.무기/16.특수·마도구·기타/코프시드%20(Corpseed).md)
 - [심연을 거르는 부해의 마스크 (Mask of the Toxic Sea Filtering the Abyss)](../../01-19-4.유물/04.영웅고유성유물/심연을%20거르는%20부해의%20마스크%20(Mask%20of%20the%20Toxic%20Sea%20Filtering%20the%20Abyss).md)

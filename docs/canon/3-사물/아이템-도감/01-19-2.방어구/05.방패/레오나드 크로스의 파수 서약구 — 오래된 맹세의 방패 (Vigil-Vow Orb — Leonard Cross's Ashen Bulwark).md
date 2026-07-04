@@ -97,5 +97,5 @@
 ## 🔗 관련 문서
 
 - [레오나드 크로스 (Leonard Cross, 벌칸 무스펠하임 마도공창)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/04.레오나드크로스.md)
-- [레오나드 크로스의 침묵장 저격총 — 은빛 순례자의 조율총 (Leonard Cross's Silence-Range Rifle — Silver Pilgrim's Attuned Longarm)](../../01-19-1.무기/16.특수·마도구·기타/레오나드 크로스의 침묵장 저격총 — 은빛 순례자의 조율총 (Leonard Cross's Silence-Range Rifle — Silver Pilgrim's Attuned Longarm).md)
+- [레오나드 크로스의 침묵장 저격총 — 은빛 순례자의 조율총 (Leonard Cross's Silence-Range Rifle — Silver Pilgrim's Attuned Longarm)](../../01-19-1.무기/16.특수·마도구·기타/침묵장 (Silence-Range).md)
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry)

@@ -80,5 +80,5 @@
 ## 🔗 관련 문서
 - [리안 밸런디스 (Lyrian Balandis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/07.리안밸런디스.md)
 - [마나 파동 감지의 재판관 인장 반지 (Justicar's Signet Ring of Mana-Wave Detection)](../../../01-19-3.악세서리/01.반지/마나%20파동%20감지의%20재판관%20인장%20반지%20(Justicar's%20Signet%20Ring%20of%20Mana-Wave%20Detection).md)
-- [리안의 단죄하는 심판의 저울 (Scales of Condemning Judgement)](../../../01-19-1.무기/16.특수·마도구·기타/리안의%20단죄하는%20심판의%20저울%20(Scales%20of%20Condemning%20Judgement).md)
+- [리안의 단죄하는 심판의 저울 (Scales of Condemning Judgement)](../../../01-19-1.무기/16.특수·마도구·기타/심판의%20저울%20(Scales%20of%20Condemnation).md)
 - [균형 심판의 저울 향로 (Scale Censer of Balance Judgement)](../../../01-19-3.악세서리/08.성물/균형%20심판의%20저울%20향로%20(Scale%20Censer%20of%20Balance%20Judgement).md)

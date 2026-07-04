@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [라카니우스 이그니투스 (Lacanius Ignitus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/07.라카니우스이그니투스.md)
 - [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../03.로브·마법복/부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain).md)
-- [이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus)](../../01-19-1.무기/16.특수·마도구·기타/이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus).md)
+- [이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus)](../../01-19-1.무기/16.특수·마도구·기타/저주받은 늑골장 (Cursed Rib-Lance).md)

@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [데이먼 딥트렌치 (Damon Deeptrench)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/14.데이먼딥트렌치.md)
-- [휴대용 심연 발리스타 '블랙 오르카' (Abyssal Ballista 'Black Orca')](../16.특수·마도구·기타/휴대용 심연 발리스타 '블랙 오르카' (Abyssal Ballista 'Black Orca').md)
+- [휴대용 심연 발리스타 '블랙 오르카' (Abyssal Ballista 'Black Orca')](../16.특수·마도구·기타/블랙 오르카 (Black Orca).md)

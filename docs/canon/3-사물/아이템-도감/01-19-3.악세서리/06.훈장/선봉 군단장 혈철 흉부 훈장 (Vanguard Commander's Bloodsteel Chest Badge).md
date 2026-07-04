@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [아자젤 크림슨혼 (Azazel Crimsonhorn)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/02.아자젤크림슨혼.md)
 - [그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre)](../../01-19-2.방어구/01.중갑/그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre).md)
-- [어웨이큰 타이런트 전쟁 깃발 (War-Banner of the Awaken Tyrant)](../../01-19-1.무기/16.특수·마도구·기타/어웨이큰 타이런트 전쟁 깃발 (War-Banner of the Awaken Tyrant).md)
+- [어웨이큰 타이런트 전쟁 깃발 (War-Banner of the Awaken Tyrant)](../../01-19-1.무기/16.특수·마도구·기타/어웨이큰 타이런트 (Awaken Tyrant).md)

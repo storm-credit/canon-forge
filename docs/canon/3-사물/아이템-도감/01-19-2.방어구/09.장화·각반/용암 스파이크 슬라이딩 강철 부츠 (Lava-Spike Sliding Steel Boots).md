@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [브루모어 레드모루 (Brumor Red-anvil)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/09.브루모어레드모루.md)
 - [용암 도금된 숄더 가드 (Lava-Plated Shoulder Guard)](../07.견갑/용암%20도금된%20숄더%20가드%20(Lava-Plated%20Shoulder%20Guard).md)
-- [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](../../01-19-1.무기/16.특수·마도구·기타/인쿠디스의%20형상기억%20분쇄마치%20(Shape-Memory%20Crusher%20of%20Incudis).md)
+- [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](../../01-19-1.무기/16.특수·마도구·기타/인쿠디스%20(Incudis).md)

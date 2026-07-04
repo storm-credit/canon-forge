@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [세라피나 알 나하르 (Seraphina Al-Nahar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/02.세라피나알나하르.md)
 - [가려진 태양의 황금 찻잔 (Golden Teacup of the Obscured Sun)](../../01-19-3.악세서리/08.성물/가려진%20태양의%20황금%20찻잔%20(Golden%20Teacup%20of%20the%20Obscured%20Sun).md)
-- [알 나하르의 굴절된 태양륜 (Refracted Sun-Chakram of Al-Nahar)](../../01-19-1.무기/16.특수·마도구·기타/알%20나하르의%20굴절된%20태양륜%20(Refracted%20Sun-Chakram%20of%20Al-Nahar).md)
+- [알 나하르의 굴절된 태양륜 (Refracted Sun-Chakram of Al-Nahar)](../../01-19-1.무기/16.특수·마도구·기타/헬리온%20(Helion).md)

@@ -92,6 +92,6 @@
 
 ## 🔗 관련 문서
 - [마리안 히베르나콜보 (Marianne Hibernavoco)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/09.마리안히베르나콜보.md)
-- [울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling)](../../01-19-1.무기/16.특수·마도구·기타/울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling).md)
+- [울부짖는 마름모꼴 빙금 피리 (Rhombus Ice-Flute of Howling)](../../01-19-1.무기/16.특수·마도구·기타/울부짖는 빙금 피리 (Howling Ice-Flute).md)
 - [빙점핵 구슬 (Nucleus of the Freezing Point)](../09.보석/빙점핵 구슬 (Nucleus of the Freezing Point).md)
 - [눈보라 주술사단 제1영매 뼈 관 (First-Medium Bone Crown of the Blizzard Shamans)](../04.머리장식/눈보라 주술사단 제1영매 뼈 관 (First-Medium Bone Crown of the Blizzard Shamans).md)

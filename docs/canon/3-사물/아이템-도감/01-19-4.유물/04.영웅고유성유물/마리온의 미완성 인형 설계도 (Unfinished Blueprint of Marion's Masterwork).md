@@ -87,4 +87,4 @@
 
 - [세레니아 마리온 (Serenia Marion)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/08.세레니아마리온.md)
 - [마리온의 끊어진 은실 (Snapped Silver Thread of Marion)](../04.신화급소환매개체/마리온의 끊어진 은실 (Snapped Silver Thread of Marion).md)
-- [운명의 실 얽힌 타래 (Spool of Fate's Thread)](../../01-19-1.무기/16.특수·마도구·기타/운명의 실 얽힌 타래 (Spool of Fate's Thread).md)
+- [운명의 실 얽힌 타래 (Spool of Fate's Thread)](../../01-19-1.무기/16.특수·마도구·기타/라케시스 (Lachesis).md)

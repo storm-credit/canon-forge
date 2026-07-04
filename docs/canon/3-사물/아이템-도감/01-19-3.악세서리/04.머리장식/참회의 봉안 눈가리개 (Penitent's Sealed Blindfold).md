@@ -97,6 +97,6 @@
 ## 🔗 관련 문서
 
 - [바르마 더 사일런트 (Barma the Silent)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/14.바르마더사일런트.md)
-- [바르마의 묵주 (Rosary of Barma)](../../01-19-1.무기/16.특수·마도구·기타/바르마의%20묵주%20(Rosary%20of%20Barma).md)
+- [바르마의 묵주 (Rosary of Barma)](../../01-19-1.무기/16.특수·마도구·기타/고통의%20운하%20(Canal%20of%20Suffering).md)
 - [침묵의 봉안 수도복 (Ashen Habit of Sealed Silence)](../../01-19-2.방어구/03.로브·마법복/침묵의%20봉안%20수도복%20(Ashen%20Habit%20of%20Sealed%20Silence).md)
 - [형벌의 십자가 잔해 (Remnant of the Punitive Cross)](../../01-19-3.악세서리/08.성물/형벌의%20십자가%20잔해%20(Remnant%20of%20the%20Punitive%20Cross).md)

@@ -86,4 +86,4 @@
 ## 🔗 관련 문서
 - [에스마레다 나이트셰이드 (Esmareda Nightshade)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/12.에스마레다나이트셰이드.md)
 - [맹독의 보라 덩굴 백합망토 (Venomous Purple Lily-Vine Cloak)](../04.망토·외투/맹독의 보라 덩굴 백합망토 (Venomous Purple Lily-Vine Cloak).md)
-- [흑요석 독연 곰방대 (Obsidian Venom-Smoke Ceremonial Pipe)](../../01-19-1.무기/16.특수·마도구·기타/흑요석 독연 곰방대 (Obsidian Venom-Smoke Ceremonial Pipe).md)
+- [흑요석 독연 곰방대 (Obsidian Venom-Smoke Ceremonial Pipe)](../../01-19-1.무기/16.특수·마도구·기타/핑크 코로네이션 (Pink Coronation).md)

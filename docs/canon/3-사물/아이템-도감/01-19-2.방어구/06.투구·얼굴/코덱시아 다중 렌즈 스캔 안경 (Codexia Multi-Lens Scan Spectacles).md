@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [바린 아카이브 (Barin Archive)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/14.바린아카이브.md)
-- [코덱시아의 무결점 강철깃펜 (Flawless Steel-Quill of Archive)](../../01-19-1.무기/16.특수·마도구·기타/코덱시아의%20무결점%20강철깃펜%20(Flawless%20Steel-Quill%20of%20Archive).md)
+- [코덱시아의 무결점 강철깃펜 (Flawless Steel-Quill of Archive)](../../01-19-1.무기/16.특수·마도구·기타/인각의%20깃펜%20(Quill%20of%20Inscription).md)
 - [병참선 격파 초연산 주판 (Hyper-Calculation Abacus of Supply-Line Severance)](../../../01-19-3.악세서리/10.특수마도구·마력핵/병참선%20격파%20초연산%20주판%20(Hyper-Calculation%20Abacus%20of%20Supply-Line%20Severance).md)

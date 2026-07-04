@@ -94,4 +94,4 @@
 ## 🔗 관련 문서
 
 - [알리사 엘리시온 (Alisa Elysion)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/09.알리사엘리시온.md)
-- [엘리시온의 성유물 '은하수 물방울' (Holy Relic of Elysion: Teardrop of Galaxy)](../16.특수·마도구·기타/엘리시온의%20성유물%20'은하수%20물방울'%20(Holy%20Relic%20of%20Elysion%20Teardrop%20of%20Galaxy).md)
+- [엘리시온의 성유물 '은하수 물방울' (Holy Relic of Elysion: Teardrop of Galaxy)](../16.특수·마도구·기타/은하수%20물방울%20(Teardrop%20of%20Galaxy).md)

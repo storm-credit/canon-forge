@@ -78,4 +78,4 @@
 ## 🔗 관련 문서
 - [탈리아 에테리아 (Talia Aetheria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/06.탈리아에테리아.md)
 - [바람결의 로브 (Robes of the Windweave)](../../01-19-2.방어구/03.로브·마법복/바람결의%20로브%20(Robes%20of%20the%20Windweave).md)
-- [천공을 연주하는 폭풍왕의 하프 (Harp of the Storm-King Playing the Firmament)](../../01-19-1.무기/16.특수·마도구·기타/천공을%20연주하는%20폭풍왕의%20하프%20(Harp%20of%20the%20Storm-King%20Playing%20the%20Firmament).md)
+- [천공을 연주하는 폭풍왕의 하프 (Harp of the Storm-King Playing the Firmament)](../../01-19-1.무기/16.특수·마도구·기타/폭풍왕의%20서곡%20(Storm-King's%20Overture).md)

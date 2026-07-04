@@ -66,7 +66,7 @@
 
 ### 관련 캐릭터
 - **나이올라 아스트리아** — 이 구체의 제작자이자 소유자. 아스트롤라베와 조합하여 운용하는 것이 최적이며, 나이올라는 운석 낙하 캐스팅의 선행 단계로 이 구체를 던져 적 진형의 마법사·포병을 먼저 침묵시키는 2단계 전술을 구사한다.
-- 연계 장비: [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](../../01-19-1.무기/16.특수·마도구·기타/아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis).md)
+- 연계 장비: [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](../../01-19-1.무기/16.특수·마도구·기타/낙성의 아스트롤라베 (Astrolabe of the Falling Star).md)
 
 ---
 
@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [나이올라 아스트리아 (Naiola Astria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/05.나이올라아스트리아.md)
-- [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](../../01-19-1.무기/16.특수·마도구·기타/아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis).md)
+- [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](../../01-19-1.무기/16.특수·마도구·기타/낙성의 아스트롤라베 (Astrolabe of the Falling Star).md)
 - [중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity)](../../01-19-2.방어구/03.로브·마법복/중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity).md)

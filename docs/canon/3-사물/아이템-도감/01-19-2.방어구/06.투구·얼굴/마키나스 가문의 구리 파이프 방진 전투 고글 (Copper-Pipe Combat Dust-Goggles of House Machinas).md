@@ -84,5 +84,5 @@
 ## 🔗 관련 문서
 
 - [카르닥 스톤엔진 (Kardak Stone-engine)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/06.카르닥스톤엔진.md)
-- [코어-오븐 등짐 보일러 (Core-Oven Backpack Boiler)](../../01-19-1.무기/16.특수·마도구·기타/코어-오븐%20등짐%20보일러%20%28Core-Oven%20Backpack%20Boiler%29.md)
+- [코어-오븐 등짐 보일러 (Core-Oven Backpack Boiler)](../../01-19-1.무기/16.특수·마도구·기타/코어-오븐%20%28Core-Oven%29.md)
 - [보일러메이커의 다중결합 단열 수트 (Boilermaker's Thermo-Suit)](../03.로브·마법복/보일러메이커의%20다중결합%20단열%20수트%20%28Boilermaker%27s%20Thermo-Suit%29.md)
