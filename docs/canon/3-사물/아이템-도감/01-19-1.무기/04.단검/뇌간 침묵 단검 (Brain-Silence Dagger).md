@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [카르텔 수장 칼리크 디트리히](../../../../4-인물/영웅-백과/01-14-2.현존영웅/카르텔수장칼리크디트리히.md)
-- [망자의 턱뼈 (Jawbone of the Wraith)](../../01-19-4.유물/04.영웅고유성유물/망자의 턱뼈 (Jawbone of the Wraith).md)
+- [망자의 턱뼈 (Jawbone of the Wraith)](../../01-19-4.유물/04.영웅고유성유물/레퀴엠본 (Requiembone).md)
 - [검은재 가문 강령의 지맥 부식 흑색 로브 (House Black-Ash Necromantic Leyline Corrosion Black Robe)](../../01-19-2.방어구/03.로브·마법복/칼리크의 껍데기 (Kalik's Husk).md)

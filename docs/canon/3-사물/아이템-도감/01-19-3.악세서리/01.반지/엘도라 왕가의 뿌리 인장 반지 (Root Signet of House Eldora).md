@@ -88,4 +88,4 @@
 
 - [실바리온 엘도라 (Sylvarion Eldora)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/01.실바리온엘도라.md)
 - [실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty)](../04.머리장식/실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty).md)
-- [시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../01-19-4.유물/04.영웅고유성유물/시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga).md)
+- [시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../01-19-4.유물/04.영웅고유성유물/베렌가의 심장수 (Heart-sap of Berenga).md)

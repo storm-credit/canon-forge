@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [그레이그 시리우스 (Graig Sirius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/13.그레이그시리우스.md)
-- [알파 울프의 송곳니 피리 (Fang Flute of the Alpha Wolf)](../../01-19-4.유물/04.영웅고유성유물/알파%20울프의%20송곳니%20피리%20(Fang%20Flute%20of%20the%20Alpha%20Wolf).md)
+- [알파 울프의 송곳니 피리 (Fang Flute of the Alpha Wolf)](../../01-19-4.유물/04.영웅고유성유물/알파%20팽플루트%20(Alpha%20Fangflute).md)
 - [시리우스의 강철 마수 채찍 (Steel Beast-Whip of Sirius)](../../01-19-1.무기/08.채찍/시리우스의%20강철%20마수%20채찍%20(Steel%20Beast-Whip%20of%20Sirius).md)

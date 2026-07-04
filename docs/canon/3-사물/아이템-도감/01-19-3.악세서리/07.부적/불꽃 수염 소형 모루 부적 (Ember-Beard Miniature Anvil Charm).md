@@ -77,5 +77,5 @@
 
 ## 🔗 관련 문서
 - [브루모어 레드모루 (Brumor Red-anvil)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/09.브루모어레드모루.md)
-- [담금질의 피 담뱃대 (Pipe of the Quenching Blood)](../../01-19-4.유물/04.영웅고유성유물/담금질의%20피%20담뱃대%20(Pipe%20of%20the%20Quenching%20Blood).md)
+- [담금질의 피 담뱃대 (Pipe of the Quenching Blood)](../../01-19-4.유물/04.영웅고유성유물/불을%20기억하는%20것%20(Emberkeeper).md)
 - [인쿠디스의 형상기억 분쇄마치 (Shape-Memory Crusher of Incudis)](../../01-19-1.무기/16.특수·마도구·기타/인쿠디스%20(Incudis).md)

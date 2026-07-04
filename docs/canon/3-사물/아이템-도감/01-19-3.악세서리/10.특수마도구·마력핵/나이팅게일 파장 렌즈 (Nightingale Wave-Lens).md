@@ -84,4 +84,4 @@
 ## 🔗 관련 문서
 - [로라디아 클레멘티아 (Loradia Clementia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/06.로라디아클레멘티아.md)
 - [순례자의 은빛 지팡이 '클레멘티아의 은총' (Silver Staff of the Pilgrim: Grace of Clementia)](../../01-19-1.무기/12.지팡이·완드/클레멘티아의%20은총%20(Grace%20of%20Clementia).md)
-- [성스러운 심실 혈액 팩 (Sacred Ventricle Blood Pack)](../../01-19-4.유물/04.영웅고유성유물/성스러운%20심실%20혈액%20팩%20(Sacred%20Ventricle%20Blood%20Pack).md)
+- [성스러운 심실 혈액 팩 (Sacred Ventricle Blood Pack)](../../01-19-4.유물/04.영웅고유성유물/코르쿨룸%20성혈낭%20(Corculum%20Blood-Vial).md)

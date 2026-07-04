@@ -93,5 +93,5 @@
 ## 🔗 관련 문서
 
 - [도미니크 블랙샤크 (Dominic Blackshark)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/4.도미니크블랙샤크.md)
-- [수장 자의 무산소 아가미 인공관 (Artificial Gills of the Drowned)](../../01-19-4.유물/04.영웅고유성유물/수장%20자의%20무산소%20아가미%20인공관%20(Artificial%20Gills%20of%20the%20Drowned).md)
+- [수장 자의 무산소 아가미 인공관 (Artificial Gills of the Drowned)](../../01-19-4.유물/04.영웅고유성유물/네레우스%20아가미%20(Nereus%20Gills).md)
 - [블랙 오퍼레이션 전술 잠수 전투 슈트 (Black-Op Tactical Deep-Dive Combat Suit)](../../01-19-2.방어구/02.경갑/심해의%20그림자%20(Deepwater%20Shadow).md)

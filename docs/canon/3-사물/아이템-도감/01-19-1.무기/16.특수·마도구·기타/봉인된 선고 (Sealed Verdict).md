@@ -101,4 +101,4 @@
 
 - [다리우스 솔라리스 (Darius Solaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/05.다리우스솔라리스.md)
 - [이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor)](검은%20묵주망%20(Black%20Rosary%20Net).md)
-- [종교백과 - 최초의 이단 서판 (Codex of the First Heresy)](../../../01-19-4.유물/04.영웅고유성유물/종교백과%20-%20최초의%20이단%20서판%20(Codex%20of%20the%20First%20Heresy).md)
+- [종교백과 - 최초의 이단 서판 (Codex of the First Heresy)](../../../01-19-4.유물/04.영웅고유성유물/최초의%20이단%20서판%20(Codex%20of%20the%20First%20Heresy).md)

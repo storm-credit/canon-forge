@@ -58,7 +58,7 @@
 
 ### 관련 캐릭터
 - **볼트가르 풀미넨투스** — 아버지로부터 물려받은 유일한 유품이자 전투 필수 장구. 장식을 혐오하는 그가 허리대의 암각 문양만큼은 변경을 거부하는 이유가 여기 있다.
-- **[적란운의 부싯돌 (Flint of the Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/적란운의 부싯돌 (Flint of the Cumulonimbus).md)** — 허리대 버클 홈에 거치되는 마도 촉매. 허리대와 조합될 때 부싯돌의 뇌기 집속 효율이 증폭된다.
+- **[적란운의 부싯돌 (Flint of the Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/뇌전석 풀멘 (Fulmen Sparkstone).md)** — 허리대 버클 홈에 거치되는 마도 촉매. 허리대와 조합될 때 부싯돌의 뇌기 집속 효율이 증폭된다.
 
 ---
 
@@ -79,6 +79,6 @@
 
 ## 🔗 관련 문서
 - [볼트가르 풀미넨투스 (Voltgar Fulminentus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/05.볼트가르풀미넨투스.md)
-- [적란운의 부싯돌 (Flint of the Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/적란운의 부싯돌 (Flint of the Cumulonimbus).md)
+- [적란운의 부싯돌 (Flint of the Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/뇌전석 풀멘 (Fulmen Sparkstone).md)
 - [풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../../01-19-1.무기/06.창/풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale).md)
 - [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](../../01-19-2.방어구/02.경갑/빙뇌 쇄보 (Frostpeal Stride).md)

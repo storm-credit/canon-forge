@@ -97,4 +97,4 @@
 - [마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas)](../../01-19-2.방어구/06.투구·얼굴/스팀게이즈%20%28Steam-Gaze%29.md)
 - [고기압 스팀 플라이 점퍼 (High-Pressure Steam-Fly Jumper)](../../01-19-2.방어구/09.장화·각반/철의%20하늘%20각반%20%28Iron-Sky%20Greaves%29.md)
 - [보일러메이커의 다중결합 단열 수트 (Boilermaker's Thermo-Suit)](../../01-19-2.방어구/03.로브·마법복/과압로심%20%28Overpressure%20Core%29.md)
-- [순환하는 레비아탄의 심장 판막 (Valve of the Leviathan)](../../01-19-4.유물/04.영웅고유성유물/순환하는%20레비아탄의%20심장%20판막%20%28Valve%20of%20the%20Leviathan%29.md)
+- [순환하는 레비아탄의 심장 판막 (Valve of the Leviathan)](../../01-19-4.유물/04.영웅고유성유물/레비아코르%20%28Leviacor%29.md)

@@ -89,5 +89,5 @@
 
 ## 🔗 관련 문서
 - [그레이그 시리우스 (Graig Sirius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/13.그레이그시리우스.md)
-- [알파 울프의 송곳니 피리 (Fang Flute of the Alpha Wolf)](../../01-19-4.유물/04.영웅고유성유물/알파%20울프의%20송곳니%20피리%20(Fang%20Flute%20of%20the%20Alpha%20Wolf).md)
+- [알파 울프의 송곳니 피리 (Fang Flute of the Alpha Wolf)](../../01-19-4.유물/04.영웅고유성유물/알파%20팽플루트%20(Alpha%20Fangflute).md)
 - [루거의 최초 복종 목줄 — 녹슨 파열 가시 쇠사슬 (Luger's First Submission Collar — Rusted Spike-Burst Iron Chain)](../07.부적/루거의%20최초%20복종%20목줄%20—%20녹슨%20파열%20가시%20쇠사슬%20(Luger's%20First%20Submission%20Collar%20—%20Rusted%20Spike-Burst%20Iron%20Chain).md)

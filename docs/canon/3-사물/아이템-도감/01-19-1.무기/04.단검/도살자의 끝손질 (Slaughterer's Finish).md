@@ -81,4 +81,4 @@
 ## 🔗 관련 문서
 - [드레이크 루가 (Drake Ruga)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/02.드레이크루가.md)
 - [심연포효의 대검 (Greatsword of Abyssal Roar)](../02.양손검/심연포효 (Abyssal Roar).md)
-- [핏빛 맹세의 뿔나팔 (Horn of the Bloody Oath)](../../01-19-4.유물/04.영웅고유성유물/핏빛 맹세의 뿔나팔 (Horn of the Bloody Oath).md)
+- [핏빛 맹세의 뿔나팔 (Horn of the Bloody Oath)](../../01-19-4.유물/04.영웅고유성유물/혈맹의 나팔 (Horn of the Blood-Pact).md)

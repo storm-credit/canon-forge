@@ -80,4 +80,4 @@
 
 ## 🔗 관련 문서
 - [아론 데 루카 (Aron de Luca)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/1.아론데루카.md)
-- [황제결재권의 금홀 (Scepter of Imperial Sanction)](../../01-19-4.유물/04.영웅고유성유물/황제결재권의 금홀 (Scepter of Imperial Sanction).md)
+- [황제결재권의 금홀 (Scepter of Imperial Sanction)](../../01-19-4.유물/04.영웅고유성유물/산크티오 (Sanctio).md)

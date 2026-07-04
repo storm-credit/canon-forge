@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [일리오스 아스텔 (Ilios Astell)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/08.일리오스아스텔.md)
 - [칠흑의 분쇄검 — 일리오스 아스텔의 심연 광석 분쇄검 (Abyssal Ore Crushing Greatsword of Ilios Astell)](../../01-19-1.무기/02.양손검/침묵의%20동반자%20(Silent%20Companion).md)
-- [심연에 잠긴 짐승뼈 강령패 — 일리오스 아스텔의 침묵하는 유골함 (Abyssal Beast-Bone Necropendant of Ilios Astell)](../../01-19-4.유물/04.영웅고유성유물/심연에%20잠긴%20짐승뼈%20강령패%20—%20일리오스%20아스텔의%20침묵하는%20유골함%20(Abyssal%20Beast-Bone%20Necropendant%20of%20Ilios%20Astell).md)
+- [심연에 잠긴 짐승뼈 강령패 — 일리오스 아스텔의 침묵하는 유골함 (Abyssal Beast-Bone Necropendant of Ilios Astell)](../../01-19-4.유물/04.영웅고유성유물/빚의%20유골함%20(Reliquary%20of%20Debt).md)

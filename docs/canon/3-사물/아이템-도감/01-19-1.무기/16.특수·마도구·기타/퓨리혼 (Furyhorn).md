@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [갈록 크루시오 (Galok Crucio)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/09.갈록크루시오.md)
 - [야만의 톱날 쌍도 '학살극' (Serrated Twin-blades of Barbarism: Massacre)](../03.쌍검/야만의 톱날 쌍도 '학살극' (Serrated Twin-blades of Barbarism Massacre).md)
-- [염옥의 심장 페이스메이커 (Pacemaker of the Hellfire Heart)](../../01-19-4.유물/04.영웅고유성유물/염옥의 심장 페이스메이커 (Pacemaker of the Hellfire Heart).md)
+- [염옥의 심장 페이스메이커 (Pacemaker of the Hellfire Heart)](../../01-19-4.유물/04.영웅고유성유물/크루오르 심장 (Cruor Heart).md)

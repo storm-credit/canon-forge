@@ -96,4 +96,4 @@
 
 - [발렌시아 나이트폴 (Valencia Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/05.발렌시아나이트폴.md)
 - [흑조의 대궁 나이트폴의 시선 (Greatbow of the Black Swan: Gaze of Nightfall)](나이트폴의%20시선%20(Gaze%20of%20Nightfall).md)
-- [심안의 은빛 모노클 (Silver Monocle of Mind's Eye)](../../01-19-4.유물/04.영웅고유성유물/심안의%20은빛%20모노클%20(Silver%20Monocle%20of%20Mind's%20Eye).md)
+- [심안의 은빛 모노클 (Silver Monocle of Mind's Eye)](../../01-19-4.유물/04.영웅고유성유물/진안경%20베리테%20(Verite).md)

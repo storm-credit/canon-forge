@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [아에리니아 카엘룸 (Aerynia Caelum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/14.아에리니아카엘룸.md)
 - [열권(Thermosphere) 단열 스파이더 실크복 (Spider-Silk Suit of Thermosphere Insulation)](../03.로브·마법복/에어리얼%20실크%20(Aerial%20Silk).md)
-- [공중에 묶인 무중력의 족쇄 (Gravity-Nullifying Shackle of the Sky)](../../../01-19-4.유물/04.영웅고유성유물/공중에%20묶인%20무중력의%20족쇄%20(Gravity-Nullifying%20Shackle%20of%20the%20Sky).md)
+- [공중에 묶인 무중력의 족쇄 (Gravity-Nullifying Shackle of the Sky)](../../../01-19-4.유물/04.영웅고유성유물/카엘리스%20(Caelis).md)

@@ -89,4 +89,4 @@
 - [세바스찬 아이언웨이크 (Sebastian Ironwake)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/13.세바스찬아이언웨이크.md)
 - [강철 요새의 흉갑 (Breastplate of the Iron Fortress)](../01.중갑/버트리스%20%28Buttress%29.md)
 - [휴대용 연축 다연장 마도 중기관총 '그라인더' (Rotary M-Gun 'The Grinder')](../../01-19-1.무기/15.화기/휴대용%20연축%20다연장%20마도%20중기관총%20'그라인더'%20%28Rotary%20M-Gun%20'The%20Grinder'%29.md)
-- [무한 탄창의 병참 탄약고 (Infinite Munition Satchel)](../../01-19-4.유물/04.영웅고유성유물/무한%20탄창의%20병참%20탄약고%20%28Infinite%20Munition%20Satchel%29.md)
+- [무한 탄창의 병참 탄약고 (Infinite Munition Satchel)](../../01-19-4.유물/04.영웅고유성유물/코르누코피아%20%28Cornucopia%29.md)

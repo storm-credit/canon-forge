@@ -107,4 +107,4 @@
 - [란디우스 이클립스 (Randius Eclipse)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/08.란디우스이클립스.md)
 - [순혈의 달빛 송곳니 (Fangs of the Pure-blood Moon)](../../01-19-1.무기/16.특수·마도구·기타/문블러드%20(Moonblood).md)
 - [이클립스의 잔상 가죽 띠 (Leather Belt of Eclipse Afterimage)](../02.경갑/이클립스의%20잔상%20(Eclipse%20Afterimage).md)
-- [응혈의 심장 토템 (Heart Totem of Coagulated Blood)](../../01-19-4.유물/04.영웅고유성유물/응혈의%20심장%20토템%20(Heart%20Totem%20of%20Coagulated%20Blood).md)
+- [응혈의 심장 토템 (Heart Totem of Coagulated Blood)](../../01-19-4.유물/04.영웅고유성유물/혈약의%20심장%20(Covenant%20Heart).md)

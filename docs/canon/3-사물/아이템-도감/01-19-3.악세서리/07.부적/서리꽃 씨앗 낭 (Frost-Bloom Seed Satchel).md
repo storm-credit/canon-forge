@@ -104,4 +104,4 @@
 
 - [세라핀 플로스니비스 (Seraphine Flosnivis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/03.세라핀플로스니비스.md)
 - [플로스니비스의 물방울 지팡이 - 수련의 이슬 (Dewdrop Staff of Water-Lily)](../../01-19-1.무기/12.지팡이·완드/수련의%20이슬%20(Dewdrop%20of%20Water-Lily).md)
-- [순결의 은 나비 (Silver Butterfly of Purity)](../../01-19-4.유물/04.영웅고유성유물/순결의%20은%20나비%20(Silver%20Butterfly%20of%20Purity).md)
+- [순결의 은 나비 (Silver Butterfly of Purity)](../../01-19-4.유물/04.영웅고유성유물/아우로르윙%20(Auralwing).md)

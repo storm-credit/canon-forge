@@ -81,4 +81,4 @@
 ## 🔗 관련 문서
 - [아에로 윈드본 (Aero Windborn)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/13.아에로윈드본.md)
 - [순풍의 나선 지팡이 '스카이블로우' (Spiral Staff Skyblow)](../../01-19-1.무기/12.지팡이·완드/스카이블로우%20(Skyblow).md)
-- [천공석의 유리나침반 (Glass Compass of the Zenith-Stone)](../../01-19-4.유물/04.영웅고유성유물/천공석의%20유리나침반%20(Glass%20Compass%20of%20the%20Zenith-Stone).md)
+- [천공석의 유리나침반 (Glass Compass of the Zenith-Stone)](../../01-19-4.유물/04.영웅고유성유물/아네모이%20(Anemoi).md)

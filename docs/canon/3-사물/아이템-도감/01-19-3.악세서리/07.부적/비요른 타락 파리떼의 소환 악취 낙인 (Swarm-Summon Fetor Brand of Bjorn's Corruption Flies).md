@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [벨제뷔트 아바돈 (Beelzebub Abaddon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/09.벨제뷔트아바돈.md)
-- [나락의 조미료 항아리 (Condiment Jar of the Abyss)](../../01-19-4.유물/04.영웅고유성유물/나락의 조미료 항아리 (Condiment Jar of the Abyss).md)
+- [나락의 조미료 항아리 (Condiment Jar of the Abyss)](../../01-19-4.유물/04.영웅고유성유물/심연의 대지항아리 (Terravessel of the Abyss).md)
 - [아바돈의 대식가 거대 식칼 (Gluttonous Great Cleaver of Abaddon)](../../01-19-1.무기/01.한손검/보라킬 (Voraxil).md)

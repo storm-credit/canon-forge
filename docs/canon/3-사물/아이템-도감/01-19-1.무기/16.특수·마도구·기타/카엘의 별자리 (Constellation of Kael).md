@@ -96,4 +96,4 @@
 ## 🔗 관련 문서
 - [카엘 벤투스 (Kael Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/06.카엘벤투스.md)
 - [바람 룬 다연장 화살통 (Wind-Rune Multi-Quiver Array)](윈드러너%20퀴버%20(Windrunner%20Quiver).md)
-- [독수리의 별 무리 렌즈 (Star-cluster Lens of the Eagle)](../../../01-19-4.유물/04.영웅고유성유물/독수리의%20별%20무리%20렌즈%20(Star-cluster%20Lens%20of%20the%20Eagle).md)
+- [독수리의 별 무리 렌즈 (Star-cluster Lens of the Eagle)](../../../01-19-4.유물/04.영웅고유성유물/이글아이%20렌즈%20(Eagle-Eye%20Lens).md)

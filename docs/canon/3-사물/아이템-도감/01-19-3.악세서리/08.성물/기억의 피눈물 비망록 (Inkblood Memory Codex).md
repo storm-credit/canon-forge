@@ -108,4 +108,4 @@
 - [율리우스 아우렐리우스 (Julius Aurelius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/07.율리우스아우렐리우스.md)
 - [아우렐리우스의 여명 지팡이 (Staff of Dawn's Aurelius)](../../01-19-1.무기/12.지팡이·완드/아우렐리우스의 여명%20지팡이%20(Staff%20of%20Dawn's%20Aurelius)_2.md)
 - [진리와 아카식의 로브 (Robe of Akashic Truth)](../../01-19-2.방어구/03.로브·마법복/아카샤%20(Akasha).md)
-- [아카식 마도서의 눈물 젖은 페이지 (Torn Page of the Akashic Tome)](../../01-19-4.유물/04.영웅고유성유물/아카식%20마도서의%20눈물%20젖은%20페이지%20(Torn%20Page%20of%20the%20Akashic%20Tome).md)
+- [아카식 마도서의 눈물 젖은 페이지 (Torn Page of the Akashic Tome)](../../01-19-4.유물/04.영웅고유성유물/아카식%20페이지%20(Akashic%20Page).md)

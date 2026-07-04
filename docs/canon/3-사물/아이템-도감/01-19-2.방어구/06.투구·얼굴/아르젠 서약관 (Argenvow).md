@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [알라리안 아르젠툼 (Alarian Argentum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/03.알라리안아르젠툼.md)
 - [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](../../01-19-2.방어구/01.중갑/미러라이트%20(Mirrolight).md)
-- [베렌가의 심장 박동 팔찌 (Bracelet of Berenga's Pulse)](../../01-19-4.유물/04.영웅고유성유물/베렌가의%20심장%20박동%20팔찌%20(Bracelet%20of%20Berenga's%20Pulse).md)
+- [베렌가의 심장 박동 팔찌 (Bracelet of Berenga's Pulse)](../../01-19-4.유물/04.영웅고유성유물/베렌가%20팔찌%20(Bracelet%20of%20Berenga).md)

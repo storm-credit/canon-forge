@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [카엘 벤투스 (Kael Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/07.카엘벤투스.md)
-- [순간 진공 폭음탄 (Vacuum Detonation Grenade)](../../01-19-4.유물/04.영웅고유성유물/순간%20진공%20폭음탄%20(Vacuum%20Detonation%20Grenade).md)
+- [순간 진공 폭음탄 (Vacuum Detonation Grenade)](../../01-19-4.유물/04.영웅고유성유물/사일런스%20오브%20(Silence%20Orb).md)
 - [바람길 역수의 단검 '벤투스의 입술' (Wind-path Reverse Dagger)](../../01-19-1.무기/04.단검/벤투스의%20입술%20(Ventus's%20Lips).md)

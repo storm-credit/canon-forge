@@ -88,5 +88,5 @@
 ## 🔗 관련 문서
 
 - [그림록 블랙파우더 (Grimlok Blackpowder)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/03.그림록블랙파우더.md)
-- [절대 좌표 영점 나침반 (Absolute Zero-Coordinate Compass)](../../01-19-4.유물/04.영웅고유성유물/절대%20좌표%20영점%20나침반%20(Absolute%20Zero-Coordinate%20Compass).md)
+- [절대 좌표 영점 나침반 (Absolute Zero-Coordinate Compass)](../../01-19-4.유물/04.영웅고유성유물/원점의%20서약%20(Origin%20Oath).md)
 - [빅 붐 (Big Boom)](../15.화기/빅%20붐%20(Big%20Boom).md)

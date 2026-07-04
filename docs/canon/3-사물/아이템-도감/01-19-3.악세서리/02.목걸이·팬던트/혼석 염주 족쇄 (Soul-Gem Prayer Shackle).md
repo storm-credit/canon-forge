@@ -97,4 +97,4 @@
 - [네크로스 소울리퍼 (Necros Soulreaper)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/03.네크로스소울리퍼.md)
 - [비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation: Doombringer)](../../01-19-1.무기/07.둔기/비탄의%20척추%20(Spine%20of%20Lamentation).md)
 - [시체꽃 흑붕대 제단복 (Corpse-Flower Black-Bandage Altar Vestment)](../../01-19-2.방어구/03.로브·마법복/세펄크레이브%20(Sepulcrave).md)
-- [순교자의 호위 랜턴 엘릭시르 (Lantern of Martyr's Guard Elixir)](../../01-19-4.유물/04.영웅고유성유물/순교자의%20호위%20랜턴%20엘릭시르%20(Lantern%20of%20Martyr's%20Guard%20Elixir).md)
+- [순교자의 호위 랜턴 엘릭시르 (Lantern of Martyr's Guard Elixir)](../../01-19-4.유물/04.영웅고유성유물/워드플레임%20(Wardflame).md)

@@ -97,4 +97,4 @@
 
 - [엘리노어 아스트랄 (Eleanor Astral)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/10.엘리노어아스트랄.md)
 - [천구경 아스트랄라베 (Celestial Sphere Astrolabe)](../../01-19-1.무기/16.특수·마도구·기타/항성의%20정조준%20(Stellar%20Convergence).md)
-- [별빛 눈물의 모래시계 (Hourglass of Starlight Tears)](../../01-19-4.유물/04.영웅고유성유물/별빛%20눈물의%20모래시계%20(Hourglass%20of%20Starlight%20Tears).md)
+- [별빛 눈물의 모래시계 (Hourglass of Starlight Tears)](../../01-19-4.유물/04.영웅고유성유물/라크리메%20모래시계%20(Hourglass%20of%20Lacrimae).md)

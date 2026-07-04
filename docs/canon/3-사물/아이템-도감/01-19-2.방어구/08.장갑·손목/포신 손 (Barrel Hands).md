@@ -81,6 +81,6 @@
 
 ## 🔗 관련 문서
 - [바르칸 아이언벨리 (Barkan Ironbelly)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/07.바르칸아이언벨리.md)
-- [마력 연소의 거대 위장관 (Furnace-Gut of Mana Combustion)](../../01-19-4.유물/04.영웅고유성유물/마력%20연소의%20거대%20위장관%20(Furnace-Gut%20of%20Mana%20Combustion).md)
+- [마력 연소의 거대 위장관 (Furnace-Gut of Mana Combustion)](../../01-19-4.유물/04.영웅고유성유물/위장%20용광로%20(Gut-Furnace).md)
 - [선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate)](../01.중갑/난파의%20방벽%20(Wreck%20Bastion).md)
 - [닻 박힌 강철 방탑 대방패 (Anchored Iron Bastion Tower Shield)](../05.방패/하버게이트%20(Harborgate).md)

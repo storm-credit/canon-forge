@@ -96,5 +96,5 @@
 ## 🔗 관련 문서
 
 - [메라 실피드 (Mera Sylphid)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/09.메라실피드.md)
-- [시체꽃의 신경 마비 독액관 (Vial of Corpse-Flower's Paralysis Toxin)](../../01-19-4.유물/04.영웅고유성유물/시체꽃의%20신경%20마비%20독액관%20(Vial%20of%20Corpse-Flower's%20Paralysis%20Toxin).md)
+- [시체꽃의 신경 마비 독액관 (Vial of Corpse-Flower's Paralysis Toxin)](../../01-19-4.유물/04.영웅고유성유물/코르페아%20독액관%20(Corpea%20Vial).md)
 - [독나비의 위장 모포 (Camouflage Blanket of the Poison-Butterfly)](../../01-19-2.방어구/03.로브·마법복/베네스라%20(Venethra).md)

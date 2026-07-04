@@ -101,4 +101,4 @@
 - [마리온 엑스마키나 (Marion Exmachina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/11.마리온엑스마키나.md)
 - [증기 엑소 암 쌍비 (Twin Steam Exo-Arms)](../../01-19-1.무기/14.건틀릿·클로/증기 엑소 암 쌍비 (Twin Steam Exo-Arms).md)
 - [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](../01.중갑/오르도스 기동 외골격 (Ordos Drive Exoskeleton).md)
-- [순간 조립의 매직 큐브 (Magic Cube of Instant-Assembly)](../../01-19-4.유물/04.영웅고유성유물/순간 조립의 매직 큐브 (Magic Cube of Instant-Assembly).md)
+- [순간 조립의 매직 큐브 (Magic Cube of Instant-Assembly)](../../01-19-4.유물/04.영웅고유성유물/테세락트 큐브 (Tesseract Cube).md)

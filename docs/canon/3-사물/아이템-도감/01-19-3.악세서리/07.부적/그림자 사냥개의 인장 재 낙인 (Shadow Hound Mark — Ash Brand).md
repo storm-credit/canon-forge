@@ -85,4 +85,4 @@
 ## 🔗 관련 문서
 - [바스티안 그레이딥 (Bastian Graydeep)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/8.바스티안그레이딥.md)
 - [교수형 매듭 각인의 처형관 강철 반지 세트 (Gallows-Knot Engraved Inquisitor's Steel Ring Set)](../01.반지/교수형%20매듭%20각인의%20처형관%20강철%20반지%20세트%20(Gallows-Knot%20Engraved%20Inquisitor's%20Steel%20Ring%20Set).md)
-- [진실을 캐내는 심연의 램프 (Lantern of the Abyssal Truth)](../../../01-19-4.유물/04.영웅고유성유물/진실을%20캐내는%20심연의%20램프%20(Lantern%20of%20the%20Abyssal%20Truth).md)
+- [진실을 캐내는 심연의 램프 (Lantern of the Abyssal Truth)](../../../01-19-4.유물/04.영웅고유성유물/베리루멘%20(Verilumen).md)

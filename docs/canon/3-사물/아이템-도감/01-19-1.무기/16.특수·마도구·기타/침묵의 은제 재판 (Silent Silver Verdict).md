@@ -89,4 +89,4 @@
 ## 🔗 관련 문서
 - [이즈라엘 문 (Israel Moon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/10.이즈라엘문.md)
 - [이즈라엘의 월장석 머스킷 - 나이트 리퍼 (Moonstone Long-Rifle, Night-Reaper)](../15.화기/이즈라엘의 월장석 머스킷 - 나이트 리퍼 (Moonstone Long-Rifle, Night-Reaper).md)
-- [올빼미의 감각 안대 (Blindfold of the Owl's Senses)](../../01-19-4.유물/04.영웅고유성유물/올빼미의 감각 안대 (Blindfold of the Owl's Senses).md)
+- [올빼미의 감각 안대 (Blindfold of the Owl's Senses)](../../01-19-4.유물/04.영웅고유성유물/올빼미의 눈가리개 (Owl's Blindfold).md)

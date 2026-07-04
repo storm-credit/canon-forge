@@ -96,4 +96,4 @@
 - [에드리나 노크투리아 (Edrina Nocturia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/07.에드리나노크투리아.md)
 - [속삭임의 막간 흑색 부채 (Black Fan of the Whispering Intermission)](./속삭임의%20막간%20흑색%20부채%20(Black%20Fan%20of%20the%20Whispering%20Intermission).md)
 - [자정의 장례식 챙 모자 (Midnight Funeral Wide-Brimmed Hat)](../../01-19-2.방어구/06.투구·얼굴/미드나잇%20브림%20(Midnight%20Brim).md)
-- [종교백과 - 네메시스의 눈먼 주시자 안대 (Blindfold of Nemesis's Watcher)](../../01-19-4.유물/04.영웅고유성유물/종교백과%20-%20네메시스의%20눈먼%20주시자%20안대%20(Blindfold%20of%20Nemesis's%20Watcher).md)
+- [종교백과 - 네메시스의 눈먼 주시자 안대 (Blindfold of Nemesis's Watcher)](../../01-19-4.유물/04.영웅고유성유물/네메시스의%20안대%20(Blindfold%20of%20Nemesis).md)

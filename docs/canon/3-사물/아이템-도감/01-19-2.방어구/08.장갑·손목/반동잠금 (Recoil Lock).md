@@ -84,4 +84,4 @@
 - [알렉산더 이지스 (Alexander Aegis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/07.알렉산더이지스.md)
 - [대지의 분쇄망치 (Warhammer of Earthshattering)](../../01-19-1.무기/07.둔기/대지의 분쇄망치 (Warhammer of Earthshattering).md)
 - [무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate)](../01.중갑/저거노트 벽 (Juggernaut Wall).md)
-- [광전사의 심장 펌프 (Heart Pump of the Berserker)](../../01-19-4.유물/04.영웅고유성유물/광전사의 심장 펌프 (Heart Pump of the Berserker).md)
+- [광전사의 심장 펌프 (Heart Pump of the Berserker)](../../01-19-4.유물/04.영웅고유성유물/버서커 코어 (Berserker Core).md)

@@ -93,4 +93,4 @@
 - [칼투스 다크워드 (Kaltus Darkward)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/08.칼투스다크워드.md)
 - [부패하는 맹세의 대검 '코로시드' (Corrosed)](../02.양손검/코로시드%20(Corrosed).md)
 - [침몰선 파편 전상선 (Shipwreck Chariot)](./망령의%20항로%20(Wraith%20Course).md)
-- [비탄하는 나침반 (Compass of Weeping)](../../../01-19-4.유물/04.영웅고유성유물/비탄하는%20나침반%20(Compass%20of%20Weeping).md)
+- [비탄하는 나침반 (Compass of Weeping)](../../../01-19-4.유물/04.영웅고유성유물/로스파인더%20(Lossfinder).md)

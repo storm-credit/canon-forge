@@ -88,5 +88,5 @@
 ## 🔗 관련 문서
 - [골드로저 (Gold Roger)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/01.골드로저.md)
 - [바다를 가르는 해적 검 '로저의 황금' (Roger's Gold)](../../01-19-1.무기/01.한손검/바다를 가르는 해적 검 '로저의 황금' (Roger's Gold).md)
-- [나침반 없는 위대한 항해사의 코인 (Coin of the Compassless Voyager)](../../01-19-4.유물/04.영웅고유성유물/나침반 없는 위대한 항해사의 코인 (Coin of the Compassless Voyager).md)
+- [나침반 없는 위대한 항해사의 코인 (Coin of the Compassless Voyager)](../../01-19-4.유물/04.영웅고유성유물/콤파슬리스 (Compassless).md)
 - [포세이돈의 닻 문신 룬 각인 (Poseidon Anchor Rune Inscription)](../../01-19-3.악세서리/07.부적/포세이돈의 닻 문신 룬 각인 (Poseidon Anchor Rune Inscription).md)

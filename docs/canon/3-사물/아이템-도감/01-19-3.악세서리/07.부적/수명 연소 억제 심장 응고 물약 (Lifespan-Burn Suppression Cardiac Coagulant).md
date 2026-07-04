@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [루밀리아 파로스 (Lumilia Pharos)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/11.루밀리아파로스.md)
 - [순교자의 기름 촛대 '이그니스 일루전' (Martyr's Oil Candelabra 'Ignis Illusion')](../../01-19-1.무기/16.특수·마도구·기타/이그니스%20일루전%20(Ignis%20Illusion).md)
-- [침몰선의 유카 수은 성냥 (Sunken Mercury Matchsticks)](../../01-19-4.유물/04.영웅고유성유물/침몰선의%20유카%20수은%20성냥%20(Sunken%20Mercury%20Matchsticks).md)
+- [침몰선의 유카 수은 성냥 (Sunken Mercury Matchsticks)](../../01-19-4.유물/04.영웅고유성유물/유카의%20등화%20(Yucca's%20Everflame).md)

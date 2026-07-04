@@ -65,7 +65,7 @@
 
 ### 관련 캐릭터
 - **실바리온 엘도라** — 현 소유자이자 대수해 생존자. 왕관은 그의 왕권의 상징이 아니라 대지와의 계약 증서다.
-- **[시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../../3-사물/아이템-도감/01-19-4.유물/04.영웅고유성유물/시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga).md)** — 목화 진행 억제 기능이 왕관과 중첩될 때 더 강해진다.
+- **[시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../../3-사물/아이템-도감/01-19-4.유물/04.영웅고유성유물/베렌가의 심장수 (Heart-sap of Berenga).md)** — 목화 진행 억제 기능이 왕관과 중첩될 때 더 강해진다.
 
 ---
 
@@ -88,5 +88,5 @@
 ## 🔗 관련 문서
 
 - [실바리온 엘도라 (Sylvarion Eldora)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/01.실바리온엘도라.md)
-- [시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../01-19-4.유물/04.영웅고유성유물/시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga).md)
+- [시들지 않는 베렌가의 심장수 (Heart-sap of Unwithering Berenga)](../../../01-19-4.유물/04.영웅고유성유물/베렌가의 심장수 (Heart-sap of Berenga).md)
 - [창세를 조율하는 엘도라의 가지 (Branch of Eldora Tuning Genesis)](../../../01-19-1.무기/06.창/창세의 가지 (Genesis Bough).md)

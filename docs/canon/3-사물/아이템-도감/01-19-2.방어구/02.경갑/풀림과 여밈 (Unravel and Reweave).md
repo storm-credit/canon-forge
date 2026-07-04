@@ -81,4 +81,4 @@
 ## 🔗 관련 문서
 - [세리안 웨버 (Serian Weaver)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/1.에테르대륙/마법협회/세리안웨버.md)
 - [달빛 방적기 로드 (Spinning-wheel Rod of Moonbeams)](../../01-19-1.무기/12.지팡이·완드/실감개%20(Silverthread%20Reel).md)
-- [침묵의 은빛 골무 (Thimble of Silversilence)](../../01-19-4.유물/04.영웅고유성유물/침묵의%20은빛%20골무%20(Thimble%20of%20Silversilence).md)
+- [침묵의 은빛 골무 (Thimble of Silversilence)](../../01-19-4.유물/04.영웅고유성유물/실버사일런스%20(Silversilence).md)

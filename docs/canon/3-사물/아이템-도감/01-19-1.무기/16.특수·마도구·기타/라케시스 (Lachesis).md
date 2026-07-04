@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [세레니아 마리온 (Serenia Marion)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/08.세레니아마리온.md)
-- [마리온의 끊어진 은실 (Snapped Silver Thread of Marion)](../../../01-19-4.유물/04.신화급소환매개체/마리온의 끊어진 은실 (Snapped Silver Thread of Marion).md)
-- [마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork)](../../../01-19-4.유물/04.영웅고유성유물/마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork).md)
+- [마리온의 끊어진 은실 (Snapped Silver Thread of Marion)](../../../01-19-4.유물/04.신화급소환매개체/라케시스의 은사 (Silver Strand of Lachesis).md)
+- [마리온의 미완성 인형 설계도 (Unfinished Blueprint of Marion's Masterwork)](../../../01-19-4.유물/04.영웅고유성유물/미완의 배선도 (The Unfinished Weave).md)

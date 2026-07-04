@@ -108,4 +108,4 @@
 - [검은 뼈 왕관 (Crown of the Undying)](../06.투구·얼굴/모르테 왕관 (Morte Crown).md)
 - [순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr)](../04.망토·외투/모르테셔라우드 (Morteshroud).md)
 - [황제검 모르티스 (Emperor's Blade Mortis)](../../01-19-1.무기/01.한손검/모르티스 (Mortis).md)
-- [천잠비룡포의 파편 (Fragment of the Celestial Silk Dragon Robe)](../../01-19-4.유물/04.영웅고유성유물/천잠비룡포의 파편 (Fragment of the Celestial Silk Dragon Robe).md)
+- [천잠비룡포의 파편 (Fragment of the Celestial Silk Dragon Robe)](../../01-19-4.유물/04.영웅고유성유물/드라코니스 (Draconis).md)

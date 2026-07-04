@@ -99,5 +99,5 @@
 
 - [발두르 아크가드 (Baldur Archguard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/05.발두르아크가드.md)
 - [천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate)](../../01-19-2.방어구/01.중갑/아이언월 (Ironwall).md)
-- [심장 동력 에테르 코어 (Heart-Drive Ether Core)](../../01-19-4.유물/04.영웅고유성유물/심장 동력 에테르 코어 (Heart-Drive Ether Core).md)
-- [마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe)](../../01-19-4.유물/04.영웅고유성유물/마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe).md)
+- [심장 동력 에테르 코어 (Heart-Drive Ether Core)](../../01-19-4.유물/04.영웅고유성유물/코르 아에테르눔 (Cor Aeternum).md)
+- [마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe)](../../01-19-4.유물/04.영웅고유성유물/불굴의 급유관 (Undying Oilfeed).md)

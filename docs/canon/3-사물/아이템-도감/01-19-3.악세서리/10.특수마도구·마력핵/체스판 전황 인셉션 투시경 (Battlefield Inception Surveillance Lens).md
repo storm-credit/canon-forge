@@ -92,6 +92,6 @@
 ## 🔗 관련 문서
 
 - [마리엔느 에테리아 (Marienne Etheria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/12.마리엔느에테리아.md)
-- [종교백과 - 네메시스의 일그러진 은거울 (Distorted Silver Mirror of Nemesis)](../../01-19-4.유물/04.영웅고유성유물/종교백과%20-%20네메시스의%20일그러진%20은거울%20(Distorted%20Silver%20Mirror%20of%20Nemesis).md)
+- [종교백과 - 네메시스의 일그러진 은거울 (Distorted Silver Mirror of Nemesis)](../../01-19-4.유물/04.영웅고유성유물/네메시스의%20은거울%20(Silver%20Mirror%20of%20Nemesis).md)
 - [에테리아의 황금 향연 담뱃대 (Gilded Mist-Pipe of Etheria)](../../01-19-1.무기/12.지팡이·완드/황금%20향연%20담뱃대%20(Gilded%20Mist-Pipe).md)
 - [에테리아의 잊혀진 안개 지팡이 (Staff of Etheria's Forgotten Mist)](../../01-19-1.무기/12.지팡이·완드/망각%20(Oblivion).md)

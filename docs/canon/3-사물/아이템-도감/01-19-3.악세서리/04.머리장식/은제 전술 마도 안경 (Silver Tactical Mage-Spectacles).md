@@ -96,4 +96,4 @@
 - [세린 오르디나 (Serin Ordina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/02.세린오르디나.md)
 - [창백한 궤도의 지휘봉 '오르디나 피스' (Baton of Pale Orbit)](../../01-19-1.무기/07.둔기/창백한%20궤도의%20지휘봉%20'오르디나%20피스'%20(Baton%20of%20Pale%20Orbit).md)
 - [오르도스 육각 기하학 결계 인장 반지 (Ordos Hexagonal Geometric Ward Signet)](../01.반지/오르도스%20육각%20기하학%20결계%20인장%20반지%20(Ordos%20Hexagonal%20Geometric%20Ward%20Signet).md)
-- [역순환의 마나 바이알 (Mana Vial of Reverse-Circulation)](../../01-19-4.유물/04.영웅고유성유물/역순환의%20마나%20바이알%20(Mana%20Vial%20of%20Reverse-Circulation).md)
+- [역순환의 마나 바이알 (Mana Vial of Reverse-Circulation)](../../01-19-4.유물/04.영웅고유성유물/리버스%20바이알%20(Reverse%20Vial).md)

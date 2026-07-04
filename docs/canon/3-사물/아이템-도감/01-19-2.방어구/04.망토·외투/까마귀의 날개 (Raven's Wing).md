@@ -99,4 +99,4 @@
 ## 🔗 관련 문서
 - [마르쿠스 코르부스 (Marcus Corvus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/03.마르쿠스코르부스.md)
 - [칠흑 맹세의 단죄복 (Inquisitor's Garb of Ebon Vow)](../03.로브·마법복/에본%20버딕트%20(Ebon%20Verdict).md)
-- [사각지대의 눈 가리개 (Blindfold of the Blind Spot)](../../01-19-4.유물/04.영웅고유성유물/사각지대의%20눈%20가리개%20(Blindfold%20of%20the%20Blind%20Spot).md)
+- [사각지대의 눈 가리개 (Blindfold of the Blind Spot)](../../01-19-4.유물/04.영웅고유성유물/코르부스%20베일%20(Corvus%20Veil).md)

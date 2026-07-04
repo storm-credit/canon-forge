@@ -92,4 +92,4 @@
 ## 🔗 관련 문서
 - [카르텔 수장 칼리크 디트리히](../../../../4-인물/영웅-백과/01-14-2.현존영웅/카르텔수장칼리크디트리히.md)
 - [사령 신경 절개의 뇌간 침묵 단검 (Soul-Nerve Severance Brain-Silence Dagger)](../../01-19-1.무기/04.단검/뇌간%20침묵%20단검%20(Brain-Silence%20Dagger).md)
-- [망자의 턱뼈 (Jawbone of the Wraith)](../../01-19-4.유물/04.영웅고유성유물/망자의%20턱뼈%20(Jawbone%20of%20the%20Wraith).md)
+- [망자의 턱뼈 (Jawbone of the Wraith)](../../01-19-4.유물/04.영웅고유성유물/레퀴엠본%20(Requiembone).md)

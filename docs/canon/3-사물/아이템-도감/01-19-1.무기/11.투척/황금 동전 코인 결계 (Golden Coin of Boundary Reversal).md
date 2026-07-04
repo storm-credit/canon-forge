@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [루카스 아우룸 (Lucas Aurum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/07.루카스아우룸.md)
 - [운명 조작의 도박 주사위 (Dice of Fate Manipulation)](../01.한손검/포르투나 (Fortuna).md)
-- [러시안룰렛 회중시계 (Pocket Watch of Russian Roulette)](../../01-19-4.유물/04.영웅고유성유물/러시안룰렛 회중시계 (Pocket Watch of Russian Roulette).md)
+- [러시안룰렛 회중시계 (Pocket Watch of Russian Roulette)](../../01-19-4.유물/04.영웅고유성유물/룰렛워치 (Roulette Watch).md)

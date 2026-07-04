@@ -85,4 +85,4 @@
 - [세라피나 녹티스 (Seraphina Noctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/10.세라피나녹티스.md)
 - [녹티스의 은광 램프 & 스텔라 스틸레토 (Silver Lamp of Noctis & Stellar Stiletto)](../../01-19-1.무기/04.단검/녹티스의%20은광%20램프%20%26%20스텔라%20스틸레토%20(Silver%20Lamp%20of%20Noctis%20%26%20Stellar%20Stiletto).md)
 - [별빛 장막의 칠흑 베일 (Veil of Starlit Onyx)](../04.망토·외투/오닉시아%20(Onyxia).md)
-- [창백한 만월의 눈물 (Pale Moon's Tear)](../../01-19-4.유물/04.영웅고유성유물/창백한%20만월의%20눈물%20(Pale%20Moon's%20Tear).md)
+- [창백한 만월의 눈물 (Pale Moon's Tear)](../../01-19-4.유물/04.영웅고유성유물/만월의%20눈물%20(Pale%20Moon%20Tear).md)

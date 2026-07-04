@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [세린 오르디나 (Serin Ordina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/02.세린오르디나.md)
-- [역순환의 마나 바이알 (Mana Vial of Reverse-Circulation)](../../01-19-4.유물/04.영웅고유성유물/역순환의%20마나%20바이알%20(Mana%20Vial%20of%20Reverse-Circulation).md)
+- [역순환의 마나 바이알 (Mana Vial of Reverse-Circulation)](../../01-19-4.유물/04.영웅고유성유물/리버스%20바이알%20(Reverse%20Vial).md)
 - [은제 전술 마도 안경 (Silver Tactical Mage-Spectacles)](../04.머리장식/은제%20전술%20마도%20안경%20(Silver%20Tactical%20Mage-Spectacles).md)

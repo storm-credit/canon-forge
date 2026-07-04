@@ -92,4 +92,4 @@
 - [사이러스 상그리엘 (Cyrus Sangriel)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/07.사이러스상그리엘.md)
 - [순교자의 피눈물 지팡이 라크리마 (Empty-Tear Staff of the Martyr: Lacrima)](../12.지팡이·완드/라크리마%20(Lacrima).md)
 - [선혈 직조의 적혈 아머 (Crimson-Blood Woven Armor)](../../../01-19-2.방어구/03.로브·마법복/상그리스%20(Sangris).md)
-- [진동하는 메트로놈 펜듈럼 (Vibrating Metronome Pendulum)](../../../01-19-4.유물/04.영웅고유성유물/진동하는%20메트로놈%20펜듈럼%20(Vibrating%20Metronome%20Pendulum).md)
+- [진동하는 메트로놈 펜듈럼 (Vibrating Metronome Pendulum)](../../../01-19-4.유물/04.영웅고유성유물/카덴차%20(Cadenza).md)

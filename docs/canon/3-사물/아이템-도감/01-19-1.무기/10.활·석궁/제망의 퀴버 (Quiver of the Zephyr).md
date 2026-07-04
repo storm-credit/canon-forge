@@ -90,4 +90,4 @@
 
 - [아이샤 제피리스 (Aisha Zephyris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/02.아이샤제피리스.md)
 - [대기의 폐부를 꿰뚫는 제망의 활 (Bow of the Zephyr Piercing the Lungs of Atmosphere)](제피론%20(Zephyron).md)
-- [천둥새의 적란운 렌즈 (Lens of the Thunderbird's Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/천둥새의%20적란운%20렌즈%20(Lens%20of%20the%20Thunderbird's%20Cumulonimbus).md)
+- [천둥새의 적란운 렌즈 (Lens of the Thunderbird's Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/적란운%20렌즈%20(Thunderhead%20Lens).md)

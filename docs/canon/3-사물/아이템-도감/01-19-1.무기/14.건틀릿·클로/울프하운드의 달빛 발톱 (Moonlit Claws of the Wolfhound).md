@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [레온 울프하운드 (Leon Wolfhound)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/11.레온울프하운드.md)
 - [달빛 늑대 송곳니 (Moonlit Wolf Fangs)](../../../01-19-3.악세서리/07.부적/달빛 늑대 송곳니 (Moonlit Wolf Fangs).md)
-- [레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound)](../../../01-19-4.유물/04.영웅고유성유물/레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound).md)
+- [레온 울프하운드의 달빛 어금니 (Moonlit Fang of the Wolfhound)](../../../01-19-4.유물/04.영웅고유성유물/문팽 (Moonfang).md)

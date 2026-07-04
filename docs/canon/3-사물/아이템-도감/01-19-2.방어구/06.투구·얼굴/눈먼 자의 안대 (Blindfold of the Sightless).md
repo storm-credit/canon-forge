@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [바르마 사일런티움 (Barma Silentium)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/14.바르마사일런티움.md)
-- [형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment)](../../../01-19-4.유물/04.영웅고유성유물/형벌의%20십자가%20잔해%20파편%20(Debris%20of%20the%20Cross%20of%20Punishment).md)
-- [침묵의 X자 흑실 봉합 (Black-Thread X-Stitch of Silence)](침묵의%20X자%20흑실%20봉합%20(Black-Thread%20X-Stitch%20of%20Silence).md)
+- [형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment)](../../../01-19-4.유물/04.영웅고유성유물/침묵하는%20심장%20(The%20Silent%20Heart).md)
+- [침묵의 X자 흑실 봉합 (Black-Thread X-Stitch of Silence)](사일런티움%20흑실%20(Silentium%20Suture).md)

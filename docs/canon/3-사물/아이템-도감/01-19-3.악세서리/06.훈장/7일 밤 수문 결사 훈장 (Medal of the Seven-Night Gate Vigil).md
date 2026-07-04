@@ -80,5 +80,5 @@
 ## 🔗 관련 문서
 - [발타자르 모르스 (Balthazar Mors)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/08.발타자르모르스.md)
 - [철벽의 수문장 대방패 (Greatshield of the Bastion Gatekeeper)](../../01-19-2.방어구/05.방패/혈선의 수문장 (Sanguine Gatekeeper).md)
-- [순교자의 진지 말뚝 (Stake of the Martyr)](../../01-19-4.유물/04.영웅고유성유물/순교자의 진지 말뚝 (Stake of the Martyr).md)
+- [순교자의 진지 말뚝 (Stake of the Martyr)](../../01-19-4.유물/04.영웅고유성유물/바스티온스테이크 (Bastionstake).md)
 - [흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard)](../../01-19-2.방어구/01.중갑/성문의 수문갑 (Gatewarden Bulwark).md)

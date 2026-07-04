@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 
 - [스카디 크리오상귀스 (Skadi Cryosanguis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/01.스카디크리오상귀스.md)
-- [극점의 뿔피리 (Horn of the Polar Extreme)](../../01-19-4.유물/04.영웅고유성유물/극점의 뿔피리 (Horn of the Polar Extreme).md)
+- [극점의 뿔피리 (Horn of the Polar Extreme)](../../01-19-4.유물/04.영웅고유성유물/극점의 호령 (Polar Clarion).md)

@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [포세이돈 네레우스 (Poseidon Nereus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/04.포세이돈네레우스.md)
 - [신비의 결정 지팡이 '네레우스의 파도' (Tide of Nereus)](../../01-19-1.무기/12.지팡이·완드/네레우스의%20파도%20(Tide%20of%20Nereus).md)
-- [해신의 반음향 모래시계 (Anti-Echo Hourglass of the Sea God)](../../01-19-4.유물/04.영웅고유성유물/해신의%20반음향%20모래시계%20(Anti-Echo%20Hourglass%20of%20the%20Sea%20God).md)
+- [해신의 반음향 모래시계 (Anti-Echo Hourglass of the Sea God)](../../01-19-4.유물/04.영웅고유성유물/침묵의%20조수%20(Tide%20of%20Silence).md)

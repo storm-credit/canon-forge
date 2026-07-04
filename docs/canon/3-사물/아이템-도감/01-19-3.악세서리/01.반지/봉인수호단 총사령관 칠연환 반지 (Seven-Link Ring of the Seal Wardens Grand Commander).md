@@ -90,4 +90,4 @@
 
 - [테일런 아에투스 (Taelrun Aetus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/01.테일런아에투스.md)
 - [천공의 닻 지팡이 '아에투스의 사슬' (Staff of the Celestial Anchor)](../../01-19-1.무기/12.지팡이·완드/아에투스의%20사슬%20(Aetus's%20Chain).md)
-- [태초의 크로노스 모래시계 (Hourglass of Primeval Chronos)](../../01-19-4.유물/04.영웅고유성유물/태초의%20크로노스%20모래시계%20(Hourglass%20of%20Primeval%20Chronos).md)
+- [태초의 크로노스 모래시계 (Hourglass of Primeval Chronos)](../../01-19-4.유물/04.영웅고유성유물/크로노스%20모래시계%20(Hourglass%20of%20Chronos).md)

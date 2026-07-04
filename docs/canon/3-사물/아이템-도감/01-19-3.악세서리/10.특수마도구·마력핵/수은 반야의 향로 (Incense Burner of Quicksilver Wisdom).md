@@ -87,4 +87,4 @@
 
 ## 🔗 관련 문서
 - [세라피나 옴브라 (Seraphina Ombra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/10.세라피나옴브라.md)
-- [테네브리움 어둠의 숨결 (Shadow Breath of Tenebrium)](../../../01-19-4.유물/04.영웅고유성유물/테네브리움 어둠의 숨결 (Shadow Breath of Tenebrium).md)
+- [테네브리움 어둠의 숨결 (Shadow Breath of Tenebrium)](../../../01-19-4.유물/04.영웅고유성유물/테네브라이 (Tenebrae).md)

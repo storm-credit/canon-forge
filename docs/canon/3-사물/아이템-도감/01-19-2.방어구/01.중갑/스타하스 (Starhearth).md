@@ -92,4 +92,4 @@
 
 - [브론 스타하머 (Bron Starhammer)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/3.프로스트대륙/드워프왕국/브론스타하머.md)
 - [심연의 모루 망치 (Anvil-Hammer of the Abyss)](../../01-19-1.무기/07.둔기/심연의%20모루%20망치%20(Anvil-Hammer%20of%20the%20Abyss).md)
-- [원시 화로의 허리띠 (Belt of Primal Hearth)](../../01-19-4.유물/04.영웅고유성유물/원시%20화로의%20허리띠%20(Belt%20of%20Primal%20Hearth).md)
+- [원시 화로의 허리띠 (Belt of Primal Hearth)](../../01-19-4.유물/04.영웅고유성유물/원시%20화로%20(Primal%20Hearth).md)

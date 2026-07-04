@@ -89,5 +89,5 @@
 ## 🔗 관련 문서
 
 - [로건 레드앵커 (Logan Redanchor)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/03.로건레드앵커.md)
-- [광기 제어의 철 이빨 (Iron Teeth of Madness-Control)](../../01-19-4.유물/04.영웅고유성유물/광기 제어의 철 이빨 (Iron Teeth of Madness-Control).md)
+- [광기 제어의 철 이빨 (Iron Teeth of Madness-Control)](../../01-19-4.유물/04.영웅고유성유물/유예의 이빨 (Reprieve Fang).md)
 - [박살난 장교의 금박 견갑 코트 (Shattered Officer's Gold-Lace Coat)](../../01-19-2.방어구/03.로브·마법복/깨진 계급장 (Shattered Commission).md)

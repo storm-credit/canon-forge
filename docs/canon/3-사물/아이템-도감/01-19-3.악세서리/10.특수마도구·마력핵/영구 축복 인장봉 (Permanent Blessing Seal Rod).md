@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [토르딘 룬해머 (Thordin Runehammer)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/08.토르딘룬해머.md)
 - [글리파투스의 각인 방치 정 (Engraving Chisel of Glyphatus)](../../../01-19-1.무기/16.특수·마도구·기타/방치정 (Idle Chisel).md)
-- [만물의 먹물 석판 (Ink-Stone Slab of All-Things)](../../../01-19-4.유물/04.영웅고유성유물/만물의 먹물 석판 (Ink-Stone Slab of All-Things).md)
+- [만물의 먹물 석판 (Ink-Stone Slab of All-Things)](../../../01-19-4.유물/04.영웅고유성유물/만물의 먹물석판 (The All-Ink Slab).md)

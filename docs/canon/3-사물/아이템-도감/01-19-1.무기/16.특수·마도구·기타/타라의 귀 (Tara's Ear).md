@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [타라넬 아르테미시아 (Taranel Artemisia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/12.타라넬아르테미시아.md)
 - [천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge)](../10.활·석궁/별빛%20쐐기%20(Starlight%20Wedge).md) — 포인터가 장착되는 모체 무기.
-- [에베르 시안 망원 렌즈 (Telescopic Lens of Eber-Cyan)](../../../01-19-4.유물/04.영웅고유성유물/에베르%20시안%20망원%20렌즈%20(Telescopic%20Lens%20of%20Eber-Cyan).md)
+- [에베르 시안 망원 렌즈 (Telescopic Lens of Eber-Cyan)](../../../01-19-4.유물/04.영웅고유성유물/에베르%20시안%20(Eber-Cyan).md)

@@ -93,4 +93,4 @@
 
 - [모르딘 아이언마운틴 (Mordin Ironmountain)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/04.모르딘아이언마운틴.md)
 - [딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine)](../../01-19-2.방어구/01.중갑/딥포지%20심갱의%20발톱%20자국%20전신%20판갑%20(Claw-Forge%20Full%20Plate%20of%20the%20Scarred%20Deep%20Mine).md)
-- [지저 군주의 납작한 미스릴 깔창 (Flat Mithril Insole of the Under-Lord)](../../01-19-4.유물/04.영웅고유성유물/지저%20군주의%20납작한%20미스릴%20깔창%20(Flat%20Mithril%20Insole%20of%20the%20Under-Lord).md)
+- [지저 군주의 납작한 미스릴 깔창 (Flat Mithril Insole of the Under-Lord)](../../01-19-4.유물/04.영웅고유성유물/테라솔룸%20(Terrasolum).md)

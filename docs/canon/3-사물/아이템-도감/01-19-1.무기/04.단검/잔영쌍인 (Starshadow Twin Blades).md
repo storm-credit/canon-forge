@@ -99,5 +99,5 @@
 ## 🔗 관련 문서
 
 - [헤카테 아이언클래드 (Hecate Ironclad)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/4.바벨통신중공업/헤카테아이언클래드.md)
-- [기억을 접어넣는 고서 — 별빛의 서약록 (Tome of Folded Memories, the Starlit Covenant)](../../01-19-4.유물/04.영웅고유성유물/기억을 접어넣는 고서 — 별빛의 서약록 (Tome of Folded Memories, the Starlit Covenant).md)
+- [기억을 접어넣는 고서 — 별빛의 서약록 (Tome of Folded Memories, the Starlit Covenant)](../../01-19-4.유물/04.영웅고유성유물/별빛의 서약록 (Starlit Covenant).md)
 - 바벨 통신 중공업 (Babel Telecom Corp)
