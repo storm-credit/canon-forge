@@ -92,5 +92,5 @@
 ## 🔗 관련 문서
 
 - [트리스탄 아이언사이드 (Tristan Ironside)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/7.옴니버스서고/트리스탄아이언사이드.md)
-- [바람정찰활 시라니엘 (Sylaniel, Scoutbow of the Windward)](../10.활·석궁/바람정찰활%20시라니엘%20(Sylaniel,%20Scoutbow%20of%20the%20Windward).md)
+- [바람정찰활 시라니엘 (Sylaniel, Scoutbow of the Windward)](../10.활·석궁/시라니엘%20(Sylaniel).md)
 - 옴니버스 서고 (Omnibus Archives)

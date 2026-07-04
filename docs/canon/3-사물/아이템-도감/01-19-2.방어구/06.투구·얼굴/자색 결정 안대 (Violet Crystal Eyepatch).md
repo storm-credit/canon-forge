@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [에반젤린 아스텔 (Evangeline Astel)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/11.에반젤린아스텔.md)
-- [아스텔의 항성궁 (Stellar Bow of Astel)](../../01-19-1.무기/10.활·석궁/아스텔의 항성궁 (Stellar Bow of Astel).md)
+- [아스텔의 항성궁 (Stellar Bow of Astel)](../../01-19-1.무기/10.활·석궁/아스트랄리스 (Astralis).md)
 - [천궁의 궤도 변환 화살촉 (Fragment of Celestial Arrowhead)](../../01-19-4.유물/04.영웅고유성유물/천궁의 궤도 변환 화살촉 (Fragment of Celestial Arrowhead).md)

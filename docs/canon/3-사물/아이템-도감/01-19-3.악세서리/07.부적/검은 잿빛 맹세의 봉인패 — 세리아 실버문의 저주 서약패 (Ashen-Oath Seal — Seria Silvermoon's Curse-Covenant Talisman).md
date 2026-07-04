@@ -107,6 +107,6 @@
 
 - [세리아 실버문 (Seria Silvermoon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/06.세리아실버문.md)
 - [칠흑의 분쇄검 — 세리아 실버문의 심연 광석 야전검 (Ebony Crusher — Seria Silvermoon's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/라스트 팽 (Last Fang).md)
-- [개척지 유산의 흑철 저격궁 — 세리아 실버문의 실루엣 브레이커 (Ashwood Reaper — Seria Silvermoon's Silhouette Breaker)](../../01-19-1.무기/10.활·석궁/개척지 유산의 흑철 저격궁 — 세리아 실버문의 실루엣 브레이커 (Ashwood Reaper — Seria Silvermoon's Silhouette Breaker).md)
+- [개척지 유산의 흑철 저격궁 — 세리아 실버문의 실루엣 브레이커 (Ashwood Reaper — Seria Silvermoon's Silhouette Breaker)](../../01-19-1.무기/10.활·석궁/실루엣 브레이커 (Silhouette Breaker).md)
 - [야수혈 암살자의 그림자 외투 — 세리아 실버문의 개척지 야전 경갑 (Beastblood Assassin's Shadow Coat — Seria Silvermoon's Frontier Field Armor)](../../01-19-2.방어구/02.경갑/야수혈 암살자의 그림자 외투 — 세리아 실버문의 개척지 야전 경갑 (Beastblood Assassin's Shadow Coat — Seria Silvermoon's Frontier Field Armor).md)
 - 가이아나 태고의 야수 결속단 (Gaiana Primal Beastbound)

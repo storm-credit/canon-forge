@@ -89,6 +89,6 @@
 
 ## 🔗 관련 문서
 - [에반젤린 아스텔 (Evangeline Astel)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/11.에반젤린아스텔.md)
-- [아스텔의 항성궁 (Stellar Bow of Astel)](../../01-19-1.무기/10.활·석궁/아스텔의 항성궁 (Stellar Bow of Astel).md)
+- [아스텔의 항성궁 (Stellar Bow of Astel)](../../01-19-1.무기/10.활·석궁/아스트랄리스 (Astralis).md)
 - [별빛 섬광탄 (Starlight Flash-Bang)](../../01-19-1.무기/11.투척/별빛 섬광탄 (Starlight Flash-Bang).md)
 - [별빛 점멸 수정 거울 (Starlight Signal Mirror)](./별빛 점멸 수정 거울 (Starlight Signal Mirror).md)

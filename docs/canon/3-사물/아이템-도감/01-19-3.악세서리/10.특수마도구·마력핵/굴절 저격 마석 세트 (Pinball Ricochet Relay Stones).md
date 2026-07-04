@@ -67,7 +67,7 @@
 ### 관련 캐릭터
 
 - **셀레나 아르시엔** — 이 마석 세트의 유일한 운용자. 설치부터 사격까지의 전체 과정은 셀레나 혼자 수행하며, 편대원들은 저격 완료 신호를 수신할 때까지 접근하지 않는다. 현장에 셀레나가 없었다는 사실이 암살 현장의 유일한 공통점이다.
-- **[은빛 달의 투사궁 (Projection Bow of the Silver Moon)](../../01-19-1.무기/10.활·석궁/은빛 달의 투사궁 (Projection Bow of the Silver Moon).md)** — 이 마석 세트와 주파수 동조가 사전 설정된 유일한 무기. 투사궁 없이 이 세트만 설치해도 운용 불가. 두 장비는 짝이다.
+- **[은빛 달의 투사궁 (Projection Bow of the Silver Moon)](../../01-19-1.무기/10.활·석궁/루나리스 (Lunaris).md)** — 이 마석 세트와 주파수 동조가 사전 설정된 유일한 무기. 투사궁 없이 이 세트만 설치해도 운용 불가. 두 장비는 짝이다.
 - **[침묵의 고주파 마석 (High-Frequency Silent Core)](./침묵의 고주파 마석 (High-Frequency Silent Core).md)** — 핀볼 저격망 설치 완료 신호 및 사격 타이밍을 편대에 전달하는 수단. 설치→동조→사격→철수의 4단계 시퀀스를 입천장 진동 부호로만 편대와 공유한다.
 
 ---
@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [셀레나 아르시엔 (Selena Arsienne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/09.셀레나아르시엔.md)
-- [은빛 달의 투사궁 (Projection Bow of the Silver Moon)](../../01-19-1.무기/10.활·석궁/은빛 달의 투사궁 (Projection Bow of the Silver Moon).md)
+- [은빛 달의 투사궁 (Projection Bow of the Silver Moon)](../../01-19-1.무기/10.활·석궁/루나리스 (Lunaris).md)
 - [침묵의 고주파 마석 (High-Frequency Silent Core)](./침묵의 고주파 마석 (High-Frequency Silent Core).md)

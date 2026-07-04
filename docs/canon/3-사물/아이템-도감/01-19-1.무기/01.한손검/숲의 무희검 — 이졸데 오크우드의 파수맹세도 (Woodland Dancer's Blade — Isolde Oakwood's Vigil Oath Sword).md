@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [이졸데 오크우드 (Isolde Oakwood, 벌칸 무스펠하임 마도공창)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/08.이졸데오크우드.md)
-- [정령의 활 실페리시움 (Spirit Bow Sylpherisium)](../10.활·석궁/정령의 활 실페리시움 (Spirit Bow Sylpherium).md)
+- [정령의 활 실페리시움 (Spirit Bow Sylpherisium)](../10.활·석궁/실페리움 물러섬의별빛 (Sylpherium Withdrawing Star).md)
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry)

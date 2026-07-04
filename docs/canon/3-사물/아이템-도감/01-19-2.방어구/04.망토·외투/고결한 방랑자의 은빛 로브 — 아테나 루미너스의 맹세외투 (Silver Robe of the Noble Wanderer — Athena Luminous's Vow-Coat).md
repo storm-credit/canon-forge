@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [아테나 루미너스 (Athena Luminous)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/8.바이퍼해적단/09.아테나루미너스.md)
-- [독사자리의 시위 — 아테나 루미너스의 파문궁 (Bowstring of the Serpent's Star — Athena Luminous's Excommunicate Bow)](../../01-19-1.무기/10.활·석궁/독사자리의 시위 — 아테나 루미너스의 파문궁 (Bowstring of the Serpent's Star — Athena Luminous's Excommunicate Bow).md)
+- [독사자리의 시위 — 아테나 루미너스의 파문궁 (Bowstring of the Serpent's Star — Athena Luminous's Excommunicate Bow)](../../01-19-1.무기/10.활·석궁/세르페리온 (Serperion).md)
 - 바이퍼 해적단 (Viper Raiders)

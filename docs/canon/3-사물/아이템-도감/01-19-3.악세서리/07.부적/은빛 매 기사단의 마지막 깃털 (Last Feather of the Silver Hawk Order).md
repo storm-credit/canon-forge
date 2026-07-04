@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [발렌시아 나이트폴 (Valencia Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/05.발렌시아나이트폴.md)
-- [흑조의 대궁 나이트폴의 시선 (Greatbow of the Black Swan: Gaze of Nightfall)](../../01-19-1.무기/10.활·석궁/흑조의%20대궁%20나이트폴의%20시선%20(Greatbow%20of%20the%20Black%20Swan%20Gaze%20of%20Nightfall).md)
-- [망자의 척추뼈 어둠 압축 화살통 (Undead Spine-Bone Dark-Compression Quiver)](../../01-19-1.무기/10.활·석궁/망자의%20척추뼈%20어둠%20압축%20화살통%20(Undead%20Spine-Bone%20Dark-Compression%20Quiver).md)
+- [흑조의 대궁 나이트폴의 시선 (Greatbow of the Black Swan: Gaze of Nightfall)](../../01-19-1.무기/10.활·석궁/나이트폴의%20시선%20(Gaze%20of%20Nightfall).md)
+- [망자의 척추뼈 어둠 압축 화살통 (Undead Spine-Bone Dark-Compression Quiver)](../../01-19-1.무기/10.활·석궁/오소리움%20(Ossorium).md)

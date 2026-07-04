@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 코어스 (Guinevere Cores)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/1.황금나침반상회/기네비어코어스.md)
-- [여명 서약의 정령활 실피리엄 (Dawn-Oath Spirit Bow Sylphyrium)](../../01-19-1.무기/10.활·석궁/여명 서약의 정령활 실피리엄 (Dawn-Oath Spirit Bow Sylphyrium).md)
+- [여명 서약의 정령활 실피리엄 (Dawn-Oath Spirit Bow Sylphyrium)](../../01-19-1.무기/10.활·석궁/실피리엄 (Sylphyrium).md)

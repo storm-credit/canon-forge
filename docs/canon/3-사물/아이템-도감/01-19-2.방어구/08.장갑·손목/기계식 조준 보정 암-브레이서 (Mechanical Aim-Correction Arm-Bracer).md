@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [타라넬 아르테미시아 (Taranel Artemisia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/12.타라넬아르테미시아.md)
-- [천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge)](../../01-19-1.무기/10.활·석궁/천공의%20저격궁%20'별빛%20쐐기'%20(Sniper%20Bow%20of%20the%20Firmament%20Starlight%20Wedge).md) — 브레이서가 반발 진동을 흡수하는 원인이 되는 주무기.
+- [천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge)](../../01-19-1.무기/10.활·석궁/별빛%20쐐기%20(Starlight%20Wedge).md) — 브레이서가 반발 진동을 흡수하는 원인이 되는 주무기.
 - [에베르 시안 망원 렌즈 (Telescopic Lens of Eber-Cyan)](../../01-19-4.유물/04.영웅고유성유물/에베르%20시안%20망원%20렌즈%20(Telescopic%20Lens%20of%20Eber-Cyan).md) — 망원 렌즈가 제공하는 3초 예측 궤적과 브레이서의 코리올리 보정이 결합될 때 타라넬의 저격 정확도가 정점에 달한다.

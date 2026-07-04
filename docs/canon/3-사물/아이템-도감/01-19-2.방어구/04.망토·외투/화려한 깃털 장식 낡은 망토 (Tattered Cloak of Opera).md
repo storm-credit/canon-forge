@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [실버리안 레퀴엠 (Silverian Requiem)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/13.실버리안레퀴엠.md)
-- [레퀴엠의 은빛 활과 자신의 갈비뼈 류트 (Silver Bow of Requiem & Ribcage Lute of Own)](../../01-19-1.무기/10.활·석궁/레퀴엠의%20은빛%20활과%20자신의%20갈비뼈%20류트%20(Silver%20Bow%20of%20Requiem%20&%20Ribcage%20Lute%20of%20Own).md)
+- [레퀴엠의 은빛 활과 자신의 갈비뼈 류트 (Silver Bow of Requiem & Ribcage Lute of Own)](../../01-19-1.무기/10.활·석궁/실버%20레퀴엠%20(Silver%20Requiem).md)
 - [불협화음의 진동 파장 방벽 (Dissonance Vibration Wave Barrier)](../03.로브·마법복/불협화음의%20진동%20파장%20방벽%20(Dissonance%20Vibration%20Wave%20Barrier).md)

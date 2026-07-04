@@ -97,5 +97,5 @@
 ## 🔗 관련 문서
 
 - [우서 블러드워커 (Uther Bloodwalker)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/우서블러드워커.md)
-- [정령의 활 실페리시움 (Spirit Bow Silphelisium)](../../01-19-1.무기/10.활·석궁/정령의%20활%20실페리시움%20(Spirit%20Bow%20Silphelisium).md) — 형제 아서 펜드래곤의 전용 장비
+- [정령의 활 실페리시움 (Spirit Bow Silphelisium)](../../01-19-1.무기/10.활·석궁/실베린%20(Sylverin).md) — 형제 아서 펜드래곤의 전용 장비
 - 발키리아 전장의 맹세 용병단 (Valkyria Oathbound Mercenaries)

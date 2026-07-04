@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 베클렌 (Guinevere Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/3.붉은칼날용병단/01.기네비어베클렌.md)
-- [뿌리내린 서약궁 — 기네비어 베클렌의 정령활 실페리시움 (Rooted Oathbow — Guinevere Becklen's Spirit Bow Sylpherisium)](../../01-19-1.무기/10.활·석궁/뿌리내린%20서약궁%20—%20기네비어%20베클렌의%20정령활%20실페리시움%20(Rooted%20Oathbow%20—%20Guinevere%20Becklen's%20Spirit%20Bow%20Sylpherisium).md)
+- [뿌리내린 서약궁 — 기네비어 베클렌의 정령활 실페리시움 (Rooted Oathbow — Guinevere Becklen's Spirit Bow Sylpherisium)](../../01-19-1.무기/10.활·석궁/로티엘%20(Rothiel).md)

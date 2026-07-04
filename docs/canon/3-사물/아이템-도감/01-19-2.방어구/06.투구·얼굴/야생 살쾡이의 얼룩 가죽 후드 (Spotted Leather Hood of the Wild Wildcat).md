@@ -98,4 +98,4 @@
 
 - [메라 실피드 (Mera Sylphid)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/09.메라실피드.md)
 - [독나비의 위장 모포 (Camouflage Blanket of the Poison-Butterfly)](../../03.로브·마법복/독나비의%20위장%20모포%20(Camouflage%20Blanket%20of%20the%20Poison-Butterfly).md)
-- [침묵의 추적을 명하는 유령 활 (Ghost Bow Commanding Silent Pursuit)](../../../01-19-1.무기/10.활·석궁/침묵의%20추적을%20명하는%20유령%20활%20(Ghost%20Bow%20Commanding%20Silent%20Pursuit).md)
+- [침묵의 추적을 명하는 유령 활 (Ghost Bow Commanding Silent Pursuit)](../../../01-19-1.무기/10.활·석궁/사일런트%20레이스%20(Silent%20Wraith).md)

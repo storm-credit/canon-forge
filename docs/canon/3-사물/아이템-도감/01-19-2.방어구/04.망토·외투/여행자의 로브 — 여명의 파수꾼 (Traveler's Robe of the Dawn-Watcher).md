@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [세리아 루미너스 (Seria Luminous)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/1.어둠의손/세리아루미너스.md)
-- [여명의 파수궁 — 세리아의 실페리엔 (Dawn-Watcher's Bow, Seria's Sylperien)](../../01-19-1.무기/10.활·석궁/여명의 파수궁 — 세리아의 실페리엔 (Dawn-Watcher's Bow, Seria's Sylperien).md)
+- [여명의 파수궁 — 세리아의 실페리엔 (Dawn-Watcher's Bow, Seria's Sylperien)](../../01-19-1.무기/10.활·석궁/실페리엔 (Sylperien).md)

@@ -84,4 +84,4 @@
 
 ## 🔗 관련 문서
 - [갤러해드 크로스 (Galahad Cross)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/5.스틱스심연의금고/01.갤러해드크로스.md)
-- [정령의 활 실페리시움 (Spirit Bow Sylpherisium)](../10.활·석궁/정령의%20활%20실페리시움%20(Spirit%20Bow%20Sylpherisium).md)
+- [정령의 활 실페리시움 (Spirit Bow Sylpherisium)](../10.활·석궁/실페리시움%20뿌리서약%20(Sylpherisium%20Rootvow).md)

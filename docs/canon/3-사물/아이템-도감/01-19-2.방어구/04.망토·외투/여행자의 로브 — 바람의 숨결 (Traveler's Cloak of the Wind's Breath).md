@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/아리엔베클렌.md)
-- [정령의 활 — 실페리시움 (Spirit Bow Sylpherithium)](../../01-19-1.무기/10.활·석궁/정령의 활 — 실페리시움 (Spirit Bow Sylpherithium).md)
+- [정령의 활 — 실페리시움 (Spirit Bow Sylpherithium)](../../01-19-1.무기/10.활·석궁/실페리시움 (Sylpherithium).md)

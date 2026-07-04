@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [발렌타인 나이트폴 (Valentine Nightfall)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/2.연금술사의길드/발렌타인나이트폴.md)
-- [별빛 인도자의 정령활 — 나이트폴의 은시위 (Starward Guide's Spirit Bow — Nightfall's Silver String)](../../01-19-1.무기/10.활·석궁/별빛%20인도자의%20정령활%20—%20나이트폴의%20은시위%20(Starward%20Guide's%20Spirit%20Bow%20—%20Nightfall's%20Silver%20String).md)
+- [별빛 인도자의 정령활 — 나이트폴의 은시위 (Starward Guide's Spirit Bow — Nightfall's Silver String)](../../01-19-1.무기/10.활·석궁/아스텔린%20(Astellyn).md)

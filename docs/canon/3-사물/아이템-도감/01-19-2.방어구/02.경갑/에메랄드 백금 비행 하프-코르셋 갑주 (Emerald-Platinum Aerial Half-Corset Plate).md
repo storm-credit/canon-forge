@@ -87,4 +87,4 @@
 
 - [아이샤 제피리스 (Aisha Zephyris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/02.아이샤제피리스.md)
 - [비행하는 깃털의 스톰 슈트 (Storm-Suit of Flying Feathers)](../03.로브·마법복/비행하는%20깃털의%20스톰%20슈트%20(Storm-Suit%20of%20Flying%20Feathers).md)
-- [대기의 폐부를 꿰뚫는 제망의 활 (Bow of the Zephyr Piercing the Lungs of Atmosphere)](../../01-19-1.무기/10.활·석궁/대기의%20폐부를%20꿰뚫는%20제망의%20활%20(Bow%20of%20the%20Zephyr%20Piercing%20the%20Lungs%20of%20Atmosphere).md)
+- [대기의 폐부를 꿰뚫는 제망의 활 (Bow of the Zephyr Piercing the Lungs of Atmosphere)](../../01-19-1.무기/10.활·석궁/제피론%20(Zephyron).md)

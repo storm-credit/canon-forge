@@ -86,4 +86,4 @@
 ## 🔗 관련 문서
 
 - [샤를리아 나이트폴 (Charlia Nightfall)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/12.샤를리아나이트폴.md)
-- [샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall)](../../01-19-1.무기/10.활·석궁/샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall).md)
+- [샤를리아 나이트폴의 심연 그림자 활 (Abyssal Shadow Bow of Charlia Nightfall)](../../01-19-1.무기/10.활·석궁/심연의 눈 (Eye of the Abyss).md)

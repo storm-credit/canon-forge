@@ -117,5 +117,5 @@
 ## 🔗 관련 문서
 
 - [발두르 맥시무스 (Baldur Maximus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/04.발두르맥시무스.md)
-- [맹수 사냥꾼의 아케인 마나 장궁 '거수의 시선' (Arcane Mana Longbow of the Beast Hunter — Eye of the Great Beast)](../10.활·석궁/맹수%20사냥꾼의%20아케인%20마나%20장궁%20'거수의%20시선'%20(Arcane%20Mana%20Longbow%20of%20the%20Beast%20Hunter%20—%20Eye%20of%20the%20Great%20Beast).md)
+- [맹수 사냥꾼의 아케인 마나 장궁 '거수의 시선' (Arcane Mana Longbow of the Beast Hunter — Eye of the Great Beast)](../10.활·석궁/거수의%20시선%20(Eye%20of%20the%20Great%20Beast).md)
 - [피를 태운 맹세의 잿빛 폐 봉인 부적 — 발두르의 혈서 봉인패 (Blood-Burning Oath Talisman of Ashen Lung — Baldur's Blood-Writ Seal)](../../01-19-3.악세서리/07.부적/피를%20태운%20맹세의%20잿빛%20폐%20봉인%20부적%20—%20발두르의%20혈서%20봉인패%20(Blood-Burning%20Oath%20Talisman%20of%20Ashen%20Lung%20—%20Baldur's%20Blood-Writ%20Seal).md)

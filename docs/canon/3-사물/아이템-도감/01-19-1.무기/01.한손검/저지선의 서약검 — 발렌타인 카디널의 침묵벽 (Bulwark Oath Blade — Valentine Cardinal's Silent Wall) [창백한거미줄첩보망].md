@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 카디널 (Valentine Cardinal, 창백한 거미줄 첩보망)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/2.창백한거미줄첩보망/03.발렌타인카디널.md)
-- [정령의 활 실페리시움 — 발렌타인 카디널의 침묵진 유예궁 (Spirit Bow Sylpherisium — Valentine Cardinal's Silent-Line Reprieve Bow)](../10.활·석궁/정령의%20활%20실페리시움%20—%20발렌타인%20카디널의%20침묵진%20유예궁%20(Spirit%20Bow%20Sylpherisium%20—%20Valentine%20Cardinal's%20Silent-Line%20Reprieve%20Bow).md)
+- [정령의 활 실페리시움 — 발렌타인 카디널의 침묵진 유예궁 (Spirit Bow Sylpherisium — Valentine Cardinal's Silent-Line Reprieve Bow)](../10.활·석궁/침묵유예%20(Silent%20Reprieve).md)
 - [창백한 거미줄 첩보망](../../../../2-무대/세력/그림자첩보/창백한거미줄/창백한거미줄.md)

@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [루시안 라크루아 (Lucian Lacroix)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/4.황야의추적자들/07.루시안라크루아.md)
-- [여명의 궤적 — 루시안 라크루아의 스톰호크 장궁 (Trajectory of Dawn — Lucian Lacroix's Stormhawk Longbow)](../../01-19-1.무기/10.활·석궁/여명의%20궤적%20—%20루시안%20라크루아의%20스톰호크%20장궁%20(Trajectory%20of%20Dawn%20—%20Lucian%20Lacroix's%20Stormhawk%20Longbow).md)
+- [여명의 궤적 — 루시안 라크루아의 스톰호크 장궁 (Trajectory of Dawn — Lucian Lacroix's Stormhawk Longbow)](../../01-19-1.무기/10.활·석궁/스톰호크%20(Stormhawk).md)
 - [황야의 추적자들](../../../../2-무대/세력/그림자첩보/황야의추적자들/황야의추적자들.md)

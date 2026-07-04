@@ -94,5 +94,5 @@
 
 ## 🔗 관련 문서
 - [이벨린 오크우드 (Evelynn Oakwood, 하이본 귀족 철고)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/2.하이본귀족철고/09.이벨린오크우드.md)
-- [정령의 활 실페리시움 — 이벨린 오크우드의 조문궁 (Spirit Bow Sylpherisium — Evelynn Oakwood's Mourning Bow)](../../01-19-1.무기/10.활·석궁/정령의%20활%20실페리시움%20—%20이벨린%20오크우드의%20조문궁%20(Spirit%20Bow%20Sylpherisium%20—%20Evelynn%20Oakwood's%20Mourning%20Bow).md)
+- [정령의 활 실페리시움 — 이벨린 오크우드의 조문궁 (Spirit Bow Sylpherisium — Evelynn Oakwood's Mourning Bow)](../../01-19-1.무기/10.활·석궁/엘레지실프%20(Elegy%20Sylph).md)
 - [하이본 귀족 철고 (Highborn Platinum Reserve)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/2.하이본귀족철고/index.md)

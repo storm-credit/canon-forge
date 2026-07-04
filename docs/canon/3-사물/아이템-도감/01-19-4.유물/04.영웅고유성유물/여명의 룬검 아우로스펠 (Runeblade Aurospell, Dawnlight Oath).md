@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [클라우스 루미너스 (Klaus Luminous)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/4.진실의눈/클라우스루미너스.md)
-- [정령의 활 실페리시움 (Spirit Bow Silpherisium)](../../01-19-1.무기/10.활·석궁/정령의%20활%20실페리시움%20(Spirit%20Bow%20Silpherisium).md)
+- [정령의 활 실페리시움 (Spirit Bow Silpherisium)](../../01-19-1.무기/10.활·석궁/실페리시움%20여명서약%20(Silpherisium%20Dawnvow).md)
 - 진실의 눈 (Eye of Truth)

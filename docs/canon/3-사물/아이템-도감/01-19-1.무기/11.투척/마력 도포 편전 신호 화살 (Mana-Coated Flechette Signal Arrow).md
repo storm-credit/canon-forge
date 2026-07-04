@@ -79,5 +79,5 @@
 
 ## 🔗 관련 문서
 - [제라 아퀼라 (Zera Aquila)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/12.제라아퀼라.md)
-- [천공궁 브릴리언트 아퀼라 (Sky-Bow: Brilliant Aquila)](../10.활·석궁/천공궁 브릴리언트 아퀼라 (Sky-Bow Brilliant Aquila).md)
+- [천공궁 브릴리언트 아퀼라 (Sky-Bow: Brilliant Aquila)](../10.활·석궁/브릴리언트 아퀼라 (Brilliant Aquila).md)
 - [안티 스펠 브로드헤드 화살 (Anti-Spell Broadhead Arrow)](./안티 스펠 브로드헤드 화살 (Anti-Spell Broadhead Arrow).md)

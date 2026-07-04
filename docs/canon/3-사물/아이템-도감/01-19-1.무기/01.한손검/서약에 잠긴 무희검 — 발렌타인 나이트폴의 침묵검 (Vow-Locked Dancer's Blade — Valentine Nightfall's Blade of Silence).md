@@ -83,4 +83,4 @@
 
 ## 🔗 관련 문서
 - [발렌타인 나이트폴 (Valentine Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/5.유랑기사단/04.발렌타인나이트폴.md)
-- [유랑하는 서약의 실페리시움 — 발렌타인 나이트폴의 무희궁 (Wandering Vow's Sylpherisium — Valentine Nightfall's Dancer's Bow)](../10.활·석궁/유랑하는%20서약의%20실페리시움%20—%20발렌타인%20나이트폴의%20무희궁%20(Wandering%20Vow's%20Sylpherisium%20—%20Valentine%20Nightfall's%20Dancer's%20Bow).md)
+- [유랑하는 서약의 실페리시움 — 발렌타인 나이트폴의 무희궁 (Wandering Vow's Sylpherisium — Valentine Nightfall's Dancer's Bow)](../10.활·석궁/살타리엔%20(Saltarien).md)

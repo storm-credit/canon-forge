@@ -86,6 +86,6 @@
 
 ## 🔗 관련 문서
 - [에반젤린 아스텔 (Evangeline Astel)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/11.에반젤린아스텔.md)
-- [아스텔의 항성궁 (Stellar Bow of Astel)](../../01-19-1.무기/10.활·석궁/아스텔의 항성궁 (Stellar Bow of Astel).md)
+- [아스텔의 항성궁 (Stellar Bow of Astel)](../../01-19-1.무기/10.활·석궁/아스트랄리스 (Astralis).md)
 - [자색 결정 안대 (Violet Crystal Eyepatch)](../../01-19-2.방어구/06.투구·얼굴/자색 결정 안대 (Violet Crystal Eyepatch).md)
 - [위장 재 장갑 (Ash Camouflage Gauntlets)](../../01-19-2.방어구/08.장갑·손목/위장 재 장갑 (Ash Camouflage Gauntlets).md)

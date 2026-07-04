@@ -119,4 +119,4 @@
 
 - [발두르 맥시무스 (Baldur Maximus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/04.발두르맥시무스.md)
 - [칠흑의 분쇄검 — 발두르 맥시무스의 심연 광석 분쇄검 (Ebony Crusher — Baldur Maximus's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/사냥의%20개시%20헌츠엔드%20(Huntsend).md)
-- [맹수 사냥꾼의 아케인 마나 장궁 '거수의 시선' (Arcane Mana Longbow of the Beast Hunter — Eye of the Great Beast)](../../01-19-1.무기/10.활·석궁/맹수%20사냥꾼의%20아케인%20마나%20장궁%20'거수의%20시선'%20(Arcane%20Mana%20Longbow%20of%20the%20Beast%20Hunter%20—%20Eye%20of%20the%20Great%20Beast).md)
+- [맹수 사냥꾼의 아케인 마나 장궁 '거수의 시선' (Arcane Mana Longbow of the Beast Hunter — Eye of the Great Beast)](../../01-19-1.무기/10.활·석궁/거수의%20시선%20(Eye%20of%20the%20Great%20Beast).md)

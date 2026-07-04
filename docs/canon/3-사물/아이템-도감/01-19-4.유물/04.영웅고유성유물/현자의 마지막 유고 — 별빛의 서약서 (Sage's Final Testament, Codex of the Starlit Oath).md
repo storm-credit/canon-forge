@@ -85,5 +85,5 @@
 ## 🔗 관련 문서
 
 - [클라우스 할로윈 (Klaus Halloween)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/6.철혈부대/클라우스할로윈.md)
-- [정령궁 페리페시아 — 별의 침묵 (Spirit Bow Periphethreia, Silence of the Stars)](../../01-19-1.무기/10.활·석궁/정령궁 페리페시아 — 별의 침묵 (Spirit Bow Periphethreia, Silence of the Stars).md)
+- [정령궁 페리페시아 — 별의 침묵 (Spirit Bow Periphethreia, Silence of the Stars)](../../01-19-1.무기/10.활·석궁/페리페시아 (Periphethreia).md)
 - 철혈 부대 (Iron Blood Corps)

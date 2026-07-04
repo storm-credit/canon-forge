@@ -95,4 +95,4 @@
 
 - [카르멘 나이트폴 (Carmen Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/09.카르멘나이트폴.md)
 - [칠흑의 분쇄검 — 카르멘 나이트폴의 심연 광석 야전검 (Ebony Crusher — Carmen Nightfall's Abyssal Ore Field Blade)](../../01-19-1.무기/02.양손검/이름%20없는%20날%20(The%20Nameless%20Edge).md)
-- [생명을 태운 야전 저격궁 — 카르멘 나이트폴의 맹수 사냥 장궁 (Life-Fire Field Sniper Bow — Carmen Nightfall's Beast Hunter Longbow)](../../01-19-1.무기/10.활·석궁/생명을%20태운%20야전%20저격궁%20—%20카르멘%20나이트폴의%20맹수%20사냥%20장궁%20(Life-Fire%20Field%20Sniper%20Bow%20—%20Carmen%20Nightfall's%20Beast%20Hunter%20Longbow).md)
+- [생명을 태운 야전 저격궁 — 카르멘 나이트폴의 맹수 사냥 장궁 (Life-Fire Field Sniper Bow — Carmen Nightfall's Beast Hunter Longbow)](../../01-19-1.무기/10.활·석궁/비올라스트%20(Violast).md)

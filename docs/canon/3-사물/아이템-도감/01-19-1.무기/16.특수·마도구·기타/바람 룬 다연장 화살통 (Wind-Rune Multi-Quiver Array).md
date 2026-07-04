@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [카엘 벤투스 (Kael Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/06.카엘벤투스.md)
-- [창공을 찢는 풍차궁 '제피론' (Windmill Bow of Firmament: Zephyron)](../10.활·석궁/창공을%20찢는%20풍차궁%20'제피론'%20(Windmill%20Bow%20of%20Firmament%20Zephyron).md)
+- [창공을 찢는 풍차궁 '제피론' (Windmill Bow of Firmament: Zephyron)](../10.활·석궁/제피론%20풍차궁%20(Zephyron%20Windmill).md)
 - [색인 마나 깃털 신호탄 — 카엘의 하늘 암호 (Color-Coded Mana Feather Signal — Sky Cipher of Kael)](색인%20마나%20깃털%20신호탄%20—%20카엘의%20하늘%20암호%20(Color-Coded%20Mana%20Feather%20Signal%20—%20Sky%20Cipher%20of%20Kael).md)

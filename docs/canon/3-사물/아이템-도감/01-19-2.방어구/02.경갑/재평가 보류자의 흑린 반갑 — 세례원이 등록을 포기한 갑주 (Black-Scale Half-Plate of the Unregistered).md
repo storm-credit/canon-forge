@@ -85,5 +85,5 @@
 
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/10.강철의형제단/08.아리엔베클렌.md)
-- [반쪽 서약의 잿빛 장궁 — 실페리시움의 잔향 (Half-Oath Ashen Longbow — Echo of Sylpherithium)](../../01-19-1.무기/10.활·석궁/반쪽%20서약의%20잿빛%20장궁%20—%20실페리시움의%20잔향%20(Half-Oath%20Ashen%20Longbow%20—%20Echo%20of%20Sylpherithium).md)
+- [반쪽 서약의 잿빛 장궁 — 실페리시움의 잔향 (Half-Oath Ashen Longbow — Echo of Sylpherithium)](../../01-19-1.무기/10.활·석궁/잿빛%20시위%20(Ashen%20String).md)
 - [흑린 저격수의 야전 반갑 — 베클렌의 은둔 경갑 (Black-Scale Sniper's Half-Plate — Becklen's Blind Armor)](../02.경갑/흑린%20저격수의%20야전%20반갑%20—%20베클렌의%20은둔%20경갑%20(Black-Scale%20Sniper's%20Half-Plate%20—%20Becklen's%20Blind%20Armor).md) — 동일 가문 계보의 유사 장비(아르헨타 은영단 소속 아리엔 베클렌 소유, 별개 인물)

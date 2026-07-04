@@ -84,5 +84,5 @@
 ## 🔗 관련 문서
 
 - [카산드라 베를란 (Cassandra Verlan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/1.에테르기어인더스트리/07.카산드라베를란.md)
-- [정령의 활 '실페리시움' — 카산드라 베를란의 파수궁 (Spirit Bow Sylpherisium — Cassandra Verlan's Warden's Bow)](../../01-19-1.무기/10.활·석궁/정령의%20활%20'실페리시움'%20—%20카산드라%20베를란의%20파수궁%20(Spirit%20Bow%20Sylpherisium%20—%20Cassandra%20Verlan's%20Warden's%20Bow).md)
+- [정령의 활 '실페리시움' — 카산드라 베를란의 파수궁 (Spirit Bow Sylpherisium — Cassandra Verlan's Warden's Bow)](../../01-19-1.무기/10.활·석궁/대열의%20잔광%20(Formation's%20Afterglow).md)
 - [가문의 낡은 은훈장 — 침묵한 긍지 (Old Silver House-Medal — Silenced Pride)](가문의%20낡은%20은훈장%20—%20침묵한%20긍지%20(Old%20Silver%20House-Medal%20—%20Silenced%20Pride).md) — 황야의 추적자들 소속 기네비어 어스바운드의 별개 개체, 가문·기원 모두 무관

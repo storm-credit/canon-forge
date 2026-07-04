@@ -91,6 +91,6 @@
 
 ## 🔗 관련 문서
 - [벨라트릭스 루미나 (Bellatrix Lumina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/04.벨라트릭스루미나.md)
-- [루미나의 빛을 세공한 롱보우 (Longbow Crafted with the Light of Lumina)](../../01-19-1.무기/10.활·석궁/루미나의빛을세공한롱보우.md)
+- [루미나의 빛을 세공한 롱보우 (Longbow Crafted with the Light of Lumina)](../../01-19-1.무기/10.활·석궁/루미나 롱보우 (Lumina Longbow).md)
 - [마도공학 에테르 압축 조준기 '에클립스' (Ether-Compression Scope Eclipse)](../../01-19-3.악세서리/10.특수마도구·마력핵/마도공학 에테르 압축 조준기 '에클립스' (Ether-Compression Scope Eclipse).md)
 - [시야 비틀림의 망토 (Cloak of Visual Distortion)](../../01-19-2.방어구/04.망토·외투/시야 비틀림의 망토 (Cloak of Visual Distortion).md)

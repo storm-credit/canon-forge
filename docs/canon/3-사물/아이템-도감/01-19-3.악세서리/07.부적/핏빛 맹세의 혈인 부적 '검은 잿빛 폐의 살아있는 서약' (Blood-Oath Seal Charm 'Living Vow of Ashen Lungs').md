@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/04.아리엔베클렌.md)
 - [칠흑의 분쇄검 — 베클렌의 심연 광석검 (Ebony Crushing Greatsword of Becklen)](../../01-19-1.무기/02.양손검/애비스%20웨지%20(Abyss%20Wedge).md)
-- [생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen)](../../01-19-1.무기/10.활·석궁/생명불사른%20야전%20저격궁%20—%20베클렌의%20사냥꾼%20활%20(Blood-Burning%20Field%20Sniper%20Bow%20of%20Becklen).md)
+- [생명불사른 야전 저격궁 — 베클렌의 사냥꾼 활 (Blood-Burning Field Sniper Bow of Becklen)](../../01-19-1.무기/10.활·석궁/잿빛%20사냥꾼%20(Ash%20Hunter).md)
 - [흑린 저격수의 야전 반갑 — 베클렌의 은둔 경갑 (Black-Scale Sniper's Half-Plate — Becklen's Blind Armor)](../../01-19-2.방어구/02.경갑/흑린%20저격수의%20야전%20반갑%20—%20베클렌의%20은둔%20경갑%20(Black-Scale%20Sniper's%20Half-Plate%20—%20Becklen's%20Blind%20Armor).md)

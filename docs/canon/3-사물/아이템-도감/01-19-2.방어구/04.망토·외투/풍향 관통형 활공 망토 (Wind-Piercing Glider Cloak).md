@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [타라넬 아르테미시아 (Taranel Artemisia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/12.타라넬아르테미시아.md)
 - [동기화 위장 슈트 '카멜레온의 숲' (Sync Camo-suit of Chameleon's Forest)](../03.로브·마법복/동기화%20위장%20슈트%20'카멜레온의%20숲'%20(Sync%20Camo-suit%20of%20Chameleon's%20Forest).md) — 망토 내면이 슈트의 위장 마나를 투과 매개한다.
-- [천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge)](../../01-19-1.무기/10.활·석궁/천공의%20저격궁%20'별빛%20쐐기'%20(Sniper%20Bow%20of%20the%20Firmament%20Starlight%20Wedge).md)
+- [천공의 저격궁 '별빛 쐐기' (Sniper Bow of the Firmament: Starlight Wedge)](../../01-19-1.무기/10.활·석궁/별빛%20쐐기%20(Starlight%20Wedge).md)

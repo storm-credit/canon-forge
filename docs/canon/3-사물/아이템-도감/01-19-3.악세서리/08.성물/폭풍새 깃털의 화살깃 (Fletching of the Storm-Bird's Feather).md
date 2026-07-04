@@ -94,5 +94,5 @@
 ## 🔗 관련 문서
 
 - [리세이라 벤투스 (Liseira Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/04.리세이라벤투스.md)
-- [벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus)](../../01-19-1.무기/10.활·석궁/벤투스의%20고장력%20다면체(Polyhedron)%20장궁%20(High-Tension%20Polyhedron%20Longbow%20of%20Ventus).md) — 이 깃털을 단 화살을 방출하는 시그니처 장궁.
+- [벤투스의 고장력 다면체(Polyhedron) 장궁 (High-Tension Polyhedron Longbow of Ventus)](../../01-19-1.무기/10.활·석궁/폴리벤투스%20(Polyventus).md) — 이 깃털을 단 화살을 방출하는 시그니처 장궁.
 - [비례 반발력을 지닌 바람 사냥꾼의 조끼 (Wind-Hunter's Vest of Proportional Repulsion)](../../01-19-2.방어구/03.로브·마법복/비례%20반발력을%20지닌%20바람%20사냥꾼의%20조끼%20(Wind-Hunter's%20Vest%20of%20Proportional%20Repulsion).md)

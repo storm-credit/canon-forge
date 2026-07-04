@@ -97,4 +97,4 @@
 - [카엘리나 판타스마 (Caelina Phantasma)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/10.카엘리나판타스마.md)
 - [눈먼 자의 마안 프리즘 (Prism of the Blind Demon-Eye)](../../01-19-3.악세서리/10.특수마도구·마력핵/눈먼 자의 마안 프리즘 (Prism of the Blind Demon-Eye).md)
 - [빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](../03.로브·마법복/빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror).md)
-- [판타스마의 다중 도탄(Ricochet) 쐐기석궁 (Multi-Ricochet Wedge Crossbow of Phantasma)](../../01-19-1.무기/10.활·석궁/판타스마의 다중 도탄(Ricochet) 쐐기석궁 (Multi-Ricochet Wedge Crossbow of Phantasma).md)
+- [판타스마의 다중 도탄(Ricochet) 쐐기석궁 (Multi-Ricochet Wedge Crossbow of Phantasma)](../../01-19-1.무기/10.활·석궁/판타스마 (Phantasma).md)
