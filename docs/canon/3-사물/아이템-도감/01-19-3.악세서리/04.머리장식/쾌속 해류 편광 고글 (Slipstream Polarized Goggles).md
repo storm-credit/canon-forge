@@ -95,4 +95,4 @@
 - [리오넬 웨이브스팅 (Lionel Wavesting)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/11.리오넬웨이브스팅.md)
 - [마도 어뢰 작살총 '스팅-레이' (M-Torpedo Harpoon 'Sting-Ray')](../../01-19-1.무기/15.화기/마도%20어뢰%20작살총%20'스팅-레이'%20(M-Torpedo%20Harpoon%20'Sting-Ray').md)
 - [신경 조향타 '마키나의 지느러미' (Neural-Helm 'Fin of Machina')](../../01-19-4.유물/04.영웅고유성유물/신경%20조향타%20'마키나의%20지느러미'%20(Neural-Helm%20'Fin%20of%20Machina').md)
-- [방수 에어-쿠션 베스트 (Waterproof Air-Cushion Vest)](../../01-19-2.방어구/03.로브·마법복/방수%20에어-쿠션%20베스트%20(Waterproof%20Air-Cushion%20Vest).md)
+- [방수 에어-쿠션 베스트 (Waterproof Air-Cushion Vest)](../../01-19-2.방어구/03.로브·마법복/부표%20(Buoy).md)

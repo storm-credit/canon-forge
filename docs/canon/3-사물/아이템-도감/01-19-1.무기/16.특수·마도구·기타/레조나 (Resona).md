@@ -86,4 +86,4 @@
 ## 🔗 관련 문서
 - [타릭 솔라리스 (Tarik Solaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/11.타릭솔라리스.md)
 - [여명의 참극도 호라이즌 (Blade of Dawn's Tragedy: Horizon)](../01.한손검/호라이즌%20(Horizon).md)
-- [맹서의 백린도 — 타릭의 흰 리넨 눈가리개 (White Linen Vow-Blindfold of Tarik)](../../01-19-2.방어구/06.투구·얼굴/맹서의%20백린도%20—%20타릭의%20흰%20리넨%20눈가리개%20(White%20Linen%20Vow-Blindfold%20of%20Tarik).md)
+- [맹서의 백린도 — 타릭의 흰 리넨 눈가리개 (White Linen Vow-Blindfold of Tarik)](../../01-19-2.방어구/06.투구·얼굴/백린도%20(Vow-Blindfold).md)

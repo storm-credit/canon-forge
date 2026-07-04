@@ -85,4 +85,4 @@
 
 ## 🔗 관련 문서
 - [마그누스 글래시아 (Magnus Glacia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/02.마그누스글래시아.md)
-- [만년 동토의 무투복 (Permafrost Combat Underlayer)](../../01-19-2.방어구/02.경갑/만년%20동토의%20무투복%20(Permafrost%20Combat%20Underlayer).md)
+- [만년 동토의 무투복 (Permafrost Combat Underlayer)](../../01-19-2.방어구/02.경갑/제2피부%20(Second%20Skin).md)

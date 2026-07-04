@@ -80,5 +80,5 @@
 ## 🔗 관련 문서
 - [루시엔타 발렌티아 (Lucienta Valentia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/08.루시엔타발렌티아.md)
 - [발렌티아의 빛이 압축된 궤도 폭발 투창 (Calculated Orbital Explosive Javelin of Valentia)](../../01-19-1.무기/06.창/발렌티아의%20빛이%20압축된%20궤도%20폭발%20투창%20(Calculated%20Orbital%20Explosive%20Javelin%20of%20Valentia).md)
-- [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](../../01-19-2.방어구/02.경갑/에테리움%20강화%20가죽%20비행%20수트%20(Ether-Reinforced%20Leather%20Flight%20Suit).md)
-- [이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles)](../../01-19-2.방어구/06.투구·얼굴/이카루스의%20시선%20산소%20차단%20파일럿%20고글%20(Gaze-of-Icarus%20Anoxia-Seal%20Pilot%20Goggles).md)
+- [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](../../01-19-2.방어구/02.경갑/열두%20번째%20개정%20(Twelfth%20Revision).md)
+- [이카루스의 시선 산소 차단 파일럿 고글 (Gaze-of-Icarus Anoxia-Seal Pilot Goggles)](../../01-19-2.방어구/06.투구·얼굴/이카리온%20(Icarion).md)

@@ -97,5 +97,5 @@
 ## 🔗 관련 문서
 
 - [루시안 코어스 (Lucian Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/5.유랑기사단/03.루시안코어스.md)
-- [오래된 맹세의 방패 — 루시안 코어스의 박명서고 수호구 (Shield of the Ancient Vow — Lucian Cores' Twilight Archive Ward)](../../01-19-2.방어구/05.방패/오래된 맹세의 방패 — 루시안 코어스의 박명서고 수호구 (Shield of the Ancient Vow — Lucian Cores' Twilight Archive Ward).md)
+- [오래된 맹세의 방패 — 루시안 코어스의 박명서고 수호구 (Shield of the Ancient Vow — Lucian Cores' Twilight Archive Ward)](../../01-19-2.방어구/05.방패/엠버리스 (Emberis).md)
 - [유랑 기사단 (Wandering Knights)](../../../../2-무대/세력/용병단/유랑기사단/유랑기사단.md)

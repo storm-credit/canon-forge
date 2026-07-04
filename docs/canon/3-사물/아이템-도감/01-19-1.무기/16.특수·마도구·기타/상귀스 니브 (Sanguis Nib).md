@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [이그나시오 모르티스 (Ignacio Mortis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/02.이그나시오모르티스.md)
 - [피에 굶주린 성은(聖銀)의 낫 채찍 '모르테 쏜' (Blood-Thirsty Silver Whip 'Morte Thorn')](../08.채찍/피에%20굶주린%20성은(聖銀)의%20낫%20채찍%20'모르테%20쏜'%20(Blood-Thirsty%20Silver%20Whip%20'Morte%20Thorn').md)
-- [가시덤불 혈수 자수 흑색 사제복 (Thornbush Bloodwater-Embroidered Black Soutane)](../../01-19-2.방어구/03.로브·마법복/가시덤불%20혈수%20자수%20흑색%20사제복%20(Thornbush%20Bloodwater-Embroidered%20Black%20Soutane).md)
+- [가시덤불 혈수 자수 흑색 사제복 (Thornbush Bloodwater-Embroidered Black Soutane)](../../01-19-2.방어구/03.로브·마법복/심판의%20덤불%20(Thorns%20of%20Judgment).md)

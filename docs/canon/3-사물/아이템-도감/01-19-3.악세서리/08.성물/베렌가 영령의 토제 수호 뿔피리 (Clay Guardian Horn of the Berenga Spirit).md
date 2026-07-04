@@ -92,7 +92,7 @@
 ## 🔗 관련 문서
 - [바란 스톤스케일 (Baran Stonescale)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/09.바란스톤스케일.md)
 - [석화 침전 억제 지맥 각인 (Petrification-Sedimentation Ley-Seal Inscription)](../07.부적/석화%20침전%20억제%20지맥%20각인%20(Petrification-Sedimentation%20Ley-Seal%20Inscription).md)
-- [바란의 암주철벽 대방패 (Ironwall Tower-Shield of Baran)](../../01-19-2.방어구/05.방패/바란의%20암주철벽%20대방패%20(Ironwall%20Tower-Shield%20of%20Baran).md)
+- [바란의 암주철벽 대방패 (Ironwall Tower-Shield of Baran)](../../01-19-2.방어구/05.방패/암주철벽%20(Ironwall).md)
 - 드레이크월 방어선 (Drakewall Line)
 - 베렌가 영령 숭배 (Berenga Spirit Worship)
 - 용의 후예 (Dragon Descendants)

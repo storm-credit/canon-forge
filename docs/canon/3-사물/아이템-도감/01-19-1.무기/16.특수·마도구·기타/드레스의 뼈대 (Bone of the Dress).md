@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 - [아라크네 소울위버 (Arachne Soulweaver)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/11.아라크네소울위버.md)
 - [위버의 비탄 실패 릴 (Spindle Reel of Weaver's Lament)](비탄의 실패 (Reel of Lament).md)
-- [광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon)](../../01-19-2.방어구/03.로브·마법복/광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon).md)
+- [광학 반사경 미라주 고치 (Optical Reflector Mirage Cocoon)](../../01-19-2.방어구/03.로브·마법복/미라주 코쿤 (Mirage Cocoon).md)
 - [운명 감시석 베릴 (Beryl Watchstone of Destiny)](../../01-19-3.악세서리/04.머리장식/운명 감시석 베릴 (Beryl Watchstone of Destiny).md)

@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [라미엘리스 시안 (Ramielis Cyan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/10.라미엘리스시안.md)
 - [시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis)](../../01-19-1.무기/06.창/시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis).md)
-- [역병 차단된 멸균 은빛 방사복 (Sterile Silver Hazmat-Suit)](../../01-19-2.방어구/03.로브·마법복/역병 차단된 멸균 은빛 방사복 (Sterile Silver Hazmat-Suit).md)
+- [역병 차단된 멸균 은빛 방사복 (Sterile Silver Hazmat-Suit)](../../01-19-2.방어구/03.로브·마법복/퓨어스트라이드 (Purestride).md)

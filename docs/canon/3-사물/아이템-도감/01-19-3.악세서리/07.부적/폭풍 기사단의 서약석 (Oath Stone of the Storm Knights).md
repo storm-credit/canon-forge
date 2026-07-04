@@ -103,6 +103,6 @@
 ## 🔗 관련 문서
 
 - [타르곤 스톰브링어 (Targon Stormbringer)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/15.타르곤스톰브링어.md)
-- [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](../../01-19-2.방어구/01.중갑/폭풍%20기사단의%20단독%20수장%20갑주%20(Sole-Commander%20Plate%20of%20the%20Storm%20Knights).md)
+- [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](../../01-19-2.방어구/01.중갑/천뢰%20창격갑%20(Skyfall%20Spearplate).md)
 - [푸른 뇌명창 천공 (Azure Spear, Zenith)](../../01-19-1.무기/06.창/푸른%20뇌명창%20천공%20(Azure%20Spear,%20Zenith).md)
 - 폭풍의 성채 (Tempest Keep)

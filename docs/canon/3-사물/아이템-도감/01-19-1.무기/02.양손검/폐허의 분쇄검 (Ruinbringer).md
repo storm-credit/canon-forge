@@ -106,6 +106,6 @@
 ## 🔗 관련 문서
 
 - [로잘린드 루인스 (Rosalind Ruins)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/03.로잘린드루인스.md)
-- [폐허 순찰자의 야전 사슬갑 (Ruinwalker's Field Chainmail)](../../01-19-2.방어구/02.경갑/폐허 순찰자의 야전 사슬갑 (Ruinwalker's Field Chainmail).md)
+- [폐허 순찰자의 야전 사슬갑 (Ruinwalker's Field Chainmail)](../../01-19-2.방어구/02.경갑/루인워커 (Ruinwalker).md)
 - [타겟팅 보드의 명패 목걸이 (Targeting Board's Nameplate Necklace)](../../01-19-3.악세서리/02.목걸이·팬던트/타겟팅 보드의 명패 목걸이 (Targeting Board's Nameplate Necklace).md)
 - [발키리아 용병단 — 세력 개요](../../../../2-무대/세력/용병단/발키리아용병단/발키리아용병단.md)

@@ -112,5 +112,5 @@
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/01.가웨인노바.md)
 - [칠흑의 분쇄검 '망자의 맹서' (Black Crusher Greatsword 'Dead Man's Oath')](../../01-19-1.무기/02.양손검/망자의%20맹서%20(Dead%20Man's%20Oath).md)
-- [검은 모루 연합 개척지 흑린 전투갑 (Black Anvil Pioneer's Combat Hide)](../../01-19-2.방어구/02.경갑/검은%20모루%20연합%20개척지%20흑린%20전투갑%20(Black%20Anvil%20Pioneer's%20Combat%20Hide).md)
+- [검은 모루 연합 개척지 흑린 전투갑 (Black Anvil Pioneer's Combat Hide)](../../01-19-2.방어구/02.경갑/흑린의%20침묵%20(Blackscale%20Silence).md)
 - 검은 모루 장인 연합 (Black Anvil Artisan Guild)

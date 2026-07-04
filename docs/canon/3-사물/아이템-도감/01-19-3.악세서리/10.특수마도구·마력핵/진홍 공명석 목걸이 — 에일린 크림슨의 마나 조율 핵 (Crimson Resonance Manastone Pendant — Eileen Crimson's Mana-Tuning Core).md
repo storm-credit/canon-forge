@@ -76,5 +76,5 @@
 ## 🔗 관련 문서
 - [에일린 크림슨 (Eileen Crimson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/08.에일린크림슨.md)
 - [칠흑의 분쇄검 — 에일린 크림슨의 진홍 공명 분쇄검 (Ebony Crusher — Eileen Crimson's Crimson-Resonance Greatsword)](../../01-19-1.무기/02.양손검/진홍%20공명검%20(Crimson%20Resonance).md)
-- [마나 공명 반갑 '진홍의 경계' — 에일린 크림슨의 배틀메이지 결속갑 (Mana-Resonance Half-Plate 'Crimson Boundary' — Eileen Crimson's Battle-Mage Wargear)](../../01-19-2.방어구/03.로브·마법복/마나%20공명%20반갑%20'진홍의%20경계'%20—%20에일린%20크림슨의%20배틀메이지%20결속갑%20(Mana-Resonance%20Half-Plate%20'Crimson%20Boundary'%20—%20Eileen%20Crimson's%20Battle-Mage%20Wargear).md)
+- [마나 공명 반갑 '진홍의 경계' — 에일린 크림슨의 배틀메이지 결속갑 (Mana-Resonance Half-Plate 'Crimson Boundary' — Eileen Crimson's Battle-Mage Wargear)](../../01-19-2.방어구/03.로브·마법복/진홍의%20경계%20(Crimson%20Boundary).md)
 - 발키리아 전장의 맹세 용병단 (Valkyria Oathbound Mercenaries)

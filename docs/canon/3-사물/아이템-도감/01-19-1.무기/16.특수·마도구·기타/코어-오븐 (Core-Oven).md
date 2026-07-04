@@ -94,7 +94,7 @@
 
 - [카르닥 스톤엔진 (Kardak Stone-engine)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/06.카르닥스톤엔진.md)
 - [마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer)](../07.둔기/마키나스의%20울로코%20압력%20건망치%20%28Uloco%20Pressure%20Gun-Hammer%29.md)
-- [마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas)](../../01-19-2.방어구/06.투구·얼굴/마키나스%20가문의%20구리%20파이프%20방진%20전투%20고글%20%28Copper-Pipe%20Combat%20Dust-Goggles%20of%20House%20Machinas%29.md)
-- [고기압 스팀 플라이 점퍼 (High-Pressure Steam-Fly Jumper)](../../01-19-2.방어구/09.장화·각반/고기압%20스팀%20플라이%20점퍼%20%28High-Pressure%20Steam-Fly%20Jumper%29.md)
-- [보일러메이커의 다중결합 단열 수트 (Boilermaker's Thermo-Suit)](../../01-19-2.방어구/03.로브·마법복/보일러메이커의%20다중결합%20단열%20수트%20%28Boilermaker%27s%20Thermo-Suit%29.md)
+- [마키나스 가문의 구리 파이프 방진 전투 고글 (Copper-Pipe Combat Dust-Goggles of House Machinas)](../../01-19-2.방어구/06.투구·얼굴/스팀게이즈%20%28Steam-Gaze%29.md)
+- [고기압 스팀 플라이 점퍼 (High-Pressure Steam-Fly Jumper)](../../01-19-2.방어구/09.장화·각반/철의%20하늘%20각반%20%28Iron-Sky%20Greaves%29.md)
+- [보일러메이커의 다중결합 단열 수트 (Boilermaker's Thermo-Suit)](../../01-19-2.방어구/03.로브·마법복/과압로심%20%28Overpressure%20Core%29.md)
 - [순환하는 레비아탄의 심장 판막 (Valve of the Leviathan)](../../01-19-4.유물/04.영웅고유성유물/순환하는%20레비아탄의%20심장%20판막%20%28Valve%20of%20the%20Leviathan%29.md)

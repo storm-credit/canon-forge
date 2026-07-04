@@ -1,7 +1,7 @@
 ---
 정본명: 장화·각반
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
 ---
 
 # 📚 장화·각반
@@ -11,38 +11,38 @@
 | 아이템 | 링크 |
 |--------|------|
 | 각반 (Greaves) | [각반 (Greaves)](각반%20%28Greaves%29.md) |
-| 강화된 바다뱀 철갑 부츠 (Reinforced Sea-Serpent Iron Boots) | [강화된 바다뱀 철갑 부츠 (Reinforced Sea-Serpent Iron Boots)](강화된%20바다뱀%20철갑%20부츠%20%28Reinforced%20Sea-Serpent%20Iron%20Boots%29.md) |
-| 겔루울루스의 빙염 반동 지면 파쇄 전투 장화 (Geluululatus's Ice-Flame Recoil Ground-Shattering War Boots) | [겔루울루스의 빙염 반동 지면 파쇄 전투 장화 (Geluululatus's Ice-Flame Recoil Ground-Shattering War Boots)](겔루울루스의%20빙염%20반동%20지면%20파쇄%20전투%20장화%20%28Geluululatus's%20Ice-Flame%20Recoil%20Ground-Shattering%20War%20Boots%29.md) |
-| 고기압 스팀 플라이 점퍼 (High-Pressure Steam-Fly Jumper) | [고기압 스팀 플라이 점퍼 (High-Pressure Steam-Fly Jumper)](고기압%20스팀%20플라이%20점퍼%20%28High-Pressure%20Steam-Fly%20Jumper%29.md) |
-| 광부용 중전투 굴착 부츠 (Heavy-Combat Excavation Boots of the Deep Vein) | [광부용 중전투 굴착 부츠 (Heavy-Combat Excavation Boots of the Deep Vein)](광부용%20중전투%20굴착%20부츠%20%28Heavy-Combat%20Excavation%20Boots%20of%20the%20Deep%20Vein%29.md) |
-| 광휘의 계단 문자 각인 장화 (Luminous Stairway Glyph-Branded Boots) | [광휘의 계단 문자 각인 장화 (Luminous Stairway Glyph-Branded Boots)](광휘의%20계단%20문자%20각인%20장화%20%28Luminous%20Stairway%20Glyph-Branded%20Boots%29.md) |
-| 궤도형 마석 롤러 돌진 발판 (Tracked Manastone Roller Assault Soles) | [궤도형 마석 롤러 돌진 발판 (Tracked Manastone Roller Assault Soles)](궤도형%20마석%20롤러%20돌진%20발판%20%28Tracked%20Manastone%20Roller%20Assault%20Soles%29.md) |
-| 레가스의 쇠못 박힌 전선 각반 (Iron-Spike Frontline Greaves of Regas) | [레가스의 쇠못 박힌 전선 각반 (Iron-Spike Frontline Greaves of Regas)](레가스의%20쇠못%20박힌%20전선%20각반%20%28Iron-Spike%20Frontline%20Greaves%20of%20Regas%29.md) |
-| 마나 역장 활주 장기병 부츠 (Mana-Vein Slide Vanguard Boots) | [마나 역장 활주 장기병 부츠 (Mana-Vein Slide Vanguard Boots)](마나%20역장%20활주%20장기병%20부츠%20%28Mana-Vein%20Slide%20Vanguard%20Boots%29.md) |
-| 무중력(Zero-G)의 천공석 비행 부츠 (Hovering Boots of Zenith-Stone) | [무중력(Zero-G)의 천공석 비행 부츠 (Hovering Boots of Zenith-Stone)](무중력%28Zero-G%29의%20천공석%20비행%20부츠%20%28Hovering%20Boots%20of%20Zenith-Stone%29.md) |
-| 밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots) | [밑창 폭발 반동 로켓 점프 군화 (Sole-Blast Recoil Rocket-Jump Combat Boots)](밑창%20폭발%20반동%20로켓%20점프%20군화%20%28Sole-Blast%20Recoil%20Rocket-Jump%20Combat%20Boots%29.md) |
-| 바람길 구름 신발 (Unbound Cloud Slippers) | [바람길 구름 신발 (Unbound Cloud Slippers)](바람길%20구름%20신발%20%28Unbound%20Cloud%20Slippers%29.md) |
-| 빙하 활주 갑철 장화 '극지 전차' (Glacial Slide Sabatons 'Polar Juggernaut') | [빙하 활주 갑철 장화 '극지 전차' (Glacial Slide Sabatons 'Polar Juggernaut')](빙하%20활주%20갑철%20장화%20'극지%20전차'%20%28Glacial%20Slide%20Sabatons%20'Polar%20Juggernaut'%29.md) |
-| 사십 킬로그램 납 구두 (Forty-Kilogram Lead Shoes) | [사십 킬로그램 납 구두 (Forty-Kilogram Lead Shoes)](사십%20킬로그램%20납%20구두%20%28Forty-Kilogram%20Lead%20Shoes%29.md) |
-| 석회관절의 불구 각반 (Calcified-Joint Greaves of the Immovable) | [석회관절의 불구 각반 (Calcified-Joint Greaves of the Immovable)](석회관절의%20불구%20각반%20%28Calcified-Joint%20Greaves%20of%20the%20Immovable%29.md) |
-| 순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots) | [순례자의 투박한 짚신 장화 (Pilgrim's Crude Straw Boots)](순례자의%20투박한%20짚신%20장화%20%28Pilgrim's%20Crude%20Straw%20Boots%29.md) |
-| 심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings) | [심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings)](심연%20역장%20도포식%20스파이크%20레깅스%20%28Abyssal%20S-Field%20Coated%20Spike%20Leggings%29.md) |
-| 십자가 구원자의 맨발 (Barefeet of the Savior) | [십자가 구원자의 맨발 (Barefeet of the Savior)](십자가%20구원자의%20맨발%20%28Barefeet%20of%20the%20Savior%29.md) |
-| 용암 스파이크 슬라이딩 강철 부츠 (Lava-Spike Sliding Steel Boots) | [용암 스파이크 슬라이딩 강철 부츠 (Lava-Spike Sliding Steel Boots)](용암%20스파이크%20슬라이딩%20강철%20부츠%20%28Lava-Spike%20Sliding%20Steel%20Boots%29.md) |
-| 음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave) | [음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave)](음속을%20가르는%20공기역학%20부츠%20%28Aerodynamic%20Boots%20of%20Sonic-Cleave%29.md) |
-| 응압-반작용 추진 장화 (Pressure-Recoil Thruster Boots) | [응압-반작용 추진 장화 (Pressure-Recoil Thruster Boots)](응압-반작용%20추진%20장화%20%28Pressure-Recoil%20Thruster%20Boots%29.md) |
-| 응혈 붉은 강 스케이팅 군화 (Blood-Coagulation Red River Skating War Boots) | [응혈 붉은 강 스케이팅 군화 (Blood-Coagulation Red River Skating War Boots)](응혈%20붉은%20강%20스케이팅%20군화%20%28Blood-Coagulation%20Red%20River%20Skating%20War%20Boots%29.md) |
-| 이면 차원 보법의 그림자 발찌 부츠 (Reverse-Plane Shadow Slip Boots) | [이면 차원 보법의 그림자 발찌 부츠 (Reverse-Plane Shadow Slip Boots)](이면%20차원%20보법의%20그림자%20발찌%20부츠%20%28Reverse-Plane%20Shadow%20Slip%20Boots%29.md) |
+| 광휘의 계단 (Luminous Stairway) | [광휘의 계단 (Luminous Stairway)](광휘의%20계단%20%28Luminous%20Stairway%29.md) |
+| 구원자의 맨발 (Barefeet of the Savior) | [구원자의 맨발 (Barefeet of the Savior)](구원자의%20맨발%20%28Barefeet%20of%20the%20Savior%29.md) |
+| 궤도 서퍼 (Orbit Surfer) | [궤도 서퍼 (Orbit Surfer)](궤도%20서퍼%20%28Orbit%20Surfer%29.md) |
+| 그래비티오버라이드 (Gravity Override) | [그래비티오버라이드 (Gravity Override)](그래비티오버라이드%20%28Gravity%20Override%29.md) |
+| 극지 전차 (Polar Juggernaut) | [극지 전차 (Polar Juggernaut)](극지%20전차%20%28Polar%20Juggernaut%29.md) |
+| 납 구두 (Lead Shoes) | [납 구두 (Lead Shoes)](납%20구두%20%28Lead%20Shoes%29.md) |
+| 뇌룡린 (Thunderscale) | [뇌룡린 (Thunderscale)](뇌룡린%20%28Thunderscale%29.md) |
+| 대지 반향 부츠 (Ground-Echo Boots) | [대지 반향 부츠 (Ground-Echo Boots)](대지%20반향%20부츠%20%28Ground-Echo%20Boots%29.md) |
+| 대지의 혀 (Earthtongue) | [대지의 혀 (Earthtongue)](대지의%20혀%20%28Earthtongue%29.md) |
+| 리바운드 코일 (Rebound Coil) | [리바운드 코일 (Rebound Coil)](리바운드%20코일%20%28Rebound%20Coil%29.md) |
+| 마그넷리버스 (Magnet Reverse) | [마그넷리버스 (Magnet Reverse)](마그넷리버스%20%28Magnet%20Reverse%29.md) |
+| 마그마슬라이드 (Magmaslide) | [마그마슬라이드 (Magmaslide)](마그마슬라이드%20%28Magmaslide%29.md) |
+| 마지막 천공석 (Last Zenith-Stone) | [마지막 천공석 (Last Zenith-Stone)](마지막%20천공석%20%28Last%20Zenith-Stone%29.md) |
+| 바다뱀 압쇄 부츠 (Sea-Serpent Crush Boots) | [바다뱀 압쇄 부츠 (Sea-Serpent Crush Boots)](바다뱀%20압쇄%20부츠%20%28Sea-Serpent%20Crush%20Boots%29.md) |
+| 반동의 산등성이 (Recoil Ridge) | [반동의 산등성이 (Recoil Ridge)](반동의%20산등성이%20%28Recoil%20Ridge%29.md) |
+| 불구의 닻 (Cripple's Anchor) | [불구의 닻 (Cripple's Anchor)](불구의%20닻%20%28Cripple's%20Anchor%29.md) |
+| 산사태 트랙 (Avalanche Track) | [산사태 트랙 (Avalanche Track)](산사태%20트랙%20%28Avalanche%20Track%29.md) |
+| 섀도우글라이드 (Shadowglide) | [섀도우글라이드 (Shadowglide)](섀도우글라이드%20%28Shadowglide%29.md) |
+| 소닉클레이브 (Sonic Cleave) | [소닉클레이브 (Sonic Cleave)](소닉클레이브%20%28Sonic%20Cleave%29.md) |
+| 속박 없는 바람길 (Unbound Windpath) | [속박 없는 바람길 (Unbound Windpath)](속박%20없는%20바람길%20%28Unbound%20Windpath%29.md) |
+| 솔시그널 (Sole Signal) | [솔시그널 (Sole Signal)](솔시그널%20%28Sole%20Signal%29.md) |
+| 순례자의 짚신 (Pilgrim's Straw Boots) | [순례자의 짚신 (Pilgrim's Straw Boots)](순례자의%20짚신%20%28Pilgrim's%20Straw%20Boots%29.md) |
+| 스톰 크러셔 (Storm Crusher) | [스톰 크러셔 (Storm Crusher)](스톰%20크러셔%20%28Storm%20Crusher%29.md) |
+| 슬립스트림 (Slipstream) | [슬립스트림 (Slipstream)](슬립스트림%20%28Slipstream%29.md) |
+| 심연 벽무 (Abyssal Wall-Dance) | [심연 벽무 (Abyssal Wall-Dance)](심연%20벽무%20%28Abyssal%20Wall-Dance%29.md) |
+| 어비스앵커 (Abyss Anchor) | [어비스앵커 (Abyss Anchor)](어비스앵커%20%28Abyss%20Anchor%29.md) |
 | 장화 (Boots) | [장화 (Boots)](장화%20%28Boots%29.md) |
-| 절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots) | [절연의 비행 자기장 장화 (Insulated Flight Magnetic-Boots)](절연의%20비행%20자기장%20장화%20%28Insulated%20Flight%20Magnetic-Boots%29.md) |
-| 절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves) | [절연의 청룡 비늘 장화 (Insulated Azure Dragon Greaves)](절연의%20청룡%20비늘%20장화%20%28Insulated%20Azure%20Dragon%20Greaves%29.md) |
-| 절해 수압 닻내림 전투 각반 (Deep-Sea Pressure Anchor-Down War Greaves) | [절해 수압 닻내림 전투 각반 (Deep-Sea Pressure Anchor-Down War Greaves)](절해%20수압%20닻내림%20전투%20각반%20%28Deep-Sea%20Pressure%20Anchor-Down%20War%20Greaves%29.md) |
-| 접지 파동 수신 부츠 (Ground-Wave Receiver Boots) | [접지 파동 수신 부츠 (Ground-Wave Receiver Boots)](접지%20파동%20수신%20부츠%20%28Ground-Wave%20Receiver%20Boots%29.md) |
-| 중력 차단 저격수 부츠 (Gravity-Nullifying Sniper Boots) | [중력 차단 저격수 부츠 (Gravity-Nullifying Sniper Boots)](중력%20차단%20저격수%20부츠%20%28Gravity-Nullifying%20Sniper%20Boots%29.md) |
-| 지맥 진동 통신 군화 (Sub-Sonic Tremor Boots of Earth-Comm) | [지맥 진동 통신 군화 (Sub-Sonic Tremor Boots of Earth-Comm)](지맥%20진동%20통신%20군화%20%28Sub-Sonic%20Tremor%20Boots%20of%20Earth-Comm%29.md) |
-| 지맥을 밟는 화강암 군화 (Granite War-Boots of Ley-Line Treading) | [지맥을 밟는 화강암 군화 (Granite War-Boots of Ley-Line Treading)](지맥을%20밟는%20화강암%20군화%20%28Granite%20War-Boots%20of%20Ley-Line%20Treading%29.md) |
-| 특수 우레탄 강화 코일 장화 (Urethane Coil-Boots) | [특수 우레탄 강화 코일 장화 (Urethane Coil-Boots)](특수%20우레탄%20강화%20코일%20장화%20%28Urethane%20Coil-Boots%29.md) |
-| 폭풍 분쇄 도약의 빙철 발목 각반 (Frosteel Ankle Greaves of Storm Crusher Leap) | [폭풍 분쇄 도약의 빙철 발목 각반 (Frosteel Ankle Greaves of Storm Crusher Leap)](폭풍%20분쇄%20도약의%20빙철%20발목%20각반%20%28Frosteel%20Ankle%20Greaves%20of%20Storm%20Crusher%20Leap%29.md) |
-| 풍맥 슬립스트림 활강 스케이트날 (Wind-Vein Slipstream Glide-Skate Blades) | [풍맥 슬립스트림 활강 스케이트날 (Wind-Vein Slipstream Glide-Skate Blades)](풍맥%20슬립스트림%20활강%20스케이트날%20%28Wind-Vein%20Slipstream%20Glide-Skate%20Blades%29.md) |
-| 피에 젖은 투지의 각반 (Greaves of Blood-soaked Resolve) | [피에 젖은 투지의 각반 (Greaves of Blood-soaked Resolve)](피에%20젖은%20투지의%20각반%20%28Greaves%20of%20Blood-soaked%20Resolve%29.md) |
-| 하중 잠금 스파이크 앵커 전투화 (Combat Boots with Load-Locking Spike Anchors) | [하중 잠금 스파이크 앵커 전투화 (Combat Boots with Load-Locking Spike Anchors)](하중%20잠금%20스파이크%20앵커%20전투화%20%28Combat%20Boots%20with%20Load-Locking%20Spike%20Anchors%29.md) |
+| 전선의 닻 (Front Anchor) | [전선의 닻 (Front Anchor)](전선의%20닻%20%28Front%20Anchor%29.md) |
+| 제트 엔진 어설트 장화 (Jet-Engine Assault Boots) | [제트 엔진 어설트 장화 (Jet-Engine Assault Boots)](제트%20엔진%20어설트%20장화%20%28Jet-Engine%20Assault%20Boots%29.md) |
+| 철의 하늘 각반 (Iron-Sky Greaves) | [철의 하늘 각반 (Iron-Sky Greaves)](철의%20하늘%20각반%20%28Iron-Sky%20Greaves%29.md) |
+| 크루시오 핏빛투지 (Crucio Bloodvow) | [크루시오 핏빛투지 (Crucio Bloodvow)](크루시오%20핏빛투지%20%28Crucio%20Bloodvow%29.md) |
+| 테라니스 지맥굽 (Terranis Ley-Tread) | [테라니스 지맥굽 (Terranis Ley-Tread)](테라니스%20지맥굽%20%28Terranis%20Ley-Tread%29.md) |
+| 페그드라이브 (Peg-Drive) | [페그드라이브 (Peg-Drive)](페그드라이브%20%28Peg-Drive%29.md) |
+| 프로그리프 (Frogleap) | [프로그리프 (Frogleap)](프로그리프%20%28Frogleap%29.md) |
+| 혈강 (Sanguine River) | [혈강 (Sanguine River)](혈강%20%28Sanguine%20River%29.md) |

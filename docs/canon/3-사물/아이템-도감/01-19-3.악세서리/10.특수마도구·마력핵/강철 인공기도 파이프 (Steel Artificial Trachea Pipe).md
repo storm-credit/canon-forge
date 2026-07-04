@@ -99,6 +99,6 @@
 ## 🔗 관련 문서
 
 - [하드리아누스 풀비스 (Hadrianus Pulvis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/11.하드리아누스풀비스.md)
-- [납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator)](../../01-19-2.방어구/06.투구·얼굴/납과%20가죽의%20죽음%20방독면%20(Lead-Leather%20Death%20Respirator).md)
+- [납과 가죽의 죽음 방독면 (Lead-Leather Death Respirator)](../../01-19-2.방어구/06.투구·얼굴/죽음의%20얼굴%20(Face%20of%20Death).md)
 - [마그나카르타의 숨 막히는 항아리 (Suffocating Urn of Magna Carta)](../../01-19-1.무기/16.특수·마도구·기타/마그나카르타%20(Magna%20Carta).md)
 - [풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis)](../08.성물/풀비스의%20썩어붙은%20유골성배%20(Rotten%20Bone-Chalice%20of%20Pulvis).md)

@@ -89,5 +89,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 에스더 (Valentine Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/05.발렌타인에스더.md)
-- [잿빛 개척지 환술사의 야전 로브 (Ash-Frontier Illusionist's Field Robe)](../../01-19-2.방어구/03.로브·마법복/잿빛%20개척지%20환술사의%20야전%20로브%20(Ash-Frontier%20Illusionist's%20Field%20Robe).md)
+- [잿빛 개척지 환술사의 야전 로브 (Ash-Frontier Illusionist's Field Robe)](../../01-19-2.방어구/03.로브·마법복/애시%20미라주%20(Ash%20Mirage).md)
 - [혈서 맹서의 잿빛 폐 봉인 부적 (Blood-Oath Talisman of the Ash-Lung Seal)](../../01-19-3.악세서리/07.부적/혈서%20맹서의%20잿빛%20폐%20봉인%20부적%20(Blood-Oath%20Talisman%20of%20the%20Ash-Lung%20Seal).md)

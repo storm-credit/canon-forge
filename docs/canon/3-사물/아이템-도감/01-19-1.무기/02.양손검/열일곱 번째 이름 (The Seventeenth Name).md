@@ -96,5 +96,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 노바 (Gawain Nova)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/01.가웨인노바.md)
-- [발키리아 용병단 지급 진형 흉갑 (Valkyria Line-Anchor Cuirass)](../../01-19-2.방어구/01.중갑/발키리아%20용병단%20지급%20진형%20흉갑%20(Valkyria%20Line-Anchor%20Cuirass).md)
+- [발키리아 용병단 지급 진형 흉갑 (Valkyria Line-Anchor Cuirass)](../../01-19-2.방어구/01.중갑/라인홀드%20(Linehold).md)
 - 발키리아 전장의 맹세 용병단 (Valkyria Oathbound Mercenaries)

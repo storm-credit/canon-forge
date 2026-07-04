@@ -89,4 +89,4 @@
 
 - [이안탈루스 에버론 (Iantalus Eberon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/08.이안탈루스에버론.md)
 - [아이테르눔의 무덤 기록이 새겨진 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum)](../../../01-19-1.무기/16.특수·마도구·기타/아이테르눔의 무덤%28Tomb%29 기록이 적인 거대 석판 (Giant Stone Tablet Inscribed with Tomb Records of Aeternum).md)
-- [부패를 막아주는 왕가의 붕대 (Royal Bandages that Prevent Decay)](../../../01-19-2.방어구/03.로브·마법복/부패를 막아주는 왕가의 붕대 (Royal Bandages that Prevent Decay).md)
+- [부패를 막아주는 왕가의 붕대 (Royal Bandages that Prevent Decay)](../../../01-19-2.방어구/03.로브·마법복/방부왕붕 (Embalmer's Wrap).md)

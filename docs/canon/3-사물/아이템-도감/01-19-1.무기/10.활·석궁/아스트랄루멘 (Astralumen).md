@@ -91,6 +91,6 @@
 
 ## 🔗 관련 문서
 - [세리아 카디널 (Seria Cardinal)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/10.강철의형제단/04.세리아카디널.md)
-- [순례자의 외투 — 별빛 발자국 (Pilgrim's Cloak, Starlit Footfall)](../../01-19-2.방어구/04.망토·외투/순례자의%20외투%20—%20별빛%20발자국%20(Pilgrim's%20Cloak,%20Starlit%20Footfall).md)
+- [순례자의 외투 — 별빛 발자국 (Pilgrim's Cloak, Starlit Footfall)](../../01-19-2.방어구/04.망토·외투/스텔라스티치%20(Stellastitch).md)
 - [서약-회로검 실렌시움 (Oath-Circuit Blade Silencium)](../01.한손검/서약-회로검%20실렌시움%20(Oath-Circuit%20Blade%20Silencium).md) — 동료 기네비어 코어스의 전용 무기. 형제단 안에서 공존을 허락받은 두 개의 이단적 병기로 종종 함께 거론됨
 - 강철의 형제단 (Brotherhood of Steel)

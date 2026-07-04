@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [미리암 세레스 (Miriam Ceres)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/09.미리암세레스.md)
-- [천의무봉의 구원 드레스 (Dress of Seamless Salvation)](../../01-19-2.방어구/03.로브·마법복/천의무봉의%20구원%20드레스%20%28Dress%20of%20Seamless%20Salvation%29.md)
+- [천의무봉의 구원 드레스 (Dress of Seamless Salvation)](../../01-19-2.방어구/03.로브·마법복/세람리스%20%28Seamless%29.md)
 - [체온 동기화 빛 깃털 (Warmth-Sync Glowing Feather)](../07.부적/체온%20동기화%20빛%20깃털%20%28Warmth-Sync%20Glowing%20Feather%29.md)

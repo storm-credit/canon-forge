@@ -97,6 +97,6 @@
 
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris) — 발키리아 용병단](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/02.가웨인스텔라리스.md)
-- [백야의 파수 흉갑 — 가웨인 스텔라리스의 별자리 결속 갑주 (White Night Watch Cuirass — Gawain Stellaris's Constellation-Bound Wargear)](../../01-19-2.방어구/01.중갑/백야의%20파수%20흉갑%20—%20가웨인%20스텔라리스의%20별자리%20결속%20갑주%20(White%20Night%20Watch%20Cuirass%20—%20Gawain%20Stellaris's%20Constellation-Bound%20Wargear).md)
+- [백야의 파수 흉갑 — 가웨인 스텔라리스의 별자리 결속 갑주 (White Night Watch Cuirass — Gawain Stellaris's Constellation-Bound Wargear)](../../01-19-2.방어구/01.중갑/와치스타%20(Watchstar).md)
 - [지지 않는 별의 나침반 인장 — 가웨인 스텔라리스의 야간 항법패 (Undying Star Compass Signet — Gawain Stellaris's Night-Navigation Mark)](../../01-19-3.악세서리/01.반지/지지%20않는%20별의%20나침반%20인장%20—%20가웨인%20스텔라리스의%20야간%20항법패%20(Undying%20Star%20Compass%20Signet%20—%20Gawain%20Stellaris's%20Night-Navigation%20Mark).md)
 - 발키리아 용병단 (Valkyria Mercenaries)

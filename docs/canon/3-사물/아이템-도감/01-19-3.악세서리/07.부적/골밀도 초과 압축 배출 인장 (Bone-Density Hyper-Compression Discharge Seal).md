@@ -92,6 +92,6 @@
 
 ## 🔗 관련 문서
 - [페르단 이지스 (Ferdan Aegis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/12.페르단이지스.md)
-- [이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)](../../01-19-2.방어구/05.방패/이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis).md) — 방패를 내리찍는 카운터 충격파 시전이 이 인장의 배출 촉진 효과를 발동시키는 전제 조건이다. 방패와 인장판은 페르단의 생존 메커니즘을 공유한다.
-- [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](../../01-19-2.방어구/01.중갑/진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations).md) — 갑주가 외부 진동 충격을 흡수한 결과물이 골 압력으로 내부에 축적되고, 이 인장이 그 축적량을 조절한다. 두 아이템은 같은 에너지 흐름의 수용 측과 배출 측을 각각 담당한다.
+- [이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)](../../01-19-2.방어구/05.방패/그라비타스 (Gravitas).md) — 방패를 내리찍는 카운터 충격파 시전이 이 인장의 배출 촉진 효과를 발동시키는 전제 조건이다. 방패와 인장판은 페르단의 생존 메커니즘을 공유한다.
+- [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](../../01-19-2.방어구/01.중갑/파울트라인 (Faultline).md) — 갑주가 외부 진동 충격을 흡수한 결과물이 골 압력으로 내부에 축적되고, 이 인장이 그 축적량을 조절한다. 두 아이템은 같은 에너지 흐름의 수용 측과 배출 측을 각각 담당한다.
 - [깨지지 않는 무지의 성석 우상 (Idol of the Holy Stone of Unbreakable Ignorance)](../08.성물/깨지지 않는 무지의 성석 우상 (Idol of the Holy Stone of Unbreakable Ignorance).md) — 우상이 모든 공격을 페르단 한 사람에게 집중시키는 도발 성구라면, 이 인장은 그 집중된 충격을 견뎌낸 대가로 쌓이는 골 압력이 페르단을 자가 붕괴시키지 않도록 관리하는 생존 장치다.

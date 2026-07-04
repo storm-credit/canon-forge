@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [이르바인 솔라페인 (Irvine Solafane)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/10.이르바인솔라페인.md)
 - [솔라페인의 성화를 머금은 처단 대검 (Cleansing Greatsword of Solafane)](../02.양손검/성화%20처단%20(Sacred%20Pyre).md)
-- [백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate)](../../01-19-2.방어구/01.중갑/백은%20성교관%20풀%20플레이트%20(Silver-White%20Inquisitor%20Full%20Plate).md)
+- [백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate)](../../01-19-2.방어구/01.중갑/아우렐리스%20(Aurelis).md)

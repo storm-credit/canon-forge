@@ -104,5 +104,5 @@
 
 ## 🔗 관련 문서
 - [루시안 루미너스 (Lucian Luminous)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/7.바람의칼날/루시안루미너스.md)
-- [루시안 루미너스의 별빛 수호구 — 오래된 맹세의 방패 (Ancient Vow Orb — Lucian Luminous's Starward Ward)](../../01-19-2.방어구/05.방패/루시안 루미너스의 별빛 수호구 — 오래된 맹세의 방패 (Ancient Vow Orb — Lucian Luminous's Starward Ward).md)
+- [루시안 루미너스의 별빛 수호구 — 오래된 맹세의 방패 (Ancient Vow Orb — Lucian Luminous's Starward Ward)](../../01-19-2.방어구/05.방패/스타워드 (Starward).md)
 - 바람의 칼날 (Wind Blades)

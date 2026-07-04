@@ -77,5 +77,5 @@
 
 ## 🔗 관련 문서
 - [발테루스 포르티스 (Valterus Fortis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/02.발테루스포르티스.md)
-- [포르티스의 영원한 대지 수호 방패 (Eternal Earth-Aegis of Fortis)](../../01-19-2.방어구/05.방패/포르티스의%20영원한%20대지%20수호%20방패%20(Eternal%20Earth-Aegis%20of%20Fortis).md)
-- [강철 버클 건틀릿 '쐐기못' (Iron-Rivet Buckle Gauntlets)](../../01-19-2.방어구/08.장갑·손목/강철%20버클%20건틀릿%20'쐐기못'%20(Iron-Rivet%20Buckle%20Gauntlets).md)
+- [포르티스의 영원한 대지 수호 방패 (Eternal Earth-Aegis of Fortis)](../../01-19-2.방어구/05.방패/영원한%20대지%20(Eternal%20Earth).md)
+- [강철 버클 건틀릿 '쐐기못' (Iron-Rivet Buckle Gauntlets)](../../01-19-2.방어구/08.장갑·손목/쐐기못%20(Rivet).md)

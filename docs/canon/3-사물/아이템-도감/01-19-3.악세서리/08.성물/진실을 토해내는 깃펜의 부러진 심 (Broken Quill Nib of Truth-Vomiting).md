@@ -84,5 +84,5 @@
 
 - [테오리스 갈드윈 (Theoris Galdwyn)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/04.테오리스갈드윈.md)
 - [갈드위누스의 여백(Margin) 커팅 양피지 검 (Parchment Sword of the Margin-Cutting of Galdwynus)](../../01-19-1.무기/01.한손검/여백의%20검%20%28Marginalia%29.md)
-- [백 만권의 기록이 새겨진 마법 상쇄(Dispel)의 오버코트 (Dispel Overcoat Engraved with a Million Archives)](../../01-19-2.방어구/03.로브·마법복/백%20만권의%20기록이%20새겨진%20마법%20상쇄%28Dispel%29의%20오버코트%20%28Dispel%20Overcoat%20Engraved%20with%20a%20Million%20Archives%29.md)
-- [갈드위누스의 메모리 글래스 단안경 (Memory Glass Monocle of Galdwynus)](../../01-19-2.방어구/06.투구·얼굴/갈드위누스의%20메모리%20글래스%20단안경%20%28Memory%20Glass%20Monocle%20of%20Galdwynus%29.md)
+- [백 만권의 기록이 새겨진 마법 상쇄(Dispel)의 오버코트 (Dispel Overcoat Engraved with a Million Archives)](../../01-19-2.방어구/03.로브·마법복/백만%20기록의%20역류%20%28Million%20Archives%20Reversal%29.md)
+- [갈드위누스의 메모리 글래스 단안경 (Memory Glass Monocle of Galdwynus)](../../01-19-2.방어구/06.투구·얼굴/메모리%20글래스%20%28Memory%20Glass%29.md)

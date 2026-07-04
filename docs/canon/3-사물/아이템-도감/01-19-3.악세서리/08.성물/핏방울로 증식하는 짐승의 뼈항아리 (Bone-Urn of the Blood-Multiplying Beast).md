@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [카리온 바트록 (Karion Batrok)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/07.카리온바트록.md)
 - [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스 혈령 (Batrox Blood-Seal).md)
-- [말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer)](../../../01-19-2.방어구/02.경갑/말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer).md)
+- [말라붙은 심연 포식자의 가죽 피막 (Desiccated Hide of the Abyssal Devourer)](../../../01-19-2.방어구/02.경갑/심연의 껍질 (Abyssal Husk).md)

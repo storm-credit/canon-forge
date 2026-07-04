@@ -100,5 +100,5 @@
 
 ## 🔗 관련 문서
 - [루시안 루미너스 (Lucian Luminous)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/05.루시안루미너스.md)
-- [개척지의 상흔 야전 흉갑 (Frontier Scar Breastplate)](../../01-19-2.방어구/01.중갑/개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate).md)
+- [개척지의 상흔 야전 흉갑 (Frontier Scar Breastplate)](../../01-19-2.방어구/01.중갑/롱스탠딩 (Longstanding).md)
 - [혈서 맹세의 저주 봉인패 (Blood-Oath Curse Seal Plate)](../../01-19-3.악세서리/07.부적/혈서 맹세의 저주 봉인패 '검은 잿빛을 버티는 자' (Blood-Oath Curse Seal Plate 'One Who Endures the Black Ash').md)

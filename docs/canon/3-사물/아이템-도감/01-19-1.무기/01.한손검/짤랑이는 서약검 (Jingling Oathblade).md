@@ -84,5 +84,5 @@
 
 ## 🔗 관련 문서
 - [루시안 아르트리우스 (Lucian Artorius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/1.천상의서고/06.루시안아르트리우스.md)
-- [오래된 맹세의 방패 — 루시안 아르트리우스의 대서고 결계구 (Shield of the Ancient Vow — Lucian Artorius's Archive-Warden Ward)](../../01-19-2.방어구/05.방패/오래된 맹세의 방패 — 루시안 아르트리우스의 대서고 결계구 (Shield of the Ancient Vow — Lucian Artorius's Archive-Warden Ward).md)
+- [오래된 맹세의 방패 — 루시안 아르트리우스의 대서고 결계구 (Shield of the Ancient Vow — Lucian Artorius's Archive-Warden Ward)](../../01-19-2.방어구/05.방패/타키투스 (Tacitus).md)
 - [천상의 서고 (Celestial Archive)](../../../../2-무대/세력/아카데미아/천상의서고/천상의서고.md)

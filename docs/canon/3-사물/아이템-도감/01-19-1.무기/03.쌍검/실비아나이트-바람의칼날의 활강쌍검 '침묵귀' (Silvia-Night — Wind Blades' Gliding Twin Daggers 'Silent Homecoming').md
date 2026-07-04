@@ -77,4 +77,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 나이트폴 (Guinevere Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/7.바람의칼날/03.기네비어나이트폴.md)
-- [침묵의 은시위 — 기네비어 나이트폴의 활강 망토 (Silent Silver-String — Guinevere Nightfall's Gliding Cloak)](../../01-19-2.방어구/04.망토·외투/침묵의%20은시위%20—%20기네비어%20나이트폴의%20활강%20망토%20(Silent%20Silver-String%20—%20Guinevere%20Nightfall's%20Gliding%20Cloak).md)
+- [침묵의 은시위 — 기네비어 나이트폴의 활강 망토 (Silent Silver-String — Guinevere Nightfall's Gliding Cloak)](../../01-19-2.방어구/04.망토·외투/침묵의%20은시위%20(Silent%20Silver-String).md)

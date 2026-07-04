@@ -83,4 +83,4 @@
 - [갈라독스 마레우스 (Galadox Mareus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/04.갈라독스마레우스.md)
 - [심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight')](../07.둔기/심해압축%20거대%20투척묘%20'마리아나의%20닻'%20(Deep-Pressure%20Anchor%20'Mariana's%20Weight').md)
 - [대산호의 십자가 방패 (Great Coral Crucifix-Shield)](../../01-19-4.유물/04.영웅고유성유물/대산호의%20십자가%20방패%20(Great%20Coral%20Crucifix-Shield).md)
-- [선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets)](../../01-19-2.방어구/08.장갑·손목/선전포고%20파도%20타격%20철퇴%20건틀릿%20(Wave-Crash%20Declaration%20Iron-Bludgeon%20Gauntlets).md)
+- [선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets)](../../01-19-2.방어구/08.장갑·손목/삼타%20해일%20(Triple%20Tide).md)

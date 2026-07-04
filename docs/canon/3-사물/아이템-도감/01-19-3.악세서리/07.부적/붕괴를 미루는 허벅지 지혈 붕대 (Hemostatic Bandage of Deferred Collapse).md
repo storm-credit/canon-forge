@@ -83,6 +83,6 @@
 ## 🔗 관련 문서
 - [일리야 레퀴엠 (Ilya Requiem)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/07.일리야레퀴엠.md)
 - [재앙검 레퀴엠 무르무르 (Disaster Blade, Requiem Murmur)](../../01-19-1.무기/01.한손검/레퀴엠 무르무르 (Requiem Murmur).md)
-- [마나 역장 활주 장기병 부츠 (Mana-Vein Slide Vanguard Boots)](../../01-19-2.방어구/09.장화·각반/마나 역장 활주 장기병 부츠 (Mana-Vein Slide Vanguard Boots).md)
-- [저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets)](../../01-19-2.방어구/08.장갑·손목/저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets).md)
+- [마나 역장 활주 장기병 부츠 (Mana-Vein Slide Vanguard Boots)](../../01-19-2.방어구/09.장화·각반/궤도 서퍼 (Orbit Surfer).md)
+- [저주 봉쇄 귀족 철 장갑 (Curse-Sealing Aristocratic Iron Gauntlets)](../../01-19-2.방어구/08.장갑·손목/아르젠세일 (Argenseal).md)
 - [부러진 모래시계 펜던트 (Broken Hourglass Pendant)](../02.목걸이·팬던트/부러진 모래시계 펜던트 (Broken Hourglass Pendant).md)

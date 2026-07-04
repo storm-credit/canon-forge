@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [카사리우스 비덴 (Casarius Viden)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/12.카사리우스비덴.md)
-- [반향음 소거의 침묵 로브 (Silence Robe of Echo Cancellation)](../../01-19-2.방어구/03.로브·마법복/반향음%20소거의%20침묵%20로브%20(Silence%20Robe%20of%20Echo%20Cancellation).md)
+- [반향음 소거의 침묵 로브 (Silence Robe of Echo Cancellation)](../../01-19-2.방어구/03.로브·마법복/들리지%20않는%20자%20(The%20Unheard).md)
 - [비덴의 다안(多眼) 관측 크리스탈 (Multi-Eye Observation Crystal of Viden)](../../01-19-1.무기/16.특수·마도구·기타/비덴%20(Viden).md)

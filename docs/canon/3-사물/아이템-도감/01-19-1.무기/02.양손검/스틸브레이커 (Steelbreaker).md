@@ -118,4 +118,4 @@
 
 - [아이리스 블랙스미스 (Iris Blacksmith)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/07.아이리스블랙스미스.md)
 - [핏빛 맹세 봉인 부적 '잿빛 폐의 서약' — 아이리스 블랙스미스 (Blood-Vow Seal Charm 'Ashen Lung Vow' — Iris Blacksmith)](../../01-19-3.악세서리/07.부적/핏빛%20맹세%20봉인%20부적%20'잿빛%20폐의%20서약'%20—%20아이리스%20블랙스미스%20(Blood-Vow%20Seal%20Charm%20'Ashen%20Lung%20Vow'%20—%20Iris%20Blacksmith).md)
-- [흉터 각인 개척지 야전 흉갑 — 아이리스 블랙스미스 (Scar-Inscribed Frontier Field Cuirass — Iris Blacksmith)](../../01-19-2.방어구/02.경갑/흉터%20각인%20개척지%20야전%20흉갑%20—%20아이리스%20블랙스미스%20(Scar-Inscribed%20Frontier%20Field%20Cuirass%20—%20Iris%20Blacksmith).md)
+- [흉터 각인 개척지 야전 흉갑 — 아이리스 블랙스미스 (Scar-Inscribed Frontier Field Cuirass — Iris Blacksmith)](../../01-19-2.방어구/02.경갑/실버스카%20(Silverscar).md)

@@ -107,5 +107,5 @@
 ## 🔗 관련 문서
 
 - [카르멘 그레이슨 (Carmen Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/2.붉은모래상인회/07.카르멘그레이슨.md)
-- [모래시계 흉갑 — 카르멘 그레이슨의 계약 갑주 (Hourglass Cuirass — Carmen Grayson's Covenant Plate)](../../01-19-2.방어구/01.중갑/모래시계%20흉갑%20—%20카르멘%20그레이슨의%20계약%20갑주%20(Hourglass%20Cuirass%20—%20Carmen%20Grayson's%20Covenant%20Plate).md)
+- [모래시계 흉갑 — 카르멘 그레이슨의 계약 갑주 (Hourglass Cuirass — Carmen Grayson's Covenant Plate)](../../01-19-2.방어구/01.중갑/모래시계%20흉갑%20(Hourglass%20Cuirass).md)
 - [메마른 첫 계약의 인장반 — 카르멘 그레이슨의 갈증 근원 (Seal-Ring of the First Parched Covenant — Carmen Grayson's Wellspring of Thirst)](../../01-19-4.유물/04.영웅고유성유물/메마른%20첫%20계약의%20인장반%20—%20카르멘%20그레이슨의%20갈증%20근원%20(Seal-Ring%20of%20the%20First%20Parched%20Covenant%20—%20Carmen%20Grayson's%20Wellspring%20of%20Thirst).md)

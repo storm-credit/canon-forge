@@ -94,5 +94,5 @@
 
 - [엘리시엘 윈드스트림 (Elysiel Windstream)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/07.엘리시엘윈드스트림.md)
 - [심판의 깃털 (Feather of Judgment)](../../01-19-1.무기/10.활·석궁/심판의%20깃털%20(Feather%20of%20Judgment).md)
-- [윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream)](../../01-19-2.방어구/04.망토·외투/윈드스트림의%20사냥%20망토%20(Hunter's%20Cloak%20of%20Windstream).md)
+- [윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream)](../../01-19-2.방어구/04.망토·외투/제피르%20베일%20(Zephyr%20Veil).md)
 - [엘리시엘 윈드스트림의 낙하 단검 (Falling Blade of 엘리시엘 윈드스트림)](../../01-19-1.무기/04.단검/프리폴%20유니티%20(Freefall%20Unity).md)

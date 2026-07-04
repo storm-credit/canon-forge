@@ -85,5 +85,5 @@
 ## 🔗 관련 문서
 - [바르마 사일런티움 (Barma Silentium)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/14.바르마사일런티움.md)
 - [형벌의 십자가 잔해 파편 (Debris of the Cross of Punishment)](형벌의%20십자가%20잔해%20파편%20(Debris%20of%20the%20Cross%20of%20Punishment).md)
-- [봉인된 시야의 피 묻은 천 안대 (Blood-Stained Cloth Blindfold of Sealed Sight)](../../../01-19-2.방어구/06.투구·얼굴/봉인된%20시야의%20피%20묻은%20천%20안대%20(Blood-Stained%20Cloth%20Blindfold%20of%20Sealed%20Sight).md)
+- [봉인된 시야의 피 묻은 천 안대 (Blood-Stained Cloth Blindfold of Sealed Sight)](../../../01-19-2.방어구/06.투구·얼굴/눈먼%20자의%20안대%20(Blindfold%20of%20the%20Sightless).md)
 - [사일런티움의 무거운 대속 묵주 (Heavy Rosary of Atonement of Silentium)](../../../01-19-1.무기/16.특수·마도구·기타/대속의%20묵주%20(Rosary%20of%20Atonement).md)

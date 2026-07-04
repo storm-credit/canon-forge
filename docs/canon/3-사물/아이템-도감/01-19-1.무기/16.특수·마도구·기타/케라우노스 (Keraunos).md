@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [칼릭 카일룸 (Calric Caelum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/05.칼릭카일룸.md)
 - [청뢰의 기창 (Lightning Lance)](../../01-19-1.무기/06.창/청뢰의%20기창%20(Lightning%20Lance).md)
-- [뇌운의 엽장 (Mail of Thundercloud)](../../01-19-2.방어구/01.중갑/뇌운의%20엽장%20(Mail%20of%20Thundercloud).md)
+- [뇌운의 엽장 (Mail of Thundercloud)](../../01-19-2.방어구/01.중갑/뇌운%20(Thundercloud).md)

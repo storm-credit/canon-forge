@@ -92,5 +92,5 @@
 ## 🔗 관련 문서
 
 - [다리우스 솔라리스 (Darius Solaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/05.다리우스솔라리스.md)
-- [모순의 대성포 (Vestment of Contradiction)](../../01-19-2.방어구/03.로브·마법복/모순의%20대성포%20(Vestment%20of%20Contradiction).md)
+- [모순의 대성포 (Vestment of Contradiction)](../../01-19-2.방어구/03.로브·마법복/패러독스%20베스트먼트%20(Paradox%20Vestment).md)
 - [이단 심판관의 검은 묵주망 (Black Rosary Net of the Heresy Inquisitor)](../../01-19-1.무기/16.특수·마도구·기타/검은%20묵주망%20(Black%20Rosary%20Net).md)

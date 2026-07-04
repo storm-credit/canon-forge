@@ -94,6 +94,6 @@
 ## 🔗 관련 문서
 
 - [크세노스 아르카디아 (Xenos Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/02.크세노스아르카디아.md)
-- [타임 붐바 만창 축전 완갑 (Ten-Thousand-Shot Vambrace of Time-Bombardment)](../../01-19-2.방어구/08.장갑·손목/타임%20붐바%20만창%20축전%20완갑%20(Ten-Thousand-Shot%20Vambrace%20of%20Time-Bombardment).md) — 타임 붐바 전량 해제 후 채무 격증 국면에서 이 완대가 자동 발동된다.
-- [순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds)](../../01-19-2.방어구/04.망토·외투/순간%20엇갈림의%20회중%20망토%20(Pocket-Watch%20Cloak%20of%20Split%20Seconds).md)
+- [타임 붐바 만창 축전 완갑 (Ten-Thousand-Shot Vambrace of Time-Bombardment)](../../01-19-2.방어구/08.장갑·손목/스카이폴%20(Skyfall).md) — 타임 붐바 전량 해제 후 채무 격증 국면에서 이 완대가 자동 발동된다.
+- [순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds)](../../01-19-2.방어구/04.망토·외투/크로노리프트%20(Chronorift).md)
 - 이사도르 솔레아 — 완대 교체 공정 참관 인물

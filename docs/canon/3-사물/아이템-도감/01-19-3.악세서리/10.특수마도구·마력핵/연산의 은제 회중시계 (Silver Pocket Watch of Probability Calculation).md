@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 
 - [다리온 카엘리 (Darion Caeli)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/11.다리온카엘리.md)
-- [마도 신경 통신 백색 실크 장갑 (Neuro-Signal White Silk Gauntlets)](../../../../3-사물/아이템-도감/01-19-2.방어구/08.장갑·손목/마도%20신경%20통신%20백색%20실크%20장갑%20(Neuro-Signal%20White%20Silk%20Gauntlets).md)
+- [마도 신경 통신 백색 실크 장갑 (Neuro-Signal White Silk Gauntlets)](../../../../3-사물/아이템-도감/01-19-2.방어구/08.장갑·손목/카엘리%20브로드캐스트%20(Caeli%20Broadcast).md)
 - 카엘리의 천공을 긋는 지휘봉 (Celestial Baton of Caeli)

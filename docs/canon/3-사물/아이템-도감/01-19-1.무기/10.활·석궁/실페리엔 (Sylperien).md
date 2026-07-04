@@ -91,4 +91,4 @@
 
 ## 🔗 관련 문서
 - [세리아 루미너스 (Seria Luminous)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/1.어둠의손/세리아루미너스.md)
-- [여행자의 로브 — 여명의 파수꾼 (Traveler's Robe of the Dawn-Watcher)](../../01-19-2.방어구/04.망토·외투/여행자의 로브 — 여명의 파수꾼 (Traveler's Robe of the Dawn-Watcher).md)
+- [여행자의 로브 — 여명의 파수꾼 (Traveler's Robe of the Dawn-Watcher)](../../01-19-2.방어구/04.망토·외투/오로바르드 (Aurovard).md)

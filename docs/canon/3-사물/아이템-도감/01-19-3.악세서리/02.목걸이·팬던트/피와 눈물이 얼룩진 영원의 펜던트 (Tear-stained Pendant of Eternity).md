@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 - [라그날 벨모어 (Ragnar Belmore)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/09.라그날벨모어.md)
 - [라그날 벨모어의 저주의 검 (Cursed Blade of Belmore)](../../01-19-1.무기/01.한손검/녹티스 (Noctis).md)
-- [라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield)](../../01-19-2.방어구/05.방패/라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield).md)
+- [라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield)](../../01-19-2.방어구/05.방패/어둠쐐기 (Dark-Wedge).md)

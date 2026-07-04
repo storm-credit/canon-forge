@@ -96,4 +96,4 @@
 ## 🔗 관련 문서
 - [베아트리체 아스텔 (Beatrice Astell)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/2.검은모루연합/08.베아트리체아스텔.md)
 - [칠흑의 분쇄검 (Black Abyss Crushing Blade)](../../01-19-1.무기/02.양손검/디르가%20(Dirga).md)
-- [수십 년 전장의 흉터 가죽 야전갑 (Scarred Frontier Leather Wargear)](../../01-19-2.방어구/02.경갑/수십%20년%20전장의%20흉터%20가죽%20야전갑%20(Scarred%20Frontier%20Leather%20Wargear).md)
+- [수십 년 전장의 흉터 가죽 야전갑 (Scarred Frontier Leather Wargear)](../../01-19-2.방어구/02.경갑/살아남은%20자%20(The%20Survivor).md)

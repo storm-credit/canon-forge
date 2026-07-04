@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [자하리아 템페스트 (Zaharia Tempest)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/16.자하리아템페스트.md)
 - [템페스트의 벼락쐐기 쌍단총 (Lightning-Wedge Dual Revolvers)](../../../01-19-1.무기/15.화기/템페스트의 벼락쐐기 쌍단총 (Lightning-Wedge Dual Revolvers).md)
-- [폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess)](../../../01-19-2.방어구/03.로브·마법복/폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess).md)
+- [폭우를 머금은 여신의 젖은 숄 (Wet Shawl of the Rain-Goddess)](../../../01-19-2.방어구/03.로브·마법복/여신의 쏟아짐 (Goddess's Deluge).md)

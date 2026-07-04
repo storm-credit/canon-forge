@@ -84,4 +84,4 @@
 ## 🔗 관련 문서
 - [칼리온 노크티스 (Kalion Noctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/03.칼리온노크티스.md)
 - [신경 오염의 촉매침 (Nerve-Pollution Catalyst Needles)](신경%20오염의%20촉매침%20(Nerve-Pollution%20Catalyst%20Needles).md)
-- [맹독 단검 흉부 수납 벨트 (Venom-Dagger Chest Holster Belt)](../../01-19-2.방어구/08.장갑·손목/맹독%20단검%20흉부%20수납%20벨트%20(Venom-Dagger%20Chest%20Holster%20Belt).md)
+- [맹독 단검 흉부 수납 벨트 (Venom-Dagger Chest Holster Belt)](../../01-19-2.방어구/08.장갑·손목/28번의%20작별%20(Twenty-Eight%20Farewells).md)

@@ -90,4 +90,4 @@
 
 - [루시안 에스더 (Lucian Esther)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/8.템플러성기사금고/루시안에스더.md)
 - [이름 없는 자들의 검 — 루시안 에스더의 무명장검 (Nameless Blade — Lucian Esther's Unmarked Longsword)](../../01-19-1.무기/02.양손검/이름 없는 자들의 검 (Nameless Blade).md)
-- [여명을 두른 방랑자의 외투 — 루시안 에스더의 낡은 여행자 외투 (Dawn-Draped Wanderer's Coat — Lucian Esther's Worn Traveler's Overcoat)](../../01-19-2.방어구/04.망토·외투/여명을 두른 방랑자의 외투 — 루시안 에스더의 낡은 여행자 외투 (Dawn-Draped Wanderer's Coat — Lucian Esther's Worn Traveler's Overcoat).md)
+- [여명을 두른 방랑자의 외투 — 루시안 에스더의 낡은 여행자 외투 (Dawn-Draped Wanderer's Coat — Lucian Esther's Worn Traveler's Overcoat)](../../01-19-2.방어구/04.망토·외투/레베니오 (Revenio).md)

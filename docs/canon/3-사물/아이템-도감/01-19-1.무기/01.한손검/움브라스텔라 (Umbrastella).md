@@ -94,6 +94,6 @@
 ## 🔗 관련 문서
 
 - [발렌타인 라크루아 (Valentine Lacroix, 어둠의 손)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/1.어둠의손/02.발렌타인라크루아.md)
-- [오래된 맹세의 방패 — 발렌타인 라크루아의 그림자수호구 (Shield of the Ancient Vow — Valentine Lacroix's Shadow-Warded Bulwark)](../../01-19-2.방어구/05.방패/오래된%20맹세의%20방패%20—%20발렌타인%20라크루아의%20그림자수호구%20(Shield%20of%20the%20Ancient%20Vow%20—%20Valentine%20Lacroix's%20Shadow-Warded%20Bulwark).md)
+- [오래된 맹세의 방패 — 발렌타인 라크루아의 그림자수호구 (Shield of the Ancient Vow — Valentine Lacroix's Shadow-Warded Bulwark)](../../01-19-2.방어구/05.방패/그림자%20수호구%20(Shadow%20Ward).md)
 - [어둠의 손 (Shadow Hand)](../../../../2-무대/세력/그림자첩보/어둠의손/어둠의손.md)
 - [윈드블래스트 파성 도끼망치 — 발렌타인 라크루아의 유성무 (붉은 칼날 용병단, 동명이인 무관 장비)](../07.둔기/윈드블래스트%20파성%20도끼망치%20—%20발렌타인%20라크루아의%20유성무%20(Windblast%20Siege-Hammer%20—%20Valentine%20Lacroix's%20Meteor%20Dance).md)

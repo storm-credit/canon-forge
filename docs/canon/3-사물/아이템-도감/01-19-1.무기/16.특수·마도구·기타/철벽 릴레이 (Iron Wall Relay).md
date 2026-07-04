@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [티투스 드라코니스 (Titus Draconis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/07.티투스드라코니스.md)
-- [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](../../01-19-2.방어구/05.방패/드라코니스의%20빛을%20담은%20거석%20방패%20(Light-Bearing%20Megalith%20Shield%20of%20Draconis).md)
+- [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](../../01-19-2.방어구/05.방패/솔가르드%20(Solgarde).md)
 - [마도공학 백과 - 제국 성벽 코어 공명 장치 (Imperial Wall Core Resonator)](../../01-19-4.유물/04.영웅고유성유물/마도공학%20백과%20-%20제국%20성벽%20코어%20공명%20장치%20(Imperial%20Wall%20Core%20Resonator).md)

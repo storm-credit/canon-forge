@@ -61,7 +61,7 @@
 
 ### 관련 캐릭터
 - **이젤리아 녹티스** — 제작자이자 착용자. 이 초커 없이는 아군 진영 내에서의 일상적인 이동조차 타인에게 영향을 줄 수 있다. 초커는 이젤리아가 조직 내에서 최소한의 공존을 유지할 수 있게 해주는 거의 유일한 사회적 완충 장치다.
-- **[맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](../../../01-19-2.방어구/03.로브·마법복/맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow).md)** — 병용 시 로브의 독 기운이 초커 봉인을 교란하지 않도록 재료 단계에서 분리층이 설계되어 있다.
+- **[맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](../../../01-19-2.방어구/03.로브·마법복/나이트위도우 (Night-widow).md)** — 병용 시 로브의 독 기운이 초커 봉인을 교란하지 않도록 재료 단계에서 분리층이 설계되어 있다.
 
 ---
 
@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [이젤리아 녹티스 (Izelia Noctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/11.이젤리아녹티스.md)
-- [맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](../../../01-19-2.방어구/03.로브·마법복/맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow).md)
+- [맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](../../../01-19-2.방어구/03.로브·마법복/나이트위도우 (Night-widow).md)
 - [종교백과 - 일곱 번째 역병의 봉인된 향로 (Sealed Censer of the Seventh Plague)](../08.성물/종교백과 - 일곱 번째 역병의 봉인된 향로 (Sealed Censer of the Seventh Plague).md)

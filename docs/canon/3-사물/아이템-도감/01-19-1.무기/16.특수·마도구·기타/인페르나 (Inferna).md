@@ -107,5 +107,5 @@
 
 - [울그란 화이어포지 (Ulgran Fireforge)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/10.울그란화이어포지.md)
 - [울그란 화이어포지의 미완성 직검 (Unfinished Blade of 울그란 화이어포지)](../01.한손검/미완의%20화염%20(Emberforge).md)
-- [마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron)](../../01-19-2.방어구/02.경갑/마그마%20담금의%20흑요%20단조%20앞치마%20(Obsidian%20Magma-Quench%20Forge%20Apron).md)
+- [마그마 담금의 흑요 단조 앞치마 (Obsidian Magma-Quench Forge Apron)](../../01-19-2.방어구/02.경갑/용승%20(Molten%20Victory).md)
 - [화이어포지의 흑요 집게 파편 (Shard of the Obsidian Pincers)](../../../01-19-3.악세서리/10.특수마도구·마력핵/화이어포지의%20흑요%20집게%20파편%20(Shard%20of%20the%20Obsidian%20Pincers).md)

@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [카를로스 드 베가 (Carlos de Vega)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/9.카를로스드베가.md)
 - [쌍검 '씨-스왈로우 & 크라켄 투스' (Sea-Swallow & Kraken-Tooth)](../../01-19-1.무기/03.쌍검/쌍검%20'씨-스왈로우%20&%20크라켄%20투스'%20(Sea-Swallow%20&%20Kraken-Tooth).md)
-- [미스릴-코르크 복합 구명 흉갑 (Mithril-Cork Buoyant Cuirass)](../../01-19-2.방어구/03.로브·마법복/미스릴-코르크%20복합%20구명%20흉갑%20(Mithril-Cork%20Buoyant%20Cuirass).md)
+- [미스릴-코르크 복합 구명 흉갑 (Mithril-Cork Buoyant Cuirass)](../../01-19-2.방어구/03.로브·마법복/무덤%20없는%20바다%20(Graveless%20Tide).md)

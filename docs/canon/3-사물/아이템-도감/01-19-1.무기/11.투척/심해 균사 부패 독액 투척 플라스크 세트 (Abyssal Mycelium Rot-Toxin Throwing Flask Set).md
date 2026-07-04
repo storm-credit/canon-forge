@@ -85,5 +85,5 @@
 ## 🔗 관련 문서
 - [타데우스 바일 (Thaddeus Vile)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/12.타데우스바일.md)
 - [산성 분사기 노즐지팡이 '플라그 스피터' (Plague Spitter Wand)](../12.지팡이·완드/플라그 스피터 (Plague Spitter).md)
-- [부식 면역성 포자 주머니 방호복 (Spore-Cushion Hazmat)](../../01-19-2.방어구/03.로브·마법복/부식 면역성 포자 주머니 방호복 (Spore-Cushion Hazmat).md)
+- [부식 면역성 포자 주머니 방호복 (Spore-Cushion Hazmat)](../../01-19-2.방어구/03.로브·마법복/불굴포자 (Indomitable Spore).md)
 - [의심하는 페스트 의사의 마스크 (Mask of the Plagued Doubter)](../../01-19-4.유물/04.영웅고유성유물/의심하는 페스트 의사의 마스크 (Mask of the Plagued Doubter).md)

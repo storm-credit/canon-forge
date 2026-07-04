@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 - [골드로저 (Gold Roger)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/01.골드로저.md)
 - [바다를 가르는 해적 검 '로저의 황금' (Roger's Gold)](../../01-19-1.무기/01.한손검/바다를 가르는 해적 검 '로저의 황금' (Roger's Gold).md)
-- [포세이돈의 은총이 깃든 흑기 코트 (Black Flag Coat of Poseidon)](../../01-19-2.방어구/03.로브·마법복/포세이돈의 은총이 깃든 흑기 코트 (Black Flag Coat of Poseidon).md)
+- [포세이돈의 은총이 깃든 흑기 코트 (Black Flag Coat of Poseidon)](../../01-19-2.방어구/03.로브·마법복/흑기의 서약 (Black Flag Oath).md)
 - [해수의 울림 소라 껍데기 (Resonating Conch of the Deep)](../../01-19-3.악세서리/08.성물/해수의 울림 소라 껍데기 (Resonating Conch of the Deep).md)

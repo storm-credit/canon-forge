@@ -99,5 +99,5 @@
 
 - [정보단 여왕 이리나 폰 루즈](../../../../4-인물/영웅-백과/01-14-2.현존영웅/정보단여왕이리나폰루즈.md)
 - [심연 사념 차폐 안대 — 소음 봉인의 은막 (Abyssal Thought-Shield Blindfold — Silver Veil of Noise Seal)](../04.머리장식/심연%20사념%20차폐%20안대%20—%20소음%20봉인의%20은막%20(Abyssal%20Thought-Shield%20Blindfold%20—%20Silver%20Veil%20of%20Noise%20Seal).md)
-- [은빛 심연 강제 사념 역투영 방어구 (Aegis Whisper-Deflection Array)](../../01-19-2.방어구/03.로브·마법복/은빛%20심연%20강제%20사념%20역투영%20방어구%20(Aegis%20Whisper-Deflection%20Array).md)
+- [은빛 심연 강제 사념 역투영 방어구 (Aegis Whisper-Deflection Array)](../../01-19-2.방어구/03.로브·마법복/아이기스%20위스퍼%20(Aegis%20Whisper).md)
 - [거대 수정 공명구 (마더 아티팩트)](../../01-19-4.유물/04.영웅고유성유물/거대수정공명구.md)

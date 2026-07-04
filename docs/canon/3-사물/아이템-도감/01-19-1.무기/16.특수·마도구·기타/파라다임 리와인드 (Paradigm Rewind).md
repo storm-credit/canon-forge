@@ -98,4 +98,4 @@
 - [타린 히스토리아 (Taryn Historia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/08.타린히스토리아.md)
 - [역방향 기억 추출 잉크 (Reverse-Memory Extract Ink)](../../01-19-4.유물/04.영웅고유성유물/역방향%20기억%20추출%20잉크%20(Reverse-Memory%20Extract%20Ink).md)
 - [에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron: Orbit of Wisdom)](../13.오브·마법서/에버크론의%20부유%20서책%20'지혜의%20궤적'%20(Floating%20Tome%20of%20Everchron%20Orbit%20of%20Wisdom).md)
-- [가죽 끈 주렁주렁 달린 은회색 서기관 외투 (Silver-Grey Archivist Surcoat of Leather Straps)](../../01-19-2.방어구/04.망토·외투/가죽%20끈%20주렁주렁%20달린%20은회색%20서기관%20외투%20(Silver-Grey%20Archivist%20Surcoat%20of%20Leather%20Straps).md)
+- [가죽 끈 주렁주렁 달린 은회색 서기관 외투 (Silver-Grey Archivist Surcoat of Leather Straps)](../../01-19-2.방어구/04.망토·외투/스크립토리움%20(Scriptorium).md)

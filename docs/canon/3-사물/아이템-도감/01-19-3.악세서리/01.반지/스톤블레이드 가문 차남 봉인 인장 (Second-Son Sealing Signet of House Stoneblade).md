@@ -92,5 +92,5 @@
 ## 🔗 관련 문서
 
 - [가레스 페트라 (Gareth Petra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/08.가레스페트라.md)
-- [대지수호의 방패검 (Shield-sword of Earth Guard)](../../01-19-2.방어구/05.방패/대지수호의%20방패검%20(Shield-sword%20of%20Earth%20Guard).md)
+- [대지수호의 방패검 (Shield-sword of Earth Guard)](../../01-19-2.방어구/05.방패/페트라가르드%20(Petraguard).md)
 - [이름 없는 병사들의 진흙 부적 (Mud Talisman of the Nameless Soldiers)](../07.부적/이름%20없는%20병사들의%20진흙%20부적%20(Mud%20Talisman%20of%20the%20Nameless%20Soldiers).md)

@@ -83,7 +83,7 @@
 
 ## 🔗 관련 문서
 - [세라피나 보이드 (Seraphina Void)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/13.세라피나보이드.md)
-- [절대 영도 타워 쉴드 '이지스 옵 딥스' (Aegis of the Deeps)](../../../01-19-2.방어구/03.로브·마법복/절대%20영도%20타워%20쉴드%20'이지스%20옵%20딥스'%20(Aegis%20of%20the%20Deeps).md)
-- [고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal)](../../../01-19-2.방어구/01.중갑/고래뼈%20창갑%20빙정석%20판금%20갑주%20(Whalespine%20Plate%20of%20the%20Glacial%20Crystal).md)
+- [절대 영도 타워 쉴드 '이지스 옵 딥스' (Aegis of the Deeps)](../../../01-19-2.방어구/03.로브·마법복/이지스%20옵%20딥스%20(Aegis%20of%20the%20Deeps).md)
+- [고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal)](../../../01-19-2.방어구/01.중갑/프로스트베인%20(Frostvein).md)
 - [영도 순환의 빙해 결속 반지 (Absolute-Zero Circulation Ring of Frost-Bond)](../../../01-19-3.악세서리/01.반지/영도%20순환의%20빙해%20결속%20반지%20(Absolute-Zero%20Circulation%20Ring%20of%20Frost-Bond).md)
 - [보이드 크리스탈 (Void Crystal)](../../../01-19-4.유물/04.영웅고유성유물/보이드%20크리스탈%20(Void%20Crystal).md)

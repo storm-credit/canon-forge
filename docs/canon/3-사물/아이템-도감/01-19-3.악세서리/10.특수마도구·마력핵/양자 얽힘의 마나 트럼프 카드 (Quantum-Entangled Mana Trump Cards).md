@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [루카스 아우룸 (Lucas Aurum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/07.루카스아우룸.md)
 - [러시안룰렛 회중시계 (Pocket Watch of Russian Roulette)](../../01-19-4.유물/04.영웅고유성유물/러시안룰렛 회중시계 (Pocket Watch of Russian Roulette).md)
-- [기적의 타짜 연미복 (Suit of the Jackpot)](../../01-19-2.방어구/03.로브·마법복/기적의 타짜 연미복 (Suit of the Jackpot).md)
+- [기적의 타짜 연미복 (Suit of the Jackpot)](../../01-19-2.방어구/03.로브·마법복/라스트 핸드 (Last Hand).md)

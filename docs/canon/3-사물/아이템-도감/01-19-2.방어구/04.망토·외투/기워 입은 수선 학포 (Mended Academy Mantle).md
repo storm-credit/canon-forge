@@ -86,5 +86,5 @@
 ## 🔗 관련 문서
 - [세릴 실피아 (Seryl Sylphia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/08.세릴실피아.md)
 - [실피아의 덧없는 은빛 부채 (Silver-Dust Fan of Sylphia)](../../01-19-1.무기/16.특수·마도구·기타/실피드%20베일%20(Sylphid%20Veil).md)
-- [바람길 구름 신발 (Unbound Cloud Slippers)](../09.장화·각반/바람길%20구름%20신발%20(Unbound%20Cloud%20Slippers).md)
+- [바람길 구름 신발 (Unbound Cloud Slippers)](../09.장화·각반/속박%20없는%20바람길%20(Unbound%20Windpath).md)
 - [깨어진 바람정령의 유리구슬 (Shattered Wind Spirit Sphere)](../../01-19-3.악세서리/09.보석/깨어진%20바람정령의%20유리구슬%20(Shattered%20Wind%20Spirit%20Sphere).md)

@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [바르모르 페루스덴스 (Barmor Ferrusdens)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/07.바르모르페루스덴스.md)
-- [페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens)](../../01-19-2.방어구/05.방패/페루스덴스의%20영혼-결착%20대방패%20(Soul-Bind%20Tower%20Shield%20of%20Ferrusdens).md)
+- [페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens)](../../01-19-2.방어구/05.방패/영결%20(Eternal%20Bind).md)
 - [강철 어금니의 빙철 맹인 투구 (Blind-Helm of the Steel Fang, Forged in Permafrost Iron)](../../01-19-2.방어구/06.투구·얼굴/강철%20어금니의%20빙철%20맹인%20투구%20(Blind-Helm%20of%20the%20Steel%20Fang%2C%20Forged%20in%20Permafrost%20Iron).md)

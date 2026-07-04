@@ -110,4 +110,4 @@
 - [다미안 팔콘 (Damian Falcon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/02.다미안팔콘.md)
 - 가이아나 야수 결속단 (Gaiana Primal Beastbound)
 - [칠흑의 분쇄검 '팔콘의 야수 궤적' (Obsidian Crusher 'Falcon's Beast-Trail Greatsword')](../../01-19-1.무기/02.양손검/옵시디언%20팽%20(Obsidian%20Fang).md)
-- [야수결속의 개척지 야전 경갑 '팔콘의 흉터 갑주' (Falcon's Scarred Field Armor of the Beastbound)](../../01-19-2.방어구/02.경갑/야수결속의%20개척지%20야전%20경갑%20'팔콘의%20흉터%20갑주'%20(Falcon's%20Scarred%20Field%20Armor%20of%20the%20Beastbound).md)
+- [야수결속의 개척지 야전 경갑 '팔콘의 흉터 갑주' (Falcon's Scarred Field Armor of the Beastbound)](../../01-19-2.방어구/02.경갑/팔콘의%20흉터%20갑주%20(Falcon's%20Scarred%20Armor).md)

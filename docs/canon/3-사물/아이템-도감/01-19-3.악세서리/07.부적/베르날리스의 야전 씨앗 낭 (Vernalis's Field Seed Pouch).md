@@ -100,4 +100,4 @@
 
 - [에리온 베르날리스 (Erion Vernalis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/07.에리온베르날리스.md)
 - [생명을 포식하는 코프시드의 묘목 (Seedling of Corpseed, the Life-Devourer)](../../01-19-1.무기/16.특수·마도구·기타/코프시드%20(Corpseed).md)
-- [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](../../01-19-2.방어구/04.망토·외투/동충하초의%20강제%20기생%20외투%20(Coat%20of%20Cordyceps%20Parasitism).md)
+- [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](../../01-19-2.방어구/04.망토·외투/미셀리아%20(Mycelia).md)

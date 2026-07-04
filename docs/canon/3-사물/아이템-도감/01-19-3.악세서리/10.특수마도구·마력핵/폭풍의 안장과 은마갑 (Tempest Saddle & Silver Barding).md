@@ -92,4 +92,4 @@
 ## 🔗 관련 문서
 - [베르나르드 아우스트루스 (Bernard Austrus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/04.베르나르드아우스트루스.md)
 - [은빛 폭풍의 랜스 (Lance of Silver Tempest)](../../../01-19-1.무기/06.창/은빛%20폭풍의%20랜스%20(Lance%20of%20Silver%20Tempest).md)
-- [창공의 조류 비늘 흉갑 (Scale Armor of the Firmament)](../../../01-19-2.방어구/01.중갑/창공의%20조류%20비늘%20흉갑%20(Scale%20Armor%20of%20the%20Firmament).md)
+- [창공의 조류 비늘 흉갑 (Scale Armor of the Firmament)](../../../01-19-2.방어구/01.중갑/피르마멘트%20(Firmament).md)

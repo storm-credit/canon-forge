@@ -89,4 +89,4 @@
 ## 🔗 관련 문서
 - [로라디아 클레멘티아 (Loradia Clementia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/06.로라디아클레멘티아.md)
 - [순례자의 은빛 지팡이 '클레멘티아의 은총' (Silver Staff of the Pilgrim: Grace of Clementia)](../12.지팡이·완드/클레멘티아의%20은총%20(Grace%20of%20Clementia).md)
-- [오르도스 은청색 치유사 망토 코트 (Ordos Silver-Blue Healer's Cloak Coat)](../../01-19-2.방어구/04.망토·외투/오르도스%20은청색%20치유사%20망토%20코트%20(Ordos%20Silver-Blue%20Healer's%20Cloak%20Coat).md)
+- [오르도스 은청색 치유사 망토 코트 (Ordos Silver-Blue Healer's Cloak Coat)](../../01-19-2.방어구/04.망토·외투/미제리코르%20(Misericor).md)

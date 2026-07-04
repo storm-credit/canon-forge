@@ -89,6 +89,6 @@
 
 - [데이비온 어비스 (Davion Abyss)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/12.데이비온어비스.md)
 - [스크류 드릴 뎁스차지 작살 다발 (Screw-Drill Depth-Charge Harpoon Bundle)](../../01-19-1.무기/11.투척/스크류%20드릴%20뎁스차지%20작살%20다발%20%28Screw-Drill%20Depth-Charge%20Harpoon%20Bundle%29.md)
-- [초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit)](../../01-19-2.방어구/03.로브·마법복/초중량%20마도%20다이빙%20슈트%20%28Hyper-Weight%20Arcane%20Diving%20Suit%29.md)
+- [초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit)](../../01-19-2.방어구/03.로브·마법복/어비스%20다이버%20%28Abyss%20Diver%29.md)
 - [블루홀 아가미 변환 호흡기 (Blue-Hole Gill Converter)](../../01-19-4.유물/04.영웅고유성유물/블루홀%20아가미%20변환%20호흡기%20%28Blue-Hole%20Gill%20Converter%29.md)
 - [워터 제트 추진 마나 등짐 탱크 (Water-Jet Mana Propulsion Backpack)](../../01-19-1.무기/16.특수·마도구·기타/쌍%20물고기%20%28Twin-Fish%29.md)

@@ -91,5 +91,5 @@
 
 ## 🔗 관련 문서
 - [벨라트릭스 루미나 (Bellatrix Lumina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/04.벨라트릭스루미나.md)
-- [시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina)](../../01-19-2.방어구/06.투구·얼굴/시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina).md)
+- [시안 기계 의안 '루미나의 눈' (Cyan Machina Oculus — Eye of Lumina)](../../01-19-2.방어구/06.투구·얼굴/루미나의 눈 (Eye of Lumina).md)
 - [마도공학 에테르 압축 조준기 '에클립스' (Ether-Compression Scope Eclipse)](마도공학 에테르 압축 조준기 '에클립스' (Ether-Compression Scope Eclipse).md)

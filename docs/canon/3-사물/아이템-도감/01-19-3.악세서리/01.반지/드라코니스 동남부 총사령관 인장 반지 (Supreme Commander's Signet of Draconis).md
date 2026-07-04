@@ -88,5 +88,5 @@
 ## 🔗 관련 문서
 
 - [티투스 드라코니스 (Titus Draconis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/07.티투스드라코니스.md)
-- [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](../../01-19-2.방어구/01.중갑/비룡%20비늘의%20화강암%20대갑%20(Dragon-Scale%20Granite%20Greatarmor).md)
-- [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](../../01-19-2.방어구/05.방패/드라코니스의%20빛을%20담은%20거석%20방패%20(Light-Bearing%20Megalith%20Shield%20of%20Draconis).md)
+- [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](../../01-19-2.방어구/01.중갑/드라코스케일%20(Dracoscale).md)
+- [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](../../01-19-2.방어구/05.방패/솔가르드%20(Solgarde).md)

@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [카엘 벤투스 (Kael Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/07.카엘벤투스.md)
 - [창공을 찢는 풍차궁 '제피론' (Windmill Bow of Firmament: Zephyron)](../10.활·석궁/제피론%20풍차궁%20(Zephyron%20Windmill).md)
-- [은폐의 잿빛 연막 코트 (Ash Smoke Coat of Concealment)](../../01-19-2.방어구/03.로브·마법복/은폐의%20잿빛%20연막%20코트%20(Ash%20Smoke%20Coat%20of%20Concealment).md)
+- [은폐의 잿빛 연막 코트 (Ash Smoke Coat of Concealment)](../../01-19-2.방어구/03.로브·마법복/애시셰이드%20(Ashshade).md)

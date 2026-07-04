@@ -95,5 +95,5 @@
 
 - [이세나 니비스코르 (Isena Niviscor)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/12.이세나니비스코르.md)
 - [초정밀 마도 심장 박동기 (Arcane Ultra-Precision Pacemaker)](../../01-19-4.유물/04.영웅고유성유물/초정밀%20마도%20심장%20박동기%20(Arcane%20Ultra-Precision%20Pacemaker).md)
-- [오로라 배전망 제어 장갑 (Aurora Power Grid Control Gauntlets)](../../01-19-2.방어구/08.장갑·손목/오로라%20배전망%20제어%20장갑%20(Aurora%20Power%20Grid%20Control%20Gauntlets).md)
+- [오로라 배전망 제어 장갑 (Aurora Power Grid Control Gauntlets)](../../01-19-2.방어구/08.장갑·손목/오로라넥서스%20(Auroranexus).md)
 - [전장 전시 마도 수정구 (Battlefield Arcane Surveillance Orb)](전장%20전시%20마도%20수정구%20(Battlefield%20Arcane%20Surveillance%20Orb).md)

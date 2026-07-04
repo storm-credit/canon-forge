@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [발두르 아크가드 (Baldur Archguard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/05.발두르아크가드.md)
 - [심장 동력 에테르 코어 (Heart-Drive Ether Core)](심장 동력 에테르 코어 (Heart-Drive Ether Core).md)
-- [천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate)](../../01-19-2.방어구/01.중갑/천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate).md)
+- [천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate)](../../01-19-2.방어구/01.중갑/아이언월 (Ironwall).md)

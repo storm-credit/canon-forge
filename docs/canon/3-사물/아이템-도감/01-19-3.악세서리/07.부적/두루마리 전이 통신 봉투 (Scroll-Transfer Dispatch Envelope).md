@@ -89,4 +89,4 @@
 ## 🔗 관련 문서
 
 - [엘리아스 루미나르 (Elias Luminar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/02.엘리아스루미나르.md)
-- [지식 통제관의 광휘 학자 로브 (Luminous Scholar's Robe of the Knowledge Warden)](../../01-19-2.방어구/03.로브·마법복/지식%20통제관의%20광휘%20학자%20로브%20(Luminous%20Scholar's%20Robe%20of%20the%20Knowledge%20Warden).md)
+- [지식 통제관의 광휘 학자 로브 (Luminous Scholar's Robe of the Knowledge Warden)](../../01-19-2.방어구/03.로브·마법복/루멘%20코덱스%20(Lumen%20Codex).md)

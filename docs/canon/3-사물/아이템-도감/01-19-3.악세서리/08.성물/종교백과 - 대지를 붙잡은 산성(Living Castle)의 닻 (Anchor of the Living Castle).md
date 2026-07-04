@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [비로누스 듀네사르 (Vironus Dunesar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/14.비로누스듀네사르.md)
 - [듀네사르의 축성(Fortification) 금가루 반지 (Gold-Dust Ring of Fortification of Dunesar)](../01.반지/듀네사르의%20축성(Fortification)%20금가루%20반지%20(Gold-Dust%20Ring%20of%20Fortification%20of%20Dunesar).md)
-- [석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons)](../../../01-19-2.방어구/03.로브·마법복/석화탄을%20튕겨내는%20불침의%20모래비단%20로브%20(Impervious%20Sand-Silk%20Robe%20against%20Cannons).md)
+- [석화탄을 튕겨내는 불침의 모래비단 로브 (Impervious Sand-Silk Robe against Cannons)](../../../01-19-2.방어구/03.로브·마법복/두네사르%20(Dunesar).md)

@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/01.가웨인스텔라리스.md)
 - [칠흑의 분쇄검 '심연의 광석' (Black Crusher Greatsword 'Ore of the Abyss')](../../01-19-1.무기/02.양손검/보이드아이언%20(Voidiron).md)
-- [개척지 야수피 압착 흉갑 (Pioneer's Beast-Hide Compression Cuirass)](../../01-19-2.방어구/02.경갑/개척지%20야수피%20압착%20흉갑%20(Pioneer's%20Beast-Hide%20Compression%20Cuirass).md)
+- [개척지 야수피 압착 흉갑 (Pioneer's Beast-Hide Compression Cuirass)](../../01-19-2.방어구/02.경갑/불굴피%20(Unbroken%20Hide).md)
 - 아스트라 대륙 개척자 연맹 (Astral Pioneer's Guild)

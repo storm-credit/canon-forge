@@ -81,4 +81,4 @@
 - [마그누스 이그니스 (Magnus Ignis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/12.마그누스이그니스.md)
 - [억압된 족쇄 링 (Shackle Ring of the Repressed)](../01.반지/억압된 족쇄 링 (Shackle Ring of the Repressed).md)
 - [업화의 소각 지팡이 (Incineration Staff of Hellfire)](../../01-19-1.무기/12.지팡이·완드/업화 (Hellfire).md)
-- [불씨 먹는 누더기 로브 (Tattered Robe of Ember Eater)](../../01-19-2.방어구/03.로브·마법복/불씨 먹는 누더기 로브 (Tattered Robe of Ember Eater).md)
+- [불씨 먹는 누더기 로브 (Tattered Robe of Ember Eater)](../../01-19-2.방어구/03.로브·마법복/불씨포식 (Emberglut).md)

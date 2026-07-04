@@ -85,4 +85,4 @@
 ## 🔗 관련 문서
 - [실비아 스텔라 (Sylvia Stella)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/02.실비아스텔라.md)
 - [천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony)](../../01-19-1.무기/07.둔기/천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony).md)
-- [창백한 밤성운의 베일 (Veil of the Pale Nebula)](../../01-19-2.방어구/04.망토·외투/창백한 밤성운의 베일 (Veil of the Pale Nebula).md)
+- [창백한 밤성운의 베일 (Veil of the Pale Nebula)](../../01-19-2.방어구/04.망토·외투/창백한 성운 (Pale Nebula).md)

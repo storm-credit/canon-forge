@@ -90,4 +90,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 코어스 (Guinevere Cores)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/1.황금나침반상회/기네비어코어스.md)
-- [여명의 플레이트 — 방관자의 맹세 (Plate of Dawn — Bystander's Vow)](../../01-19-2.방어구/01.중갑/여명의 플레이트 — 방관자의 맹세 (Plate of Dawn — Bystander's Vow).md)
+- [여명의 플레이트 — 방관자의 맹세 (Plate of Dawn — Bystander's Vow)](../../01-19-2.방어구/01.중갑/방관자의 갑옷 (Bystander's Plate).md)

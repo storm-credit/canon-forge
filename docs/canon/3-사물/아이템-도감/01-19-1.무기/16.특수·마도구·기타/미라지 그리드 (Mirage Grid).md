@@ -98,4 +98,4 @@
 ## 🔗 관련 문서
 
 - [락사르 판타스마 (Raksar Phantasma)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/06.락사르판타스마.md)
-- [잔상의 연기 비늘 가운 (Afterimage Smoke-Scale Gown)](../../01-19-2.방어구/03.로브·마법복/잔상의%20연기%20비늘%20가운%20(Afterimage%20Smoke-Scale%20Gown).md)
+- [잔상의 연기 비늘 가운 (Afterimage Smoke-Scale Gown)](../../01-19-2.방어구/03.로브·마법복/미라주%20셰이드%20(Mirage%20Shade).md)

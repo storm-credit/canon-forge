@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/4.검은파도용병단/05.아리엔베클렌.md)
-- [짠물에 삭지 않는 순찰자의 로브 — 가라앉은 숲의 마지막 조각 (Brine-Proof Ranger's Robe — Last Fragment of the Sunken Woods)](../../01-19-2.방어구/04.망토·외투/짠물에%20삭지%20않는%20순찰자의%20로브%20—%20가라앉은%20숲의%20마지막%20조각%20(Brine-Proof%20Ranger's%20Robe%20—%20Last%20Fragment%20of%20the%20Sunken%20Woods).md)
+- [짠물에 삭지 않는 순찰자의 로브 — 가라앉은 숲의 마지막 조각 (Brine-Proof Ranger's Robe — Last Fragment of the Sunken Woods)](../../01-19-2.방어구/04.망토·외투/은엽수의%20마지막%20잎%20(Last%20Leaf%20of%20the%20Silverwood).md)
 - 검은 파도 용병단 (Black Tide Mercenaries)

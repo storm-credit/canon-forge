@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [잭슨 레이븐 (Jackson Raven)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/09.잭슨레이븐.md)
-- [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](../../01-19-2.방어구/02.경갑/까마귀%20깃털%20장식된%20검은%20가죽%20롱코트%20(Raven-Feathered%20Leather%20Duster).md)
+- [까마귀 깃털 장식된 검은 가죽 롱코트 (Raven-Feathered Leather Duster)](../../01-19-2.방어구/02.경갑/까마귀의%20귀환%20(Raven's%20Return).md)
 - [죽은 자의 은화 주머니 (Pouch of the Dead Man's Silver)](../../01-19-4.유물/04.영웅고유성유물/죽은%20자의%20은화%20주머니%20(Pouch%20of%20the%20Dead%20Man's%20Silver).md)

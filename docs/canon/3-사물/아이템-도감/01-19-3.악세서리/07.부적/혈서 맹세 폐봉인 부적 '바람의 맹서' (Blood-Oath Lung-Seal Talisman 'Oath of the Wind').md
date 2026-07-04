@@ -97,4 +97,4 @@
 ## 🔗 관련 문서
 - [베아트리체 윈드런너 (Beatrice Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/05.베아트리체윈드런너.md)
 - [칠흑의 분쇄검 — 베아트리체 윈드런너의 심연 광석 분쇄검 (Black Crusher Greatsword — Beatrice Windrunner's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/와일드하울%20(Wildhowl).md)
-- [가이아나 야수결속단의 야성 정령 결속 야전갑 (Gaiana Beastbound Spirit-Bonded Field Wargear)](../../01-19-2.방어구/02.경갑/가이아나%20야수결속단의%20야성%20정령%20결속%20야전갑%20(Gaiana%20Beastbound%20Spirit-Bonded%20Field%20Wargear).md)
+- [가이아나 야수결속단의 야성 정령 결속 야전갑 (Gaiana Beastbound Spirit-Bonded Field Wargear)](../../01-19-2.방어구/02.경갑/야생의%20기억갑%20(Wildmemory%20Hide).md)

@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [카르텔 수장 칼리크 디트리히](../../../../4-인물/영웅-백과/01-14-2.현존영웅/카르텔수장칼리크디트리히.md)
-- [검은재 가문 강령의 지맥 부식 흑색 로브 (House Black-Ash Necromantic Leyline Corrosion Black Robe)](../../01-19-2.방어구/03.로브·마법복/검은재%20가문%20강령의%20지맥%20부식%20흑색%20로브%20(House%20Black-Ash%20Necromantic%20Leyline%20Corrosion%20Black%20Robe).md)
+- [검은재 가문 강령의 지맥 부식 흑색 로브 (House Black-Ash Necromantic Leyline Corrosion Black Robe)](../../01-19-2.방어구/03.로브·마법복/칼리크의%20껍데기%20(Kalik's%20Husk).md)
 - [그림자 핏물 지네 봉투](../../01-19-4.유물/04.영웅고유성유물/그림자핏물지네봉투.md)

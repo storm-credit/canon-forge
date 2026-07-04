@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [모르데카이 타르타로스 (Mordecai Tartaros)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/03.모르데카이타르타로스.md)
 - [타르타로스의 핏빛 메아리 (Blood-Echo of Tartaros)](../../01-19-1.무기/16.특수·마도구·기타/핏빛 메아리 (Blood-Echo).md)
-- [순교자의 뒤틀린 뼈 구속구 (Twisted Bone Shackles of the Martyr)](../../01-19-2.방어구/03.로브·마법복/순교자의 뒤틀린 뼈 구속구 (Twisted Bone Shackles of the Martyr).md)
+- [순교자의 뒤틀린 뼈 구속구 (Twisted Bone Shackles of the Martyr)](../../01-19-2.방어구/03.로브·마법복/순교의 결박 (Martyr's Binding).md)

@@ -91,4 +91,4 @@
 
 ## 🔗 관련 문서
 - [아리엔 베클렌 (Arien Becklen)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/아리엔베클렌.md)
-- [여행자의 로브 — 바람의 숨결 (Traveler's Cloak of the Wind's Breath)](../../01-19-2.방어구/04.망토·외투/여행자의 로브 — 바람의 숨결 (Traveler's Cloak of the Wind's Breath).md)
+- [여행자의 로브 — 바람의 숨결 (Traveler's Cloak of the Wind's Breath)](../../01-19-2.방어구/04.망토·외투/아우렌티아 (Aurentia).md)

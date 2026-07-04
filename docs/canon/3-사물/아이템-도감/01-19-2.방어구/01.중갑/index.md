@@ -1,86 +1,105 @@
 ---
 정본명: 중갑
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
 ---
 
 # 📚 중갑
 
-## 항목 (74)
+## 항목 (93)
 
 | 아이템 | 링크 |
 |--------|------|
-| 중갑 (Heavy Armor) | [중갑 (Heavy Armor)](01.중갑.md) |
-| 강직성 외골격 척추 철판 (Ankylosing Exoskeleton Spinal Plate) | [강직성 외골격 척추 철판 (Ankylosing Exoskeleton Spinal Plate)](강직성%20외골격%20척추%20철판%20%28Ankylosing%20Exoskeleton%20Spinal%20Plate%29.md) |
-| 강철 신념의 질량 구속 갑주 (Mass-Restricting Armor of Iron Conviction) | [강철 신념의 질량 구속 갑주 (Mass-Restricting Armor of Iron Conviction)](강철%20신념의%20질량%20구속%20갑주%20%28Mass-Restricting%20Armor%20of%20Iron%20Conviction%29.md) |
-| 강철 요새의 흉갑 (Breastplate of the Iron Fortress) | [강철 요새의 흉갑 (Breastplate of the Iron Fortress)](강철%20요새의%20흉갑%20%28Breastplate%20of%20the%20Iron%20Fortress%29.md) |
-| 강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath') | [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](강철신경%20접속형%20외골격%20'골리앗'%20%28Neural-Linked%20Exoskeleton%20'Goliath'%29.md) |
-| 개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate) | [개척지 상흔의 야전 흉갑 (Frontier-Scar Field Breastplate)](개척지%20상흔의%20야전%20흉갑%20%28Frontier-Scar%20Field%20Breastplate%29.md) |
-| 개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate) | [개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate)](개척지%20상흔의%20야전%20흉갑%20—%20실비아%20코어스의%20생존%20갑주%20%28Frontier-Scar%20Field%20Breastplate%20—%20Silvia%20Cores's%20Survival%20Plate%29.md) |
-| 개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate) | [개척지의 상흔 야전 흉갑 — 루시안 루미너스의 생존 갑주 (Frontier Scar Breastplate — Lucian Luminous's Survival Plate)](개척지의%20상흔%20야전%20흉갑%20—%20루시안%20루미너스의%20생존%20갑주%20%28Frontier%20Scar%20Breastplate%20—%20Lucian%20Luminous's%20Survival%20Plate%29.md) |
-| 거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon) | [거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon)](거수%20다곤의%20화석%20갑옷%20%28Fossilized%20Carapace%20of%20Dagon%29.md) |
-| 고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal) | [고래뼈 창갑 빙정석 판금 갑주 (Whalespine Plate of the Glacial Crystal)](고래뼈%20창갑%20빙정석%20판금%20갑주%20%28Whalespine%20Plate%20of%20the%20Glacial%20Crystal%29.md) |
-| 그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre) | [그을린 전귀의 융해 저항갑 (Charred Melting-Resistant Armor of the War Ogre)](그을린%20전귀의%20융해%20저항갑%20%28Charred%20Melting-Resistant%20Armor%20of%20the%20War%20Ogre%29.md) |
-| 까마귀 깃의 흑철 흉갑 (Blackplate of the Raven's Feather) | [까마귀 깃의 흑철 흉갑 (Blackplate of the Raven's Feather)](까마귀%20깃의%20흑철%20흉갑%20%28Blackplate%20of%20the%20Raven's%20Feather%29.md) |
-| 노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine) | [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](노예%20광산의%20용접%20흉갑%20%28Welded%20Breastplate%20of%20the%20Slave%20Mine%29.md) |
-| 뇌운의 엽장 (Mail of Thundercloud) | [뇌운의 엽장 (Mail of Thundercloud)](뇌운의%20엽장%20%28Mail%20of%20Thundercloud%29.md) |
-| 단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate) | [단열의 검붉은 코뿔소 판갑 (Insulated Crimson Rhino-Plate)](단열의%20검붉은%20코뿔소%20판갑%20%28Insulated%20Crimson%20Rhino-Plate%29.md) |
-| 단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail) | [단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail)](단죄자의%20안감%20가시%20사슬갑옷%20%28Penitent's%20Thorn-Chainmail%29.md) |
-| 딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine) | [딥포지 심갱의 발톱 자국 전신 판갑 (Claw-Forge Full Plate of the Scarred Deep Mine)](딥포지%20심갱의%20발톱%20자국%20전신%20판갑%20%28Claw-Scarred%20Deep-Forge%20Full%20Plate%29.md) |
-| 마모된 회색 철갑 충의 (Gray Iron Carapace of Weathered Loyalty) | [마모된 회색 철갑 충의 (Gray Iron Carapace of Weathered Loyalty)](마모된%20회색%20철갑%20충의%20%28Gray%20Iron%20Carapace%20of%20Weathered%20Loyalty%29.md) |
-| 만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash) | [만년 용암재의 폭주 갑옷 (Armor of Millennial Magma-Ash)](만년%20용암재의%20폭주%20갑옷%20%28Armor%20of%20Millennial%20Magma-Ash%29.md) |
-| 망각의 짐(Burden of Oblivion) 플레이트 | [망각의 짐(Burden of Oblivion) 플레이트](망각의%20짐%28Burden%20of%20Oblivion%29%20플레이트.md) |
-| 망령 원한 갑주 (Wraith-Grudge Spirit Armor) | [망령 원한 갑주 (Wraith-Grudge Spirit Armor)](망령%20원한%20갑주%20%28Wraith-Grudge%20Spirit%20Armor%29.md) |
-| 맹수왕의 사슬 흉갑 (Chainmail of the Beast King) | [맹수왕의 사슬 흉갑 (Chainmail of the Beast King)](맹수왕의%20사슬%20흉갑%20%28Chainmail%20of%20the%20Beast%20King%29.md) |
-| 몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily) | [몰락한 백합의 은빛 흉갑 (Silver Corcelet of the Fallen Lily)](몰락한%20백합의%20은빛%20흉갑%20%28Silver%20Corcelet%20of%20the%20Fallen%20Lily%29.md) |
-| 무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate) | [무광 저거너트 전신 중갑 (Matte-Black Juggernaut Full Plate)](무광%20저거너트%20전신%20중갑%20%28Matte-Black%20Juggernaut%20Full%20Plate%29.md) |
-| 백사자의 흉갑 (Cuirass of the White Lion) | [백사자의 흉갑 (Cuirass of the White Lion)](백사자의%20흉갑%20%28Cuirass%20of%20the%20White%20Lion%29.md) |
-| 백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate) | [백은 성교관 풀 플레이트 (Silver-White Inquisitor Full Plate)](백은%20성교관%20풀%20플레이트%20%28Silver-White%20Inquisitor%20Full%20Plate%29.md) |
-| 불침 요새의 특수 합금 흉갑 (Unsinkable Fortress Special Alloy Breastplate) | [불침 요새의 특수 합금 흉갑 (Unsinkable Fortress Special Alloy Breastplate)](불침%20요새의%20특수%20합금%20흉갑%20%28Unsinkable%20Fortress%20Special%20Alloy%20Breastplate%29.md) |
-| 블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren) | [블러드혼 부락 붕괴벽의 대갑주 (Collapsed-Wall Great Armor of Bloodhorn Warren)](블러드혼%20부락%20붕괴벽의%20대갑주%20%28Collapsed-Wall%20Great%20Armor%20of%20Bloodhorn%20Warren%29.md) |
-| 비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor) | [비룡 비늘의 화강암 대갑 (Dragon-Scale Granite Greatarmor)](비룡%20비늘의%20화강암%20대갑%20%28Dragon-Scale%20Granite%20Greatarmor%29.md) |
-| 빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection) | [빛을 반환하는 아르젠툼 풀 플레이트 (Argentum Full Plate of Light-Reflection)](빛을%20반환하는%20아르젠툼%20풀%20플레이트%20%28Argentum%20Full%20Plate%20of%20Light-Reflection%29.md) |
-| 서밋포지의 룬공학 흉갑 (Runic Engineer's Breastplate of Summitforge) | [서밋포지의 룬공학 흉갑 (Runic Engineer's Breastplate of Summitforge)](서밋포지의%20룬공학%20흉갑%20%28Runic%20Engineer's%20Breastplate%20of%20Summitforge%29.md) |
-| 선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate) | [선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate)](선체%20파편%20직조%20판금%20흉갑%20%28Hull-Fragment%20Woven%20Plate%29.md) |
-| 순결한 성벽의 백은갑 (Platinum Plate of the Chaste Rampart) | [순결한 성벽의 백은갑 (Platinum Plate of the Chaste Rampart)](순결한%20성벽의%20백은갑%20%28Platinum%20Plate%20of%20the%20Chaste%20Rampart%29.md) |
-| 순교자의 재가 박힌 열압 쇄골갑 (Clavicle-Armor of Thermal-Pressure Embedded with Martyr's Ash) | [순교자의 재가 박힌 열압 쇄골갑 (Clavicle-Armor of Thermal-Pressure Embedded with Martyr's Ash)](순교자의%20재가%20박힌%20열압%20쇄골갑%20%28Clavicle-Armor%20of%20Thermal-Pressure%20Embedded%20with%20Martyr's%20Ash%29.md) |
-| 순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr) | [순교자의 황금형벌 갑주 (Golden-Penance Armor of the Martyr)](순교자의%20황금형벌%20갑주%20%28Golden-Penance%20Armor%20of%20the%20Martyr%29.md) |
-| 순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim) | [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](순례자의%20은청색%20사자%20중갑%20%28Silver-blue%20Lion%20Plate%20of%20Pilgrim%29.md) |
-| 스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss) | [스스로 입은 심연의 갑주 (Self-Worn Carapace of the Abyss)](스스로%20입은%20심연의%20갑주%20%28Self-Worn%20Carapace%20of%20the%20Abyss%29.md) |
-| 심연 상흔의 야전 흉갑 — 스텔라리스의 개척지 갑주 (Stellaris Frontier Field Breastplate of Abyssal Scars) | [심연 상흔의 야전 흉갑 — 스텔라리스의 개척지 갑주 (Stellaris Frontier Field Breastplate of Abyssal Scars)](심연%20상흔의%20야전%20흉갑%20—%20스텔라리스의%20개척지%20갑주%20%28Stellaris%20Frontier%20Field%20Breastplate%20of%20Abyssal%20Scars%29.md) |
-| 심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide') | [심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide')](심연강%20전신%20중갑%20'강철의%20파도'%20%28Abyss%20Steel%20Full%20Plate%20'Iron%20Tide'%29.md) |
-| 심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate) | [심해압 견딤식 은염강 판금갑수 (Abyssal-Pressure Silver-Salt Plate)](심해압%20견딤식%20은염강%20판금갑수%20%28Abyssal-Pressure%20Silver-Salt%20Plate%29.md) |
-| 암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor) | [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](암석%20비늘%20철벽%20대갑주%20%28Stonescale%20Ironwall%20Greatarmor%29.md) |
-| 에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss) | [에보니 다크 플레이트 — 타락한 에델바이스의 전신 판갑 (Ebony Dark Plate — Corrupted Full Plate of Edelweiss)](에보니%20다크%20플레이트%20—%20타락한%20에델바이스의%20전신%20판갑%20%28Ebony%20Dark%20Plate%20—%20Corrupted%20Full%20Plate%20of%20Edelweiss%29.md) |
-| 오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton) | [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](오르도스%20방위군%20기동%20외골격%20%28Ordos%20Defense%20Mobile%20Exoskeleton%29.md) |
-| 오벨리스크 재생 꽃무늬 누더기 강철 풀 플레이트 (Obelisk-Recycled Flower-Painted Patchwork Full Plate) | [오벨리스크 재생 꽃무늬 누더기 강철 풀 플레이트 (Obelisk-Recycled Flower-Painted Patchwork Full Plate)](오벨리스크%20재생%20꽃무늬%20누더기%20강철%20풀%20플레이트%20%28Obelisk-Recycled%20Flower-Painted%20Patchwork%20Full%20Plate%29.md) |
-| 요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate) | [요새화 융합 풀-플레이트 (Fortified Fusion Full-Plate)](요새화%20융합%20풀-플레이트%20%28Fortified%20Fusion%20Full-Plate%29.md) |
-| 용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross) | [용광로 화집 타오르는 십자 중갑 (Crucible Armor of Blazing Cross)](용광로%20화집%20타오르는%20십자%20중갑%20%28Crucible%20Armor%20of%20Blazing%20Cross%29.md) |
-| 월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight) | [월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight)](월광에%20벼려진%20은린갑%20%28Silver-Scale%20Armor%20Forged%20in%20Moonlight%29.md) |
-| 이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless) | [이름 잃은 방벽의 전신갑 (Bulwark Plate of the Nameless)](이름%20잃은%20방벽의%20전신갑%20%28Bulwark%20Plate%20of%20the%20Nameless%29.md) |
-| 적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino) | [적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino)](적린%28Red-scale%29%20코뿔소의%20뚫리지%20않는%20플레이트%20%28Unpierceable%20Plate%20of%20the%20Red-Scale%20Rhino%29.md) |
-| 절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud) | [절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud)](절연된%20뇌운의%20하프%20플레이트%20%28Insulated%20Half-Plate%20of%20the%20Thundercloud%29.md) |
-| 죄업의 흑철 타락 체갑 (Corrupted Black-Iron Carapace of Taken Sins) | [죄업의 흑철 타락 체갑 (Corrupted Black-Iron Carapace of Taken Sins)](죄업의%20흑철%20타락%20체갑%20%28Corrupted%20Black-Iron%20Carapace%20of%20Taken%20Sins%29.md) |
-| 중력을 거스르는 현무암 흉갑 (Breastplate of Gravity-Defying Basalt) | [중력을 거스르는 현무암 흉갑 (Breastplate of Gravity-Defying Basalt)](중력을%20거스르는%20현무암%20흉갑%20%28Breastplate%20of%20Gravity-Defying%20Basalt%29.md) |
-| 지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein) | [지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein)](지하%20광맥의%20압착%20흉갑%20%28Breastplate%20of%20the%20Quartz%20Vein%29.md) |
-| 진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations) | [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](진동을%20먹어%20치우는%20단층대%28Fault-Line%29%20판금%20갑주%20%28Fault-Line%20Plate%20Armor%20that%20Devours%20Vibrations%29.md) |
-| 창공의 조류 비늘 흉갑 (Scale Armor of the Firmament) | [창공의 조류 비늘 흉갑 (Scale Armor of the Firmament)](창공의%20조류%20비늘%20흉갑%20%28Scale%20Armor%20of%20the%20Firmament%29.md) |
-| 천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate) | [천 개의 고철 누더기 전신판갑 (Thousand-Scrap Patchwork Full Plate)](천%20개의%20고철%20누더기%20전신판갑%20%28Thousand-Scrap%20Patchwork%20Full%20Plate%29.md) |
-| 천년 암반의 대갑주 (Great Armor of Millennium Bedrock) | [천년 암반의 대갑주 (Great Armor of Millennium Bedrock)](천년%20암반의%20대갑주%20%28Great%20Armor%20of%20Millennium%20Bedrock%29.md) |
-| 철갑 참호 전신 갑주 (Ironclad Trench Full Plate of Ferrum) | [철갑 참호 전신 갑주 (Ironclad Trench Full Plate of Ferrum)](철갑%20참호%20전신%20갑주%20%28Ironclad%20Trench%20Full%20Plate%20of%20Ferrum%29.md) |
-| 초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass) | [초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass)](초고열%20흡수형%20샐러맨더%20코팅%20흉갑%20%28Heat-Sink%20Salamander%20Cuirass%29.md) |
-| 칠흑 흑요석 사왕 전신 갑주 (Obsidian Full Plate of the Death King) | [칠흑 흑요석 사왕 전신 갑주 (Obsidian Full Plate of the Death King)](칠흑%20흑요석%20사왕%20전신%20갑주%20%28Obsidian%20Full%20Plate%20of%20the%20Death%20King%29.md) |
-| 침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight) | [침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight)](침묵하는%20기사의%20강철판%20%28Steel%20Plate%20of%20the%20Silenced%20Knight%29.md) |
-| 카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth) | [카멜로스의 판금 전신 요새 (Fortress Plate of Cameloth)](카멜로스의%20판금%20전신%20요새%20%28Fortress%20Plate%20of%20Cameloth%29.md) |
-| 카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate) | [카운터버스트 자폭 흉갑 (Counter-Burst Self-Detonation Breastplate)](카운터버스트%20자폭%20흉갑%20%28Counter-Burst%20Self-Detonation%20Breastplate%29.md) |
+| 01.중갑 | [01.중갑](01.중갑.md) |
+| 110년의 청구서 (Centennial Ledger) | [110년의 청구서 (Centennial Ledger)](110년의%20청구서%20%28Centennial%20Ledger%29.md) |
+| 강철의 파도 (Iron Tide) | [강철의 파도 (Iron Tide)](강철의%20파도%20%28Iron%20Tide%29.md) |
+| 검은등 (Blackback) | [검은등 (Blackback)](검은등%20%28Blackback%29.md) |
+| 고동의 천공갑 (Heartcore Breach) | [고동의 천공갑 (Heartcore Breach)](고동의%20천공갑%20%28Heartcore%20Breach%29.md) |
+| 골리앗 (Goliath) | [골리앗 (Goliath)](골리앗%20%28Goliath%29.md) |
+| 그라비스 (Gravis) | [그라비스 (Gravis)](그라비스%20%28Gravis%29.md) |
+| 꺾이지 않는 여명 (Unbending Dawn) | [꺾이지 않는 여명 (Unbending Dawn)](꺾이지%20않는%20여명%20%28Unbending%20Dawn%29.md) |
+| 낙화 백합 (Fallen Lily) | [낙화 백합 (Fallen Lily)](낙화%20백합%20%28Fallen%20Lily%29.md) |
+| 난파의 방벽 (Wreck Bastion) | [난파의 방벽 (Wreck Bastion)](난파의%20방벽%20%28Wreck%20Bastion%29.md) |
+| 네크로스틸 (Necrosteel) | [네크로스틸 (Necrosteel)](네크로스틸%20%28Necrosteel%29.md) |
+| 뇌운 (Thundercloud) | [뇌운 (Thundercloud)](뇌운%20%28Thundercloud%29.md) |
+| 다곤 (Dagon) | [다곤 (Dagon)](다곤%20%28Dagon%29.md) |
+| 드라코스케일 (Dracoscale) | [드라코스케일 (Dracoscale)](드라코스케일%20%28Dracoscale%29.md) |
+| 드라코스클 (Dracoscale) | [드라코스클 (Dracoscale)](드라코스클%20%28Dracoscale%29.md) |
+| 라스트월 (Lastwall) | [라스트월 (Lastwall)](라스트월%20%28Lastwall%29.md) |
+| 라인 앵커 (Line Anchor) | [라인 앵커 (Line Anchor)](라인%20앵커%20%28Line%20Anchor%29.md) |
+| 라인홀드 (Linehold) | [라인홀드 (Linehold)](라인홀드%20%28Linehold%29.md) |
+| 레드혼 (Redhorn) | [레드혼 (Redhorn)](레드혼%20%28Redhorn%29.md) |
+| 레오가르드 (Leogarde) | [레오가르드 (Leogarde)](레오가르드%20%28Leogarde%29.md) |
+| 레이븐펠 (Ravenfell) | [레이븐펠 (Ravenfell)](레이븐펠%20%28Ravenfell%29.md) |
+| 레퀴엠 (Requiem) | [레퀴엠 (Requiem)](레퀴엠%20%28Requiem%29.md) |
+| 롱스탠딩 (Longstanding) | [롱스탠딩 (Longstanding)](롱스탠딩%20%28Longstanding%29.md) |
+| 루멘퀄츠 (Lumenquartz) | [루멘퀄츠 (Lumenquartz)](루멘퀄츠%20%28Lumenquartz%29.md) |
+| 룬하트 (Runeheart) | [룬하트 (Runeheart)](룬하트%20%28Runeheart%29.md) |
+| 마지막 벽 (The Last Wall) | [마지막 벽 (The Last Wall)](마지막%20벽%20%28The%20Last%20Wall%29.md) |
+| 망각의 짐 (Burden of Oblivion) | [망각의 짐 (Burden of Oblivion)](망각의%20짐%20%28Burden%20of%20Oblivion%29.md) |
+| 멜팅 플레이트 (Melting Plate) | [멜팅 플레이트 (Melting Plate)](멜팅%20플레이트%20%28Melting%20Plate%29.md) |
+| 모래시계 흉갑 (Hourglass Cuirass) | [모래시계 흉갑 (Hourglass Cuirass)](모래시계%20흉갑%20%28Hourglass%20Cuirass%29.md) |
+| 모르스옵시스 (Morsobsis) | [모르스옵시스 (Morsobsis)](모르스옵시스%20%28Morsobsis%29.md) |
+| 미러라이트 (Mirrolight) | [미러라이트 (Mirrolight)](미러라이트%20%28Mirrolight%29.md) |
+| 바름헤르츠 (Warmherz) | [바름헤르츠 (Warmherz)](바름헤르츠%20%28Warmherz%29.md) |
+| 방관자의 갑옷 (Bystander's Plate) | [방관자의 갑옷 (Bystander's Plate)](방관자의%20갑옷%20%28Bystander's%20Plate%29.md) |
+| 버트리스 (Buttress) | [버트리스 (Buttress)](버트리스%20%28Buttress%29.md) |
+| 베드락 (Bedrock) | [베드락 (Bedrock)](베드락%20%28Bedrock%29.md) |
+| 베스트라 (Bestra) | [베스트라 (Bestra)](베스트라%20%28Bestra%29.md) |
+| 베어플레이트 (Bearplate) | [베어플레이트 (Bearplate)](베어플레이트%20%28Bearplate%29.md) |
+| 불변의 방벽 (Unbroken Wall) | [불변의 방벽 (Unbroken Wall)](불변의%20방벽%20%28Unbroken%20Wall%29.md) |
+| 비늘의 요새 (Fortress of Scales) | [비늘의 요새 (Fortress of Scales)](비늘의%20요새%20%28Fortress%20of%20Scales%29.md) |
+| 뿌리내린 맹세 (Rooted Vow) | [뿌리내린 맹세 (Rooted Vow)](뿌리내린%20맹세%20%28Rooted%20Vow%29.md) |
+| 상흔의 은월갑 (Silvermoon Scarplate) | [상흔의 은월갑 (Silvermoon Scarplate)](상흔의%20은월갑%20%28Silvermoon%20Scarplate%29.md) |
+| 상흔의 지도 (Map of Scars) | [상흔의 지도 (Map of Scars)](상흔의%20지도%20%28Map%20of%20Scars%29.md) |
+| 새벽의 불침번 (Dawn's Vigil) | [새벽의 불침번 (Dawn's Vigil)](새벽의%20불침번%20%28Dawn's%20Vigil%29.md) |
+| 성광 심판갑 (Radiant Judgment Plate) | [성광 심판갑 (Radiant Judgment Plate)](성광%20심판갑%20%28Radiant%20Judgment%20Plate%29.md) |
+| 성문의 수문갑 (Gatewarden Bulwark) | [성문의 수문갑 (Gatewarden Bulwark)](성문의%20수문갑%20%28Gatewarden%20Bulwark%29.md) |
+| 세컨드 하이드 (Second Hide) | [세컨드 하이드 (Second Hide)](세컨드%20하이드%20%28Second%20Hide%29.md) |
+| 솔라이지스 (Solaegis) | [솔라이지스 (Solaegis)](솔라이지스%20%28Solaegis%29.md) |
+| 솔루스 잔해 (Solus Remnant) | [솔루스 잔해 (Solus Remnant)](솔루스%20잔해%20%28Solus%20Remnant%29.md) |
+| 솔막쿨라 (Solmacula) | [솔막쿨라 (Solmacula)](솔막쿨라%20%28Solmacula%29.md) |
+| 순교자의 잔불 (Martyr's Ember) | [순교자의 잔불 (Martyr's Ember)](순교자의%20잔불%20%28Martyr's%20Ember%29.md) |
+| 스카르헬름 (Scarhelm) | [스카르헬름 (Scarhelm)](스카르헬름%20%28Scarhelm%29.md) |
+| 스카베인 (Scarvein) | [스카베인 (Scarvein)](스카베인%20%28Scarvein%29.md) |
+| 스카브레이커 (Scarbreaker) | [스카브레이커 (Scarbreaker)](스카브레이커%20%28Scarbreaker%29.md) |
+| 스타하스 (Starhearth) | [스타하스 (Starhearth)](스타하스%20%28Starhearth%29.md) |
+| 스톰프루프 (Stormproof) | [스톰프루프 (Stormproof)](스톰프루프%20%28Stormproof%29.md) |
+| 실렌티움 (Silentium) | [실렌티움 (Silentium)](실렌티움%20%28Silentium%29.md) |
+| 실버스케일 (Silverscale) | [실버스케일 (Silverscale)](실버스케일%20%28Silverscale%29.md) |
+| 심연의 정적갑 (Abyssal Hush) | [심연의 정적갑 (Abyssal Hush)](심연의%20정적갑%20%28Abyssal%20Hush%29.md) |
+| 아우렐리스 (Aurelis) | [아우렐리스 (Aurelis)](아우렐리스%20%28Aurelis%29.md) |
+| 아이언월 (Ironwall) | [아이언월 (Ironwall)](아이언월%20%28Ironwall%29.md) |
+| 아이언클래드 (Ironclad) | [아이언클래드 (Ironclad)](아이언클래드%20%28Ironclad%29.md) |
+| 에보니 다크 플레이트 (Ebony Dark Plate) | [에보니 다크 플레이트 (Ebony Dark Plate)](에보니%20다크%20플레이트%20%28Ebony%20Dark%20Plate%29.md) |
+| 엠버라이트 (Emberrite) | [엠버라이트 (Emberrite)](엠버라이트%20%28Emberrite%29.md) |
+| 여명파수 (Aubelame) | [여명파수 (Aubelame)](여명파수%20%28Aubelame%29.md) |
+| 영결 (Eterna) | [영결 (Eterna)](영결%20%28Eterna%29.md) |
+| 오르도스 기동 외골격 (Ordos Drive Exoskeleton) | [오르도스 기동 외골격 (Ordos Drive Exoskeleton)](오르도스%20기동%20외골격%20%28Ordos%20Drive%20Exoskeleton%29.md) |
+| 와치스타 (Watchstar) | [와치스타 (Watchstar)](와치스타%20%28Watchstar%29.md) |
+| 우르곤 스파인 (Urgon Spine) | [우르곤 스파인 (Urgon Spine)](우르곤%20스파인%20%28Urgon%20Spine%29.md) |
+| 움직이는 꽃밭 요새 (Walking Flower-Field Fortress) | [움직이는 꽃밭 요새 (Walking Flower-Field Fortress)](움직이는%20꽃밭%20요새%20%28Walking%20Flower-Field%20Fortress%29.md) |
+| 은청 사자 (Silverblue Lion) | [은청 사자 (Silverblue Lion)](은청%20사자%20%28Silverblue%20Lion%29.md) |
+| 이그니보라 (Ignivora) | [이그니보라 (Ignivora)](이그니보라%20%28Ignivora%29.md) |
+| 이름 없는 백기사 (Nameless White Knight) | [이름 없는 백기사 (Nameless White Knight)](이름%20없는%20백기사%20%28Nameless%20White%20Knight%29.md) |
+| 이름 잃은 방벽 (Nameless Bulwark) | [이름 잃은 방벽 (Nameless Bulwark)](이름%20잃은%20방벽%20%28Nameless%20Bulwark%29.md) |
+| 저거노트 벽 (Juggernaut Wall) | [저거노트 벽 (Juggernaut Wall)](저거노트%20벽%20%28Juggernaut%20Wall%29.md) |
+| 지워진 삼지창 (Effaced Trident) | [지워진 삼지창 (Effaced Trident)](지워진%20삼지창%20%28Effaced%20Trident%29.md) |
+| 천뢰 창격갑 (Skyfall Spearplate) | [천뢰 창격갑 (Skyfall Spearplate)](천뢰%20창격갑%20%28Skyfall%20Spearplate%29.md) |
+| 카멜포트 (Camelfort) | [카멜포트 (Camelfort)](카멜포트%20%28Camelfort%29.md) |
+| 카스텔란 (Castellan) | [카스텔란 (Castellan)](카스텔란%20%28Castellan%29.md) |
+| 카운터버스트 (Counterburst) | [카운터버스트 (Counterburst)](카운터버스트%20%28Counterburst%29.md) |
 | 타르타로스 강갑 (Tartarus Plating) | [타르타로스 강갑 (Tartarus Plating)](타르타로스%20강갑%20%28Tartarus%20Plating%29.md) |
-| 태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern) | [태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern)](태고%20비룡의%20탄화%20판금갑%20%28Carbonized%20Plate%20of%20the%20Ancient%20Wyvern%29.md) |
-| 태양 수호갑 (Aegis of the Sun-Guard) | [태양 수호갑 (Aegis of the Sun-Guard)](태양%20수호갑%20%28Aegis%20of%20the%20Sun-Guard%29.md) |
-| 태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot) | [태양의 흑점(Sunspot) 군주 판갑 (Monarch Plate of the Sunspot)](태양의%20흑점%28Sunspot%29%20군주%20판갑%20%28Monarch%20Plate%20of%20the%20Sunspot%29.md) |
+| 타오르는 십자 (Blazing Cross) | [타오르는 십자 (Blazing Cross)](타오르는%20십자%20%28Blazing%20Cross%29.md) |
+| 파울트라인 (Faultline) | [파울트라인 (Faultline)](파울트라인%20%28Faultline%29.md) |
 | 판금 갑옷 (Plate Armor) | [판금 갑옷 (Plate Armor)](판금%20갑옷%20%28Plate%20Armor%29.md) |
-| 폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights) | [폭풍 기사단의 단독 수장 갑주 (Sole-Commander Plate of the Storm Knights)](폭풍%20기사단의%20단독%20수장%20갑주%20%28Sole-Commander%20Plate%20of%20the%20Storm%20Knights%29.md) |
-| 피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor) | [피와 맹세의 야전 흉갑 — 에일린 실버문의 개척지 상흔 갑주 (Field Breastplate of Blood and Oath — Eileen Silvermoon's Frontier-Scar Armor)](피와%20맹세의%20야전%20흉갑%20—%20에일린%20실버문의%20개척지%20상흔%20갑주%20%28Field%20Breastplate%20of%20Blood%20and%20Oath%20—%20Eileen%20Silvermoon's%20Frontier-Scar%20Armor%29.md) |
-| 흑요석 선봉대 파괴의 반흉갑 (Obsidian Vanguard Devastation Demi-Plate) | [흑요석 선봉대 파괴의 반흉갑 (Obsidian Vanguard Devastation Demi-Plate)](흑요석%20선봉대%20파괴의%20반흉갑%20%28Obsidian%20Vanguard%20Devastation%20Demi-Plate%29.md) |
-| 흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate) | [흑요석 천공 흉갑 (Core-Pierced Obsidian Breastplate)](흑요석%20천공%20흉갑%20%28Core-Pierced%20Obsidian%20Breastplate%29.md) |
-| 흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard) | [흑요철 전선 전신 중갑 (Iron-Bone Full Plate of the Vanguard)](흑요철%20전선%20전신%20중갑%20%28Iron-Bone%20Full%20Plate%20of%20the%20Vanguard%29.md) |
-| 흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat) | [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](흡음%28Sound-Absorbing%29%20처리된%20흑박쥐%20피박%20갑주%20%28Blood-Foil%20Armor%20of%20the%20Dark-Bat%29.md) |
+| 페니텐치아 (Penitentia) | [페니텐치아 (Penitentia)](페니텐치아%20%28Penitentia%29.md) |
+| 페룸안카 (Ferranchor) | [페룸안카 (Ferranchor)](페룸안카%20%28Ferranchor%29.md) |
+| 프로스트베인 (Frostvein) | [프로스트베인 (Frostvein)](프로스트베인%20%28Frostvein%29.md) |
+| 피르마멘트 (Firmament) | [피르마멘트 (Firmament)](피르마멘트%20%28Firmament%29.md) |
+| 할리트 (Halite) | [할리트 (Halite)](할리트%20%28Halite%29.md) |
+| 홍련 (Crimson Ember) | [홍련 (Crimson Ember)](홍련%20%28Crimson%20Ember%29.md) |
+| 황금 없는 황금 갑주 (Goldless Gilded Plate) | [황금 없는 황금 갑주 (Goldless Gilded Plate)](황금%20없는%20황금%20갑주%20%28Goldless%20Gilded%20Plate%29.md) |
+| 황금 형벌 (Golden Penance) | [황금 형벌 (Golden Penance)](황금%20형벌%20%28Golden%20Penance%29.md) |
+| 흑요 파쇄반갑 (Obsidian Sunder Halfplate) | [흑요 파쇄반갑 (Obsidian Sunder Halfplate)](흑요%20파쇄반갑%20%28Obsidian%20Sunder%20Halfplate%29.md) |
+| 흑요의 외피 (Obsidian Carapace) | [흑요의 외피 (Obsidian Carapace)](흑요의%20외피%20%28Obsidian%20Carapace%29.md) |

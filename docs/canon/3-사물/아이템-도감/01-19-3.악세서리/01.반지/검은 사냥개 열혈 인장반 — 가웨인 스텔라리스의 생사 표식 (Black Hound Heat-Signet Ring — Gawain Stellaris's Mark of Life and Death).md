@@ -85,5 +85,5 @@
 ## 🔗 관련 문서
 - [가웨인 스텔라리스 (Gawain Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/1.아스트라개척연맹/01.가웨인스텔라리스.md)
 - [백야의 늑대 분쇄검 — 가웨인 스텔라리스의 돌파조 대검 (White Night Wolf's Crusher — Gawain Stellaris's Breach Greatsword)](../../01-19-1.무기/02.양손검/가웨인의%20저울%20(Gawain's%20Scale).md)
-- [백골 안식처의 수선 흉갑 — 가웨인 스텔라리스의 돌파조 야전갑 (Field-Mended Breastplate of the Bone Rest — Gawain Stellaris's Breach Wargear)](../../01-19-2.방어구/01.중갑/백골%20안식처의%20수선%20흉갑%20—%20가웨인%20스텔라리스의%20돌파조%20야전갑%20(Field-Mended%20Breastplate%20of%20the%20Bone%20Rest%20—%20Gawain%20Stellaris's%20Breach%20Wargear).md)
+- [백골 안식처의 수선 흉갑 — 가웨인 스텔라리스의 돌파조 야전갑 (Field-Mended Breastplate of the Bone Rest — Gawain Stellaris's Breach Wargear)](../../01-19-2.방어구/01.중갑/스카베인%20(Scarvein).md)
 - 아스트라 개척 연맹 (Astral Pioneers)

@@ -97,5 +97,5 @@
 
 - [발렌 굴라프리즘 (Valen Gula-Prism)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/07.발렌굴라프리즘.md)
 - [신경기어 - 다각 렌즈 모노클 (Neural-Gear, Multi-Lens Monocle)](../../../01-19-4.유물/04.영웅고유성유물/신경기어 - 다각 렌즈 모노클 (Neural-Gear, Multi-Lens Monocle).md)
-- [허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets)](../../../01-19-2.방어구/08.장갑·손목/허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets).md)
+- [허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets)](../../../01-19-2.방어구/08.장갑·손목/세븐 액시스 (Seven Axis).md)
 - [굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost)](../../../01-19-1.무기/13.오브·마법서/굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost).md)

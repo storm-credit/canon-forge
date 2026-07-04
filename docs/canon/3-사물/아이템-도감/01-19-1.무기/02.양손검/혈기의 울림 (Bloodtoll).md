@@ -113,4 +113,4 @@
 ## 🔗 관련 문서
 - [이졸데 윈드런너 (Isolde Windrunner)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/6.제피로스대상단/07.이졸데윈드런너.md)
 - [혈서 맹세 폐봉인 부적 '검은 바람의 맹서' (Blood-Oath Lung-Seal Talisman 'Oath of the Black Wind')](../../01-19-3.악세서리/07.부적/혈서%20맹세%20폐봉인%20부적%20'검은%20바람의%20맹서'%20(Blood-Oath%20Lung-Seal%20Talisman%20'Oath%20of%20the%20Black%20Wind').md)
-- [제피로스 대상단의 거친 심연 가죽 야전갑 (Zephyrus Syndicate's Crude Abyssal-Leather Field Wargear)](../../01-19-2.방어구/02.경갑/제피로스%20대상단의%20거친%20심연%20가죽%20야전갑%20(Zephyrus%20Syndicate's%20Crude%20Abyssal-Leather%20Field%20Wargear).md)
+- [제피로스 대상단의 거친 심연 가죽 야전갑 (Zephyrus Syndicate's Crude Abyssal-Leather Field Wargear)](../../01-19-2.방어구/02.경갑/살아남은%20피부%20(Second%20Skin).md)

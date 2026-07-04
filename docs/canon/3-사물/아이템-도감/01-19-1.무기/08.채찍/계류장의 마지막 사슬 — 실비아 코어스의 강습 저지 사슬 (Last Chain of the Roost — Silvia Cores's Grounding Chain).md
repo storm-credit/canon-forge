@@ -101,5 +101,5 @@
 ## 🔗 관련 문서
 
 - [실비아 코어스 (Silvia Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/2.그리핀기사단/08.실비아코어스.md)
-- [계류장 파수의 사슬 감개 견갑 — 실비아 코어스의 고정 갑주 (Roost-Warden's Chain-Reel Pauldron — Silvia Cores's Anchoring Plate)](../../01-19-2.방어구/07.견갑/계류장%20파수의%20사슬%20감개%20견갑%20—%20실비아%20코어스의%20고정%20갑주%20(Roost-Warden's%20Chain-Reel%20Pauldron%20—%20Silvia%20Cores's%20Anchoring%20Plate).md)
+- [계류장 파수의 사슬 감개 견갑 — 실비아 코어스의 고정 갑주 (Roost-Warden's Chain-Reel Pauldron — Silvia Cores's Anchoring Plate)](../../01-19-2.방어구/07.견갑/파수의%20릴%20(Warden's%20Reel).md)
 - 그리핀 기사단 (Order of the Gryphon)

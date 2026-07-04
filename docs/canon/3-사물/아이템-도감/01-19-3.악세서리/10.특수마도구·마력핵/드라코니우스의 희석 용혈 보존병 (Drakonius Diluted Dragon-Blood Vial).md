@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [타이라니스 드라코니우스 (Tyranis Drakonius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/01.타이라니스드라코니우스.md)
 - [드라코니우스의 혈분쇄창 (Blood-Crushing Lance of Drakonius)](../../01-19-1.무기/06.창/드라코니우스의%20혈분쇄창%20(Blood-Crushing%20Lance%20of%20Drakonius).md)
-- [태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern)](../../01-19-2.방어구/01.중갑/태고%20비룡의%20탄화%20판금갑%20(Carbonized%20Plate%20of%20the%20Ancient%20Wyvern).md)
+- [태고 비룡의 탄화 판금갑 (Carbonized Plate of the Ancient Wyvern)](../../01-19-2.방어구/01.중갑/드라코스클%20(Dracoscale).md)

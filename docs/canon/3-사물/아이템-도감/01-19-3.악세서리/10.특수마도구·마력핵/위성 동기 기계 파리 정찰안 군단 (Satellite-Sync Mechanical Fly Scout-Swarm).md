@@ -84,5 +84,5 @@
 ## 🔗 관련 문서
 
 - [발그린 파이어포지 (Valgrin Fireforge)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/05.발그린파이어포지.md)
-- [금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles)](../../01-19-2.방어구/06.투구·얼굴/금선%20증강현실%20전장%20렌즈%20안경%20(Battlefield%20AR%20Tactical%20Lens%20Spectacles).md)
-- [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](../../01-19-2.방어구/01.중갑/강철신경%20접속형%20외골격%20'골리앗'%20(Neural-Linked%20Exoskeleton%20'Goliath').md)
+- [금선 증강현실 전장 렌즈 안경 (Battlefield AR Tactical Lens Spectacles)](../../01-19-2.방어구/06.투구·얼굴/전장%20기하학%20(Battle%20Geometry).md)
+- [강철신경 접속형 외골격 '골리앗' (Neural-Linked Exoskeleton 'Goliath')](../../01-19-2.방어구/01.중갑/골리앗%20(Goliath).md)

@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [셀레스티아 그레이슨 (Celestia Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/4.옵시디언중립금고/06.셀레스티아그레이슨.md)
 - [옵시디언 중립 금고 (Obsidian Vaults)](../../../../2-무대/세력/철의금융/옵시디언중립금고/옵시디언중립금고.md)
-- [별의 파수구 '잿빛 왕관의 침묵' — 셀레스티아 그레이슨의 순례방패 (Starward Vigil-Orb, The Ashen Crown's Silence — Celestia Grayson's Pilgrim Ward)](../../01-19-2.방어구/05.방패/별의 파수구 '잿빛 왕관의 침묵' — 셀레스티아 그레이슨의 순례방패 (Starward Vigil-Orb, The Ashen Crown's Silence — Celestia Grayson's Pilgrim Ward).md)
+- [별의 파수구 '잿빛 왕관의 침묵' — 셀레스티아 그레이슨의 순례방패 (Starward Vigil-Orb, The Ashen Crown's Silence — Celestia Grayson's Pilgrim Ward)](../../01-19-2.방어구/05.방패/잿빛 왕관의 침묵 (The Ashen Crown's Silence).md)

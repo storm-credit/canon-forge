@@ -92,4 +92,4 @@
 
 - [벨가스토르 테네브리스 (Belgastor Tenebris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/13.벨가스토르테네브리스.md)
 - [테네브리스의 흑야 투창 쌍발기 (Dual-Sling Black-Night Javelins of Tenebris)](../../01-19-1.무기/06.창/테네브리스의%20흑야%20투창%20쌍발기%20(Dual-Sling%20Black-Night%20Javelins%20of%20Tenebris).md)
-- [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](../../01-19-2.방어구/01.중갑/흡음(Sound-Absorbing)%20처리된%20흑박쥐%20피박%20갑주%20(Blood-Foil%20Armor%20of%20the%20Dark-Bat).md)
+- [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](../../01-19-2.방어구/01.중갑/심연의%20정적갑%20(Abyssal%20Hush).md)

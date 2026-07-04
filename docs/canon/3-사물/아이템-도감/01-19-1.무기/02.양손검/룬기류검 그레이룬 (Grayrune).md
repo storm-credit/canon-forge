@@ -113,5 +113,5 @@
 
 ## 🔗 관련 문서
 - [루시안 그레이슨 (Lucian Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/02.루시안그레이슨.md)
-- [개척지 야전 생존자의 흉터 경갑 — 루시안 그레이슨의 흉터 (Frontier Scar Field Armor — Lucian Grayson's Scars)](../../01-19-2.방어구/02.경갑/개척지%20야전%20생존자의%20흉터%20경갑%20—%20루시안%20그레이슨의%20흉터%20(Frontier%20Scar%20Field%20Armor%20—%20Lucian%20Grayson's%20Scars).md)
+- [개척지 야전 생존자의 흉터 경갑 — 루시안 그레이슨의 흉터 (Frontier Scar Field Armor — Lucian Grayson's Scars)](../../01-19-2.방어구/02.경갑/스카홀드%20(Scarhold).md)
 - [혈서 맹세의 저주 봉인패 — 루시안 그레이슨의 잿빛 폐 (Blood-Oath Curse Seal Plate — Lucian Grayson's Ashen Lung)](../../01-19-3.악세서리/07.부적/혈서%20맹세의%20저주%20봉인패%20—%20루시안%20그레이슨의%20잿빛%20폐%20(Blood-Oath%20Curse%20Seal%20Plate%20—%20Lucian%20Grayson's%20Ashen%20Lung).md)

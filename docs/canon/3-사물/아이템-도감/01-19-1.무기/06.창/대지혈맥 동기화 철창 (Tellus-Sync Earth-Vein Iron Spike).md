@@ -94,6 +94,6 @@
 ## 🔗 관련 문서
 
 - [미카엘 듀란달 (Michael Durandal)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/05.미카엘듀란달.md)
-- [강철 신념의 질량 구속 갑주 (Mass-Restricting Armor of Iron Conviction)](../../01-19-2.방어구/01.중갑/강철%20신념의%20질량%20구속%20갑주%20(Mass-Restricting%20Armor%20of%20Iron%20Conviction).md)
+- [강철 신념의 질량 구속 갑주 (Mass-Restricting Armor of Iron Conviction)](../../01-19-2.방어구/01.중갑/라인%20앵커%20(Line%20Anchor).md)
 - [솔라리스의 무통(無痛) 신경 반지 (Ring of Nerve-Dead Perseverance)](../../01-19-3.악세서리/01.반지/솔라리스의%20무통(無痛)%20신경%20반지%20(Ring%20of%20Nerve-Dead%20Perseverance).md)
-- [순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal)](../../01-19-2.방어구/05.방패/순교자%20듀란달의%20무명%20대방패%20(Nameless%20Greatshield%20of%20Durandal).md)
+- [순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal)](../../01-19-2.방어구/05.방패/무명%20대방패%20(Nameless%20Greatshield).md)

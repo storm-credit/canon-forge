@@ -89,4 +89,4 @@
 ## 🔗 관련 문서
 - [에드윈 카르다스 (Edwin Cardas)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/04.에드윈카르다스.md)
 - [탐욕의 차원 금고 (Dimensional Vault of Greed)](../16.특수·마도구·기타/그리드볼트 (Greedvault).md)
-- [채무자의 원한 코트 (Overcoat of Debtor's Grudge)](../../01-19-2.방어구/03.로브·마법복/채무자의 원한 코트 (Overcoat of Debtor's Grudge).md)
+- [채무자의 원한 코트 (Overcoat of Debtor's Grudge)](../../01-19-2.방어구/03.로브·마법복/그러지 레저 (Grudge Ledger).md)

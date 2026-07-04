@@ -96,4 +96,4 @@
 ## 🔗 관련 문서
 
 - [발렌타인 루미너스 (Valentine Luminous)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/1.저주받은용병단/발렌타인루미너스.md)
-- [여행자의 로브 — 별빛 짊어진 자 (Traveler's Robe of the Star-Bearer)](../../01-19-2.방어구/04.망토·외투/여행자의 로브 — 별빛 짊어진 자 (Traveler's Robe of the Star-Bearer).md)
+- [여행자의 로브 — 별빛 짊어진 자 (Traveler's Robe of the Star-Bearer)](../../01-19-2.방어구/04.망토·외투/아스트리페르 (Astrifer).md)

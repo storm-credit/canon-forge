@@ -95,5 +95,5 @@
 
 ## 🔗 관련 문서
 - [다미안 루미너스 (Damian Luminous, 벌칸 무스펠하임 마도공창)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/03.다미안루미너스.md)
-- [검댕에 덮인 순찰 강화복 — 다미안 루미너스의 이름 없는 근무복 (Soot-Veiled Watch Rig — Damian Luminous's Nameless Duty Coat)](../../01-19-2.방어구/02.경갑/검댕에%20덮인%20순찰%20강화복%20—%20다미안%20루미너스의%20이름%20없는%20근무복%20(Soot-Veiled%20Watch%20Rig%20—%20Damian%20Luminous's%20Nameless%20Duty%20Coat).md)
+- [검댕에 덮인 순찰 강화복 — 다미안 루미너스의 이름 없는 근무복 (Soot-Veiled Watch Rig — Damian Luminous's Nameless Duty Coat)](../../01-19-2.방어구/02.경갑/무명의%20순찰%20(Watch%20of%20the%20Nameless).md)
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry)

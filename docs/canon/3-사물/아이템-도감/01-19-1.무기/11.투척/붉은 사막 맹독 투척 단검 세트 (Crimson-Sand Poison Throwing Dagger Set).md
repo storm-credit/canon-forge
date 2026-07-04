@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [자비에루스 모르티스 (Xavierus Mortis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/01.자비에루스모르티스.md)
 - [모르티스의 독니(Venom-fang) 쌍단검 (Dual Venomed Daggers of Mortis)](../04.단검/독니%20(Venom-fang).md)
-- [발소리를 삼키는 사막뱀의 비늘옷 (Sound-Swallowing Scale-Suit of the Desert Viper)](../../01-19-2.방어구/03.로브·마법복/발소리를%20삼키는%20사막뱀의%20비늘옷%20(Sound-Swallowing%20Scale-Suit%20of%20the%20Desert%20Viper).md)
+- [발소리를 삼키는 사막뱀의 비늘옷 (Sound-Swallowing Scale-Suit of the Desert Viper)](../../01-19-2.방어구/03.로브·마법복/바이퍼사일런스%20(Viper's%20Silence).md)

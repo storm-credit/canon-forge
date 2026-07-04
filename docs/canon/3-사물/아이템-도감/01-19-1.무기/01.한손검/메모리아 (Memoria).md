@@ -100,5 +100,5 @@
 
 ## 🔗 관련 문서
 - [아테나 다크홈 (Athena Darkholm)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/11.제피로스대상단/아테나다크홈.md)
-- [오래된 맹세의 방패 (Shield of the Ancient Vow)](../../01-19-2.방어구/05.방패/오래된%20맹세의%20방패%20(Shield%20of%20the%20Ancient%20Vow).md)
+- [오래된 맹세의 방패 (Shield of the Ancient Vow)](../../01-19-2.방어구/05.방패/별빛의%20서약%20(Starlight%20Vow).md)
 - 제피로스 대상단 (Zephyrus Syndicate)

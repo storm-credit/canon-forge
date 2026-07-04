@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 
 - [알리사 엘리시온 (Alisa Elysion)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/09.알리사엘리시온.md)
-- [순결한 이슬의 보호 숄 (Protection Shawl of Pure Dew)](순결한%20이슬의%20보호%20숄%20(Protection%20Shawl%20of%20Pure%20Dew).md)
+- [순결한 이슬의 보호 숄 (Protection Shawl of Pure Dew)](순로의%20장막%20(Dew%20Veil).md)

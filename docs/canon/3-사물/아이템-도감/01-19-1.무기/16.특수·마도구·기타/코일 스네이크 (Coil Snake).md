@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [세라피나 옴브라 (Seraphina Ombra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/10.세라피나옴브라.md)
 - [독사의 춤추는 쌍날 단검 '독무' (Dancing Twin-Daggers of Viper)](../../04.단검/독무 (Venom Waltz).md)
-- [심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings)](../../../01-19-2.방어구/09.장화·각반/심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings).md)
+- [심연 역장 도포식 스파이크 레깅스 (Abyssal S-Field Coated Spike Leggings)](../../../01-19-2.방어구/09.장화·각반/심연 벽무 (Abyssal Wall-Dance).md)

@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 - [모르데카이 크루올 (Mordecai Cruol)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/05.모르데카이크루올.md)
 - [원한서린 침수 쌍단총 '레퀴엠 & 디에스이레' (Drowned Dual Pistols 'Requiem & Dies Irae')](../../01-19-1.무기/15.화기/원한서린 침수 쌍단총 '레퀴엠 & 디에스이레' (Drowned Dual Pistols 'Requiem & Dies Irae').md)
-- [비탄의 심해수 방수 코트 (Waterproof Coat of Laments)](../../01-19-2.방어구/03.로브·마법복/비탄의 심해수 방수 코트 (Waterproof Coat of Laments).md)
+- [비탄의 심해수 방수 코트 (Waterproof Coat of Laments)](../../01-19-2.방어구/03.로브·마법복/라멘타 (Lamenta).md)

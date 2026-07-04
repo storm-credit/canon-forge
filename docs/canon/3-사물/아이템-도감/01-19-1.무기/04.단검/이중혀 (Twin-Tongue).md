@@ -13,7 +13,7 @@
 > *"칼은 주인의 감정을 묻지 않는다. 나도 이 칼에게 내 이름을 묻지 않는다."*
 > — 루시안 코어스
 
-> **정본 주의**: 대륙 각지에 "루시안 코어스"라는 이름을 쓰는 인물이 여럿 전해지나 — 유랑 기사단의 루시안 코어스([황혼의 서약창](../06.창/황혼의 서약창 — 루시안 코어스의 여명 랜스 (Twilight Oath-Lance — Lucian Cores' Dawnbringer Spear).md) · [오래된 맹세의 방패](../../01-19-2.방어구/05.방패/오래된 맹세의 방패 — 루시안 코어스의 박명서고 수호구 (Shield of the Ancient Vow — Lucian Cores' Twilight Archive Ward).md) 소유), 황금 나침반 상회·침묵의 형제단의 루시안 코어스([채무자 명부](../16.특수·마도구·기타/심판의 서 (Book of Judgment).md) 소유), 바이퍼 해적단의 루시안 코어스([독사자리 쌍검](../03.쌍검/독사자리 쌍검, 별지기의 항로검 — 루시안 코어스의 여명 쾌검 (Twin Blades of the Serpent's Star, Wayreader's Sea-Blade — Lucian Cores' Dawnlight Fastblade).md) 소유) 등 — 이들은 모두 서로 무관한 동명이인이다. 본 문서는 오직 어둠의 손 소속 루시안 코어스의 전용 단검만을 다룬다.
+> **정본 주의**: 대륙 각지에 "루시안 코어스"라는 이름을 쓰는 인물이 여럿 전해지나 — 유랑 기사단의 루시안 코어스([황혼의 서약창](../06.창/황혼의 서약창 — 루시안 코어스의 여명 랜스 (Twilight Oath-Lance — Lucian Cores' Dawnbringer Spear).md) · [오래된 맹세의 방패](../../01-19-2.방어구/05.방패/엠버리스 (Emberis).md) 소유), 황금 나침반 상회·침묵의 형제단의 루시안 코어스([채무자 명부](../16.특수·마도구·기타/심판의 서 (Book of Judgment).md) 소유), 바이퍼 해적단의 루시안 코어스([독사자리 쌍검](../03.쌍검/독사자리 쌍검, 별지기의 항로검 — 루시안 코어스의 여명 쾌검 (Twin Blades of the Serpent's Star, Wayreader's Sea-Blade — Lucian Cores' Dawnlight Fastblade).md) 소유) 등 — 이들은 모두 서로 무관한 동명이인이다. 본 문서는 오직 어둠의 손 소속 루시안 코어스의 전용 단검만을 다룬다.
 
 > 영웅 루시안 코어스(어둠의 손)의 전용 장비
 

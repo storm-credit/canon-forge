@@ -98,5 +98,5 @@
 
 ## 🔗 관련 문서
 - [보리스 바스커빌 (Boris Baskerville)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/10.하얀매유랑상단/04.보리스바스커빌.md)
-- [핏빛 여로의 대성벽 방패 (Great Rampart of the Blood-Worn Road)](../../01-19-2.방어구/05.방패/핏빛%20여로의%20대성벽%20방패%20(Great%20Rampart%20of%20the%20Blood-Worn%20Road).md)
+- [핏빛 여로의 대성벽 방패 (Great Rampart of the Blood-Worn Road)](../../01-19-2.방어구/05.방패/멈추지%20않는%20벽%20(The%20Unyielding%20Wall).md)
 - [하얀 매 유랑 상단 (White Falcon Syndicate)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/10.하얀매유랑상단/index.md)

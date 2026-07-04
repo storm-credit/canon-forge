@@ -94,4 +94,4 @@
 ## 🔗 관련 문서
 - [하랄드 크루엔투스 (Harald Cruentus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/11.하랄드크루엔투스.md)
 - [강제 변이의 송곳니 수액 (Vial of Forced Mutagen-Fang)](../../01-19-4.유물/04.영웅고유성유물/강제%20변이의%20송곳니%20수액%20(Vial%20of%20Forced%20Mutagen-Fang).md)
-- [피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt)](../../01-19-2.방어구/02.경갑/피로%20물든%20알파의%20목가죽%20(Blood-Soaked%20Alpha%20Pelt).md)
+- [피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt)](../../01-19-2.방어구/02.경갑/알파하이드%20(Alpha-Hide).md)

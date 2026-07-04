@@ -93,5 +93,5 @@
 
 ## 🔗 관련 문서
 - [페르단 이지스 (Ferdan Aegis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/12.페르단이지스.md)
-- [이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)](../../01-19-2.방어구/05.방패/이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis).md) — 방패가 물리 충격을 버티는 1차 방어층이라면, 이 우상은 그 방패가 버텨야 할 공격이 오직 자신에게만 쏠리도록 보장하는 도발 체계다. 두 아이템이 함께 있을 때 비로소 페르단의 절대 방어가 완성된다.
-- [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](../../01-19-2.방어구/01.중갑/진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations).md) — 도발이 모든 공격을 집중시키고, 갑주가 그 집중된 공격의 진동을 흡수한다. 세 장비가 함께 있을 때 페르단 이지스의 전술 구조가 성립한다.
+- [이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)](../../01-19-2.방어구/05.방패/그라비타스 (Gravitas).md) — 방패가 물리 충격을 버티는 1차 방어층이라면, 이 우상은 그 방패가 버텨야 할 공격이 오직 자신에게만 쏠리도록 보장하는 도발 체계다. 두 아이템이 함께 있을 때 비로소 페르단의 절대 방어가 완성된다.
+- [진동을 먹어 치우는 단층대(Fault-Line) 판금 갑주 (Fault-Line Plate Armor that Devours Vibrations)](../../01-19-2.방어구/01.중갑/파울트라인 (Faultline).md) — 도발이 모든 공격을 집중시키고, 갑주가 그 집중된 공격의 진동을 흡수한다. 세 장비가 함께 있을 때 페르단 이지스의 전술 구조가 성립한다.

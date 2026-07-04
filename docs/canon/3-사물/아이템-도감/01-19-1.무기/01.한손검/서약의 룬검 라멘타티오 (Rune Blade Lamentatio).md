@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [루시안 아르트리우스 (Lucian Artorius)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/11.신성계약단/루시안아르트리우스.md)
-- [여행자의 로브 — 별빛 파수 (Traveler's Cloak of Starward Vigil)](../../01-19-2.방어구/04.망토·외투/여행자의 로브 — 별빛 파수 (Traveler's Cloak of Starward Vigil).md)
+- [여행자의 로브 — 별빛 파수 (Traveler's Cloak of Starward Vigil)](../../01-19-2.방어구/04.망토·외투/비질라스트라 (Vigilastra).md)
 - 신성 계약단 (Divine Covenant)

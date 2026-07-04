@@ -96,5 +96,5 @@
 ## 🔗 관련 문서
 
 - [베가 아이언클래드 (Vega Ironclad)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/베가아이언클래드.md)
-- [지휘의 견갑 — 벌칸의 붉은 서약 (Vulcan's Crimson Vow Pauldron)](../../01-19-2.방어구/07.견갑/지휘의 견갑 — 벌칸의 붉은 서약 (Vulcan's Crimson Vow Pauldron).md)
+- [지휘의 견갑 — 벌칸의 붉은 서약 (Vulcan's Crimson Vow Pauldron)](../../01-19-2.방어구/07.견갑/붉은 서약 (Crimson Vow).md)
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry)

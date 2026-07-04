@@ -77,7 +77,7 @@
 ### 관련 캐릭터
 
 - **마리온 엑스마키나** — 쌍비 없이는 50킬로그램 이상 자재를 들어올릴 수 없고, 거대 마수 갑주를 해체할 수 없다. 그러나 마리온은 쌍비가 없어도 렌치 하나로 전투를 치른 전례가 있다.
-- **[오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](../../../01-19-2.방어구/01.중갑/오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton).md)** — 하체 동력 외골격. 쌍비는 상체, 외골격은 하체를 담당하는 마리온 전신 증기 구동 공학의 양 날개다.
+- **[오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](../../../01-19-2.방어구/01.중갑/오르도스 기동 외골격 (Ordos Drive Exoskeleton).md)** — 하체 동력 외골격. 쌍비는 상체, 외골격은 하체를 담당하는 마리온 전신 증기 구동 공학의 양 날개다.
 
 ---
 
@@ -101,6 +101,6 @@
 ## 🔗 관련 문서
 
 - [마리온 엑스마키나 (Marion Exmachina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/11.마리온엑스마키나.md)
-- [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](../../../01-19-2.방어구/01.중갑/오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton).md)
+- [오르도스 방위군 기동 외골격 (Ordos Defense Mobile Exoskeleton)](../../../01-19-2.방어구/01.중갑/오르도스 기동 외골격 (Ordos Drive Exoskeleton).md)
 - [증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace: Forge-rupture)](../07.둔기/증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace Forge-rupture).md)
-- [방열 은청 작업 에이프런 (Heat-Dissipation Silver-Blue Work Apron)](../../../01-19-2.방어구/03.로브·마법복/방열 은청 작업 에이프런 (Heat-Dissipation Silver-Blue Work Apron).md)
+- [방열 은청 작업 에이프런 (Heat-Dissipation Silver-Blue Work Apron)](../../../01-19-2.방어구/03.로브·마법복/은청 서명 (Silverblue Signet).md)

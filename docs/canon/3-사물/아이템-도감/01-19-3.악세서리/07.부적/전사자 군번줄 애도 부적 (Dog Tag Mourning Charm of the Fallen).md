@@ -79,5 +79,5 @@
 ## 🔗 관련 문서
 - [테라스 솔라비드 (Terras Solavid)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/13.테라스솔라비드.md)
 - [솔라비드의 움트는 세계수 묘목 (Sapling of Solavid's Sprouting World Tree)](../../../01-19-1.무기/16.특수·마도구·기타/세계수%20묘목%20(World%20Tree%20Sapling).md)
-- [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](../../../01-19-2.방어구/04.망토·외투/비탄의%20넝쿨손%20구호%20망토%20(Mantle%20of%20Sorrow's%20Tendrils).md)
+- [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](../../../01-19-2.방어구/04.망토·외투/라크리모사%20(Lacrimosa).md)
 - [개량 씨앗 허리 주머니 벨트 (Improved Seed Pouch Belt of the Field Medic)](../10.특수마도구·마력핵/개량%20씨앗%20허리%20주머니%20벨트%20(Improved%20Seed%20Pouch%20Belt%20of%20the%20Field%20Medic).md)

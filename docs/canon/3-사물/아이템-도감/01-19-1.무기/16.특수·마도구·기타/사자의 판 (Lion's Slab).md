@@ -97,4 +97,4 @@
 
 - [마르칸 발레리우스 (Marcan Valerius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/04.마르칸발레리우스.md)
 - [발레리우스의 신성 대검 '차원 찢기' (Greatsword of Valerius Rift Tear)](../02.양손검/차원 찢기 (Rift Tear).md)
-- [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](../../01-19-2.방어구/01.중갑/순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim).md)
+- [순례자의 은청색 사자 중갑 (Silver-blue Lion Plate of Pilgrim)](../../01-19-2.방어구/01.중갑/은청 사자 (Silverblue Lion).md)

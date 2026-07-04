@@ -91,4 +91,4 @@
 
 ## 🔗 관련 문서
 - [발렌타인 나이트폴 (Valentine Nightfall)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/2.연금술사의길드/발렌타인나이트폴.md)
-- [밤을 걷는 자의 여행자 로브 (Traveler's Robe of the Night-Walker)](../../01-19-2.방어구/04.망토·외투/밤을%20걷는%20자의%20여행자%20로브%20(Traveler's%20Robe%20of%20the%20Night-Walker).md)
+- [밤을 걷는 자의 여행자 로브 (Traveler's Robe of the Night-Walker)](../../01-19-2.방어구/04.망토·외투/녹틸룩스%20(Noctilux).md)

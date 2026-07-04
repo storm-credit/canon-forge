@@ -116,5 +116,5 @@
 
 ## 🔗 관련 문서
 - [엘레노아 그레이슨 (Eleanor Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/10.엘레노아그레이슨.md)
-- [개척지 야생의 흉터 경갑 '저주를 짊어진 갑주' (Scarred Field Light-Armor of the Frontier 'Curse-Bearer's Armor')](../../01-19-2.방어구/02.경갑/개척지%20야생의%20흉터%20경갑%20'저주를%20짊어진%20갑주'%20(Scarred%20Field%20Light-Armor%20of%20the%20Frontier%20'Curse-Bearer's%20Armor').md)
+- [개척지 야생의 흉터 경갑 '저주를 짊어진 갑주' (Scarred Field Light-Armor of the Frontier 'Curse-Bearer's Armor')](../../01-19-2.방어구/02.경갑/애쉬스카%20(Ashscar).md)
 - [잿빛 폐의 혈서 저주 억제 부적 '검은 맹세' (Blood-Writ Curse-Suppress Talisman of the Ashen Lung 'The Black Vow')](../../01-19-3.악세서리/07.부적/잿빛%20폐의%20혈서%20저주%20억제%20부적%20'검은%20맹세'%20(Blood-Writ%20Curse-Suppress%20Talisman%20of%20the%20Ashen%20Lung%20'The%20Black%20Vow').md)

@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 라크루아 (Valentine Lacroix)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/3.붉은칼날용병단/04.발렌타인라크루아.md)
-- [오래된 맹세의 방패 — 발렌타인 라크루아의 유구한 수호구 (Shield of the Ancient Vow — Valentine Lacroix's Timeworn Ward)](../../01-19-2.방어구/05.방패/오래된 맹세의 방패 — 발렌타인 라크루아의 유구한 수호구 (Shield of the Ancient Vow — Valentine Lacroix's Timeworn Ward).md)
+- [오래된 맹세의 방패 — 발렌타인 라크루아의 유구한 수호구 (Shield of the Ancient Vow — Valentine Lacroix's Timeworn Ward)](../../01-19-2.방어구/05.방패/유구한 서약구 (Timeworn Vow Orb).md)
 - [붉은 칼날 용병단](../../../../2-무대/세력/용병단/붉은칼날용병단/붉은칼날용병단.md)

@@ -95,5 +95,5 @@
 
 - [세린 오르디나 (Serin Ordina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/02.세린오르디나.md)
 - [창백한 궤도의 지휘봉 '오르디나 피스' (Baton of Pale Orbit)](../../01-19-1.무기/07.둔기/창백한%20궤도의%20지휘봉%20'오르디나%20피스'%20(Baton%20of%20Pale%20Orbit).md)
-- [순은 서리의 예복 코트 (Ceremonial Coat of Pure Silver Frost)](../../01-19-2.방어구/03.로브·마법복/순은%20서리의%20예복%20코트%20(Ceremonial%20Coat%20of%20Pure%20Silver%20Frost).md)
+- [순은 서리의 예복 코트 (Ceremonial Coat of Pure Silver Frost)](../../01-19-2.방어구/03.로브·마법복/프로스트맨틀%20(Frostmantle).md)
 - [달무리 잔상 수경 (Moon-Halo Afterimage Water-Mirror)](../10.특수마도구·마력핵/달무리%20잔상%20수경%20(Moon-Halo%20Afterimage%20Water-Mirror).md)

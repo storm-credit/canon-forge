@@ -1,25 +1,30 @@
 ---
 정본명: 견갑
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
 ---
 
 # 📚 견갑
 
-## 항목 (13)
+## 항목 (18)
 
 | 아이템 | 링크 |
 |--------|------|
-| 견갑 (Pauldrons) | [견갑 (Pauldrons)](16.견갑.md) |
-| 가시 박힌 쌍 스파이크 견갑 (Spiked Twin Pauldrons of the Berserker) | [가시 박힌 쌍 스파이크 견갑 (Spiked Twin Pauldrons of the Berserker)](가시%20박힌%20쌍%20스파이크%20견갑%20%28Spiked%20Twin%20Pauldrons%20of%20the%20Berserker%29.md) |
-| 검은 불곰 가죽 편측 견갑 (Black Bear-Hide Half-Pauldron) | [검은 불곰 가죽 편측 견갑 (Black Bear-Hide Half-Pauldron)](검은%20불곰%20가죽%20편측%20견갑%20%28Black%20Bear-Hide%20Half-Pauldron%29.md) |
-| 깃털 융합체 정령풍 어깨갑 (Feather-Fusion Spirit-Wind Pauldron) | [깃털 융합체 정령풍 어깨갑 (Feather-Fusion Spirit-Wind Pauldron)](깃털%20융합체%20정령풍%20어깨갑%20%28Feather-Fusion%20Spirit-Wind%20Pauldron%29.md) |
-| 뇌우 역류의 피뢰침 견갑 (Pauldrons of the Lightning Rod) | [뇌우 역류의 피뢰침 견갑 (Pauldrons of the Lightning Rod)](뇌우%20역류의%20피뢰침%20견갑%20%28Pauldrons%20of%20the%20Lightning%20Rod%29.md) |
-| 미스릴 하프 어깨보호대 — 은랑의 편측 견갑 (Mithril Half-Pauldron of the Silver Wolf) | [미스릴 하프 어깨보호대 — 은랑의 편측 견갑 (Mithril Half-Pauldron of the Silver Wolf)](미스릴%20하프%20어깨보호대%20—%20은랑의%20편측%20견갑%20%28Mithril%20Half-Pauldron%20of%20the%20Silver%20Wolf%29.md) |
-| 바위게 등껍질 숄더 가드 (Crab-Rock Spaulder) | [바위게 등껍질 숄더 가드 (Crab-Rock Spaulder)](바위게%20등껍질%20숄더%20가드%20%28Crab-Rock%20Spaulder%29.md) |
-| 불사의 흑강 갑각 편측 견갑 (Black-Steel Undying Carapace Half-Pauldron) | [불사의 흑강 갑각 편측 견갑 (Black-Steel Undying Carapace Half-Pauldron)](불사의%20흑강%20갑각%20편측%20견갑%20%28Black-Steel%20Undying%20Carapace%20Half-Pauldron%29.md) |
-| 비둘기 깃털의 구명 견갑 (Lifesaving Pauldron of Dove Feathers) | [비둘기 깃털의 구명 견갑 (Lifesaving Pauldron of Dove Feathers)](비둘기%20깃털의%20구명%20견갑%20%28Lifesaving%20Pauldron%20of%20Dove%20Feathers%29.md) |
-| 용암 도금된 숄더 가드 (Lava-Plated Shoulder Guard) | [용암 도금된 숄더 가드 (Lava-Plated Shoulder Guard)](용암%20도금된%20숄더%20가드%20%28Lava-Plated%20Shoulder%20Guard%29.md) |
-| 은빛 설원 포식자의 기병 견갑 (Cavalry Pauldron of the Silver Tundra Predator) | [은빛 설원 포식자의 기병 견갑 (Cavalry Pauldron of the Silver Tundra Predator)](은빛%20설원%20포식자의%20기병%20견갑%20%28Cavalry%20Pauldron%20of%20the%20Silver%20Tundra%20Predator%29.md) |
-| 코스믹 드래곤골 황실 견갑 (Cosmic Dragonbone Imperial Pauldron) | [코스믹 드래곤골 황실 견갑 (Cosmic Dragonbone Imperial Pauldron)](코스믹%20드래곤골%20황실%20견갑%20%28Cosmic%20Dragonbone%20Imperial%20Pauldron%29.md) |
-| 포효 공명 쌍극 마찰 돌격 견갑 (Dual-Pole Friction-Howl Assault Pauldrons) | [포효 공명 쌍극 마찰 돌격 견갑 (Dual-Pole Friction-Howl Assault Pauldrons)](포효%20공명%20쌍극%20마찰%20돌격%20견갑%20%28Dual-Pole%20Friction-Howl%20Assault%20Pauldrons%29.md) |
+| 16.견갑 | [16.견갑](16.견갑.md) |
+| 가시덫 (Spike-Trap) | [가시덫 (Spike-Trap)](가시덫%20%28Spike-Trap%29.md) |
+| 무너지지 않는 산 (Unbroken Mountain) | [무너지지 않는 산 (Unbroken Mountain)](무너지지%20않는%20산%20%28Unbroken%20Mountain%29.md) |
+| 반쪽 방패 (Half-Aegis) | [반쪽 방패 (Half-Aegis)](반쪽%20방패%20%28Half-Aegis%29.md) |
+| 봉합의 여명 (Suture of the Dawn) | [봉합의 여명 (Suture of the Dawn)](봉합의%20여명%20%28Suture%20of%20the%20Dawn%29.md) |
+| 붉은 서약 (Crimson Vow) | [붉은 서약 (Crimson Vow)](붉은%20서약%20%28Crimson%20Vow%29.md) |
+| 비둘기의 귀환 (Dove's Return) | [비둘기의 귀환 (Dove's Return)](비둘기의%20귀환%20%28Dove's%20Return%29.md) |
+| 서리의 포효 (Frost-Howl) | [서리의 포효 (Frost-Howl)](서리의%20포효%20%28Frost-Howl%29.md) |
+| 성좌의 중압 (Weight of the Constellation) | [성좌의 중압 (Weight of the Constellation)](성좌의%20중압%20%28Weight%20of%20the%20Constellation%29.md) |
+| 실버울프 (Silver Wolf) | [실버울프 (Silver Wolf)](실버울프%20%28Silver%20Wolf%29.md) |
+| 심연갑각 (Abyssal Carapace) | [심연갑각 (Abyssal Carapace)](심연갑각%20%28Abyssal%20Carapace%29.md) |
+| 용암 반격 (Lava Rebound) | [용암 반격 (Lava Rebound)](용암%20반격%20%28Lava%20Rebound%29.md) |
+| 은빛 발톱 (Silverclaw) | [은빛 발톱 (Silverclaw)](은빛%20발톱%20%28Silverclaw%29.md) |
+| 정령풍 산개 (Zephyr Spread) | [정령풍 산개 (Zephyr Spread)](정령풍%20산개%20%28Zephyr%20Spread%29.md) |
+| 짐승의 어깨 (Beastshoulder) | [짐승의 어깨 (Beastshoulder)](짐승의%20어깨%20%28Beastshoulder%29.md) |
+| 천공의 단죄 (Skyfall Judgment) | [천공의 단죄 (Skyfall Judgment)](천공의%20단죄%20%28Skyfall%20Judgment%29.md) |
+| 파수의 릴 (Warden's Reel) | [파수의 릴 (Warden's Reel)](파수의%20릴%20%28Warden's%20Reel%29.md) |
+| 흑곰견갑 (Blackbear Mantle) | [흑곰견갑 (Blackbear Mantle)](흑곰견갑%20%28Blackbear%20Mantle%29.md) |

@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [키리엘 루나스트라 (Kyrielle Lunastra)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/05.키리엘루나스트라.md)
 - [루나스트라의 월식 쌍겸 (Eclipse Dual-Scythes of Lunastra)](../../01-19-1.무기/16.특수·마도구·기타/월식 쌍겸 (Eclipse Scythes).md)
-- [월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight)](../../01-19-2.방어구/01.중갑/월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight).md)
+- [월광에 벼려진 은린갑 (Silver-Scale Armor Forged in Moonlight)](../../01-19-2.방어구/01.중갑/실버스케일 (Silverscale).md)

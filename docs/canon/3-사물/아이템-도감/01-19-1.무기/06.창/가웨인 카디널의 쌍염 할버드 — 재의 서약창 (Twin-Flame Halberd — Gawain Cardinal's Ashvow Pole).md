@@ -94,5 +94,5 @@
 
 ## 🔗 관련 문서
 - [가웨인 카디널 (Gawain Cardinal, 바람의 칼날)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/7.바람의칼날/02.가웨인카디널.md)
-- [가웨인 카디널의 잔불 수호구 — 오래된 맹세의 방패 (Ember-Vow Orb — Gawain Cardinal's Ashen Ward)](../../01-19-2.방어구/05.방패/가웨인 카디널의 잔불 수호구 — 오래된 맹세의 방패 (Ember-Vow Orb — Gawain Cardinal's Ashen Ward).md)
+- [가웨인 카디널의 잔불 수호구 — 오래된 맹세의 방패 (Ember-Vow Orb — Gawain Cardinal's Ashen Ward)](../../01-19-2.방어구/05.방패/잔불서약구 (Ember Vow Orb).md)
 - 바람의 칼날 (Wind Blades)

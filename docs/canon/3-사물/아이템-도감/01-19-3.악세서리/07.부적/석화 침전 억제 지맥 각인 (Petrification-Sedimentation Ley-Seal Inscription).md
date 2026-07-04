@@ -89,7 +89,7 @@
 
 ## 🔗 관련 문서
 - [바란 스톤스케일 (Baran Stonescale)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/09.바란스톤스케일.md)
-- [바란의 암주철벽 대방패 (Ironwall Tower-Shield of Baran)](../../01-19-2.방어구/05.방패/바란의%20암주철벽%20대방패%20(Ironwall%20Tower-Shield%20of%20Baran).md)
-- [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](../../01-19-2.방어구/01.중갑/암석%20비늘%20철벽%20대갑주%20(Stonescale%20Ironwall%20Greatarmor).md)
+- [바란의 암주철벽 대방패 (Ironwall Tower-Shield of Baran)](../../01-19-2.방어구/05.방패/암주철벽%20(Ironwall).md)
+- [암석 비늘 철벽 대갑주 (Stonescale Ironwall Greatarmor)](../../01-19-2.방어구/01.중갑/비늘의%20요새%20(Fortress%20of%20Scales).md)
 - 드레이크월 방어선 (Drakewall Line)
 - 용의 후예 (Dragon Descendants)

@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [마리우스 라 플람 (Marius La Flamme)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/5.마리우스라플람.md)
-- [초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass)](../../01-19-2.방어구/01.중갑/초고열%20흡수형%20샐러맨더%20코팅%20흉갑%20(Heat-Sink%20Salamander%20Cuirass).md)
-- [성화 제독 코트 (Holy Flame Admiral's Coat)](../../01-19-2.방어구/04.망토·외투/성화%20제독%20코트%20(Holy%20Flame%20Admiral's%20Coat).md)
+- [초고열 흡수형 샐러맨더 코팅 흉갑 (Heat-Sink Salamander Cuirass)](../../01-19-2.방어구/01.중갑/이그니보라%20(Ignivora).md)
+- [성화 제독 코트 (Holy Flame Admiral's Coat)](../../01-19-2.방어구/04.망토·외투/크림슨플레어%20(Crimsonflare).md)

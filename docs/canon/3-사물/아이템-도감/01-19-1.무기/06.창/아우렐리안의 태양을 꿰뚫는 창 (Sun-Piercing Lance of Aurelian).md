@@ -61,7 +61,7 @@
 
 ### 관련 캐릭터
 - **칼리수스 아우렐리아누스** — 이 창의 유일한 소유자이자 설계 의뢰인. 칼리수스의 태양 마나 파장에 완전 결속되어, 다른 사용자가 쥐면 광자 수렴 결정이 공명을 거부하고 그냥 금속 막대로만 기능한다.
-- 관련 방어구: [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](../../01-19-2.방어구/08.장갑·손목/초경량%28Ultra-light%29%20태양은%20합금%20장갑%20%28Solar-Silver%20Alloy%20Armor%29.md)
+- 관련 방어구: [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](../../01-19-2.방어구/08.장갑·손목/솔라%20브릴리언스%20%28Solar%20Brilliance%29.md)
 - 관련 채찍: [아우렐리안 폭압 가속 채찍 (Aurelian Blast-Surge Riding Whip)](../08.채찍/아우렐리안%20폭압%20가속%20채찍%20%28Aurelian%20Blast-Surge%20Riding%20Whip%29.md)
 
 ---
@@ -83,4 +83,4 @@
 
 ## 🔗 관련 문서
 - [칼리수스 아우렐리아누스 (Callisus Aurelianus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/03.칼리수스아우렐리아누스.md)
-- [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](../../01-19-2.방어구/08.장갑·손목/초경량%28Ultra-light%29%20태양은%20합금%20장갑%20%28Solar-Silver%20Alloy%20Armor%29.md)
+- [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](../../01-19-2.방어구/08.장갑·손목/솔라%20브릴리언스%20%28Solar%20Brilliance%29.md)

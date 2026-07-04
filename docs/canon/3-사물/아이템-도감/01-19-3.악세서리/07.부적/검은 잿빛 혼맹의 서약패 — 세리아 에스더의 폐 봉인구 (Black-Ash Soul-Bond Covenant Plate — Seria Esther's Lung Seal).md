@@ -100,4 +100,4 @@
 
 - [세리아 에스더 (Seria Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/07.세리아에스더.md)
 - [칠흑의 분쇄검 — 세리아 에스더의 혼맹 파쇄검 (Ebony Crusher — Seria Esther's Soul-Bond Greatsword)](../../01-19-1.무기/02.양손검/그림팽 (Grimfang).md)
-- [야성 혼맹의 그림자 경갑 — 세리아 에스더의 결속 야전갑 (Wild Soul-Bond Shadow Wargear — Seria Esther's Field Armor)](../../01-19-2.방어구/02.경갑/야성 혼맹의 그림자 경갑 — 세리아 에스더의 결속 야전갑 (Wild Soul-Bond Shadow Wargear — Seria Esther's Field Armor).md)
+- [야성 혼맹의 그림자 경갑 — 세리아 에스더의 결속 야전갑 (Wild Soul-Bond Shadow Wargear — Seria Esther's Field Armor)](../../01-19-2.방어구/02.경갑/혼맹의 여백 (Soul-Bond's Margin).md)

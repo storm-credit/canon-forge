@@ -87,4 +87,4 @@
 
 - [크세노스 아르카디아 (Xenos Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/02.크세노스아르카디아.md)
 - [크로노스의 황금 눈 시계추 (Golden Pendulum with the Eye of Chronos)](../../01-19-1.무기/07.둔기/크로노스의%20황금%20눈%20시계추%20%28Golden%20Pendulum%20with%20the%20Eye%20of%20Chronos%29.md)
-- [황동 톱니 마도 단안경 (Brass-Gear Arcane Monocle)](../../01-19-2.방어구/06.투구·얼굴/황동%20톱니%20마도%20단안경%20%28Brass-Gear%20Arcane%20Monocle%29.md)
+- [황동 톱니 마도 단안경 (Brass-Gear Arcane Monocle)](../../01-19-2.방어구/06.투구·얼굴/황동%20분초%20%28Brass%20Minutehand%29.md)

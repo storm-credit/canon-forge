@@ -83,4 +83,4 @@
 - [갈록 크루시오 (Galok Crucio)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/09.갈록크루시오.md)
 - [핏빛 신호의 나팔 (Horn of the Blood Signal)](./퓨리혼 (Furyhorn).md)
 - [야만의 톱날 쌍도 '학살극' (Serrated Twin-blades of Barbarism: Massacre)](../03.쌍검/야만의 톱날 쌍도 '학살극' (Serrated Twin-blades of Barbarism Massacre).md)
-- [가시 박힌 쌍 스파이크 견갑 (Spiked Twin Pauldrons of the Berserker)](../../01-19-2.방어구/07.견갑/가시 박힌 쌍 스파이크 견갑 (Spiked Twin Pauldrons of the Berserker).md)
+- [가시 박힌 쌍 스파이크 견갑 (Spiked Twin Pauldrons of the Berserker)](../../01-19-2.방어구/07.견갑/가시덫 (Spike-Trap).md)

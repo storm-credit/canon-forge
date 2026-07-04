@@ -94,4 +94,4 @@
 
 - [마리안 카르도 (Marian Cardo)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/03.마리안카르도.md)
 - [절대 이행의 황금 계약서 (Golden Pact of Absolute Enforcement)](../../01-19-1.무기/13.오브·마법서/절대 이행의 황금 계약서 (Golden Pact of Absolute Enforcement).md)
-- [공허 실크의 드레스 (Dress of Void Silk)](../../01-19-2.방어구/03.로브·마법복/공허 실크의 드레스 (Dress of Void Silk).md)
+- [공허 실크의 드레스 (Dress of Void Silk)](../../01-19-2.방어구/03.로브·마법복/공허 그 자체 (The Void Itself).md)

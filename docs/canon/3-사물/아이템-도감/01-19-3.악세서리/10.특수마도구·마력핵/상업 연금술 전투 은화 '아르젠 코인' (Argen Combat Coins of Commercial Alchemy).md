@@ -95,7 +95,7 @@
 ## 🔗 관련 문서
 
 - [오스카 아르젠 (Oscar Argen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/11.오스카아르젠.md)
-- [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](../../01-19-2.방어구/04.망토·외투/욕망%20흡착의%20은사%20코트%20(Silver-Thread%20Coat%20of%20Desire).md)
+- [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](../../01-19-2.방어구/04.망토·외투/실버미라주%20(Silver%20Mirage).md)
 - [은빛 비수에 새겨진 강제 서약 (Hidden Pact on a Silver Dagger)](../../01-19-1.무기/04.단검/실버팽%20(Silver%20Fang).md)
 - [오스카의 낙인 위장 마도 단안경 (Stigma-Veil Arcane Monocle of Oscar)](오스카의%20낙인%20위장%20마도%20단안경%20(Stigma-Veil%20Arcane%20Monocle%20of%20Oscar).md)
 - 자유도시연합 — 실버팽 가문 / 자유상단 제2 연합

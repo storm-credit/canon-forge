@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 카디널 (Valentine Cardinal, 철혈 부대)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/6.철혈부대/05.발렌타인카디널.md)
-- [오래된 맹세의 방패 — 발렌타인 카디널의 저지선 수호구 (Shield of the Ancient Vow — Valentine Cardinal's Bulwark Ward)](../../01-19-2.방어구/05.방패/오래된 맹세의 방패 — 발렌타인 카디널의 저지선 수호구 (Shield of the Ancient Vow — Valentine Cardinal's Bulwark Ward) [철혈부대].md)
+- [오래된 맹세의 방패 — 발렌타인 카디널의 저지선 수호구 (Shield of the Ancient Vow — Valentine Cardinal's Bulwark Ward)](../../01-19-2.방어구/05.방패/카스텔룸 (Castellum).md)
 - [철혈 부대](../../../../2-무대/세력/용병단/철혈부대/철혈부대.md)

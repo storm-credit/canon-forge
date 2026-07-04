@@ -81,5 +81,5 @@
 ## 🔗 관련 문서
 - [카리온 바트록 (Karion Batrok)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/07.카리온바트록.md)
 - [바트록스의 혈액 응집 뼈지팡이 (Blood-Coagulating Bone Staff of Batrox)](../../../01-19-1.무기/12.지팡이·완드/바트록스 혈령 (Batrox Blood-Seal).md)
-- [까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor)](../../../01-19-2.방어구/02.경갑/까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor).md)
+- [까마귀뼈 엮음 부두 갑옷 (Corvid Bone Voodoo Armor)](../../../01-19-2.방어구/02.경갑/사막의 척추 (Spine of the Desert).md)
 - [핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast)](../08.성물/핏방울로 증식하는 짐승의 뼈항아리 (Bone-Urn of the Blood-Multiplying Beast).md)

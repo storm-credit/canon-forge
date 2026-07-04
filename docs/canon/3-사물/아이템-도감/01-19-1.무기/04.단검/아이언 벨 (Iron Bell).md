@@ -81,4 +81,4 @@
 
 ## 🔗 관련 문서
 - [토르발드 실드마이스트 (Thorvald Shield-meister)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/13.토르발드실드마이스트.md)
-- [아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius)](../../01-19-2.방어구/05.방패/아에기디우스의%20결속%20대방패%20(Binding%20Tower-Shield%20of%20Aegidius).md)
+- [아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius)](../../01-19-2.방어구/05.방패/아에기디우스%20(Aegidius).md)

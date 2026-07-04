@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 - [루시엔 아르티팩스 (Lucien Artifex)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/12.루시엔아르티팩스.md)
 - [잊혀진 시간의 파쇄 곡괭이-탐사등 (Pickaxe-Lantern of Forgotten Time)](../../01-19-1.무기/16.특수·마도구·기타/크로노스파이크%20(Chronospike).md)
-- [흙먼지 절은 현장 가죽 코트 (Field-Worn Leather Duster of the Excavation Front)](../../01-19-2.방어구/02.경갑/흙먼지%20절은%20현장%20가죽%20코트%20(Field-Worn%20Leather%20Duster%20of%20the%20Excavation%20Front).md)
-- [지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein)](../../01-19-2.방어구/01.중갑/지하%20광맥의%20압착%20흉갑%20(Breastplate%20of%20the%20Quartz%20Vein).md)
+- [흙먼지 절은 현장 가죽 코트 (Field-Worn Leather Duster of the Excavation Front)](../../01-19-2.방어구/02.경갑/두%20번째%20피부%20(Second%20Skin).md)
+- [지하 광맥의 압착 흉갑 (Breastplate of the Quartz Vein)](../../01-19-2.방어구/01.중갑/루멘퀄츠%20(Lumenquartz).md)

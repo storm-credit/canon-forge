@@ -78,5 +78,5 @@
 
 ## 🔗 관련 문서
 - [발테루스 포르티스 (Valterus Fortis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/02.발테루스포르티스.md)
-- [침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight)](../../01-19-2.방어구/01.중갑/침묵하는%20기사의%20강철판%20(Steel%20Plate%20of%20the%20Silenced%20Knight).md)
+- [침묵하는 기사의 강철판 (Steel Plate of the Silenced Knight)](../../01-19-2.방어구/01.중갑/실렌티움%20(Silentium).md)
 - [마도공학 백과 - 제7코어 중력 증폭기 (7th Core Gravity Amplifier)](../10.특수마도구·마력핵/마도공학백과-제7코어중력증폭기.md)

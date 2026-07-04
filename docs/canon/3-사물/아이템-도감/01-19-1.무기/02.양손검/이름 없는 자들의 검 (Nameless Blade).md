@@ -97,5 +97,5 @@
 ## 🔗 관련 문서
 
 - [루시안 에스더 (Lucian Esther)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/8.템플러성기사금고/루시안에스더.md)
-- [여명을 두른 방랑자의 외투 — 루시안 에스더의 낡은 여행자 외투 (Dawn-Draped Wanderer's Coat — Lucian Esther's Worn Traveler's Overcoat)](../../01-19-2.방어구/04.망토·외투/여명을 두른 방랑자의 외투 — 루시안 에스더의 낡은 여행자 외투 (Dawn-Draped Wanderer's Coat — Lucian Esther's Worn Traveler's Overcoat).md)
+- [여명을 두른 방랑자의 외투 — 루시안 에스더의 낡은 여행자 외투 (Dawn-Draped Wanderer's Coat — Lucian Esther's Worn Traveler's Overcoat)](../../01-19-2.방어구/04.망토·외투/레베니오 (Revenio).md)
 - [수호자의 서약패 — 루시안 에스더의 무명 성물 (Ward of the Nameless Oath — Lucian Esther's Unmarked Relic)](../../01-19-3.악세서리/08.성물/수호자의 서약패 — 루시안 에스더의 무명 성물 (Ward of the Nameless Oath — Lucian Esther's Unmarked Relic).md)

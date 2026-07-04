@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [발두르 아크가드 (Baldur Archguard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/05.발두르아크가드.md)
 - [마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe)](마르지 않는 윤활유 파이프 (Inexhaustible Lubricant Pipe).md)
-- [폐기된 역장 발생 코일 (Discarded Force-field Coil)](../../01-19-2.방어구/03.로브·마법복/폐기된 역장 발생 코일 (Discarded Force-field Coil).md)
+- [폐기된 역장 발생 코일 (Discarded Force-field Coil)](../../01-19-2.방어구/03.로브·마법복/버려진 역장 (Forsaken Field).md)

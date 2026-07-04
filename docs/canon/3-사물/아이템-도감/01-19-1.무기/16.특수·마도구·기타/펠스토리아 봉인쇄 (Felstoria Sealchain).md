@@ -91,5 +91,5 @@
 
 - [발타리온 펠스토리아 (Baltarion Felstoria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/06.발타리온펠스토리아.md)
 - [히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues)](../13.오브·마법서/히스토리아의%20혓바닥이%20달린%20악요(惡妖)의%20금서%20(Forbidden%20Book%20of%20the%20Wicked%20FIend%20with%20Tongues).md)
-- [정신 오염을 반사하는 납 구속복 (Lead Straitjacket that Reflects Mental Contamination)](../../01-19-2.방어구/03.로브·마법복/정신%20오염을%20반사하는%20납%20구속복%20(Lead%20Straitjacket%20that%20Reflects%20Mental%20Contamination).md)
+- [정신 오염을 반사하는 납 구속복 (Lead Straitjacket that Reflects Mental Contamination)](../../01-19-2.방어구/03.로브·마법복/인노켄스%20(Innocens).md)
 - [종교백과 - 눈을 가린 바보의 제단화 (Altarpiece of the Blindfolded Fool)](../../01-19-3.악세서리/08.성물/종교백과%20-%20눈을%20가린%20바보의%20제단화%20(Altarpiece%20of%20the%20Blindfolded%20Fool).md)

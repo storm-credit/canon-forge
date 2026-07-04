@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [루시안 제피로스 (Lucian Zephyros)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/1.성국/06.루시안제피로스.md)
-- [창공의 비행갑 강층기류 코트 (Aero-Stream Coat)](../../01-19-2.방어구/03.로브·마법복/창공의%20비행갑%20강층기류%20코트%20(Aero-Stream%20Coat).md)
-- [창공 파일럿 방풍 고글 (Stratosphere Pilot Windproof Goggles)](../../01-19-2.방어구/06.투구·얼굴/창공%20파일럿%20방풍%20고글%20(Stratosphere%20Pilot%20Windproof%20Goggles).md)
+- [창공의 비행갑 강층기류 코트 (Aero-Stream Coat)](../../01-19-2.방어구/03.로브·마법복/제피로스%20게일%20(Zephyros%20Gale).md)
+- [창공 파일럿 방풍 고글 (Stratosphere Pilot Windproof Goggles)](../../01-19-2.방어구/06.투구·얼굴/에어스트림%20(Airstream).md)

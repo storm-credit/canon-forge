@@ -80,4 +80,4 @@
 
 ## 🔗 관련 문서
 - [토마스 블라이 (Thomas Bligh)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/7.무소속및방랑자/토마스블라이.md)
-- [진흙에 절여진 진혼 갑주 (Mud-Steeped Requiem Plate)](../../01-19-2.방어구/01.중갑/진흙에 절여진 진혼 갑주 (Mud-Steeped Requiem Plate).md)
+- [진흙에 절여진 진혼 갑주 (Mud-Steeped Requiem Plate)](../../01-19-2.방어구/01.중갑/레퀴엠 (Requiem).md)

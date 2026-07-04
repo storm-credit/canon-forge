@@ -93,4 +93,4 @@
 
 - [드라코니스 코르누 (Draconis Cornu)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/12.드라코니스코르누.md)
 - [코르누의 고막 파열(Tympanic) 둠 호른 (Doom Horn of Tympanic Rupture of Cornu)](../../01-19-1.무기/16.특수·마도구·기타/고막의 심판 (Tympanic Doom).md)
-- [내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption)](../../01-19-2.방어구/04.망토·외투/내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption).md)
+- [내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption)](../../01-19-2.방어구/04.망토·외투/사일런시아 (Silencia).md)

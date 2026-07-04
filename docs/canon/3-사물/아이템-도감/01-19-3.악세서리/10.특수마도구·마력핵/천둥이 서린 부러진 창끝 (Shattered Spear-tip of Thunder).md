@@ -93,4 +93,4 @@
 
 - [알렉시온 볼트리안 (Alexion Voltrius)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/01.알렉시온볼트리안.md)
 - [뇌룡창 볼트리안의 천둥 (Dragon Thunder Lance Voltrian's Thunder)](../../01-19-1.무기/06.창/뇌룡창 볼트리안의 천둥 (Dragon Thunder Lance Voltrian's Thunder).md)
-- [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](../../01-19-2.방어구/06.투구·얼굴/뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm).md)
+- [뇌진 선봉의 투구 (Thunder-Vanguard's Crest Helm)](../../01-19-2.방어구/06.투구·얼굴/선봉의 뇌진 (Vanguard's Thunder-Crest).md)

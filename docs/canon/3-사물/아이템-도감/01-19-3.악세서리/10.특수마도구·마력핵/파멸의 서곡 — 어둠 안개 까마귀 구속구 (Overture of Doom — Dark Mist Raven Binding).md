@@ -90,5 +90,5 @@
 ## 🔗 관련 문서
 - [모르데카이 타르타로스 (Mordecai Tartaros)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/03.모르데카이타르타로스.md)
 - [타르타로스의 핏빛 메아리 (Blood-Echo of Tartaros)](../../01-19-1.무기/16.특수·마도구·기타/핏빛 메아리 (Blood-Echo).md)
-- [망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead)](../../01-19-2.방어구/03.로브·마법복/망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead).md)
+- [망자의 현자 누더기 백색 로브 (Tattered White Robe of the Sage of the Dead)](../../01-19-2.방어구/03.로브·마법복/타르타로스 슈라우드 (Tartaros Shroud).md)
 - [고대 이단 심문의 만 겹 봉인 저주 부적 (Ten-Thousand Sealing Curse Talismans of the Ancient Inquisition)](../07.부적/고대 이단 심문의 만 겹 봉인 저주 부적 (Ten-Thousand Sealing Curse Talismans of the Ancient Inquisition).md)

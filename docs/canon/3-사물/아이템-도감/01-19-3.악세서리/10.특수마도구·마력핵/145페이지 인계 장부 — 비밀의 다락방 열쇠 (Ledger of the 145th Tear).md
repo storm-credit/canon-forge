@@ -68,7 +68,7 @@
 ### 관련 캐릭터
 
 - **칼렌 노이르** — 이 장부가 손에 없으면 그는 본부에 접속할 수 없다. 장부를 빼앗기는 것이 곧 전략 심장을 잃는 것이기 때문에, 칼렌은 이 장부를 항상 외투 안쪽 가장 깊은 주머니에 다른 암호 스크롤 더미와 함께 수납하여 겉에서 식별이 불가능하게 한다.
-- **[카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](../../01-19-2.방어구/04.망토·외투/카멜레온의 환영 장막 (Illusionary Veil of the Chameleon).md)** — 장막이 칼렌의 외형과 기척을 지울 때, 장부는 외투 안에 숨겨진 채 같이 지워진다. 추격자들은 칼렌도, 본부 열쇠도 추적하지 못한다.
+- **[카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](../../01-19-2.방어구/04.망토·외투/무색의 그림자 (Chromeless Shadow).md)** — 장막이 칼렌의 외형과 기척을 지울 때, 장부는 외투 안에 숨겨진 채 같이 지워진다. 추격자들은 칼렌도, 본부 열쇠도 추적하지 못한다.
 
 ---
 
@@ -91,5 +91,5 @@
 ## 🔗 관련 문서
 
 - [칼렌 노이르 (Kalen Noir)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/05.칼렌노이르.md)
-- [카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](../../01-19-2.방어구/04.망토·외투/카멜레온의 환영 장막 (Illusionary Veil of the Chameleon).md)
+- [카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](../../01-19-2.방어구/04.망토·외투/무색의 그림자 (Chromeless Shadow).md)
 - [암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle)](./암흑 서명 암호 스크롤 다발 (Shadowcode Cipher-Scroll Bundle).md)

@@ -96,4 +96,4 @@
 
 - [미하일 그레이슨 (Mikhail Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/9.이그니스결사/03.미하일그레이슨.md)
 - [칠흑의 분쇄검 — 미하일 그레이슨의 심연 광석 분쇄검 (Black Crusher Greatsword — Mikhail Grayson's Abyssal Ore Crusher)](../../01-19-1.무기/02.양손검/봉심%20혈서검%20오스번%20(Oathborn).md)
-- [개척지 생존자의 야수 가죽 야전 경갑 — 미하일 그레이슨의 흉터 (Beast-Hide Field Armor of the Frontier Survivor — Mikhail Grayson's Scars)](../../01-19-2.방어구/02.경갑/개척지%20생존자의%20야수%20가죽%20야전%20경갑%20—%20미하일%20그레이슨의%20흉터%20(Beast-Hide%20Field%20Armor%20of%20the%20Frontier%20Survivor%20—%20Mikhail%20Grayson's%20Scars).md)
+- [개척지 생존자의 야수 가죽 야전 경갑 — 미하일 그레이슨의 흉터 (Beast-Hide Field Armor of the Frontier Survivor — Mikhail Grayson's Scars)](../../01-19-2.방어구/02.경갑/스트라타이그니스%20(Strata-Ignis).md)

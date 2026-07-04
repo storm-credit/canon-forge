@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 - [이즈라엘 문 (Israel Moon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/10.이즈라엘문.md)
 - [이즈라엘의 월장석 머스킷 - 나이트 리퍼 (Moonstone Long-Rifle, Night-Reaper)](../15.화기/이즈라엘의 월장석 머스킷 - 나이트 리퍼 (Moonstone Long-Rifle, Night-Reaper).md)
-- [빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle)](../../01-19-2.방어구/03.로브·마법복/빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle).md)
+- [빛 반사 방지 은신 위장 덧옷 (Anti-Reflective Camo-Mantle)](../../01-19-2.방어구/03.로브·마법복/프리마 (Frima).md)

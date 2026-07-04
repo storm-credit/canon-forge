@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [모르가나 코랄 (Morgana Coral)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/14.모르가나코랄.md)
 - [칠흑의 마도서 '심연의 복음' (Gospel of the Abyss)](../13.오브·마법서/칠흑의%20마도서%20'심연의%20복음'%20(Gospel%20of%20the%20Abyss).md)
-- [검은 산호 가시 고딕 크리놀린 드레스 (Gothic Thorn-Coral Crinoline Dress)](../../01-19-2.방어구/03.로브·마법복/검은%20산호%20가시%20고딕%20크리놀린%20드레스%20(Gothic%20Thorn-Coral%20Crinoline%20Dress).md)
+- [검은 산호 가시 고딕 크리놀린 드레스 (Gothic Thorn-Coral Crinoline Dress)](../../01-19-2.방어구/03.로브·마법복/빛을%20가두는%20관%20(Coffin%20of%20Light).md)

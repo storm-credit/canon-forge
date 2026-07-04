@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [줄리안 아이언스케일 (Julian Ironscale)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/6.줄리안아이언스케일.md)
-- [마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater')](../../01-19-2.방어구/05.방패/마도%20합금%20타워실드%20'임페리얼%20브레이크워터'%20(M-Alloy%20Tower%20Shield%20'Imperial%20Breakwater').md)
+- [마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater')](../../01-19-2.방어구/05.방패/임페리얼%20브레이크워터%20(Imperial%20Breakwater).md)
 - [대지의 결계석 닻 (Anchor-Stone of Terra)](../../01-19-4.유물/04.영웅고유성유물/대지의%20결계석%20닻%20(Anchor-Stone%20of%20Terra).md)

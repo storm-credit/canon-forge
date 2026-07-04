@@ -64,7 +64,7 @@
 
 ### 관련 캐릭터
 - **타이러스 루이나** — 코어의 유일한 이식 생존자. 코어와 신체의 융합이 20년 이상 진행되어 현재는 코어를 제거하면 심장이 함께 적출된다. 매 전투마다 코어의 반동 열류가 타이러스 자신의 근육과 혈관을 연소시키며, 의술사들은 타이러스의 수명을 "코어 봉인 나사가 몇 개 남았느냐"로 추산한다.
-- 관련 장비: [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](../../../01-19-2.방어구/01.중갑/노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine).md)
+- 관련 장비: [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](../../../01-19-2.방어구/01.중갑/멜팅 플레이트 (Melting Plate).md)
 
 ---
 
@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [타이러스 루이나 (Tyrus Ruina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/3.자유도시연합/10.타이러스루이나.md)
-- [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](../../../01-19-2.방어구/01.중갑/노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine).md)
+- [노예 광산의 용접 흉갑 (Welded Breastplate of the Slave Mine)](../../../01-19-2.방어구/01.중갑/멜팅 플레이트 (Melting Plate).md)
 - [해방자의 적열 해머 (Redheat Hammer of the Liberator)](../../../01-19-1.무기/07.둔기/해방자의 적열 해머 (Redheat Hammer of the Liberator).md)

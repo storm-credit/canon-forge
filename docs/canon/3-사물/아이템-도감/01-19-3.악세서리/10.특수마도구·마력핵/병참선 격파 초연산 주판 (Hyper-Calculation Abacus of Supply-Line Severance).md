@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [바린 아카이브 (Barin Archive)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/14.바린아카이브.md)
-- [코덱시아 다중 렌즈 스캔 안경 (Codexia Multi-Lens Scan Spectacles)](../../01-19-2.방어구/06.투구·얼굴/코덱시아%20다중%20렌즈%20스캔%20안경%20(Codexia%20Multi-Lens%20Scan%20Spectacles).md)
+- [코덱시아 다중 렌즈 스캔 안경 (Codexia Multi-Lens Scan Spectacles)](../../01-19-2.방어구/06.투구·얼굴/붉은%20밑줄%20(Red%20Underline).md)
 - [마그나 텔레파시 다중채널 귀걸이 (Magna-Telepathy Multi-Channel Earring)](../03.귀걸이/마그나%20텔레파시%20다중채널%20귀걸이%20(Magna-Telepathy%20Multi-Channel%20Earring).md)

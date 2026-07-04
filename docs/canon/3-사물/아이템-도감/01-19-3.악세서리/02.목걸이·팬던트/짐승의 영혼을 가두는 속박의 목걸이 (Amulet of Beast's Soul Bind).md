@@ -58,7 +58,7 @@
 
 ### 관련 캐릭터
 - **라카니우스 이그니투스** — 소유자. 이 목걸이를 안전장치가 아닌 관계의 증거로 여긴다. "이게 발동하면 나도 아프다. 그래서 최대한 발동하지 않도록 짐승을 화나게 만들지 않는다"고 말했다고 전해진다.
-- **네메시스 금단 생명숭배단** — 제작 의뢰처. 관련 도감: [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../03.로브·마법복/부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain).md)
+- **네메시스 금단 생명숭배단** — 제작 의뢰처. 관련 도감: [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../03.로브·마법복/흑린역식 (Blackscale Devourer).md)
 
 ---
 
@@ -79,5 +79,5 @@
 
 ## 🔗 관련 문서
 - [라카니우스 이그니투스 (Lacanius Ignitus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/07.라카니우스이그니투스.md)
-- [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../03.로브·마법복/부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain).md)
+- [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../03.로브·마법복/흑린역식 (Blackscale Devourer).md)
 - [이그니투스의 저주받은 늑골장 (Cursed Rib-Lance of Ignitus)](../../01-19-1.무기/16.특수·마도구·기타/저주받은 늑골장 (Cursed Rib-Lance).md)

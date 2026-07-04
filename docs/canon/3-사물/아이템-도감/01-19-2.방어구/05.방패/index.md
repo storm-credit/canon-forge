@@ -1,63 +1,133 @@
 ---
 정본명: 방패
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
 ---
 
 # 📚 방패
 
-## 항목 (51)
+## 항목 (121)
 
 | 아이템 | 링크 |
 |--------|------|
-| 방패 (Shields) | [방패 (Shields)](09.방패.md) |
-| 거신의 고대 기갑 방패 (Bastion's Colossus Relic Shield) | [거신의 고대 기갑 방패 (Bastion's Colossus Relic Shield)](거신의%20고대%20기갑%20방패%20%28Bastion's%20Colossus%20Relic%20Shield%29.md) |
+| 09.방패 | [09.방패](09.방패.md) |
+| 가이아스피어 (Gaiasphere) | [가이아스피어 (Gaiasphere)](가이아스피어%20%28Gaiasphere%29.md) |
+| 강철 보행자 (Steelwalker) | [강철 보행자 (Steelwalker)](강철%20보행자%20%28Steelwalker%29.md) |
 | 거인의 방패 (Shield of Giant) | [거인의 방패 (Shield of Giant)](거인의%20방패%20%28Shield%20of%20Giant%29.md) |
 | 검은 강철의 방패 (Black Steel Shield) | [검은 강철의 방패 (Black Steel Shield)](검은%20강철의%20방패%20%28Black%20Steel%20Shield%29.md) |
-| 공허의 방패 (Void Shield) | [공허의 방패 (Void Shield)](공허의%20방패%20%28Void%20Shield%29.md) |
-| 군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard') | [군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard')](군마의%20타워%20실드%20'이모탈%20가드'%20%28Tower%20Shield%20'Immortal%20Guard'%29.md) |
-| 그레이트 오크 실드 (Great Oak Shield) | [그레이트 오크 실드 (Great Oak Shield)](그레이트%20오크%20실드%20%28Great%20Oak%20Shield%29.md) |
-| 녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise) | [녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise)](녹아내린%20흑요석의%20파비스%20방패%20%28Melted%20Obsidian%20Pavise%29.md) |
-| 닉스이지스의 불침 대방패 - 에버글레이드 (Impenetrable Great-Shield, Everglade) | [닉스이지스의 불침 대방패 - 에버글레이드 (Impenetrable Great-Shield, Everglade)](닉스이지스의%20불침%20대방패%20-%20에버글레이드%20%28Impenetrable%20Great-Shield,%20Everglade%29.md) |
-| 닻 박힌 강철 방탑 대방패 (Anchored Iron Bastion Tower Shield) | [닻 박힌 강철 방탑 대방패 (Anchored Iron Bastion Tower Shield)](닻%20박힌%20강철%20방탑%20대방패%20%28Anchored%20Iron%20Bastion%20Tower%20Shield%29.md) |
-| 대산호 방패 (Great Coral Shield) | [대산호 방패 (Great Coral Shield)](대산호%20방패%20%28Great%20Coral%20Shield%29.md) |
-| 대지수호의 방패검 (Shield-sword of Earth Guard) | [대지수호의 방패검 (Shield-sword of Earth Guard)](대지수호의%20방패검%20%28Shield-sword%20of%20Earth%20Guard%29.md) |
-| 대형 방패 - 실드워드의 철벽 (Aegis of Shieldward) | [대형 방패 - 실드워드의 철벽 (Aegis of Shieldward)](대형%20방패%20-%20실드워드의%20철벽%20%28Aegis%20of%20Shieldward%29.md) |
-| 돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield) | [돌잎의 방패 '스톤리프' (Tobias Stoneleaf's Rock Armor Shield)](돌잎의%20방패%20'스톤리프'%20%28Tobias%20Stoneleaf's%20Rock%20Armor%20Shield%29.md) |
-| 드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis) | [드라코니스의 빛을 담은 거석 방패 (Light-Bearing Megalith Shield of Draconis)](드라코니스의%20빛을%20담은%20거석%20방패%20%28Light-Bearing%20Megalith%20Shield%20of%20Draconis%29.md) |
-| 드라콘의 빛을 담은 거석 방패 | [드라콘의 빛을 담은 거석 방패](드라콘의빛을담은거석방패.md) |
-| 라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield) | [라그날의 어둠쐐기 방패 (Ragnar's Dark-Wedge Shield)](라그날의%20어둠쐐기%20방패%20%28Ragnar's%20Dark-Wedge%20Shield%29.md) |
-| 마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater') | [마도 합금 타워실드 '임페리얼 브레이크워터' (M-Alloy Tower Shield 'Imperial Breakwater')](마도%20합금%20타워실드%20'임페리얼%20브레이크워터'%20%28M-Alloy%20Tower%20Shield%20'Imperial%20Breakwater'%29.md) |
-| 마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan) | [마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan)](마인드-실드%20은실%20가디건%20%28Silver-Thread%20Mind-Shield%20Cardigan%29.md) |
+| 게이스윈드 (Geaswind) | [게이스윈드 (Geaswind)](게이스윈드%20%28Geaswind%29.md) |
+| 공허의 거대 방패 (Aegis of Void) | [공허의 거대 방패 (Aegis of Void)](공허의%20거대%20방패%20%28Aegis%20of%20Void%29.md) |
+| 그라비타스 (Gravitas) | [그라비타스 (Gravitas)](그라비타스%20%28Gravitas%29.md) |
+| 그림자 수호구 (Shadow Ward) | [그림자 수호구 (Shadow Ward)](그림자%20수호구%20%28Shadow%20Ward%29.md) |
+| 극야의 방패 (Polar Night Ward) | [극야의 방패 (Polar Night Ward)](극야의%20방패%20%28Polar%20Night%20Ward%29.md) |
+| 기억의 안식처 (Sanctuary of Memories) | [기억의 안식처 (Sanctuary of Memories)](기억의%20안식처%20%28Sanctuary%20of%20Memories%29.md) |
+| 기억의안식처 (Sanctuary of Memories) | [기억의안식처 (Sanctuary of Memories)](기억의안식처%20%28Sanctuary%20of%20Memories%29.md) |
+| 나이테성역 (Ringwood Sanctuary) | [나이테성역 (Ringwood Sanctuary)](나이테성역%20%28Ringwood%20Sanctuary%29.md) |
+| 녹투르나 (Nocturna) | [녹투르나 (Nocturna)](녹투르나%20%28Nocturna%29.md) |
+| 뇌명전야 (Thunder Vigil) | [뇌명전야 (Thunder Vigil)](뇌명전야%20%28Thunder%20Vigil%29.md) |
+| 다크바스티온 (Darkbastion) | [다크바스티온 (Darkbastion)](다크바스티온%20%28Darkbastion%29.md) |
+| 닻 내림 (Anchorhold) | [닻 내림 (Anchorhold)](닻%20내림%20%28Anchorhold%29.md) |
+| 대지의 서약벽 (Earthbound Wall) | [대지의 서약벽 (Earthbound Wall)](대지의%20서약벽%20%28Earthbound%20Wall%29.md) |
+| 던호크 (Dawnhawk) | [던호크 (Dawnhawk)](던호크%20%28Dawnhawk%29.md) |
+| 되돌려주는 자 (The Returner) | [되돌려주는 자 (The Returner)](되돌려주는%20자%20%28The%20Returner%29.md) |
+| 듀오미라 (Duomira) | [듀오미라 (Duomira)](듀오미라%20%28Duomira%29.md) |
+| 듀오바인드 (Duobind) | [듀오바인드 (Duobind)](듀오바인드%20%28Duobind%29.md) |
+| 드라콘 이지스 (Dracon Aegis) | [드라콘 이지스 (Dracon Aegis)](드라콘%20이지스%20%28Dracon%20Aegis%29.md) |
+| 떠돌이별 (Wanderstar) | [떠돌이별 (Wanderstar)](떠돌이별%20%28Wanderstar%29.md) |
+| 레디투스 애비스 (Reditus Abyss) | [레디투스 애비스 (Reditus Abyss)](레디투스%20애비스%20%28Reditus%20Abyss%29.md) |
+| 레조나크 (Resonark) | [레조나크 (Resonark)](레조나크%20%28Resonark%29.md) |
+| 레퀴엠 오브 (Requiem Orb) | [레퀴엠 오브 (Requiem Orb)](레퀴엠%20오브%20%28Requiem%20Orb%29.md) |
+| 로드스텔라 (Rodstella) | [로드스텔라 (Rodstella)](로드스텔라%20%28Rodstella%29.md) |
+| 리빙 램파트 (Living Rampart) | [리빙 램파트 (Living Rampart)](리빙%20램파트%20%28Living%20Rampart%29.md) |
+| 만조벽 (Tide-Wall) | [만조벽 (Tide-Wall)](만조벽%20%28Tide-Wall%29.md) |
 | 망자의 방패 (Grimshield) | [망자의 방패 (Grimshield)](망자의%20방패%20%28Grimshield%29.md) |
-| 맹세의 바람 방패 (Oath Wind Shield) | [맹세의 바람 방패 (Oath Wind Shield)](맹세의%20바람%20방패%20%28Oath%20Wind%20Shield%29.md) |
-| 모건 페룸의 움직이는 철탑 방패 (Mobile Iron Tower-Shield of Morgan Ferrum) | [모건 페룸의 움직이는 철탑 방패 (Mobile Iron Tower-Shield of Morgan Ferrum)](모건%20페룸의%20움직이는%20철탑%20방패%20%28Mobile%20Iron%20Tower-Shield%20of%20Morgan%20Ferrum%29.md) |
-| 바란의 암주철벽 대방패 (Ironwall Tower-Shield of Baran) | [바란의 암주철벽 대방패 (Ironwall Tower-Shield of Baran)](바란의%20암주철벽%20대방패%20%28Ironwall%20Tower-Shield%20of%20Baran%29.md) |
-| 발테리온 실드포트의 미완성 직검 (Unfinished Blade of 발테리온 실드포트) | [발테리온 실드포트의 미완성 직검 (Unfinished Blade of 발테리온 실드포트)](발테리온%20실드포트의%20미완성%20직검%20%28Unfinished%20Blade%20of%20발테리온%20실드포트%29.md) |
-| 베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield) | [베르누이의 단열 실드 코르셋 (Corset of Bernoulli's Adiabatic Shield)](베르누이의%20단열%20실드%20코르셋%20%28Corset%20of%20Bernoulli's%20Adiabatic%20Shield%29.md) |
-| 빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield) | [빛의 방패 '브라이트실드' (Theon Brightshield's Brightshield)](빛의%20방패%20'브라이트실드'%20%28Theon%20Brightshield's%20Brightshield%29.md) |
-| 성역의 빛 원형 방패 (Sanctuary Radiance Buckler) | [성역의 빛 원형 방패 (Sanctuary Radiance Buckler)](성역의%20빛%20원형%20방패%20%28Sanctuary%20Radiance%20Buckler%29.md) |
-| 순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal) | [순교자 듀란달의 무명 대방패 (Nameless Greatshield of Durandal)](순교자%20듀란달의%20무명%20대방패%20%28Nameless%20Greatshield%20of%20Durandal%29.md) |
-| 실드포트의 요새 방패 (Fortress Shield of Shieldfort) | [실드포트의 요새 방패 (Fortress Shield of Shieldfort)](실드포트의%20요새%20방패%20%28Fortress%20Shield%20of%20Shieldfort%29.md) |
-| 쌍면의 거울 방패 (Shield of Two Faces) | [쌍면의 거울 방패 (Shield of Two Faces)](쌍면의%20거울%20방패%20%28Shield%20of%20Two%20Faces%29.md) |
-| 아다만티움 타워 실드 (Adamantium Tower Shield) | [아다만티움 타워 실드 (Adamantium Tower Shield)](아다만티움%20타워%20실드%20%28Adamantium%20Tower%20Shield%29.md) |
-| 아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius) | [아에기디우스의 결속 대방패 (Binding Tower-Shield of Aegidius)](아에기디우스의%20결속%20대방패%20%28Binding%20Tower-Shield%20of%20Aegidius%29.md) |
+| 멈추지 않는 벽 (The Unyielding Wall) | [멈추지 않는 벽 (The Unyielding Wall)](멈추지%20않는%20벽%20%28The%20Unyielding%20Wall%29.md) |
+| 무너지지 않는 성벽 (The Unyielding Rampart) | [무너지지 않는 성벽 (The Unyielding Rampart)](무너지지%20않는%20성벽%20%28The%20Unyielding%20Rampart%29.md) |
+| 무명 대방패 (Nameless Greatshield) | [무명 대방패 (Nameless Greatshield)](무명%20대방패%20%28Nameless%20Greatshield%29.md) |
+| 미궁도해 (Labyrinth Codex) | [미궁도해 (Labyrinth Codex)](미궁도해%20%28Labyrinth%20Codex%29.md) |
+| 미러실크 (Mirrorsilk) | [미러실크 (Mirrorsilk)](미러실크%20%28Mirrorsilk%29.md) |
+| 미완성 방패 (The Unfinished) | [미완성 방패 (The Unfinished)](미완성%20방패%20%28The%20Unfinished%29.md) |
+| 바다의 요새 (Fortress of the Sea) | [바다의 요새 (Fortress of the Sea)](바다의%20요새%20%28Fortress%20of%20the%20Sea%29.md) |
+| 바람길 수호구 (Windpath Ward) | [바람길 수호구 (Windpath Ward)](바람길%20수호구%20%28Windpath%20Ward%29.md) |
+| 방관자의 서약 (Bystander's Vow) | [방관자의 서약 (Bystander's Vow)](방관자의%20서약%20%28Bystander's%20Vow%29.md) |
+| 베놈이지스 (Venomaegis) | [베놈이지스 (Venomaegis)](베놈이지스%20%28Venomaegis%29.md) |
+| 베르누이 코르셋 (Bernoulli's Corset) | [베르누이 코르셋 (Bernoulli's Corset)](베르누이%20코르셋%20%28Bernoulli's%20Corset%29.md) |
+| 베히모스 (Behemoth) | [베히모스 (Behemoth)](베히모스%20%28Behemoth%29.md) |
+| 별빛의 서약 (Starlight Vow) | [별빛의 서약 (Starlight Vow)](별빛의%20서약%20%28Starlight%20Vow%29.md) |
+| 별서약 (Starvow) | [별서약 (Starvow)](별서약%20%28Starvow%29.md) |
+| 보이드코어 (Voidcore) | [보이드코어 (Voidcore)](보이드코어%20%28Voidcore%29.md) |
+| 브라이트실드 (Brightshield) | [브라이트실드 (Brightshield)](브라이트실드%20%28Brightshield%29.md) |
+| 빛바랜 서표 (Faded Bookmark) | [빛바랜 서표 (Faded Bookmark)](빛바랜%20서표%20%28Faded%20Bookmark%29.md) |
+| 뿌리별관 (Rootstar Aegis) | [뿌리별관 (Rootstar Aegis)](뿌리별관%20%28Rootstar%20Aegis%29.md) |
+| 사구성단 (Dune Sanctum) | [사구성단 (Dune Sanctum)](사구성단%20%28Dune%20Sanctum%29.md) |
+| 생추아리엘 (Sanctuariel) | [생추아리엘 (Sanctuariel)](생추아리엘%20%28Sanctuariel%29.md) |
+| 성운방울 (Nebula Bubble) | [성운방울 (Nebula Bubble)](성운방울%20%28Nebula%20Bubble%29.md) |
+| 성좌잔상 (Astral Vestige) | [성좌잔상 (Astral Vestige)](성좌잔상%20%28Astral%20Vestige%29.md) |
+| 솔가르드 (Solgarde) | [솔가르드 (Solgarde)](솔가르드%20%28Solgarde%29.md) |
+| 순례자의 방패 (Pilgrim Ward) | [순례자의 방패 (Pilgrim Ward)](순례자의%20방패%20%28Pilgrim%20Ward%29.md) |
+| 스타워드 (Starward) | [스타워드 (Starward)](스타워드%20%28Starward%29.md) |
+| 스톤리프 (Stoneleaf) | [스톤리프 (Stoneleaf)](스톤리프%20%28Stoneleaf%29.md) |
+| 시길루나 (Sigiluna) | [시길루나 (Sigiluna)](시길루나%20%28Sigiluna%29.md) |
+| 아스트로큘루스 (Astroculus) | [아스트로큘루스 (Astroculus)](아스트로큘루스%20%28Astroculus%29.md) |
+| 아에기디우스 (Aegidius) | [아에기디우스 (Aegidius)](아에기디우스%20%28Aegidius%29.md) |
 | 아이기스 (Aegis) | [아이기스 (Aegis)](아이기스%20%28Aegis%29.md) |
-| 아이기스의 방패 (Shield of Aegis) | [아이기스의 방패 (Shield of Aegis)](아이기스의%20방패%20%28Shield%20of%20Aegis%29.md) |
-| 에코-반석의 대형 타워 실드 (Tower Shield of Echoing Bedrock) | [에코-반석의 대형 타워 실드 (Tower Shield of Echoing Bedrock)](에코-반석의%20대형%20타워%20실드%20%28Tower%20Shield%20of%20Echoing%20Bedrock%29.md) |
-| 움직이는 거북선의 타워 실드 '바다의 요새' (Tower Shield 'Fortress of the Sea') | [움직이는 거북선의 타워 실드 '바다의 요새' (Tower Shield 'Fortress of the Sea')](움직이는%20거북선의%20타워%20실드%20'바다의%20요새'%20%28Tower%20Shield%20'Fortress%20of%20the%20Sea'%29.md) |
-| 이름과 문장이 깎여나간 공허의 거대 방패(Aegis of Void) | [이름과 문장이 깎여나간 공허의 거대 방패(Aegis of Void)](이름과%20문장이%20깎여나간%20공허의%20거대%20방패%28Aegis%20of%20Void%29.md) |
-| 이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis) | [이지스의 중량 붕괴(Weight-Collapse) 흑요석 타워 쉴드 (Obsidian Tower Shield of Weight-Collapse of Aegis)](이지스의%20중량%20붕괴%28Weight-Collapse%29%20흑요석%20타워%20쉴드%20%28Obsidian%20Tower%20Shield%20of%20Weight-Collapse%20of%20Aegis%29.md) |
-| 제국의 무쇠 타워 실드(Iron Tower Shield) | [제국의 무쇠 타워 실드(Iron Tower Shield)](제국의%20무쇠%20타워%20실드%28Iron%20Tower%20Shield%29.md) |
-| 짐승의 타워실드 (Beast Tower Shield) | [짐승의 타워실드 (Beast Tower Shield)](짐승의%20타워실드%20%28Beast%20Tower%20Shield%29.md) |
-| 철벽의 수문장 대방패 (Greatshield of the Bastion Gatekeeper) | [철벽의 수문장 대방패 (Greatshield of the Bastion Gatekeeper)](철벽의%20수문장%20대방패%20%28Greatshield%20of%20the%20Bastion%20Gatekeeper%29.md) |
-| 철의 장벽 방패 (Iron Bulwark Shield) | [철의 장벽 방패 (Iron Bulwark Shield)](철의%20장벽%20방패%20%28Iron%20Bulwark%20Shield%29.md) |
-| 카멜로스의 공성 대방패 (Siege Rampart of Cameloth) | [카멜로스의 공성 대방패 (Siege Rampart of Cameloth)](카멜로스의%20공성%20대방패%20%28Siege%20Rampart%20of%20Cameloth%29.md) |
-| 타락 천사의 일식 방패 에이지스 (Eclipse Shield of Fallen Angel: Aegis) | [타락 천사의 일식 방패 에이지스 (Eclipse Shield of Fallen Angel: Aegis)](타락%20천사의%20일식%20방패%20에이지스%20%28Eclipse%20Shield%20of%20Fallen%20Angel%20Aegis%29.md) |
-| 페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens) | [페루스덴스의 영혼-결착 대방패 (Soul-Bind Tower Shield of Ferrusdens)](페루스덴스의%20영혼-결착%20대방패%20%28Soul-Bind%20Tower%20Shield%20of%20Ferrusdens%29.md) |
-| 포르티스의 영원한 대지 수호 방패 (Eternal Earth-Aegis of Fortis) | [포르티스의 영원한 대지 수호 방패 (Eternal Earth-Aegis of Fortis)](포르티스의%20영원한%20대지%20수호%20방패%20%28Eternal%20Earth-Aegis%20of%20Fortis%29.md) |
-| 포르티스의 영원한 수호 | [포르티스의 영원한 수호](포르티스의영원한수호.md) |
-| 포지마스터의 용접된 닻 방패 (Welded Anchor-Shield of the Forgemaster) | [포지마스터의 용접된 닻 방패 (Welded Anchor-Shield of the Forgemaster)](포지마스터의%20용접된%20닻%20방패%20%28Welded%20Anchor-Shield%20of%20the%20Forgemaster%29.md) |
-| 황금빛 투기 도막 타워 실드(Tower Shield of Dawn) | [황금빛 투기 도막 타워 실드(Tower Shield of Dawn)](황금빛%20투기%20도막%20타워%20실드%28Tower%20Shield%20of%20Dawn%29.md) |
-| 황금의 여명 방패(Aegis Dawn Shield) | [황금의 여명 방패(Aegis Dawn Shield)](황금의%20여명%20방패%28Aegis%20Dawn%20Shield%29.md) |
-| 황동 태엽의 역장 실드 서기관 장갑 (Brass-Clockwork Force-Shield Scribe Gloves) | [황동 태엽의 역장 실드 서기관 장갑 (Brass-Clockwork Force-Shield Scribe Gloves)](황동%20태엽의%20역장%20실드%20서기관%20장갑%20%28Brass-Clockwork%20Force-Shield%20Scribe%20Gloves%29.md) |
+| 아이기스샤드 (Aegisshard) | [아이기스샤드 (Aegisshard)](아이기스샤드%20%28Aegisshard%29.md) |
+| 아이언마치 (Ironmarch) | [아이언마치 (Ironmarch)](아이언마치%20%28Ironmarch%29.md) |
+| 아이언오쓰 (Iron Oath) | [아이언오쓰 (Iron Oath)](아이언오쓰%20%28Iron%20Oath%29.md) |
+| 아이젠발 (Aizenwall) | [아이젠발 (Aizenwall)](아이젠발%20%28Aizenwall%29.md) |
+| 아포스텔라 (Apostella) | [아포스텔라 (Apostella)](아포스텔라%20%28Apostella%29.md) |
+| 암주철벽 (Ironwall) | [암주철벽 (Ironwall)](암주철벽%20%28Ironwall%29.md) |
+| 어둠쐐기 (Dark-Wedge) | [어둠쐐기 (Dark-Wedge)](어둠쐐기%20%28Dark-Wedge%29.md) |
+| 언바운드 (Unbound) | [언바운드 (Unbound)](언바운드%20%28Unbound%29.md) |
+| 언이일딩 (Unyielding) | [언이일딩 (Unyielding)](언이일딩%20%28Unyielding%29.md) |
+| 에버글레이드 (Everglade) | [에버글레이드 (Everglade)](에버글레이드%20%28Everglade%29.md) |
+| 에이지스 (Aegis) | [에이지스 (Aegis)](에이지스%20%28Aegis%29.md) |
+| 엠버리스 (Emberis) | [엠버리스 (Emberis)](엠버리스%20%28Emberis%29.md) |
+| 엠버홀드 (Emberhold) | [엠버홀드 (Emberhold)](엠버홀드%20%28Emberhold%29.md) |
+| 여명서약 (Dawnvow) | [여명서약 (Dawnvow)](여명서약%20%28Dawnvow%29.md) |
+| 여명의 대열 (Dawn Phalanx) | [여명의 대열 (Dawn Phalanx)](여명의%20대열%20%28Dawn%20Phalanx%29.md) |
+| 여명의 진실 (Dawn's Truth) | [여명의 진실 (Dawn's Truth)](여명의%20진실%20%28Dawn's%20Truth%29.md) |
+| 여명파수 (Dawnwatch) | [여명파수 (Dawnwatch)](여명파수%20%28Dawnwatch%29.md) |
+| 영결 (Eternal Bind) | [영결 (Eternal Bind)](영결%20%28Eternal%20Bind%29.md) |
+| 영원한 대지 (Eternal Earth) | [영원한 대지 (Eternal Earth)](영원한%20대지%20%28Eternal%20Earth%29.md) |
+| 오라티오 (Oratio) | [오라티오 (Oratio)](오라티오%20%28Oratio%29.md) |
+| 오로라리스 (Auroralis) | [오로라리스 (Auroralis)](오로라리스%20%28Auroralis%29.md) |
+| 오로라파본 (Aurora Recension) | [오로라파본 (Aurora Recension)](오로라파본%20%28Aurora%20Recension%29.md) |
+| 오로르가르드 (Aurorgarde) | [오로르가르드 (Aurorgarde)](오로르가르드%20%28Aurorgarde%29.md) |
+| 옵시디안 (Obsidian) | [옵시디안 (Obsidian)](옵시디안%20%28Obsidian%29.md) |
+| 용로서약구 (Foundry Vow Orb) | [용로서약구 (Foundry Vow Orb)](용로서약구%20%28Foundry%20Vow%20Orb%29.md) |
+| 유구한 서약구 (Timeworn Vow Orb) | [유구한 서약구 (Timeworn Vow Orb)](유구한%20서약구%20%28Timeworn%20Vow%20Orb%29.md) |
+| 유구한 서약의 방패 (Shield of the Timeworn Vow) | [유구한 서약의 방패 (Shield of the Timeworn Vow)](유구한%20서약의%20방패%20%28Shield%20of%20the%20Timeworn%20Vow%29.md) |
+| 유적봉인구 (Ruin Seal Orb) | [유적봉인구 (Ruin Seal Orb)](유적봉인구%20%28Ruin%20Seal%20Orb%29.md) |
+| 은빛 서약 (Silver Vow) | [은빛 서약 (Silver Vow)](은빛%20서약%20%28Silver%20Vow%29.md) |
+| 이름 없는 저지선 (Nameless Bulwark) | [이름 없는 저지선 (Nameless Bulwark)](이름%20없는%20저지선%20%28Nameless%20Bulwark%29.md) |
+| 이모탈 가드 (Immortal Guard) | [이모탈 가드 (Immortal Guard)](이모탈%20가드%20%28Immortal%20Guard%29.md) |
+| 임페리얼 브레이크워터 (Imperial Breakwater) | [임페리얼 브레이크워터 (Imperial Breakwater)](임페리얼%20브레이크워터%20%28Imperial%20Breakwater%29.md) |
+| 자철성좌 (Lodestone Constellation) | [자철성좌 (Lodestone Constellation)](자철성좌%20%28Lodestone%20Constellation%29.md) |
+| 잔불서약구 (Ember Vow Orb) | [잔불서약구 (Ember Vow Orb)](잔불서약구%20%28Ember%20Vow%20Orb%29.md) |
+| 잿빛 왕관의 침묵 (The Ashen Crown's Silence) | [잿빛 왕관의 침묵 (The Ashen Crown's Silence)](잿빛%20왕관의%20침묵%20%28The%20Ashen%20Crown's%20Silence%29.md) |
+| 조문자의 방패 (Mourner Ward) | [조문자의 방패 (Mourner Ward)](조문자의%20방패%20%28Mourner%20Ward%29.md) |
+| 중재자의 방패 (Arbiter Ward) | [중재자의 방패 (Arbiter Ward)](중재자의%20방패%20%28Arbiter%20Ward%29.md) |
+| 철서약 (Ironoath) | [철서약 (Ironoath)](철서약%20%28Ironoath%29.md) |
+| 침묵 관측 (Silent Watch) | [침묵 관측 (Silent Watch)](침묵%20관측%20%28Silent%20Watch%29.md) |
+| 침묵 총가 (Silent Rest) | [침묵 총가 (Silent Rest)](침묵%20총가%20%28Silent%20Rest%29.md) |
+| 침묵의 서약 (Silent Oath) | [침묵의 서약 (Silent Oath)](침묵의%20서약%20%28Silent%20Oath%29.md) |
+| 카스텔룸 (Castellum) | [카스텔룸 (Castellum)](카스텔룸%20%28Castellum%29.md) |
+| 코랄가르드 (Coralgarde) | [코랄가르드 (Coralgarde)](코랄가르드%20%28Coralgarde%29.md) |
+| 콜로서스 (Colossus) | [콜로서스 (Colossus)](콜로서스%20%28Colossus%29.md) |
+| 크레푸스라 (Crepuscula) | [크레푸스라 (Crepuscula)](크레푸스라%20%28Crepuscula%29.md) |
+| 크로노스텔라 (Chronostella) | [크로노스텔라 (Chronostella)](크로노스텔라%20%28Chronostella%29.md) |
+| 크로스워드 (Crossward) | [크로스워드 (Crossward)](크로스워드%20%28Crossward%29.md) |
+| 타키투스 (Tacitus) | [타키투스 (Tacitus)](타키투스%20%28Tacitus%29.md) |
+| 태양의 단죄 (Solar Reckoning) | [태양의 단죄 (Solar Reckoning)](태양의%20단죄%20%28Solar%20Reckoning%29.md) |
+| 통곡의 벽 (Wailing Wall) | [통곡의 벽 (Wailing Wall)](통곡의%20벽%20%28Wailing%20Wall%29.md) |
+| 트레일가드 (Trailward) | [트레일가드 (Trailward)](트레일가드%20%28Trailward%29.md) |
+| 트리스가르드 (Trisgarde) | [트리스가르드 (Trisgarde)](트리스가르드%20%28Trisgarde%29.md) |
+| 팽가르드 (Fangward) | [팽가르드 (Fangward)](팽가르드%20%28Fangward%29.md) |
+| 페트라가르드 (Petraguard) | [페트라가르드 (Petraguard)](페트라가르드%20%28Petraguard%29.md) |
+| 프로스트베일 (Frostveil) | [프로스트베일 (Frostveil)](프로스트베일%20%28Frostveil%29.md) |
+| 하버게이트 (Harborgate) | [하버게이트 (Harborgate)](하버게이트%20%28Harborgate%29.md) |
+| 함구서약 (Silent Vow) | [함구서약 (Silent Vow)](함구서약%20%28Silent%20Vow%29.md) |
+| 혈선의 수문장 (Sanguine Gatekeeper) | [혈선의 수문장 (Sanguine Gatekeeper)](혈선의%20수문장%20%28Sanguine%20Gatekeeper%29.md) |
+| 황혼서고 (Twilight Archive) | [황혼서고 (Twilight Archive)](황혼서고%20%28Twilight%20Archive%29.md) |
+| 황혼의 회랑 (Twilight Corridor) | [황혼의 회랑 (Twilight Corridor)](황혼의%20회랑%20%28Twilight%20Corridor%29.md) |

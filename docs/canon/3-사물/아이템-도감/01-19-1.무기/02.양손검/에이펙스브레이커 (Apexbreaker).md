@@ -112,4 +112,4 @@
 ## 🔗 관련 문서
 - [디트리히 블랙스미스 (Dietrich Blacksmith)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/4.가이아나야수결속단/03.디트리히블랙스미스.md)
 - [잿빛 폐의 봉인 생명 부적 '검은 잿빛의 맹서' (Ashen Lung Vitality Seal Talisman 'Vow of Black Ash')](../../01-19-3.악세서리/07.부적/잿빛%20폐의%20봉인%20생명%20부적%20'검은%20잿빛의%20맹서'%20(Ashen%20Lung%20Vitality%20Seal%20Talisman%20'Vow%20of%20Black%20Ash').md)
-- [야수 개척자의 야전 흉갑 '생존자의 갑옷' (Beastbound Pioneer's Field Breastplate 'Survivor's Armor')](../../01-19-2.방어구/02.경갑/야수%20개척자의%20야전%20흉갑%20'생존자의%20갑옷'%20(Beastbound%20Pioneer's%20Field%20Breastplate%20'Survivor's%20Armor').md)
+- [야수 개척자의 야전 흉갑 '생존자의 갑옷' (Beastbound Pioneer's Field Breastplate 'Survivor's Armor')](../../01-19-2.방어구/02.경갑/생존자의%20갑옷%20(Survivor's%20Armor).md)

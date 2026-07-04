@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [드락사리우스 이그니스 (Draxarius Ignis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/15.드락사리우스이그니스.md)
 - [이그니스의 지동(地動) 건틀릿 (Seismic Gauntlets of Ignis)](../../01-19-1.무기/14.건틀릿·클로/이그니스의 지동(地動) 건틀릿 (Seismic Gauntlets of Ignis).md)
-- [녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise)](../../01-19-2.방어구/05.방패/녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise).md)
+- [녹아내린 흑요석의 파비스 방패 (Melted Obsidian Pavise)](../../01-19-2.방어구/05.방패/옵시디안 (Obsidian).md)

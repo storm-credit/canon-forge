@@ -78,4 +78,4 @@
 ## 🔗 관련 문서
 - [카시엘라 트라이던 (Cassiela Trident)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/5.해양대륙/바다의교단/카시엘라트라이던.md)
 - [역류염 (Refluxflame)](../../01-19-1.무기/01.한손검/역류염%20(Refluxflame).md)
-- [심해로 짠 산호비늘 갑주 (Coral-Scale Armor of the Deep)](../../01-19-2.방어구/02.경갑/심해로%20짠%20산호비늘%20갑주%20(Coral-Scale%20Armor%20of%20the%20Deep).md)
+- [심해로 짠 산호비늘 갑주 (Coral-Scale Armor of the Deep)](../../01-19-2.방어구/02.경갑/조수의%20숨결%20(Breath%20of%20the%20Tide).md)

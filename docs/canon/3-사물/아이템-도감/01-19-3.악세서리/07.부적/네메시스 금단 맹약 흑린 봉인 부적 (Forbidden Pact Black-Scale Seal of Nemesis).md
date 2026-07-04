@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [라카니우스 이그니투스 (Lacanius Ignitus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/07.라카니우스이그니투스.md)
 - [짐승의 영혼을 가두는 속박의 목걸이 (Amulet of Beast's Soul Bind)](../02.목걸이·팬던트/짐승의 영혼을 가두는 속박의 목걸이 (Amulet of Beast's Soul Bind).md)
-- [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../../01-19-2.방어구/03.로브·마법복/부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain).md)
+- [부패한 흑린의 주술사슬 (Corrupted Black-Scale Shamanic Chain)](../../01-19-2.방어구/03.로브·마법복/흑린역식 (Blackscale Devourer).md)

@@ -93,4 +93,4 @@
 ## 🔗 관련 문서
 
 - [발테리온 실드포트 (Valterion Shieldfort)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/11.발테리온실드포트.md)
-- [실드포트의 요새 방패 (Fortress Shield of Shieldfort)](../../01-19-2.방어구/05.방패/실드포트의%20요새%20방패%20(Fortress%20Shield%20of%20Shieldfort).md)
+- [실드포트의 요새 방패 (Fortress Shield of Shieldfort)](../../01-19-2.방어구/05.방패/아이젠발%20(Aizenwall).md)

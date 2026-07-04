@@ -87,4 +87,4 @@
 ## 🔗 관련 문서
 - [나이올라 아스트리아 (Naiola Astria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/05.나이올라아스트리아.md)
 - [아스트랄리스의 운석 파편(Meteor) 아스트롤라베 (Astrolabe of Meteor Shards of Astralis)](../../01-19-1.무기/16.특수·마도구·기타/낙성의 아스트롤라베 (Astrolabe of the Falling Star).md)
-- [중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity)](../../01-19-2.방어구/03.로브·마법복/중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity).md)
+- [중력을 역방향으로 흩는 은하수 드레스 (Milky Way Dress that Disperses Gravity)](../../01-19-2.방어구/03.로브·마법복/갈락시아 (Galaxia).md)

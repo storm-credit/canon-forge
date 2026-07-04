@@ -116,6 +116,6 @@
 ## 🔗 관련 문서
 
 - [실비아 코어스 (Silvia Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/05.실비아코어스.md)
-- [개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate)](../../01-19-2.방어구/01.중갑/개척지%20상흔의%20야전%20흉갑%20—%20실비아%20코어스의%20생존%20갑주%20(Frontier-Scar%20Field%20Breastplate%20—%20Silvia%20Cores's%20Survival%20Plate).md)
+- [개척지 상흔의 야전 흉갑 — 실비아 코어스의 생존 갑주 (Frontier-Scar Field Breastplate — Silvia Cores's Survival Plate)](../../01-19-2.방어구/01.중갑/세컨드%20하이드%20(Second%20Hide).md)
 - [검은 잿빛의 맹세 인장반 — 코어스의 저주 결속반지 (Black-Ash Oath Signet Ring — Cores's Curse-Binding Ring)](../../01-19-3.악세서리/01.반지/검은%20잿빛의%20맹세%20인장반%20—%20코어스의%20저주%20결속반지%20(Black-Ash%20Oath%20Signet%20Ring%20—%20Cores's%20Curse-Binding%20Ring).md)
 - 키르케의 영약 결사단 (Circe's Elixir Order)

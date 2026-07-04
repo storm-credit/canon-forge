@@ -88,5 +88,5 @@
 ## 🔗 관련 문서
 
 - [아이샤 제피리스 (Aisha Zephyris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/02.아이샤제피리스.md)
-- [에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate)](../../01-19-2.방어구/02.경갑/에메랄드%20백금%20비행%20하프-코르셋%20갑주%20(Emerald-Platinum%20Aerial%20Half-Corset%20Plate).md)
-- [비행하는 깃털의 스톰 슈트 (Storm-Suit of Flying Feathers)](../../01-19-2.방어구/03.로브·마법복/비행하는%20깃털의%20스톰%20슈트%20(Storm-Suit%20of%20Flying%20Feathers).md)
+- [에메랄드 백금 비행 하프-코르셋 갑주 (Emerald-Platinum Aerial Half-Corset Plate)](../../01-19-2.방어구/02.경갑/살아있는%20흉터%20(Living%20Scar).md)
+- [비행하는 깃털의 스톰 슈트 (Storm-Suit of Flying Feathers)](../../01-19-2.방어구/03.로브·마법복/제피르스톰%20(Zephyrstorm).md)

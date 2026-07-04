@@ -95,4 +95,4 @@
 ## 🔗 관련 문서
 
 - [발렌타인 에스더 (Valentine Esther, 심연의 별무리)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/5.심연의별무리/04.발렌타인에스더.md)
-- [오래된 맹세의 방패 — 발렌타인 에스더의 유구한 서약구 (Shield of the Ancient Vow — Valentine Esther's Timeless Oath Ward)](../../01-19-2.방어구/05.방패/오래된 맹세의 방패 — 발렌타인 에스더의 유구한 서약구 (Shield of the Ancient Vow — Valentine Esther's Timeless Oath Ward) [심연의별무리].md)
+- [오래된 맹세의 방패 — 발렌타인 에스더의 유구한 서약구 (Shield of the Ancient Vow — Valentine Esther's Timeless Oath Ward)](../../01-19-2.방어구/05.방패/녹투르나 (Nocturna).md)

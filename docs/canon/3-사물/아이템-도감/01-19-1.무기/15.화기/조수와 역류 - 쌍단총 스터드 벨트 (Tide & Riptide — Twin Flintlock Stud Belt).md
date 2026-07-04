@@ -99,5 +99,5 @@
 ## 🔗 관련 문서
 - [엘라리안 오케아나 (Ellarian Oceana)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/12.엘라리안오케아나.md)
 - [오케아나의 심해를 도륙하는 쌍날 해끼 (Abyss-Cleaving Twin Axes of Oceana)](../../01.한손검/오케아나 (Oceana).md)
-- [레비아탄(Leviathan) 갑각 비늘 트렌치코트](../../../01-19-2.방어구/03.로브·마법복/레비아탄(Leviathan) 갑각 비늘 트렌치코트.md)
-- [상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch)](../../../01-19-2.방어구/06.투구·얼굴/상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch).md)
+- [레비아탄(Leviathan) 갑각 비늘 트렌치코트](../../../01-19-2.방어구/03.로브·마법복/레비아탄 (Leviathan).md)
+- [상어악귀 훈장 안대 (Shark-Demon Trophy Eyepatch)](../../../01-19-2.방어구/06.투구·얼굴/상어 훈장 (Shark's Medal).md)

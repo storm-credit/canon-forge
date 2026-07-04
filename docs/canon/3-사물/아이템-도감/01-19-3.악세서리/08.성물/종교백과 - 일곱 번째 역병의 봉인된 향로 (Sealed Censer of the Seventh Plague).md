@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [이젤리아 녹티스 (Izelia Noctis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/11.이젤리아녹티스.md)
 - [녹티스의 곤충군집 자궁 지팡이 (Hive-Womb Staff of Noctis)](../../../01-19-1.무기/12.지팡이·완드/히브웜 (Hive-Womb).md)
-- [맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](../../../01-19-2.방어구/03.로브·마법복/맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow).md)
+- [맹독으로 덧칠된 밤과부의 로브 (Toxic-Laced Robe of the Night-widow)](../../../01-19-2.방어구/03.로브·마법복/나이트위도우 (Night-widow).md)

@@ -97,4 +97,4 @@
 - [네크로스 소울리퍼 (Necros Soulreaper)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/03.네크로스소울리퍼.md)
 - [비탄의 척추 갈고리막대 둠브링어 (Spine Crook of Lamentation: Doombringer)](../../01-19-1.무기/07.둔기/비탄의%20척추%20(Spine%20of%20Lamentation).md)
 - [혼석 염주 족쇄 (Soul-Gem Prayer Shackle)](../../01-19-3.악세서리/02.목걸이·팬던트/혼석%20염주%20족쇄%20(Soul-Gem%20Prayer%20Shackle).md)
-- [망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust)](../../01-19-2.방어구/03.로브·마법복/망각의%20고대%20드래곤%20가루%20예복%20(Vestment%20of%20Oblivion%20Ancient%20Dragon%20Dust).md)
+- [망각의 고대 드래곤 가루 예복 (Vestment of Oblivion Ancient Dragon Dust)](../../01-19-2.방어구/03.로브·마법복/용진예복%20(Dragondust%20Vestment).md)

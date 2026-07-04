@@ -94,4 +94,4 @@
 
 - [에드리나 노크투리아 (Edrina Nocturia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/07.에드리나노크투리아.md)
 - [노크투리아의 자정 안식 단검 (Midnight Repose Daggers of Nocturia)](../../01-19-1.무기/04.단검/자정의%20안식%20(Midnight%20Repose).md)
-- [몽마의 찢어진 실크 드레스 (Torn Silk Dress of the Succubus)](../../01-19-2.방어구/03.로브·마법복/몽마의%20찢어진%20실크%20드레스%20(Torn%20Silk%20Dress%20of%20the%20Succubus).md)
+- [몽마의 찢어진 실크 드레스 (Torn Silk Dress of the Succubus)](../../01-19-2.방어구/03.로브·마법복/서큐버스%20실%20(Succubus%20Seal).md)

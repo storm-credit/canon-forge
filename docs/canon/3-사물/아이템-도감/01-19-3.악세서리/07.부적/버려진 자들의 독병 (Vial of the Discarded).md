@@ -78,4 +78,4 @@
 ## 🔗 관련 문서
 - [벨릭스 카스 (Velix Kas)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/4.오벨리스크대륙/잊힌자들의연합/벨릭스카스.md)
 - [콜드포지 (Coldforge)](../../01-19-1.무기/01.한손검/콜드포지 (Coldforge).md)
-- [잊힌 이름들의 외투 (Cloak of the Unremembered)](../../01-19-2.방어구/04.망토·외투/잊힌 이름들의 외투 (Cloak of the Unremembered).md)
+- [잊힌 이름들의 외투 (Cloak of the Unremembered)](../../01-19-2.방어구/04.망토·외투/네임리스 레저 (Nameless Ledger).md)

@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 
 - [테오릭 볼칸 (Theoric Volcan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/11.테오릭볼칸.md)
-- [절연된 참모의 망토 (Insulated Cloak of the Staff)](../../01-19-2.방어구/04.망토·외투/절연된%20참모의%20망토%20(Insulated%20Cloak%20of%20the%20Staff).md)
+- [절연된 참모의 망토 (Insulated Cloak of the Staff)](../../01-19-2.방어구/04.망토·외투/볼트워드%20(Voltward).md)
 - [전장 연산 회중시계 '틱-톡 학살의 초침' (Battlefield Calculation Pocket Watch 'Tick-Tock Massacre Hand')](전장%20연산%20회중시계%20'틱-톡%20학살의%20초침'%20(Battlefield%20Calculation%20Pocket%20Watch%20Tick-Tock%20Massacre%20Hand).md)

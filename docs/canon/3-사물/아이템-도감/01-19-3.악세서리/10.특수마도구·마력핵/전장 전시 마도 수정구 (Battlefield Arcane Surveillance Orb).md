@@ -91,5 +91,5 @@
 
 - [이세나 니비스코르 (Isena Niviscor)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/12.이세나니비스코르.md)
 - [니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass)](../../01-19-1.무기/07.둔기/니비스코르의%20도면%20지휘봉%20-%20나침반%20(Blueprint%20Baton%20of%20Niviscor,%20Compass).md)
-- [오로라 배전망 제어 장갑 (Aurora Power Grid Control Gauntlets)](../../01-19-2.방어구/08.장갑·손목/오로라%20배전망%20제어%20장갑%20(Aurora%20Power%20Grid%20Control%20Gauntlets).md)
+- [오로라 배전망 제어 장갑 (Aurora Power Grid Control Gauntlets)](../../01-19-2.방어구/08.장갑·손목/오로라넥서스%20(Auroranexus).md)
 - [이세나의 코어 부유 지휘 좌 (Isena's Core Levitation Command Throne)](이세나의%20코어%20부유%20지휘%20좌%20(Isena's%20Core%20Levitation%20Command%20Throne).md)

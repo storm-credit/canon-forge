@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 - [베아트리스 녹튜아 (Beatrice Noctua)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/10.베아트리스녹튜아.md)
 - [은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers)](은장 무음 투척 단검 (Silver-Mounted Silent Throwing Daggers).md)
-- [심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire)](../../01-19-2.방어구/03.로브·마법복/심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire).md)
-- [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](../../01-19-2.방어구/04.망토·외투/빛바랜 올빼미 망토 (Faded Cloak of the Owl).md)
+- [심야의 무영 고딕 암살복 (Midnight Vantablack Gothic Assassin's Attire)](../../01-19-2.방어구/03.로브·마법복/녹티스맨틀 (Noctis Mantle).md)
+- [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](../../01-19-2.방어구/04.망토·외투/스트릭스 (Strix).md)

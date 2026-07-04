@@ -110,5 +110,5 @@
 ## 🔗 관련 문서
 
 - [에일린 그레이슨 (Eileen Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/08.에일린그레이슨.md)
-- [개척지 생존자의 야수 가죽 야전 경갑 — 그레이슨의 흉터 (Beast-Hide Field Armor of the Frontier Survivor — Grayson's Scars)](../../01-19-2.방어구/02.경갑/개척지%20생존자의%20야수%20가죽%20야전%20경갑%20—%20그레이슨의%20흉터%20(Beast-Hide%20Field%20Armor%20of%20the%20Frontier%20Survivor%20—%20Grayson's%20Scars).md)
+- [개척지 생존자의 야수 가죽 야전 경갑 — 그레이슨의 흉터 (Beast-Hide Field Armor of the Frontier Survivor — Grayson's Scars)](../../01-19-2.방어구/02.경갑/스트라타%20(Strata).md)
 - [피로 쓰인 맹세의 흑요 봉인패 — 그레이슨의 잿빛 폐 (Black Obsidian Seal-Plate of the Blood-Written Oath — Grayson's Ashen Lung)](../../01-19-3.악세서리/07.부적/피로%20쓰인%20맹세의%20흑요%20봉인패%20—%20그레이슨의%20잿빛%20폐%20(Black%20Obsidian%20Seal-Plate%20of%20the%20Blood-Written%20Oath%20—%20Grayson's%20Ashen%20Lung).md)

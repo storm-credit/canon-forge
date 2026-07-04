@@ -87,5 +87,5 @@
 ## 🔗 관련 문서
 
 - [바린 아카이브 (Barin Archive)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/14.바린아카이브.md)
-- [코덱시아 다중 렌즈 스캔 안경 (Codexia Multi-Lens Scan Spectacles)](../../01-19-2.방어구/06.투구·얼굴/코덱시아%20다중%20렌즈%20스캔%20안경%20(Codexia%20Multi-Lens%20Scan%20Spectacles).md)
+- [코덱시아 다중 렌즈 스캔 안경 (Codexia Multi-Lens Scan Spectacles)](../../01-19-2.방어구/06.투구·얼굴/붉은%20밑줄%20(Red%20Underline).md)
 - [병참선 격파 초연산 주판 (Hyper-Calculation Abacus of Supply-Line Severance)](../10.특수마도구·마력핵/병참선%20격파%20초연산%20주판%20(Hyper-Calculation%20Abacus%20of%20Supply-Line%20Severance).md)

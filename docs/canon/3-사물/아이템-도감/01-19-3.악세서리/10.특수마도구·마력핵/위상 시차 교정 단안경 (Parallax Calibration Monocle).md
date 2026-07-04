@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [세리오스 벤타리스 (Serios Ventaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/07.세리오스벤타리스.md)
 - [공간을 베어내는 차원의 열쇠 (Dimensional Key Slashing the Horizon)](../../01-19-1.무기/16.특수·마도구·기타/실문의%20열쇠%20(Riftkey).md)
-- [뫼비우스의 왜곡 프록코트 (Frock-Coat of Möbius Distortion)](../../01-19-2.방어구/03.로브·마법복/뫼비우스의%20왜곡%20프록코트%20(Frock-Coat%20of%20Möbius%20Distortion).md)
+- [뫼비우스의 왜곡 프록코트 (Frock-Coat of Möbius Distortion)](../../01-19-2.방어구/03.로브·마법복/뫼비우스%20(Mobius).md)

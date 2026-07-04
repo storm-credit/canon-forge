@@ -80,4 +80,4 @@
 ## 🔗 관련 문서
 - [갈라드리온 베일 (Galadrion Veil)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/09.갈라드리온베일.md)
 - [벨룸의 빛을 집어삼키는 심연핵(Abyssal Core) 지팡이 (Staff of the Light-Devouring Abyssal Core of Velum)](../../01-19-1.무기/12.지팡이·완드/심연핵%20(Abyssal%20Core).md)
-- [포톤(Photon)을 튕겨내는 절대 흡광(Absolute Absorption)의 코트 (Coat of Absolute Absorption that Repels Photons)](../../01-19-2.방어구/03.로브·마법복/포톤(Photon)을%20튕겨내는%20절대%20흡광(Absolute%20Absorption)의%20코트%20(Coat%20of%20Absolute%20Absorption%20that%20Repels%20Photons).md)
+- [포톤(Photon)을 튕겨내는 절대 흡광(Absolute Absorption)의 코트 (Coat of Absolute Absorption that Repels Photons)](../../01-19-2.방어구/03.로브·마법복/절대%20흡광%20(Absolute%20Absorption).md)

@@ -71,7 +71,7 @@
 
 - **셀레나 아르시엔** — 이 단검은 성능으로 평가받는 물건이 아니다. 5km 밖에서 저격하는 사수가 손가락 끝을 더듬어 뒷골목 생존자로 돌아가는 마지막 정체성 조각이다.
 - **[은빛 달의 투사궁 (Projection Bow of the Silver Moon)](../../01-19-1.무기/10.활·석궁/루나리스 (Lunaris).md)** — 주무기. 이 단검이 꺼내진다는 건 투사궁이 닿지 않는 상황이라는 뜻이다.
-- **[그림자 포식자의 가죽 (Leather of Shadow Eater)](../../01-19-2.방어구/02.경갑/그림자 포식자의 가죽 (Leather of Shadow Eater).md)** — 단검이 소매 안쪽에 고정되는 장갑복. 이 가죽이 있어야 단검을 숨길 수 있다.
+- **[그림자 포식자의 가죽 (Leather of Shadow Eater)](../../01-19-2.방어구/02.경갑/암영 포식 (Shadow Predation).md)** — 단검이 소매 안쪽에 고정되는 장갑복. 이 가죽이 있어야 단검을 숨길 수 있다.
 
 ---
 
@@ -95,4 +95,4 @@
 
 - [셀레나 아르시엔 (Selena Arsienne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/2.왕국연합/09.셀레나아르시엔.md)
 - [은빛 달의 투사궁 (Projection Bow of the Silver Moon)](../10.활·석궁/루나리스 (Lunaris).md)
-- [그림자 포식자의 가죽 (Leather of Shadow Eater)](../../01-19-2.방어구/02.경갑/그림자 포식자의 가죽 (Leather of Shadow Eater).md)
+- [그림자 포식자의 가죽 (Leather of Shadow Eater)](../../01-19-2.방어구/02.경갑/암영 포식 (Shadow Predation).md)

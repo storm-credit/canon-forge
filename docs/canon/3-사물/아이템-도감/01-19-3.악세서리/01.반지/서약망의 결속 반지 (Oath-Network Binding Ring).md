@@ -83,4 +83,4 @@
 ## 🔗 관련 문서
 - [에스카 페두스히엠스 (Eska Foedushiems)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/11.에스카페두스히엠스.md)
 - [심장의 펜던트 조각기 (Pendant Engraver of the Heart)](../02.목걸이·팬던트/심장의%20펜던트%20조각기%20(Pendant%20Engraver%20of%20the%20Heart).md)
-- [가시덤불 서약의 경갑 (Briar-Oath Chainmail)](../../01-19-2.방어구/02.경갑/가시덤불%20서약의%20경갑%20(Briar-Oath%20Chainmail).md)
+- [가시덤불 서약의 경갑 (Briar-Oath Chainmail)](../../01-19-2.방어구/02.경갑/가시덤불%20서약%20(Briar%20Oath).md)

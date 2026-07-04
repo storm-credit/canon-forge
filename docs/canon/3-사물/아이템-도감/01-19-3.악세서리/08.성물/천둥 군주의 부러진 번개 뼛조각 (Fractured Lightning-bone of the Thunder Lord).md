@@ -84,4 +84,4 @@
 ## 🔗 관련 문서
 - [벨트라누스 템페스투스 (Beltranus Tempestus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/03.벨트라누스템페스투스.md)
 - [템페스투스의 뇌명 창전극 (Thunder-Pulse Polearm of Tempestus)](../../../01-19-1.무기/06.창/템페스투스의 뇌명 창전극 (Thunder-Pulse Polearm of Tempestus).md)
-- [절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud)](../../../01-19-2.방어구/01.중갑/절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud).md)
+- [절연된 뇌운의 하프 플레이트 (Insulated Half-Plate of the Thundercloud)](../../../01-19-2.방어구/01.중갑/스톰프루프 (Stormproof).md)

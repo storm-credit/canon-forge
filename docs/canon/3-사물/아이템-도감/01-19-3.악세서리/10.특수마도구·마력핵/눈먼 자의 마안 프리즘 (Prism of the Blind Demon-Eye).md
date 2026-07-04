@@ -71,8 +71,8 @@
 ### 관련 캐릭터
 
 - **카엘리나 판타스마** — 이 마안 프리즘의 유일한 숙주. 유물이 그녀를 선택했는지, 아니면 그녀가 우연히 집어든 것인지조차 불명확하다. 한 가지 확실한 것은 프리즘이 융합된 이후 카엘리나의 뇌가 하나의 자아로 기능하지 못하게 됐다는 것이다.
-- **[봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless)](../../01-19-2.방어구/06.투구·얼굴/봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless).md)** — 이 마안 프리즘을 외부로부터 차단하는 봉인 도구. 안대 없이 프리즘이 주변 빛을 자동 흡수하기 시작하면 카엘리나의 뇌가 과부하로 심장이 멎을 수 있다.
-- **[빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](../../01-19-2.방어구/03.로브·마법복/빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror).md)** — 마안 프리즘이 굴절을 전개하는 공간적 영역을 코트의 거울 파편이 연장·증폭시키는 역할을 한다. 두 장비를 동시에 운용할 때 굴절 방의 밀도가 단독 발동 대비 약 40% 높아진다.
+- **[봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless)](../../01-19-2.방어구/06.투구·얼굴/거울봉인 (Mirror Lock).md)** — 이 마안 프리즘을 외부로부터 차단하는 봉인 도구. 안대 없이 프리즘이 주변 빛을 자동 흡수하기 시작하면 카엘리나의 뇌가 과부하로 심장이 멎을 수 있다.
+- **[빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](../../01-19-2.방어구/03.로브·마법복/브로큰미러 (Broken Mirror).md)** — 마안 프리즘이 굴절을 전개하는 공간적 영역을 코트의 거울 파편이 연장·증폭시키는 역할을 한다. 두 장비를 동시에 운용할 때 굴절 방의 밀도가 단독 발동 대비 약 40% 높아진다.
 
 ---
 
@@ -95,6 +95,6 @@
 ## 🔗 관련 문서
 
 - [카엘리나 판타스마 (Caelina Phantasma)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/10.카엘리나판타스마.md)
-- [봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless)](../../01-19-2.방어구/06.투구·얼굴/봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless).md)
-- [빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](../../01-19-2.방어구/03.로브·마법복/빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror).md)
+- [봉인 안대 — 눈먼 자의 검은 가죽 (Sealing Eyepatch of the Sightless)](../../01-19-2.방어구/06.투구·얼굴/거울봉인 (Mirror Lock).md)
+- [빛을 찢는 깨진 거울의 위장코트 (Camouflage Coat of the Shattered Mirror)](../../01-19-2.방어구/03.로브·마법복/브로큰미러 (Broken Mirror).md)
 - [판타스마의 다중 도탄(Ricochet) 쐐기석궁 (Multi-Ricochet Wedge Crossbow of Phantasma)](../../01-19-1.무기/10.활·석궁/판타스마 (Phantasma).md)

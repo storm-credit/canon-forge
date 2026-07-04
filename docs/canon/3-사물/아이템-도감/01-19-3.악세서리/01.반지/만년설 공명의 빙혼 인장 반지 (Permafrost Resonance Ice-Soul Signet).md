@@ -101,5 +101,5 @@
 
 - [프리야 글래시아 (Freya Glacia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/02.프리야글래시아.md)
 - [생츄어리 (Sanctuary of the Pure Glacier)](../../01-19-1.무기/16.특수·마도구·기타/생츄어리%20(Sanctuary).md)
-- [순록 정령의 제사장 로브 (Robe of the Caribou Spirit)](../../01-19-2.방어구/03.로브·마법복/순록%20정령의%20제사장%20로브%20(Robe%20of%20the%20Caribou%20Spirit).md)
+- [순록 정령의 제사장 로브 (Robe of the Caribou Spirit)](../../01-19-2.방어구/03.로브·마법복/순록%20정령의%20현현%20(Caribou%20Spirit%20Manifestation).md)
 - [얼어붙은 여명의 거울 목걸이 (Mirror Amulet of the Frozen Dawn)](../02.목걸이·팬던트/얼어붙은%20여명의%20거울%20목걸이%20(Mirror%20Amulet%20of%20the%20Frozen%20Dawn).md)

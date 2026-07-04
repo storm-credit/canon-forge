@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [루시아 더스크마르크 (Lucia Duskmark)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/14.루시아더스크마르크.md)
-- [마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan)](../../01-19-2.방어구/05.방패/마인드-실드%20은실%20가디건%20(Silver-Thread%20Mind-Shield%20Cardigan).md)
+- [마인드-실드 은실 가디건 (Silver-Thread Mind-Shield Cardigan)](../../01-19-2.방어구/05.방패/미러실크%20(Mirrorsilk).md)
 - [더스크마르크의 두꺼운 은테 마도구 안경 (Thick-Frame Silver Arcane Spectacles of Duskmark)](../04.머리장식/더스크마르크의%20두꺼운%20은테%20마도구%20안경%20(Thick-Frame%20Silver%20Arcane%20Spectacles%20of%20Duskmark).md)

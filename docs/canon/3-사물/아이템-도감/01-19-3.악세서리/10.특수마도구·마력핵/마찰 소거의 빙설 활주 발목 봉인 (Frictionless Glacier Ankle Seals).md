@@ -86,4 +86,4 @@
 
 ## 🔗 관련 문서
 - [라그나 벤토리시스 (Ragna Ventoricis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/08.라그나벤토리시스.md)
-- [무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit)](../../01-19-2.방어구/02.경갑/무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit).md)
+- [무소음 공기역학 가죽 슈트 (Aerodynamic Silence Leather Suit)](../../01-19-2.방어구/02.경갑/바람의 피부 (Skin of the Wind).md)

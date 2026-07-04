@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [카사리우스 비덴 (Casarius Viden)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/12.카사리우스비덴.md)
-- [마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold)](../../01-19-2.방어구/06.투구·얼굴/마력%20집중형%20금속%20안대%20(Mana-Focusing%20Metal%20Blindfold).md)
+- [마력 집중형 금속 안대 (Mana-Focusing Metal Blindfold)](../../01-19-2.방어구/06.투구·얼굴/실렌스%20실%20(Silence-Seal).md)
 - [비덴의 다안(多眼) 관측 크리스탈 (Multi-Eye Observation Crystal of Viden)](../../01-19-1.무기/16.특수·마도구·기타/비덴%20(Viden).md)

@@ -88,4 +88,4 @@
 ## 🔗 관련 문서
 
 - [스카디 크리오상귀스 (Skadi Cryosanguis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/01.스카디크리오상귀스.md)
-- [눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast)](../../01-19-2.방어구/02.경갑/눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast).md)
+- [눈사태의 짐승 가죽 요갑 (Pelt of the Avalanche Beast)](../../01-19-2.방어구/02.경갑/눈사태 압도 (Avalanche Dominion).md)

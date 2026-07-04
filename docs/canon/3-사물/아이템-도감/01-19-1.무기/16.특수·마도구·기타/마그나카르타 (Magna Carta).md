@@ -99,4 +99,4 @@
 
 - [하드리아누스 풀비스 (Hadrianus Pulvis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/11.하드리아누스풀비스.md)
 - [풀비스의 썩어붙은 유골성배 (Rotten Bone-Chalice of Pulvis)](../../../01-19-3.악세서리/08.성물/풀비스의%20썩어붙은%20유골성배%20(Rotten%20Bone-Chalice%20of%20Pulvis).md)
-- [먼지를 흡수하는 죽음의 수의(Shroud) 로브 (Death-Shroud Robe that Absorbs Dust)](../../01-19-2.방어구/03.로브·마법복/먼지를%20흡수하는%20죽음의%20수의(Shroud)%20로브%20(Death-Shroud%20Robe%20that%20Absorbs%20Dust).md)
+- [먼지를 흡수하는 죽음의 수의(Shroud) 로브 (Death-Shroud Robe that Absorbs Dust)](../../01-19-2.방어구/03.로브·마법복/풀비스%20슈라우드%20(Pulvis%20Shroud).md)

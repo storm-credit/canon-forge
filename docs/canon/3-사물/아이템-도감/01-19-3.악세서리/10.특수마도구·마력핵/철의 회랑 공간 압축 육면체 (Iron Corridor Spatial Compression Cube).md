@@ -93,6 +93,6 @@
 ## 🔗 관련 문서
 
 - [레오나르도 벨레스 (Leonardo Veles)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/2.레오나르도벨레스.md)
-- [군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard')](../../01-19-2.방어구/05.방패/군마의%20타워%20실드%20'이모탈%20가드'%20(Tower%20Shield%20'Immortal%20Guard').md)
+- [군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard')](../../01-19-2.방어구/05.방패/이모탈%20가드%20(Immortal%20Guard).md)
 - [순교자의 산호 닻 (Coral Anchor of the Martyr)](../08.성물/순교자의%20산호%20닻%20(Coral%20Anchor%20of%20the%20Martyr).md)
-- [불침 요새의 특수 합금 흉갑 (Unsinkable Fortress Special Alloy Breastplate)](../../01-19-2.방어구/01.중갑/불침%20요새의%20특수%20합금%20흉갑%20(Unsinkable%20Fortress%20Special%20Alloy%20Breastplate).md)
+- [불침 요새의 특수 합금 흉갑 (Unsinkable Fortress Special Alloy Breastplate)](../../01-19-2.방어구/01.중갑/아이언클래드%20(Ironclad).md)

@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [루시안 라크루아 (Lucian Lacroix)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-7.그림자첩보조직소속/4.황야의추적자들/07.루시안라크루아.md)
-- [오래된 맹세의 방패 — 루시안 라크루아의 여명 파수 수호구 (Shield of the Ancient Vow — Lucian Lacroix's Dawn-Watch Ward)](../../01-19-2.방어구/05.방패/오래된%20맹세의%20방패%20—%20루시안%20라크루아의%20여명%20파수%20수호구%20(Shield%20of%20the%20Ancient%20Vow%20—%20Lucian%20Lacroix's%20Dawn-Watch%20Ward).md)
+- [오래된 맹세의 방패 — 루시안 라크루아의 여명 파수 수호구 (Shield of the Ancient Vow — Lucian Lacroix's Dawn-Watch Ward)](../../01-19-2.방어구/05.방패/던호크%20(Dawnhawk).md)
 - [황야의 추적자들](../../../../2-무대/세력/그림자첩보/황야의추적자들/황야의추적자들.md)

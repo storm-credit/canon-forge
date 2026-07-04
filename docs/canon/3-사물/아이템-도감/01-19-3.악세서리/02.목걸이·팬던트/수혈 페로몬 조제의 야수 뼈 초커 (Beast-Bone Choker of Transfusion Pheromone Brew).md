@@ -94,4 +94,4 @@
 ## 🔗 관련 문서
 - [하랄드 크루엔투스 (Harald Cruentus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/11.하랄드크루엔투스.md)
 - [혈맹 알파의 송곳니 전쟁 부적 (Blood-Pact Alpha Fang War Talisman)](../07.부적/혈맹%20알파의%20송곳니%20전쟁%20부적%20(Blood-Pact%20Alpha%20Fang%20War%20Talisman).md)
-- [피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt)](../../01-19-2.방어구/02.경갑/피로%20물든%20알파의%20목가죽%20(Blood-Soaked%20Alpha%20Pelt).md)
+- [피로 물든 알파의 목가죽 (Blood-Soaked Alpha Pelt)](../../01-19-2.방어구/02.경갑/알파하이드%20(Alpha-Hide).md)

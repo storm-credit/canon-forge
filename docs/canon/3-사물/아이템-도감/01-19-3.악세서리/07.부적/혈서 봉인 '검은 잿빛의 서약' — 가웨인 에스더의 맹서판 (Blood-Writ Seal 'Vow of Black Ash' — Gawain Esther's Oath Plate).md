@@ -121,5 +121,5 @@
 
 - [가웨인 에스더 (Gawain Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/3.아르헨타은영단/01.가웨인에스더.md)
 - [칠흑의 분쇄검 — 가웨인 에스더의 심연 광석 분쇄검 (Obsidian Crusher — Gawain Esther's Abyssal Ore Greatsword)](../../01-19-1.무기/02.양손검/팬텀엣지 (Phantom Edge).md)
-- [아르헨타 은영단 개척지 흑린 전투경갑 (Argenta Frontier Black-Scale Combat Leather)](../../01-19-2.방어구/02.경갑/아르헨타 은영단 개척지 흑린 전투경갑 (Argenta Frontier Black-Scale Combat Leather).md)
+- [아르헨타 은영단 개척지 흑린 전투경갑 (Argenta Frontier Black-Scale Combat Leather)](../../01-19-2.방어구/02.경갑/리빙 셰이드 (Living Shade).md)
 - 아르헨타 백은의 추적단 (Argenta Silver Trackers)

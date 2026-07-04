@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [이벨린 오크우드 (Evelynn Oakwood, 하이본 귀족 철고)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/2.하이본귀족철고/09.이벨린오크우드.md)
-- [오래된 맹세의 방패 — 이벨린 오크우드의 조문자 수호구 (Shield of the Ancient Vow — Evelynn Oakwood's Mourner's Ward)](../../01-19-2.방어구/05.방패/오래된%20맹세의%20방패%20—%20이벨린%20오크우드의%20조문자%20수호구%20(Shield%20of%20the%20Ancient%20Vow%20—%20Evelynn%20Oakwood's%20Mourner's%20Ward).md)
+- [오래된 맹세의 방패 — 이벨린 오크우드의 조문자 수호구 (Shield of the Ancient Vow — Evelynn Oakwood's Mourner's Ward)](../../01-19-2.방어구/05.방패/조문자의%20방패%20(Mourner%20Ward).md)
 - [하이본 귀족 철고 (Highborn Platinum Reserve)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/2.하이본귀족철고/index.md)

@@ -1,86 +1,110 @@
 ---
 정본명: 망토·외투
 유형: 도감 인덱스
-검증상태: 분류 재정비 index 재생성 (2026-06-25)
+검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
 ---
 
 # 📚 망토·외투
 
-## 항목 (74)
+## 항목 (98)
 
 | 아이템 | 링크 |
 |--------|------|
-| 가죽 끈 주렁주렁 달린 은회색 서기관 외투 (Silver-Grey Archivist Surcoat of Leather Straps) | [가죽 끈 주렁주렁 달린 은회색 서기관 외투 (Silver-Grey Archivist Surcoat of Leather Straps)](가죽%20끈%20주렁주렁%20달린%20은회색%20서기관%20외투%20%28Silver-Grey%20Archivist%20Surcoat%20of%20Leather%20Straps%29.md) |
+| 가오리 활강막 (Mantawing) | [가오리 활강막 (Mantawing)](가오리%20활강막%20%28Mantawing%29.md) |
 | 골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket) | [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](골드마켓의%20누더기%20망토%20%28Ragged%20Cloak%20of%20Goldmarket%29.md) |
-| 공허 거미의 그림자 망토 (Void-Spider Shadow Cloak) | [공허 거미의 그림자 망토 (Void-Spider Shadow Cloak)](공허%20거미의%20그림자%20망토%20%28Void-Spider%20Shadow%20Cloak%29.md) |
-| 군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy) | [군청 폭풍 밀봉 장교 롱코트 (Storm-Sealed Admiral's Long Coat of Deep Navy)](군청%20폭풍%20밀봉%20장교%20롱코트%20%28Storm-Sealed%20Admiral's%20Long%20Coat%20of%20Deep%20Navy%29.md) |
-| 그림자 기생 흑회색 두건 코트 (Shadow-Parasite Ash-Grey Hood Coat) | [그림자 기생 흑회색 두건 코트 (Shadow-Parasite Ash-Grey Hood Coat)](그림자%20기생%20흑회색%20두건%20코트%20%28Shadow-Parasite%20Ash-Grey%20Hood%20Coat%29.md) |
-| 그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation) | [그림자 동화의 잿빛 실크 망토 (Ash-Silk Cloak of Shadow Assimilation)](그림자%20동화의%20잿빛%20실크%20망토%20%28Ash-Silk%20Cloak%20of%20Shadow%20Assimilation%29.md) |
+| 금단서고의 외피 (Mantle of the Forbidden Archive) | [금단서고의 외피 (Mantle of the Forbidden Archive)](금단서고의%20외피%20%28Mantle%20of%20the%20Forbidden%20Archive%29.md) |
 | 기워 입은 수선 학포 (Mended Academy Mantle) | [기워 입은 수선 학포 (Mended Academy Mantle)](기워%20입은%20수선%20학포%20%28Mended%20Academy%20Mantle%29.md) |
-| 끝없는 욕망의 장물 코트(Coat of the Fence) | [끝없는 욕망의 장물 코트(Coat of the Fence)](끝없는%20욕망의%20장물%20코트%28Coat%20of%20the%20Fence%29.md) |
-| 내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption) | [내부 진동을 흡수하는 방음성 둔갑 망토 (Soundproof Cloak of Vibration Absorption)](내부%20진동을%20흡수하는%20방음성%20둔갑%20망토%20%28Soundproof%20Cloak%20of%20Vibration%20Absorption%29.md) |
+| 까마귀의 날개 (Raven's Wing) | [까마귀의 날개 (Raven's Wing)](까마귀의%20날개%20%28Raven's%20Wing%29.md) |
+| 나이트셰이드 베일 (Nightshade Veil) | [나이트셰이드 베일 (Nightshade Veil)](나이트셰이드%20베일%20%28Nightshade%20Veil%29.md) |
+| 네임리스 레저 (Nameless Ledger) | [네임리스 레저 (Nameless Ledger)](네임리스%20레저%20%28Nameless%20Ledger%29.md) |
+| 녹스 에코 (Nox Echo) | [녹스 에코 (Nox Echo)](녹스%20에코%20%28Nox%20Echo%29.md) |
+| 녹터널 (Nocturne) | [녹터널 (Nocturne)](녹터널%20%28Nocturne%29.md) |
+| 녹티벨룸 (Noctivelum) | [녹티벨룸 (Noctivelum)](녹티벨룸%20%28Noctivelum%29.md) |
+| 녹티스 베일 (Noctis Veil) | [녹티스 베일 (Noctis Veil)](녹티스%20베일%20%28Noctis%20Veil%29.md) |
+| 녹틸룩스 (Noctilux) | [녹틸룩스 (Noctilux)](녹틸룩스%20%28Noctilux%29.md) |
 | 돌풍의 비행 망토 (Flight Cloak of the Gale) | [돌풍의 비행 망토 (Flight Cloak of the Gale)](돌풍의%20비행%20망토%20%28Flight%20Cloak%20of%20the%20Gale%29.md) |
-| 동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism) | [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](동충하초의%20강제%20기생%20외투%20%28Coat%20of%20Cordyceps%20Parasitism%29.md) |
 | 디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition) | [디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition)](디포지션의%20위장%20가스%20망토%20%28Camouflage%20Gas%20Cloak%20of%20Deposition%29.md) |
-| 레드스톰의 진홍 폭풍 돌격 롱코트 (Redstorm Crimson Storm Assault Longcoat) | [레드스톰의 진홍 폭풍 돌격 롱코트 (Redstorm Crimson Storm Assault Longcoat)](레드스톰의%20진홍%20폭풍%20돌격%20롱코트%20%28Redstorm%20Crimson%20Storm%20Assault%20Longcoat%29.md) |
-| 렘수면의 모래 베일 (Veil of REM Sand) | [렘수면의 모래 베일 (Veil of REM Sand)](렘수면의%20모래%20베일%20%28Veil%20of%20REM%20Sand%29.md) |
-| 망각의 그림자 투명 망토 (Transparent Cloak of Forgotten Shadow) | [망각의 그림자 투명 망토 (Transparent Cloak of Forgotten Shadow)](망각의%20그림자%20투명%20망토%20%28Transparent%20Cloak%20of%20Forgotten%20Shadow%29.md) |
-| 망각의 진동 베일 (Vibration Veil of Oblivion) | [망각의 진동 베일 (Vibration Veil of Oblivion)](망각의%20진동%20베일%20%28Vibration%20Veil%20of%20Oblivion%29.md) |
+| 라크리모사 (Lacrimosa) | [라크리모사 (Lacrimosa)](라크리모사%20%28Lacrimosa%29.md) |
+| 레드스톰 클록 (Redstorm Cloak) | [레드스톰 클록 (Redstorm Cloak)](레드스톰%20클록%20%28Redstorm%20Cloak%29.md) |
+| 레베니오 (Revenio) | [레베니오 (Revenio)](레베니오%20%28Revenio%29.md) |
+| 레테 베일 (Lethe Veil) | [레테 베일 (Lethe Veil)](레테%20베일%20%28Lethe%20Veil%29.md) |
+| 루나 엄브라 (Luna Umbra) | [루나 엄브라 (Luna Umbra)](루나%20엄브라%20%28Luna%20Umbra%29.md) |
+| 루멘팔사 (Lumenfalsa) | [루멘팔사 (Lumenfalsa)](루멘팔사%20%28Lumenfalsa%29.md) |
+| 리버스 기어 (Reverse Gear) | [리버스 기어 (Reverse Gear)](리버스%20기어%20%28Reverse%20Gear%29.md) |
+| 리즌 위브 (Reason Weave) | [리즌 위브 (Reason Weave)](리즌%20위브%20%28Reason%20Weave%29.md) |
+| 마그마 슈라우드 (Magma Shroud) | [마그마 슈라우드 (Magma Shroud)](마그마%20슈라우드%20%28Magma%20Shroud%29.md) |
 | 망토 (Cloaks) | [망토 (Cloaks)](망토%20%28Cloaks%29.md) |
-| 망토 (Cloaks) | [망토 (Cloaks)](망토%20%28Cloaks%29_4.md) |
-| 맹독의 보라 덩굴 백합망토 (Venomous Purple Lily-Vine Cloak) | [맹독의 보라 덩굴 백합망토 (Venomous Purple Lily-Vine Cloak)](맹독의%20보라%20덩굴%20백합망토%20%28Venomous%20Purple%20Lily-Vine%20Cloak%29.md) |
-| 물보라의 신기루 장막 (Mirage Veil of Seafoam) | [물보라의 신기루 장막 (Mirage Veil of Seafoam)](물보라의%20신기루%20장막%20%28Mirage%20Veil%20of%20Seafoam%29.md) |
-| 밀납 코팅 방수 장막 (Wax-Sealed Habit) | [밀납 코팅 방수 장막 (Wax-Sealed Habit)](밀납%20코팅%20방수%20장막%20%28Wax-Sealed%20Habit%29.md) |
-| 바람길잡이의 망토(Cloak of the Zephyr) | [바람길잡이의 망토(Cloak of the Zephyr)](바람길잡이의%20망토%28Cloak%20of%20the%20Zephyr%29.md) |
-| 반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance) | [반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance)](반향%28Echo%29%20포착%20비늘망토%20%28Scale-cloak%20of%20Resonance%29.md) |
-| 밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky) | [밤하늘의 위장 은신 망토 (Camouflage Cloak of the Night Sky)](밤하늘의%20위장%20은신%20망토%20%28Camouflage%20Cloak%20of%20the%20Night%20Sky%29.md) |
-| 번개 군주의 남색 오리엔탈 비단 롱코트 (Navy Oriental Silk Longcoat of the Lightning Lord) | [번개 군주의 남색 오리엔탈 비단 롱코트 (Navy Oriental Silk Longcoat of the Lightning Lord)](번개%20군주의%20남색%20오리엔탈%20비단%20롱코트%20%28Navy%20Oriental%20Silk%20Longcoat%20of%20the%20Lightning%20Lord%29.md) |
-| 별빛 장막의 칠흑 베일 (Veil of Starlit Onyx) | [별빛 장막의 칠흑 베일 (Veil of Starlit Onyx)](별빛%20장막의%20칠흑%20베일%20%28Veil%20of%20Starlit%20Onyx%29.md) |
-| 불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion) | [불가사의한 운명 회피의 베일 (Veil of Inscrutable Fate-Evasion)](불가사의한%20운명%20회피의%20베일%20%28Veil%20of%20Inscrutable%20Fate-Evasion%29.md) |
-| 붉은 폭풍 돌격 망토 (Red Storm Assault Cloak) | [붉은 폭풍 돌격 망토 (Red Storm Assault Cloak)](붉은%20폭풍%20돌격%20망토%20%28Red%20Storm%20Assault%20Cloak%29.md) |
-| 비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils) | [비탄의 넝쿨손 구호 망토 (Mantle of Sorrow's Tendrils)](비탄의%20넝쿨손%20구호%20망토%20%28Mantle%20of%20Sorrow's%20Tendrils%29.md) |
-| 빛바랜 올빼미 망토 (Faded Cloak of the Owl) | [빛바랜 올빼미 망토 (Faded Cloak of the Owl)](빛바랜%20올빼미%20망토%20%28Faded%20Cloak%20of%20the%20Owl%29.md) |
-| 사자 망토 — 폭풍을 가르는 황금의 사자 (Lion-Hide War Mantle of the Golden Admiral) | [사자 망토 — 폭풍을 가르는 황금의 사자 (Lion-Hide War Mantle of the Golden Admiral)](사자%20망토%20—%20폭풍을%20가르는%20황금의%20사자%20%28Lion-Hide%20War%20Mantle%20of%20the%20Golden%20Admiral%29.md) |
-| 서리 늑대 영체 뼈 망토 (Spectral Frost-Wolf Bone Cloak) | [서리 늑대 영체 뼈 망토 (Spectral Frost-Wolf Bone Cloak)](서리%20늑대%20영체%20뼈%20망토%20%28Spectral%20Frost-Wolf%20Bone%20Cloak%29.md) |
-| 선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum) | [선혈이 물든 아르젠툼 은빛 망토 (Blood-Soaked Silver Cloak of Argentum)](선혈이%20물든%20아르젠툼%20은빛%20망토%20%28Blood-Soaked%20Silver%20Cloak%20of%20Argentum%29.md) |
-| 성화 제독 코트 (Holy Flame Admiral's Coat) | [성화 제독 코트 (Holy Flame Admiral's Coat)](성화%20제독%20코트%20%28Holy%20Flame%20Admiral's%20Coat%29.md) |
-| 솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment) | [솔라리스 처단의 붉은 서코트 (Crimson Surcoat of Solaris Judgment)](솔라리스%20처단의%20붉은%20서코트%20%28Crimson%20Surcoat%20of%20Solaris%20Judgment%29.md) |
-| 순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds) | [순간 엇갈림의 회중 망토 (Pocket-Watch Cloak of Split Seconds)](순간%20엇갈림의%20회중%20망토%20%28Pocket-Watch%20Cloak%20of%20Split%20Seconds%29.md) |
-| 순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr) | [순교자의 피 묻은 제국 망토 (Blood-stained Empire Cloak of the Martyr)](순교자의%20피%20묻은%20제국%20망토%20%28Blood-stained%20Empire%20Cloak%20of%20the%20Martyr%29.md) |
-| 순교자의 피맺힌 베일 (Blood-Stained Veil of the Martyr) | [순교자의 피맺힌 베일 (Blood-Stained Veil of the Martyr)](순교자의%20피맺힌%20베일%20%28Blood-Stained%20Veil%20of%20the%20Martyr%29.md) |
-| 순백의 응급 방어 장막 (Aegis of the White Ward) | [순백의 응급 방어 장막 (Aegis of the White Ward)](순백의%20응급%20방어%20장막%20%28Aegis%20of%20the%20White%20Ward%29.md) |
-| 순풍의 투명 망토 (Transparent Cloak of Tailwind) | [순풍의 투명 망토 (Transparent Cloak of Tailwind)](순풍의%20투명%20망토%20%28Transparent%20Cloak%20of%20Tailwind%29.md) |
-| 시야 비틀림의 망토 (Cloak of Visual Distortion) | [시야 비틀림의 망토 (Cloak of Visual Distortion)](시야%20비틀림의%20망토%20%28Cloak%20of%20Visual%20Distortion%29.md) |
-| 역광의 위장 망토 (Camouflage Cloak of Backlight) | [역광의 위장 망토 (Camouflage Cloak of Backlight)](역광의%20위장%20망토%20%28Camouflage%20Cloak%20of%20Backlight%29.md) |
-| 역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field) | [역장 파생 숄 '패러데이의 장막' (Faraday Mantle Force-Field)](역장%20파생%20숄%20'패러데이의%20장막'%20%28Faraday%20Mantle%20Force-Field%29.md) |
-| 오르도스 은청색 치유사 망토 코트 (Ordos Silver-Blue Healer's Cloak Coat) | [오르도스 은청색 치유사 망토 코트 (Ordos Silver-Blue Healer's Cloak Coat)](오르도스%20은청색%20치유사%20망토%20코트%20%28Ordos%20Silver-Blue%20Healer's%20Cloak%20Coat%29.md) |
+| 망토 (Cloaks)_4 | [망토 (Cloaks)_4](망토%20%28Cloaks%29_4.md) |
+| 모르테셔라우드 (Morteshroud) | [모르테셔라우드 (Morteshroud)](모르테셔라우드%20%28Morteshroud%29.md) |
+| 무색의 그림자 (Chromeless Shadow) | [무색의 그림자 (Chromeless Shadow)](무색의%20그림자%20%28Chromeless%20Shadow%29.md) |
+| 미셀리아 (Mycelia) | [미셀리아 (Mycelia)](미셀리아%20%28Mycelia%29.md) |
+| 미제리코르 (Misericor) | [미제리코르 (Misericor)](미제리코르%20%28Misericor%29.md) |
+| 바이올렛 리프레인 (Violet Refrain) | [바이올렛 리프레인 (Violet Refrain)](바이올렛%20리프레인%20%28Violet%20Refrain%29.md) |
+| 베르밀리아 (Vermilia) | [베르밀리아 (Vermilia)](베르밀리아%20%28Vermilia%29.md) |
+| 베어체스트 보우 (Bare-Chested Vow) | [베어체스트 보우 (Bare-Chested Vow)](베어체스트%20보우%20%28Bare-Chested%20Vow%29.md) |
+| 보이드 클록 (Void Cloak) | [보이드 클록 (Void Cloak)](보이드%20클록%20%28Void%20Cloak%29.md) |
+| 보토스 (Vothos) | [보토스 (Vothos)](보토스%20%28Vothos%29.md) |
+| 본프로스트 (Bonefrost) | [본프로스트 (Bonefrost)](본프로스트%20%28Bonefrost%29.md) |
+| 볼트워드 (Voltward) | [볼트워드 (Voltward)](볼트워드%20%28Voltward%29.md) |
+| 블러드플래그 (Bloodflag) | [블러드플래그 (Bloodflag)](블러드플래그%20%28Bloodflag%29.md) |
+| 비질라스트라 (Vigilastra) | [비질라스트라 (Vigilastra)](비질라스트라%20%28Vigilastra%29.md) |
+| 사일런시아 (Silencia) | [사일런시아 (Silencia)](사일런시아%20%28Silencia%29.md) |
+| 서리 경계선 (Frost Boundary) | [서리 경계선 (Frost Boundary)](서리%20경계선%20%28Frost%20Boundary%29.md) |
+| 세이렌 미라주 (Siren Mirage) | [세이렌 미라주 (Siren Mirage)](세이렌%20미라주%20%28Siren%20Mirage%29.md) |
+| 솔라브랜드 (Solarbrand) | [솔라브랜드 (Solarbrand)](솔라브랜드%20%28Solarbrand%29.md) |
+| 솔렘버 (Solember) | [솔렘버 (Solember)](솔렘버%20%28Solember%29.md) |
+| 솜니아 베일 (Somnia Veil) | [솜니아 베일 (Somnia Veil)](솜니아%20베일%20%28Somnia%20Veil%29.md) |
+| 스크립토리움 (Scriptorium) | [스크립토리움 (Scriptorium)](스크립토리움%20%28Scriptorium%29.md) |
+| 스텔라두스 (Stelladus) | [스텔라두스 (Stelladus)](스텔라두스%20%28Stelladus%29.md) |
+| 스텔라리스 로브 (Stellaris Robe) | [스텔라리스 로브 (Stellaris Robe)](스텔라리스%20로브%20%28Stellaris%20Robe%29.md) |
+| 스텔라스티치 (Stellastitch) | [스텔라스티치 (Stellastitch)](스텔라스티치%20%28Stellastitch%29.md) |
+| 스톰헤이븐 (Stormhaven) | [스톰헤이븐 (Stormhaven)](스톰헤이븐%20%28Stormhaven%29.md) |
+| 스트릭스 (Strix) | [스트릭스 (Strix)](스트릭스%20%28Strix%29.md) |
+| 실버미라주 (Silver Mirage) | [실버미라주 (Silver Mirage)](실버미라주%20%28Silver%20Mirage%29.md) |
+| 실피어 (Sylphier) | [실피어 (Sylphier)](실피어%20%28Sylphier%29.md) |
+| 아르젠가르드 (Argenguard) | [아르젠가르드 (Argenguard)](아르젠가르드%20%28Argenguard%29.md) |
+| 아스트룸 (Astrum) | [아스트룸 (Astrum)](아스트룸%20%28Astrum%29.md) |
+| 아스트리페르 (Astrifer) | [아스트리페르 (Astrifer)](아스트리페르%20%28Astrifer%29.md) |
+| 아우레온 (Aureon) | [아우레온 (Aureon)](아우레온%20%28Aureon%29.md) |
+| 아우렌티아 (Aurentia) | [아우렌티아 (Aurentia)](아우렌티아%20%28Aurentia%29.md) |
+| 애쉔 윈드 (Ashen Wind) | [애쉔 윈드 (Ashen Wind)](애쉔%20윈드%20%28Ashen%20Wind%29.md) |
+| 애쉬크립트 (Ashcrypt) | [애쉬크립트 (Ashcrypt)](애쉬크립트%20%28Ashcrypt%29.md) |
+| 에레보스 (Erebos) | [에레보스 (Erebos)](에레보스%20%28Erebos%29.md) |
+| 역류 흑막포 (Fluxmourne) | [역류 흑막포 (Fluxmourne)](역류%20흑막포%20%28Fluxmourne%29.md) |
+| 오닉시아 (Onyxia) | [오닉시아 (Onyxia)](오닉시아%20%28Onyxia%29.md) |
+| 오로바르드 (Aurovard) | [오로바르드 (Aurovard)](오로바르드%20%28Aurovard%29.md) |
 | 외투 (Surcoats) | [외투 (Surcoats)](외투%20%28Surcoats%29.md) |
-| 욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire) | [욕망 흡착의 은사 코트 (Silver-Thread Coat of Desire)](욕망%20흡착의%20은사%20코트%20%28Silver-Thread%20Coat%20of%20Desire%29.md) |
-| 월식의 망토 (Cloak of Lunar Eclipse) | [월식의 망토 (Cloak of Lunar Eclipse)](월식의%20망토%20%28Cloak%20of%20Lunar%20Eclipse%29.md) |
-| 윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream) | [윈드스트림의 사냥 망토 (Hunter's Cloak of Windstream)](윈드스트림의%20사냥%20망토%20%28Hunter's%20Cloak%20of%20Windstream%29.md) |
-| 유랑 극단의 은보라 망토와 깃털 모자 (Silver-Violet Wandering Troupe Cloak & Feather Hat) | [유랑 극단의 은보라 망토와 깃털 모자 (Silver-Violet Wandering Troupe Cloak & Feather Hat)](유랑%20극단의%20은보라%20망토와%20깃털%20모자%20%28Silver-Violet%20Wandering%20Troupe%20Cloak%20&%20Feather%20Hat%29.md) |
-| 이성의 재봉선 망토 (Cape of the Thread of Reason) | [이성의 재봉선 망토 (Cape of the Thread of Reason)](이성의%20재봉선%20망토%20%28Cape%20of%20the%20Thread%20of%20Reason%29.md) |
-| 재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano) | [재앙이 깃든 화산의 망토 (Cloak of the Calamitous Volcano)](재앙이%20깃든%20화산의%20망토%20%28Cloak%20of%20the%20Calamitous%20Volcano%29.md) |
-| 저주에 타버린 은빛 유랑 망토 (Curse-Charred Silver Wanderer's Cloak) | [저주에 타버린 은빛 유랑 망토 (Curse-Charred Silver Wanderer's Cloak)](저주에%20타버린%20은빛%20유랑%20망토%20%28Curse-Charred%20Silver%20Wanderer's%20Cloak%29.md) |
-| 절연된 참모의 망토 (Insulated Cloak of the Staff) | [절연된 참모의 망토 (Insulated Cloak of the Staff)](절연된%20참모의%20망토%20%28Insulated%20Cloak%20of%20the%20Staff%29.md) |
-| 제피로스 흑회 여행 망토 — 가웨인 에스더의 바람길 외투 (Zephyrus Ash-Black Travel Cloak — Gawain Esther's Wind-Road Mantle) | [제피로스 흑회 여행 망토 — 가웨인 에스더의 바람길 외투 (Zephyrus Ash-Black Travel Cloak — Gawain Esther's Wind-Road Mantle)](제피로스%20흑회%20여행%20망토%20—%20가웨인%20에스더의%20바람길%20외투%20%28Zephyrus%20Ash-Black%20Travel%20Cloak%20—%20Gawain%20Esther's%20Wind-Road%20Mantle%29.md) |
-| 지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe) | [지맥 황제의 착좌 흑요 장포 (Leyline Emperor's Seated Obsidian Robe)](지맥%20황제의%20착좌%20흑요%20장포%20%28Leyline%20Emperor's%20Seated%20Obsidian%20Robe%29.md) |
-| 창백한 밤성운의 베일 (Veil of the Pale Nebula) | [창백한 밤성운의 베일 (Veil of the Pale Nebula)](창백한%20밤성운의%20베일%20%28Veil%20of%20the%20Pale%20Nebula%29.md) |
-| 칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat) | [칠흑 까마귀 깃털 장의사 롱코트 (Corvid Undertaker's Longcoat)](칠흑%20까마귀%20깃털%20장의사%20롱코트%20%28Corvid%20Undertaker's%20Longcoat%29.md) |
-| 칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition) | [칠흑 박학의 지식인 코트 (Jet-Black Scholar's Coat of Erudition)](칠흑%20박학의%20지식인%20코트%20%28Jet-Black%20Scholar's%20Coat%20of%20Erudition%29.md) |
-| 칠흑 홑겹 장검객 활강 망토 (Jet-Black Swordsman's Gliding Cloak) | [칠흑 홑겹 장검객 활강 망토 (Jet-Black Swordsman's Gliding Cloak)](칠흑%20홑겹%20장검객%20활강%20망토%20%28Jet-Black%20Swordsman's%20Gliding%20Cloak%29.md) |
-| 침묵의 흑막 베일 (Silent Veil of the Void) | [침묵의 흑막 베일 (Silent Veil of the Void)](침묵의%20흑막%20베일%20%28Silent%20Veil%20of%20the%20Void%29.md) |
-| 침잠하는 자의 방한 백사 두건 망토 (Hoarfrost Cowl-Cloak of the Sinking Wanderer) | [침잠하는 자의 방한 백사 두건 망토 (Hoarfrost Cowl-Cloak of the Sinking Wanderer)](침잠하는%20자의%20방한%20백사%20두건%20망토%20%28Hoarfrost%20Cowl-Cloak%20of%20the%20Sinking%20Wanderer%29.md) |
-| 카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale) | [카멜레온 용린의 심연 망토 (Abyssal Cloak of Chameleon Dragon-Scale)](카멜레온%20용린의%20심연%20망토%20%28Abyssal%20Cloak%20of%20Chameleon%20Dragon-Scale%29.md) |
-| 카멜레온의 환영 장막 (Illusionary Veil of the Chameleon) | [카멜레온의 환영 장막 (Illusionary Veil of the Chameleon)](카멜레온의%20환영%20장막%20%28Illusionary%20Veil%20of%20the%20Chameleon%29.md) |
-| 크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak) | [크라켄의 먹물 젤리 망토 (Squid-Ink Jelly Cloak)](크라켄의%20먹물%20젤리%20망토%20%28Squid-Ink%20Jelly%20Cloak%29.md) |
-| 태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse) | [태양풍을 흡수하는 일식(Eclipse)의 베일 (Veil of Eclipse)](태양풍을%20흡수하는%20일식%28Eclipse%29의%20베일%20%28Veil%20of%20Eclipse%29.md) |
-| 투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void) | [투명화 마법 도료가 발린 위장 망토 (Camouflage Cloak of the Void)](투명화%20마법%20도료가%20발린%20위장%20망토%20%28Camouflage%20Cloak%20of%20the%20Void%29.md) |
+| 용린 심연막 (Abyssal Dragonscale) | [용린 심연막 (Abyssal Dragonscale)](용린%20심연막%20%28Abyssal%20Dragonscale%29.md) |
+| 움브라텔라 (Umbratela) | [움브라텔라 (Umbratela)](움브라텔라%20%28Umbratela%29.md) |
+| 웨이워른 (Wayworn) | [웨이워른 (Wayworn)](웨이워른%20%28Wayworn%29.md) |
+| 윈드레이스 (Windwraith) | [윈드레이스 (Windwraith)](윈드레이스%20%28Windwraith%29.md) |
+| 은엽수의 마지막 잎 (Last Leaf of the Silverwood) | [은엽수의 마지막 잎 (Last Leaf of the Silverwood)](은엽수의%20마지막%20잎%20%28Last%20Leaf%20of%20the%20Silverwood%29.md) |
+| 이지스알바 (Aegis Alba) | [이지스알바 (Aegis Alba)](이지스알바%20%28Aegis%20Alba%29.md) |
+| 이클립스 베일 (Eclipse Veil) | [이클립스 베일 (Eclipse Veil)](이클립스%20베일%20%28Eclipse%20Veil%29.md) |
+| 잉크 타이드 (Ink Tide) | [잉크 타이드 (Ink Tide)](잉크%20타이드%20%28Ink%20Tide%29.md) |
+| 장물 코트 (Coat of the Fence) | [장물 코트 (Coat of the Fence)](장물%20코트%20%28Coat%20of%20the%20Fence%29.md) |
+| 제피르 베일 (Zephyr Veil) | [제피르 베일 (Zephyr Veil)](제피르%20베일%20%28Zephyr%20Veil%29.md) |
+| 제피르 트레일 (Zephyr Trail) | [제피르 트레일 (Zephyr Trail)](제피르%20트레일%20%28Zephyr%20Trail%29.md) |
+| 차드 실버 (Charred Silver) | [차드 실버 (Charred Silver)](차드%20실버%20%28Charred%20Silver%29.md) |
+| 창백한 성운 (Pale Nebula) | [창백한 성운 (Pale Nebula)](창백한%20성운%20%28Pale%20Nebula%29.md) |
+| 최후의 장의사 (The Last Undertaker) | [최후의 장의사 (The Last Undertaker)](최후의%20장의사%20%28The%20Last%20Undertaker%29.md) |
+| 침묵의 은시위 (Silent Silver-String) | [침묵의 은시위 (Silent Silver-String)](침묵의%20은시위%20%28Silent%20Silver-String%29.md) |
+| 침묵의 흑막 (Silent Void-Veil) | [침묵의 흑막 (Silent Void-Veil)](침묵의%20흑막%20%28Silent%20Void-Veil%29.md) |
+| 카디널의 긍지 (Cardinal's Pride) | [카디널의 긍지 (Cardinal's Pride)](카디널의%20긍지%20%28Cardinal's%20Pride%29.md) |
+| 커튼콜 (Curtain Call) | [커튼콜 (Curtain Call)](커튼콜%20%28Curtain%20Call%29.md) |
+| 케룰레온 (Ceruleon) | [케룰레온 (Ceruleon)](케룰레온%20%28Ceruleon%29.md) |
+| 콘트룩스 (Contralux) | [콘트룩스 (Contralux)](콘트룩스%20%28Contralux%29.md) |
+| 크로노리프트 (Chronorift) | [크로노리프트 (Chronorift)](크로노리프트%20%28Chronorift%29.md) |
+| 크림슨 스탠다드 (Crimson Standard) | [크림슨 스탠다드 (Crimson Standard)](크림슨%20스탠다드%20%28Crimson%20Standard%29.md) |
+| 크림슨플레어 (Crimsonflare) | [크림슨플레어 (Crimsonflare)](크림슨플레어%20%28Crimsonflare%29.md) |
+| 클리프 글라이드 (Cliff Glide) | [클리프 글라이드 (Cliff Glide)](클리프%20글라이드%20%28Cliff%20Glide%29.md) |
+| 퇴색한 순찰자의 로브 (Faded Robe of the Vanguard Scout) | [퇴색한 순찰자의 로브 (Faded Robe of the Vanguard Scout)](퇴색한%20순찰자의%20로브%20%28Faded%20Robe%20of%20the%20Vanguard%20Scout%29.md) |
+| 파로스 실 (Pharos Seal) | [파로스 실 (Pharos Seal)](파로스%20실%20%28Pharos%20Seal%29.md) |
+| 파툼 (Fatum) | [파툼 (Fatum)](파툼%20%28Fatum%29.md) |
+| 패러데이의 장막 (Faraday Mantle) | [패러데이의 장막 (Faraday Mantle)](패러데이의%20장막%20%28Faraday%20Mantle%29.md) |
+| 페레그리아 (Peregria) | [페레그리아 (Peregria)](페레그리아%20%28Peregria%29.md) |
+| 페레그린 (Peregrine) | [페레그린 (Peregrine)](페레그린%20%28Peregrine%29.md) |
 | 풍륜 윙 슈트 (Wind-Wheel Wing Suit) | [풍륜 윙 슈트 (Wind-Wheel Wing Suit)](풍륜%20윙%20슈트%20%28Wind-Wheel%20Wing%20Suit%29.md) |
-| 풍향 관통형 활공 망토 (Wind-Piercing Glider Cloak) | [풍향 관통형 활공 망토 (Wind-Piercing Glider Cloak)](풍향%20관통형%20활공%20망토%20%28Wind-Piercing%20Glider%20Cloak%29.md) |
-| 피와 기름이 절은 호위 망토 (Blood-and-Oil-Soaked Retainer's Cloak) | [피와 기름이 절은 호위 망토 (Blood-and-Oil-Soaked Retainer's Cloak)](피와%20기름이%20절은%20호위%20망토%20%28Blood-and-Oil-Soaked%20Retainer's%20Cloak%29.md) |
+| 프론티어 킵세이크 (Frontier Keepsake) | [프론티어 킵세이크 (Frontier Keepsake)](프론티어%20킵세이크%20%28Frontier%20Keepsake%29.md) |
 | 해진 잿빛 망토 (Tattered Ashen Cloak) | [해진 잿빛 망토 (Tattered Ashen Cloak)](해진%20잿빛%20망토%20%28Tattered%20Ashen%20Cloak%29.md) |
-| 화려한 깃털 장식 낡은 망토 (Tattered Cloak of Opera) | [화려한 깃털 장식 낡은 망토 (Tattered Cloak of Opera)](화려한%20깃털%20장식%20낡은%20망토%20%28Tattered%20Cloak%20of%20Opera%29.md) |
-| 황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower) | [황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower)](황금%20태엽%20역행%20코트%20%28Reverse-Gear%20Golden%20Coat%20of%20the%20Time%20Tower%29.md) |
-| 흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler) | [흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler)](흉갑이%20없는%20투사의%20망토%20%28Cloak%20of%20the%20Bare-Chested%20Brawler%29.md) |
-| 흑우 기병 코트 '까마귀의 날개' (Cavalry Coat of the Raven's Wing) | [흑우 기병 코트 '까마귀의 날개' (Cavalry Coat of the Raven's Wing)](흑우%20기병%20코트%20'까마귀의%20날개'%20%28Cavalry%20Coat%20of%20the%20Raven's%20Wing%29.md) |
+| 호크윈드 로브 (Hawkwind Robe) | [호크윈드 로브 (Hawkwind Robe)](호크윈드%20로브%20%28Hawkwind%20Robe%29.md) |

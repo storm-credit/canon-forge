@@ -98,4 +98,4 @@
 
 - [에리온 베르날리스 (Erion Vernalis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/07.에리온베르날리스.md)
 - [베르날리스의 야전 씨앗 낭 (Vernalis's Field Seed Pouch)](../../01-19-3.악세서리/07.부적/베르날리스의%20야전%20씨앗%20낭%20(Vernalis's%20Field%20Seed%20Pouch).md)
-- [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](../../01-19-2.방어구/04.망토·외투/동충하초의%20강제%20기생%20외투%20(Coat%20of%20Cordyceps%20Parasitism).md)
+- [동충하초의 강제 기생 외투 (Coat of Cordyceps Parasitism)](../../01-19-2.방어구/04.망토·외투/미셀리아%20(Mycelia).md)
