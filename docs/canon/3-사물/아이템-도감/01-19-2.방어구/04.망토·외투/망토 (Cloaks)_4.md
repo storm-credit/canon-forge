@@ -1,5 +1,5 @@
 ---
-정본명: 망토 (Cloaks)
+정본명: 망토 (Cloaks) — 백과 B
 유형: 아이템 도감 (Item Encyclopedia) 항목
 출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-2. 방어구 (Armor)/07. 망토 (Cloaks)/07. 망토 (Cloaks).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)

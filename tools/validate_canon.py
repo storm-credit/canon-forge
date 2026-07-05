@@ -88,6 +88,8 @@ if on('--dupes'):
     # 정본명 유일성: 동일 정본명이 복수 파일에 존재
     names = defaultdict(list)
     for p, rel in canon_files():
+        if rel.rsplit('/', 1)[-1] == 'index.md':
+            continue  # 카테고리 인덱스는 유일성 대상 제외
         t = io.open(p, encoding='utf-8', errors='ignore').read(600)
         m = re.search(r'정본명:\s*(.+)', t)
         if m:
