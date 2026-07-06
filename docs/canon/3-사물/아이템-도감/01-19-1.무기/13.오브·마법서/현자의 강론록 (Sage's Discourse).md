@@ -89,4 +89,5 @@
 - [고요의 뿌리 (Root of Serenity)](../12.지팡이·완드/고요의%20뿌리%20(Root%20of%20Serenity).md) — 일리오스의 보조 마도구
 - [말없는 서약 (Wordless Oath)](../01.한손검/말없는%20서약%20(Wordless%20Oath).md) — 일리오스의 실전 무기
 - [경이록 (Chronicle of Wonder)](경이록%20(Chronicle%20of%20Wonder).md) — 같은 스승 문하에서 나온 별개의 유고 (타르타로스 채무 이단심문소 소속 동명이인 일리오스 에스더)
+- [안식의 사색록 (Discourse of Repose)](안식의%20사색록%20(Discourse%20of%20Repose).md) — 같은 모티프의 별개 개체 (아발론 철도 공사 소속 오디세우스 볼프람)
 - [미다스 연금술 철고 (Midas Alchemical Vault)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/7.미다스연금술철고/index.md)

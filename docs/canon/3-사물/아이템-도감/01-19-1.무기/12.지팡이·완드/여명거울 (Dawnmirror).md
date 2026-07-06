@@ -98,4 +98,6 @@
 
 - [아서 바스커빌 (Arthur Baskerville)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/7.미다스연금술철고/05.아서바스커빌.md)
 - [검자루의 긍지 (Pride on the Hilt)](../../01-19-3.악세서리/06.훈장/검자루의%20긍지%20(Pride%20on%20the%20Hilt).md)
+- [거둔 칼끝 (Withheld Edge)](../01.한손검/거둔%20칼끝%20(Withheld%20Edge).md) — 아서의 실전 근접 무기
+- [황혼서고의 제복 (Dusk Archive's Vestment)](../../01-19-2.방어구/02.경갑/황혼서고의%20제복%20(Dusk%20Archive's%20Vestment).md) — 아서의 방어구
 - [내려놓은 서임의 가지 (Bough of the Laid-Down Knighthood)](../../01-19-1.무기/12.지팡이·완드/내려놓은%20서임의%20가지%20(Bough%20of%20the%20Laid-Down%20Knighthood).md)

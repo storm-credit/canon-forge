@@ -87,3 +87,4 @@
 - [발렌타인 베클렌 (Valentine Becklen, 철혈 부대)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/6.철혈부대/04.발렌타인베클렌.md)
 - [국경의 실페리시움 (Borderland Sylpherisium)](../../01-19-1.무기/10.활·석궁/국경의%20실페리시움%20(Borderland%20Sylpherisium).md)
 - [바람의 유산 (Legacy of the Wind)](../../01-19-3.악세서리/01.반지/바람의%20유산%20(Legacy%20of%20the%20Wind).md)
+- [겨울 이전 (Before Winter)](../03.로브·마법복/겨울%20이전%20(Before%20Winter).md)

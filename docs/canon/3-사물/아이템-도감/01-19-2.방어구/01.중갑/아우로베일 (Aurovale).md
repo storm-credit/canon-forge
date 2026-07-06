@@ -81,4 +81,5 @@
 
 ## 🔗 관련 문서
 - [퍼시발 루미너스 (Percival Luminous)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/9.타르타로스채무이단심문소/10.퍼시발루미너스.md)
-- [실페리시움 부름받는자 (Sylpherisium Summoned One)](../../01-19-1.무기/10.활·석궁/실페리시움%20부름받는자%20(Sylpherisium%20Summoned%20One).md)
+- [실페리시움 부름받는자 (Sylpherisium Summoned One)](../../01-19-1.무기/10.활·석궁/실페리시움%20부름받는자%20(Sylpherisium%20Summoned%20One).md) — 같은 소유자의 전용 활
+- [묵언의 별빛 (Silent Starlight)](../../01-19-3.악세서리/07.부적/묵언의%20별빛%20(Silent%20Starlight).md) — 같은 소유자의 전용 부적

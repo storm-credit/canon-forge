@@ -96,6 +96,7 @@
 - [셀레스티아 할로윈 (Celestia Halloween)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/6.아클레피우스바이오텍/06.셀레스티아할로윈.md)
 - 아클레피우스 바이오텍 (Asclepius Biotech)
 - [정온의 서원 (Vow of Tranquility)](../../01-19-2.방어구/05.방패/정온의%20서원%20(Vow%20of%20Tranquility).md)
+- [조용한 경례 (The Quiet Salute)](../01.한손검/조용한%20경례%20(The%20Quiet%20Salute).md) — 같은 소유자의 예검
 - [여로의 고서 (Tome of the Wayfarer)](여로의%20고서%20(Tome%20of%20the%20Wayfarer).md) — 동일 계보(위대한 현자의 마지막 제자)의 별개 유물 (올란도 실버문)
 
 ---
