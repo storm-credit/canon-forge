@@ -17,7 +17,7 @@
 | 4 | [팔로미드 코어스 (Palomides Cores)](04.팔로미드코어스.md) |
 | 5 | [기네비어 에스더 (Guinevere Esther)](05.기네비어에스더.md) |
 | 6 | [루시안 아르트리우스 (Lucian Artorius)](06.루시안아르트리우스.md) |
-| 7 | [루시안 어스바운드 (Lucian Earthbound)](07.루시안어스바운드.md) |
+| 7 | [루시안 어스바운드 (Lucian Earthbound)](../11.신성계약단/05.루시안어스바운드.md) |
 | 8 | [발렌타인 할로윈 (Valentine Halloween)](08.발렌타인할로윈.md) |
 | 9 | [셀레나 노바 (Selena Nova)](09.셀레나노바.md) |
 | 10 | [세리아 라크루아 (Seria Lacroix)](10.세리아라크루아.md) |

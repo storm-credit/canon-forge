@@ -14,7 +14,7 @@
 | 1 | [가웨인 그레이 (Gawain Gray)](01.가웨인그레이.md) |
 | 2 | [미하일 오크우드 (Mikhail Oakwood)](02.미하일오크우드.md) |
 | 3 | [발두르 아스텔 (Baldur Astell)](03.발두르아스텔.md) |
-| 4 | [아리엔 노바 (Arien Nova)](04.아리엔노바.md) |
+| 4 | [아리엔 노바 (Arien Nova)](../../6-6.초국가마탑및학술소속/3.차원탐사단/08.아리엔노바.md) |
 | 5 | [오디세우스 볼프람 (Odysseus Wolfram)](05.오디세우스볼프람.md) |
 | 6 | [올란도 실버문 (Orlando Silvermoon)](06.올란도실버문.md) |
 | 7 | [카르멘 프로스트베인 (Carmen Frostbane)](07.카르멘프로스트베인.md) |

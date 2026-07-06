@@ -15,7 +15,7 @@
 | 2 | [로엔그린 그레이슨 (Lohengrin Grayson)](02.로엔그린그레이슨.md) |
 | 3 | [마티아스 에스더 (Mathias Esther)](03.마티아스에스더.md) |
 | 4 | [발두르 맥시무스 (Baldur Maximus)](04.발두르맥시무스.md) |
-| 5 | [발렌타인 에스더 (Valentine Esther)](05.발렌타인에스더.md) |
+| 5 | [발렌타인 에스더 (Valentine Esther)](../../6-6.초국가마탑및학술소속/5.심연의별무리/04.발렌타인에스더.md) |
 | 6 | [아테나 아르트리우스 (Athena Artorius)](06.아테나아르트리우스.md) |
 | 7 | [이졸데 윈드런너 (Isolde Windrunner)](07.이졸데윈드런너.md) |
 | 8 | [일리오스 아스텔 (Ilios Astell)](08.일리오스아스텔.md) |

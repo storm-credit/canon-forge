@@ -14,7 +14,7 @@
 | 1 | [기네비어 카디널 (Guinevere Cardinal)](01.기네비어카디널.md) |
 | 2 | [카일런 나이트폴 (Kylan Nightfall)](02.카일런나이트폴.md) |
 | 3 | [다미안 코어스 (Damian Cores)](03.다미안코어스.md) |
-| 4 | [루시안 루미너스 (Lucian Luminous)](04.루시안루미너스.md) |
+| 4 | [루시안 루미너스 (Lucian Luminous)](../7.바람의칼날/07.루시안루미너스.md) |
 | 5 | [발렌타인 카디널 (Valentine Cardinal)](05.발렌타인카디널.md) |
 | 6 | [녹티스 스텔라리스 (Noctis Stellaris)](06.녹티스스텔라리스.md) |
 | 7 | [카심 할로윈 (Kasim Halloween)](07.카심할로윈.md) |

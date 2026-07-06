@@ -15,7 +15,7 @@
 | 2 | [다미안 다크홈 (Damian Darkholm)](02.다미안다크홈.md) |
 | 3 | [디트리히 블러드워커 (Dietrich Bloodwalker)](03.디트리히블러드워커.md) |
 | 4 | [로잘린드 에스더 (Rosalind Esther)](04.로잘린드에스더.md) |
-| 5 | [루시안 루미너스 (Lucian Luminous)](05.루시안루미너스.md) |
+| 5 | [루시안 루미너스 (Lucian Luminous)](../../6-3.대륙용병단소속/7.바람의칼날/07.루시안루미너스.md) |
 | 6 | [루시안 바스커빌 (Lucian Baskerville)](06.루시안바스커빌.md) |
 | 7 | [미하일 루인스 (Mikhail Ruins)](07.미하일루인스.md) |
 | 8 | [베아트리체 아스텔 (Beatrice Astell)](08.베아트리체아스텔.md) |

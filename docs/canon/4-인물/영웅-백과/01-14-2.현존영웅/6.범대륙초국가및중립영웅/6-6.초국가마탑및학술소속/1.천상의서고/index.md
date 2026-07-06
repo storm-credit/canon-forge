@@ -17,7 +17,7 @@
 | 4 | [다미안 루미너스 (Damian Luminous)](04.다미안루미너스.md) |
 | 5 | [루시안 스텔라리스 (Lucian Stellaris)](05.루시안스텔라리스.md) |
 | 6 | [루시안 아르트리우스 (Lucian Artorius)](06.루시안아르트리우스.md) |
-| 7 | [루시안 어스바운드 (Lucian Earthbound)](07.루시안어스바운드.md) |
+| 7 | [루시안 어스바운드 (Lucian Earthbound)](../../6-3.대륙용병단소속/11.신성계약단/05.루시안어스바운드.md) |
 | 8 | [루시안 코어스 (Lucian Cores)](08.루시안코어스.md) |
 | 9 | [발렌타인 카디널 (Valentine Cardinal)](09.발렌타인카디널.md) |
 | 10 | [세리아 할로윈 (Seria Halloween)](10.세리아할로윈.md) |

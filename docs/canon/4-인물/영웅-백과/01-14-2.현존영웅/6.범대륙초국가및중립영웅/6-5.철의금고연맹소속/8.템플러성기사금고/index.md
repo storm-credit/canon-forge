@@ -14,7 +14,7 @@
 | 1 | [로엔그린 크로스 (Lohengrin Cross)](01.로엔그린크로스.md) |
 | 2 | [루나 베일 (Luna Bale)](02.루나베일.md) |
 | 3 | [발렌타인 아이언사이드 (Valentine Ironside)](03.발렌타인아이언사이드.md) |
-| 4 | [발렌타인 에스더 (Valentine Esther)](04.발렌타인에스더.md) |
+| 4 | [발렌타인 에스더 (Valentine Esther)](../../6-6.초국가마탑및학술소속/5.심연의별무리/04.발렌타인에스더.md) |
 | 5 | [아르테미스 블러드워커 (Artemis Bloodwalker)](05.아르테미스블러드워커.md) |
 | 6 | [카르멘 오크우드 (Carmen Oakwood)](06.카르멘오크우드.md) |
 | 7 | [카펠라 오크우드 (Capella Oakwood)](07.카펠라오크우드.md) |
