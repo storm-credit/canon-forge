@@ -100,5 +100,5 @@
 
 ## 🔗 관련 문서
 - [퍼시벌 카디널 (Percival Cardinal, 바람의 칼날)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/7.바람의칼날/02.퍼시벌카디널.md)
-- [퍼시벌 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Percival Cardinal's Ashvow Pole)](../../01-19-1.무기/06.창/퍼시벌 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Percival Cardinal's Ashvow Pole).md)
+- [퍼시벌 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Percival Cardinal's Ashvow Pole)](../../01-19-1.무기/06.창/애쉬베인 (Ashvow).md)
 - 바람의 칼날 (Wind Blades)

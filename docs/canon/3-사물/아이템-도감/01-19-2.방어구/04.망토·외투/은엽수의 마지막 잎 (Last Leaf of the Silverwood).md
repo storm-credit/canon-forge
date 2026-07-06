@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [마리스 베클렌 (Maris Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/4.검은파도용병단/05.마리스베클렌.md)
-- [별빛을 삼킨 쌍검 — 가라앉은 가문의 마지막 서약 (Twin Blades That Swallowed Starlight — Last Vow of the Sunken House)](../../01-19-1.무기/03.쌍검/별빛을%20삼킨%20쌍검%20—%20가라앉은%20가문의%20마지막%20서약%20(Twin%20Blades%20That%20Swallowed%20Starlight%20—%20Last%20Vow%20of%20the%20Sunken%20House).md)
+- [별빛을 삼킨 쌍검 — 가라앉은 가문의 마지막 서약 (Twin Blades That Swallowed Starlight — Last Vow of the Sunken House)](../../01-19-1.무기/03.쌍검/메테오르%20스텔라%20(Meteor%20Stella).md)
 - 검은 파도 용병단 (Black Tide Mercenaries)

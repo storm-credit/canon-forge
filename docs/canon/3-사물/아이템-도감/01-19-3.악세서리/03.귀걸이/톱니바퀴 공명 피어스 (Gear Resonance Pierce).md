@@ -88,5 +88,5 @@
 ## 🔗 관련 문서
 
 - [마리온 엑스마키나 (Marion Exmachina)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/11.마리온엑스마키나.md)
-- [증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace: Forge-rupture)](../../01-19-1.무기/07.둔기/증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace Forge-rupture).md)
-- [증기 엑소 암 쌍비 (Twin Steam Exo-Arms)](../../01-19-1.무기/14.건틀릿·클로/증기 엑소 암 쌍비 (Twin Steam Exo-Arms).md)
+- [증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace: Forge-rupture)](../../01-19-1.무기/07.둔기/대장장이의 파열 (Forge-rupture).md)
+- [증기 엑소 암 쌍비 (Twin Steam Exo-Arms)](../../01-19-1.무기/14.건틀릿·클로/쌍비 (Twin-Arms).md)

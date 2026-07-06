@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [모르굴 베인 (Morgul Bane)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/02.모르굴베인.md)
-- [베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank)](../07.둔기/베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank).md)
+- [베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank)](../07.둔기/페스트 크랭크 (Pest-Crank).md)
 - [강림 촉매 초록 앰플 — 마나 억제 해방제 (Arts-Catalyst Green Ampoule — Mana-Inhibitor Release)](초록 죽음 (Green Death).md)

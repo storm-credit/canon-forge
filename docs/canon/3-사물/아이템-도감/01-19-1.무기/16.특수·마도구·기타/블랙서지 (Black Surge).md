@@ -86,4 +86,4 @@
 - [카리엘 하이드론 (Kariel Hydron)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/07.카리엘하이드론.md)
 - [심연압 집속 진주핵 (Abyssal-Pressure Convergence Pearl)](../../../01-19-3.악세서리/09.보석/아비스%20펄%20(Abyss%20Pearl).md)
 - [빛 잃은 심연의 진주 지팡이 (Lusterless Pearl Staff of the Deep)](침잠의%20개문%20(Gate%20of%20the%20Abyss).md)
-- [카리엘 하이드론의 심해 작살 (Abyssal Harpoon of 카리엘 하이드론)](../../06.창/카리엘%20하이드론의%20심해%20작살%20(Abyssal%20Harpoon%20of%20카리엘%20하이드론).md)
+- [카리엘 하이드론의 심해 작살 (Abyssal Harpoon of 카리엘 하이드론)](../../06.창/어비스팽%20(Abyssfang).md)

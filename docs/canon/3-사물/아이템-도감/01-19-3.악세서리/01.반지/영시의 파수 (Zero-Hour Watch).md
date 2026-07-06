@@ -99,6 +99,6 @@
 ## 🔗 관련 문서
 
 - [에어오스 클락워크 (Aeos Clockwork)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/15.에어오스클락워크.md)
-- [오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity)](../../../01-19-1.무기/13.오브·마법서/오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity).md)
+- [오브류 - 톱니바퀴 지팡이 이터니티 (Cog-Staff Eternity)](../../../01-19-1.무기/13.오브·마법서/이터니티 (Eternity).md)
 - [황금 태엽 역행 코트 (Reverse-Gear Golden Coat of the Time Tower)](../../../01-19-2.방어구/04.망토·외투/리버스 기어 (Reverse Gear).md)
 - [바늘이 꺾인 에어오스의 회중시계 (Bent Pocket-Watch of Aeos)](../10.특수마도구·마력핵/에어오스의 회중시계 (Watch of Aeos).md)

@@ -80,5 +80,5 @@
 
 ## 🔗 관련 문서
 - [다고넷 스텔라리스 (Dagonet Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-6.초국가마탑및학술소속/3.차원탐사단/02.다고넷스텔라리스.md)
-- [스캐빈저의 만물 배낭 — 다미안 스텔라리스의 잡동사니 유물함 (Scavenger's Omni-Satchel — Damian Stellaris's Reliquary of Odds and Ends)](스캐빈저의%20만물%20배낭%20—%20다미안%20스텔라리스의%20잡동사니%20유물함%20(Scavenger's%20Omni-Satchel%20—%20Damian%20Stellaris's%20Reliquary%20of%20Odds%20and%20Ends).md)
+- [스캐빈저의 만물 배낭 — 다미안 스텔라리스의 잡동사니 유물함 (Scavenger's Omni-Satchel — Damian Stellaris's Reliquary of Odds and Ends)](스캐빈저의%20만물%20배낭%20(Scavenger's%20Omni-Satchel).md)
 - 차원 탐사단 (Dimensional Explorers)

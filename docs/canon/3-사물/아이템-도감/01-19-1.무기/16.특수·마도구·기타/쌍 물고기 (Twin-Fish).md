@@ -91,6 +91,6 @@
 ## 🔗 관련 문서
 
 - [데이비온 어비스 (Davion Abyss)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/12.데이비온어비스.md)
-- [강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun)](../06.창/강철%20폭발%20삼지창과%20작살포%20%28Exploding%20Trident%20%26%20Auto-Harpoon%20Gun%29.md)
+- [어비스 트라이던트 (Exploding Trident & Auto-Harpoon Gun)](../06.창/어비스%20트라이던트%20%28Abyss%20Trident%29.md)
 - [초중량 마도 다이빙 슈트 (Hyper-Weight Arcane Diving Suit)](../../01-19-2.방어구/03.로브·마법복/어비스%20다이버%20%28Abyss%20Diver%29.md)
 - [블루홀 아가미 변환 호흡기 (Blue-Hole Gill Converter)](../../01-19-4.유물/04.영웅고유성유물/어비스길%20%28Abyssgill%29.md)

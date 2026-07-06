@@ -99,5 +99,5 @@
 ## 🔗 관련 문서
 
 - [이벨린 아르젠트 (Evelynn Argent)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-1.국제길드연합소속/8.키르케영약회/09.이벨린아르젠트.md)
-- [짓눌린 포효 — 이벨린 아르젠트의 심연 강철 대부 (Crushed Roar — Evelynn Argent's Abyssal Steel Battleaxe)](../../01-19-1.무기/05.도끼/짓눌린%20포효%20—%20이벨린%20아르젠트의%20심연%20강철%20대부%20(Crushed%20Roar%20—%20Evelynn%20Argent's%20Abyssal%20Steel%20Battleaxe).md)
+- [짓눌린 포효 — 이벨린 아르젠트의 심연 강철 대부 (Crushed Roar — Evelynn Argent's Abyssal Steel Battleaxe)](../../01-19-1.무기/05.도끼/짓눌린%20포효%20(Crushed%20Roar).md)
 - [키르케 영약회 생존자의 야전 견갑 '파수꾼의 무게' (Circe's Elixir Order Frontier Pauldron — Warden's Burden)](../../01-19-2.방어구/02.경갑/파수꾼의%20무게%20(Warden's%20Burden).md)

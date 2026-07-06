@@ -93,5 +93,5 @@
 
 ## 🔗 관련 문서
 - [타린 히스토리아 (Taryn Historia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/08.타린히스토리아.md)
-- [에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron: Orbit of Wisdom)](../13.오브·마법서/에버크론의%20부유%20서책%20'지혜의%20궤적'%20(Floating%20Tome%20of%20Everchron%20Orbit%20of%20Wisdom).md)
+- [에버크론의 부유 서책 '지혜의 궤적' (Floating Tome of Everchron: Orbit of Wisdom)](../13.오브·마법서/지혜의%20궤적%20(Orbit%20of%20Wisdom).md)
 - [아카이브 자이로스코프 원형 대차 (Archive Gyroscopic Circular Carriage)](타린휠%20(Taryn%20Wheel).md)

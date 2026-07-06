@@ -92,4 +92,4 @@
 ## 🔗 관련 문서
 
 - [레오니두스 프란고 (Leonidus Frango)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/09.레오니두스프란고.md)
-- [프란고의 공진(Resonance) 파일벙커 건틀릿 (Resonance Pile-Bunker Gauntlets of Frango)](../../../01-19-1.무기/14.건틀릿·클로/프란고의 공진(Resonance) 파일벙커 건틀릿 (Resonance Pile-Bunker Gauntlets of Frango).md)
+- [프란고의 공진(Resonance) 파일벙커 건틀릿 (Resonance Pile-Bunker Gauntlets of Frango)](../../../01-19-1.무기/14.건틀릿·클로/공진의 증언 (Resonance Testament).md)

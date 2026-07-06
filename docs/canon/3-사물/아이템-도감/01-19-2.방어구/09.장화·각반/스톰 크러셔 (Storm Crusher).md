@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [드라코르 템페스툼 (Drakor Tempestum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/04.드라코르템페스툼.md)
-- [템페스툼의 살육 쌍검 - 프로스트 바이트 (Frostbite Dual-Blades of Tempestum)](../../01-19-1.무기/03.쌍검/템페스툼의%20살육%20쌍검%20-%20프로스트%20바이트%20(Frostbite%20Dual-Blades%20of%20Tempestum).md)
+- [템페스툼의 살육 쌍검 - 프로스트 바이트 (Frostbite Dual-Blades of Tempestum)](../../01-19-1.무기/03.쌍검/프로스트%20바이트%20(Frostbite).md)
 - [흉갑이 없는 투사의 망토 (Cloak of the Bare-Chested Brawler)](../04.망토·외투/베어체스트%20보우%20(Bare-Chested%20Vow).md)

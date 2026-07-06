@@ -1,7 +1,7 @@
 ---
 정본명: 특수·마도구·기타
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B6 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 특수·마도구·기타
@@ -32,6 +32,7 @@
 | 기어스트라이크 (Gearstrike) | [기어스트라이크 (Gearstrike)](기어스트라이크%20%28Gearstrike%29.md) |
 | 나이트페리 (Nightferry) | [나이트페리 (Nightferry)](나이트페리%20%28Nightferry%29.md) |
 | 낙성의 아스트롤라베 (Astrolabe of the Falling Star) | [낙성의 아스트롤라베 (Astrolabe of the Falling Star)](낙성의%20아스트롤라베%20%28Astrolabe%20of%20the%20Falling%20Star%29.md) |
+| 네프탈리 (Nephtali) | [네프탈리 (Nephtali)](네프탈리%20%28Nephtali%29.md) |
 | 네필로스 (Nephilos) | [네필로스 (Nephilos)](네필로스%20%28Nephilos%29.md) |
 | 노인의 연기 (Old Man's Smoke) | [노인의 연기 (Old Man's Smoke)](노인의%20연기%20%28Old%20Man's%20Smoke%29.md) |
 | 녹스베놈 (Noxvenom) | [녹스베놈 (Noxvenom)](녹스베놈%20%28Noxvenom%29.md) |
@@ -166,7 +167,6 @@
 | 심판의 묵주 (Rosary of Judgment) | [심판의 묵주 (Rosary of Judgment)](심판의%20묵주%20%28Rosary%20of%20Judgment%29.md) |
 | 심판의 서 (Book of Judgment) | [심판의 서 (Book of Judgment)](심판의%20서%20%28Book%20of%20Judgment%29.md) |
 | 심판의 저울 (Scales of Condemnation) | [심판의 저울 (Scales of Condemnation)](심판의%20저울%20%28Scales%20of%20Condemnation%29.md) |
-| 심해의노래네프탈리 | [심해의노래네프탈리](심해의노래네프탈리.md) |
 | 쌍 물고기 (Twin-Fish) | [쌍 물고기 (Twin-Fish)](쌍%20물고기%20%28Twin-Fish%29.md) |
 | 아르카나 (Arcana) | [아르카나 (Arcana)](아르카나%20%28Arcana%29.md) |
 | 아르카나 잔재 (Arcana Remnant) | [아르카나 잔재 (Arcana Remnant)](아르카나%20잔재%20%28Arcana%20Remnant%29.md) |
@@ -307,7 +307,7 @@
 | 하부브 (Haboob) | [하부브 (Haboob)](하부브%20%28Haboob%29.md) |
 | 한기의 영역 (Domain of Frost) | [한기의 영역 (Domain of Frost)](한기의%20영역%20%28Domain%20of%20Frost%29.md) |
 | 항성의 정조준 (Stellar Convergence) | [항성의 정조준 (Stellar Convergence)](항성의%20정조준%20%28Stellar%20Convergence%29.md) |
-| 해저 2만 리의 심연 (Abyss of Twenty Thousand Leagues) | [해저 2만 리의 심연 (Abyss of Twenty Thousand Leagues)](해저%202만%20리의%20심연%20%28Abyss%20of%20Twenty%20Thousand%20Leagues%29.md) |
+| 해저 2만 리 (Twenty Thousand Leagues) | [해저 2만 리 (Twenty Thousand Leagues)](해저%202만%20리%20%28Twenty%20Thousand%20Leagues%29.md) |
 | 행군하는 모루 (The Marching Anvil) | [행군하는 모루 (The Marching Anvil)](행군하는%20모루%20%28The%20Marching%20Anvil%29.md) |
 | 헬리온 (Helion) | [헬리온 (Helion)](헬리온%20%28Helion%29.md) |
 | 혈관의 기도 (Vein Prayer) | [혈관의 기도 (Vein Prayer)](혈관의%20기도%20%28Vein%20Prayer%29.md) |

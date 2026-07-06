@@ -110,4 +110,4 @@
 - [골드레이븐 (Goldraven)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/1.신화급/13.골드레이븐.md)
 - [심판의 조타륜 (Wheel of Judgment)](../../01-19-1.무기/16.특수·마도구·기타/레이븐의 심판 (Raven's Judgment).md)
 - [골드레이븐의 전리품 황금 나침반 펜던트 (Treasure-North Compass Pendant of Goldraven)](../../01-19-3.악세서리/02.목걸이·팬던트/전리품 북극성 (Plunder Polaris).md)
-- [골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐)](../../01-19-1.무기/06.창/골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐).md)
+- [골드레이븐의 심해 작살 (Abyssal Harpoon of 골드레이븐)](../../01-19-1.무기/06.창/압흑 (Abyssand).md)

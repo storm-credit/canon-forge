@@ -99,4 +99,4 @@
 
 - [볼코르 서밋포지 (Volkor Summitforge)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/2.전설급/14.볼코르서밋포지.md)
 - [심장이 굳은 룬 용광로의 모루 조각 (Petrified Anvil of the Runeforge)](../../../01-19-3.악세서리/10.특수마도구·마력핵/모루의 심장 (Heart of the Anvil).md)
-- [마도공학 장비 - 서밋포지의 절대 도면계 (Blueprint of the Summit)](../../../01-19-1.무기/13.오브·마법서/마도공학 장비 - 서밋포지의 절대 도면계 (Blueprint of the Summit).md)
+- [마도공학 장비 - 서밋포지의 절대 도면계 (Blueprint of the Summit)](../../../01-19-1.무기/13.오브·마법서/아르케타이프 (Archetype).md)

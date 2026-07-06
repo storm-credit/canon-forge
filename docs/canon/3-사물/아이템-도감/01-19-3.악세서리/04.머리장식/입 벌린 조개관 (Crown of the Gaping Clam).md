@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [옥타비우스 발로리안 (Octavius Valorian)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/01.옥타비우스발로리안.md)
-- [해신의 삼지창 '레비아탄의 송곳니' (Trident of the Sea-God 'Leviathan's Fang')](../../01-19-1.무기/06.창/해신의%20삼지창%20'레비아탄의%20송곳니'%20(Trident%20of%20the%20Sea-God%20'Leviathan's%20Fang').md)
+- [해신의 삼지창 '레비아탄의 송곳니' (Trident of the Sea-God 'Leviathan's Fang')](../../01-19-1.무기/06.창/레비아탄의%20송곳니%20(Leviathan's%20Fang).md)
 - [순교자의 진주 성구의 (Pearlescent Vestments of the Martyr)](../../01-19-2.방어구/03.로브·마법복/유리화%20성구의%20(Vitreous%20Vestments).md)

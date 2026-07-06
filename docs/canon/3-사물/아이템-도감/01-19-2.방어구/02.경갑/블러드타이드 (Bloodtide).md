@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [칼리수스 아우렐리아누스 (Callisus Aurelianus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/03.칼리수스아우렐리아누스.md)
 - [초경량(Ultra-light) 태양은 합금 장갑 (Solar-Silver Alloy Armor)](../08.장갑·손목/솔라%20브릴리언스%20%28Solar%20Brilliance%29.md)
-- [아우렐리안의 태양을 꿰뚫는 창 (Sun-Piercing Lance of Aurelian)](../../01-19-1.무기/06.창/아우렐리안의%20태양을%20꿰뚫는%20창%20%28Sun-Piercing%20Lance%20of%20Aurelian%29.md)
+- [아우렐리안의 태양을 꿰뚫는 창 (Sun-Piercing Lance of Aurelian)](../../01-19-1.무기/06.창/솔라%20랜스%20%28Solar%20Lance%29.md)

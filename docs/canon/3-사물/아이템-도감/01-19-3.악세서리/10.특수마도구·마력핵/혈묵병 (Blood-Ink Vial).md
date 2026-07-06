@@ -88,4 +88,4 @@
 
 - [엘리아스 녹턴 (Elias Nocturne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/09.엘리아스녹턴.md)
 - [맹목의 백색 깃펜 (White Quill of Blindness)](../../01-19-4.유물/04.영웅고유성유물/베리타스퀼%20(Veritasquill).md)
-- [심연의 혓바닥이 묶인 금서 (Forbidden Tome of the Abyssal Tongue)](../../01-19-1.무기/13.오브·마법서/심연의%20혓바닥이%20묶인%20금서%20(Forbidden%20Tome%20of%20the%20Abyssal%20Tongue).md)
+- [심연의 혓바닥이 묶인 금서 (Forbidden Tome of the Abyssal Tongue)](../../01-19-1.무기/13.오브·마법서/심연의%20혓바닥%20(Abyssal%20Tongue).md)

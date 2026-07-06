@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [실비아 스텔라 (Sylvia Stella)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/02.실비아스텔라.md)
-- [천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony)](../07.둔기/천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony).md)
+- [천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony)](../07.둔기/백수정 교향곡 (White-crystal Symphony).md)
 - [별안개 은하수 융단 (Carpet of Star-mist Galaxy)](은하수 융단 (Galaxy Carpet).md)

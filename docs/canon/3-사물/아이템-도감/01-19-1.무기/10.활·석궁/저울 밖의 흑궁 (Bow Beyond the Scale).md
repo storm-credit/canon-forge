@@ -81,4 +81,4 @@
 
 ## 🔗 관련 문서
 - [미하일 에스더 (Mikhail Esther)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/3.심연의저울/06.미하일에스더.md)
-- [심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace)](../07.둔기/심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace).md)
+- [심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace)](../07.둔기/기우는 저울 (Tolling Scale).md)

@@ -92,6 +92,6 @@
 
 ## 🔗 관련 문서
 - [에스마레다 나이트셰이드 (Esmareda Nightshade)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/12.에스마레다나이트셰이드.md)
-- [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](../../01-19-1.무기/11.투척/천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams Agony).md)
+- [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](../../01-19-1.무기/11.투척/아고니 (Agony).md)
 - [혈맹 마수 도핑 진홍 혈분말 봉인 앰풀 (Crimson Blood-Powder Beast-Doping Sealed Ampoule)](../../01-19-1.무기/16.특수·마도구·기타/상귀나 (Sanguina).md)
 - [흑요석 독연 곰방대 (Obsidian Venom-Smoke Ceremonial Pipe)](../../01-19-1.무기/16.특수·마도구·기타/핑크 코로네이션 (Pink Coronation).md)

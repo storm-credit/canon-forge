@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [발록 다크비어드 (Balrog Darkbeard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/07.발록다크비어드.md)
-- [비탄을 삼키는 흑은 쌍날도끼 (Sorrow-Eating Black-Silver Twin Axes)](../../../01-19-1.무기/05.도끼/비탄을%20삼키는%20흑은%20쌍날도끼%20(Sorrow-Eating%20Black-Silver%20Twin%20Axes).md)
+- [비탄을 삼키는 흑은 쌍날도끼 (Sorrow-Eating Black-Silver Twin Axes)](../../../01-19-1.무기/05.도끼/소로우바인%20(Sorrowvane).md)
 - [고문관의 가시나무 철갑 (Torturer's Iron-Thorn Plate)](../06.투구·얼굴/가시%20반환%20(Thorn%20Reprisal).md)

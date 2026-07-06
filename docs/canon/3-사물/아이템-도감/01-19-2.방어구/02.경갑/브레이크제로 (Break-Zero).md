@@ -82,6 +82,6 @@
 
 ## 🔗 관련 문서
 - [세리나 하스탈리스 (Serina Hastalis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/10.세리나하스탈리스.md)
-- [태풍의 눈을 꿰뚫는 바람의 돌격창 (Assault Spear of Wind Piercing the Eye of the Typhoon)](../../01-19-1.무기/06.창/태풍의%20눈을%20꿰뚫는%20바람의%20돌격창%20(Assault%20Spear%20of%20Wind%20Piercing%20the%20Eye%20of%20the%20Typhoon).md) — 갑주의 충돌 관통 효과와 창의 소닉 브레이크가 동시 전개될 때 요새급 방어를 관통하는 복합 전술이 완성된다.
+- [태풍의 눈을 꿰뚫는 바람의 돌격창 (Assault Spear of Wind Piercing the Eye of the Typhoon)](../../01-19-1.무기/06.창/스톰피어서%20(Storm-Piercer).md) — 갑주의 충돌 관통 효과와 창의 소닉 브레이크가 동시 전개될 때 요새급 방어를 관통하는 복합 전술이 완성된다.
 - [음속을 가르는 공기역학 부츠 (Aerodynamic Boots of Sonic-Cleave)](../09.장화·각반/소닉클레이브%20(Sonic%20Cleave).md) — 부츠가 생성하는 음속 가속을 갑주가 역방향 충격 흡수로 지원한다.
 - [붉은 폭풍 돌격 망토 (Red Storm Assault Cloak)](../04.망토·외투/레드스톰%20클록%20(Redstorm%20Cloak).md) — 갑주와 망토가 동시 착용 상태에서 돌진 시각적 위압을 극대화한다.

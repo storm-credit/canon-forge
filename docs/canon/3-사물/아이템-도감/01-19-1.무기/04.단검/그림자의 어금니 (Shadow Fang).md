@@ -101,4 +101,4 @@
 - [메라 실피드 (Mera Sylphid)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/09.메라실피드.md)
 - [침묵의 추적을 명하는 유령 활 (Ghost Bow Commanding Silent Pursuit)](../10.활·석궁/사일런트%20레이스%20(Silent%20Wraith).md)
 - [시체꽃의 신경 마비 독액관 (Vial of Corpse-Flower's Paralysis Toxin)](../../01-19-4.유물/04.영웅고유성유물/코르페아%20독액관%20(Corpea%20Vial).md)
-- [야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade)](../11.투척/야생%20환각%20맹독%20연무탄%20(Wilderness%20Hallucinogen%20Toxin%20Smokegrenade).md)
+- [야생 환각 맹독 연무탄 (Wilderness Hallucinogen Toxin Smokegrenade)](../11.투척/팬텀%20헤이즈%20(Phantom%20Haze).md)

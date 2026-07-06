@@ -81,6 +81,6 @@
 
 ## 🔗 관련 문서
 - [갈라독스 마레우스 (Galadox Mareus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/04.갈라독스마레우스.md)
-- [심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight')](../../01-19-1.무기/07.둔기/심해압축%20거대%20투척묘%20'마리아나의%20닻'%20(Deep-Pressure%20Anchor%20'Mariana's%20Weight').md)
+- [심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight')](../../01-19-1.무기/07.둔기/마리아나의%20닻%20(Mariana's%20Weight).md)
 - [거수 다곤의 화석 갑옷 (Fossilized Carapace of Dagon)](../01.중갑/다곤%20(Dagon).md)
 - [선전포고 파도 타격 철퇴 건틀릿 (Wave-Crash Declaration Iron-Bludgeon Gauntlets)](../08.장갑·손목/삼타%20해일%20(Triple%20Tide).md)

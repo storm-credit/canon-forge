@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [세바스찬 아이언웨이크 (Sebastian Ironwake)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/13.세바스찬아이언웨이크.md)
-- [휴대용 연축 다연장 마도 중기관총 '그라인더' (Rotary M-Gun 'The Grinder')](../15.화기/휴대용%20연축%20다연장%20마도%20중기관총%20'그라인더'%20%28Rotary%20M-Gun%20'The%20Grinder'%29.md)
-- [연쇄 매설 마석 지뢰 (Chained Mana-Stone Landmine Set)](../11.투척/연쇄%20매설%20마석%20지뢰%20%28Chained%20Mana-Stone%20Landmine%20Set%29.md)
+- [휴대용 연축 다연장 마도 중기관총 '그라인더' (Rotary M-Gun 'The Grinder')](../15.화기/그라인더%20%28The%20Grinder%29.md)
+- [연쇄 매설 마석 지뢰 (Chained Mana-Stone Landmine Set)](../11.투척/아이언%20시드%20%28Iron%20Seed%29.md)

@@ -83,5 +83,5 @@
 ## 🔗 관련 문서
 - [볼트가르 풀미넨투스 (Voltgar Fulminentus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/05.볼트가르풀미넨투스.md)
 - [적란운의 부싯돌 (Flint of the Cumulonimbus)](../../01-19-4.유물/04.영웅고유성유물/뇌전석 풀멘 (Fulmen Sparkstone).md)
-- [풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../../01-19-1.무기/06.창/풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale).md)
+- [풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../../01-19-1.무기/06.창/게일 (Gale).md)
 - [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](../../01-19-2.방어구/02.경갑/빙뇌 쇄보 (Frostpeal Stride).md)

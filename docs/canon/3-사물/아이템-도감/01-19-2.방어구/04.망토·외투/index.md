@@ -1,7 +1,7 @@
 ---
 정본명: 망토·외투
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 망토·외투
@@ -13,7 +13,6 @@
 | 가오리 활강막 (Mantawing) | [가오리 활강막 (Mantawing)](가오리%20활강막%20%28Mantawing%29.md) |
 | 골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket) | [골드마켓의 누더기 망토 (Ragged Cloak of Goldmarket)](골드마켓의%20누더기%20망토%20%28Ragged%20Cloak%20of%20Goldmarket%29.md) |
 | 금단서고의 외피 (Mantle of the Forbidden Archive) | [금단서고의 외피 (Mantle of the Forbidden Archive)](금단서고의%20외피%20%28Mantle%20of%20the%20Forbidden%20Archive%29.md) |
-| 기워 입은 수선 학포 (Mended Academy Mantle) | [기워 입은 수선 학포 (Mended Academy Mantle)](기워%20입은%20수선%20학포%20%28Mended%20Academy%20Mantle%29.md) |
 | 까마귀의 날개 (Raven's Wing) | [까마귀의 날개 (Raven's Wing)](까마귀의%20날개%20%28Raven's%20Wing%29.md) |
 | 나이트셰이드 베일 (Nightshade Veil) | [나이트셰이드 베일 (Nightshade Veil)](나이트셰이드%20베일%20%28Nightshade%20Veil%29.md) |
 | 네임리스 레저 (Nameless Ledger) | [네임리스 레저 (Nameless Ledger)](네임리스%20레저%20%28Nameless%20Ledger%29.md) |
@@ -22,8 +21,9 @@
 | 녹티벨룸 (Noctivelum) | [녹티벨룸 (Noctivelum)](녹티벨룸%20%28Noctivelum%29.md) |
 | 녹티스 베일 (Noctis Veil) | [녹티스 베일 (Noctis Veil)](녹티스%20베일%20%28Noctis%20Veil%29.md) |
 | 녹틸룩스 (Noctilux) | [녹틸룩스 (Noctilux)](녹틸룩스%20%28Noctilux%29.md) |
+| 던델리온 (Dandelion) | [던델리온 (Dandelion)](던델리온%20%28Dandelion%29.md) |
 | 돌풍의 비행 망토 (Flight Cloak of the Gale) | [돌풍의 비행 망토 (Flight Cloak of the Gale)](돌풍의%20비행%20망토%20%28Flight%20Cloak%20of%20the%20Gale%29.md) |
-| 디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition) | [디포지션의 위장 가스 망토 (Camouflage Gas Cloak of Deposition)](디포지션의%20위장%20가스%20망토%20%28Camouflage%20Gas%20Cloak%20of%20Deposition%29.md) |
+| 디포지션 (Deposition) | [디포지션 (Deposition)](디포지션%20%28Deposition%29.md) |
 | 라크리모사 (Lacrimosa) | [라크리모사 (Lacrimosa)](라크리모사%20%28Lacrimosa%29.md) |
 | 레드스톰 클록 (Redstorm Cloak) | [레드스톰 클록 (Redstorm Cloak)](레드스톰%20클록%20%28Redstorm%20Cloak%29.md) |
 | 레베니오 (Revenio) | [레베니오 (Revenio)](레베니오%20%28Revenio%29.md) |

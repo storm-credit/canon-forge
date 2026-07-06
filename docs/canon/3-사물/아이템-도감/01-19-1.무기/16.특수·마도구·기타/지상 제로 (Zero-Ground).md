@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [칼바스 섀도우팽 (Kalvas Shadowfang)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/04.칼바스섀도우팽.md)
 - [카멜레온 가죽 잿빛 사암 코트 (Ash-Sandstone Chameleon Leather Coat)](../../01-19-2.방어구/02.경갑/광맥%20동화%20(Ore-Vein%20Assimilation).md)
-- [블라인드 폴드 독무 달팽이관 마비 캡슐 (Blind-Fold Cochlear-Paralysis Poison Mist Capsule)](../11.투척/블라인드%20폴드%20독무%20달팽이관%20마비%20캡슐%20(Blind-Fold%20Cochlear-Paralysis%20Poison%20Mist%20Capsule).md)
+- [블라인드 폴드 독무 달팽이관 마비 캡슐 (Blind-Fold Cochlear-Paralysis Poison Mist Capsule)](../11.투척/블라인드%20폴드%20(Blind-Fold).md)

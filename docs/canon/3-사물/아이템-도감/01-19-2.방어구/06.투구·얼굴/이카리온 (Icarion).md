@@ -82,5 +82,5 @@
 ## 🔗 관련 문서
 - [루시엔타 발렌티아 (Lucienta Valentia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/1.솔라리안제국/08.루시엔타발렌티아.md)
 - [에테리움 강화 가죽 비행 수트 (Ether-Reinforced Leather Flight Suit)](../02.경갑/열두%20번째%20개정%20(Twelfth%20Revision).md)
-- [발렌티아의 빛이 압축된 궤도 폭발 투창 (Calculated Orbital Explosive Javelin of Valentia)](../../01-19-1.무기/06.창/발렌티아의%20빛이%20압축된%20궤도%20폭발%20투창%20(Calculated%20Orbital%20Explosive%20Javelin%20of%20Valentia).md)
+- [발렌티아의 빛이 압축된 궤도 폭발 투창 (Calculated Orbital Explosive Javelin of Valentia)](../../01-19-1.무기/06.창/궤도%20투창%20발렌티아%20(Orbital%20Javelin%20Valentia).md)
 - [발렌티아의 허공 보관함 (Valentia's Void Arsenal)](../../../01-19-3.악세서리/10.특수마도구·마력핵/발렌티아%20허공고%20(Valentia's%20Void%20Arsenal).md)

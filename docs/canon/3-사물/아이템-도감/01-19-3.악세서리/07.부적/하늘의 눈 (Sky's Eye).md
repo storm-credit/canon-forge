@@ -89,4 +89,4 @@
 - [엘리시아 시아노벤투스 (Elysia Cyanoventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/3.빙하의신전/06.엘리시아시아노벤투스.md)
 - [풍향계의 깃털 코트 (Feather Coat of the Vane)](../../01-19-2.방어구/03.로브·마법복/베인펠트%20(Vanefelt).md)
 - [시아노벤투스의 창공궁 - 북풍 (Azure Bow of Northwind)](../../01-19-1.무기/10.활·석궁/북풍의%20창공%20(Azure%20Northwind).md)
-- [창공 호각 화살촉 — 무음 통신 (Whistle Arrowhead of the Azure Sky — Silent Dispatch)](../../01-19-1.무기/11.투척/창공%20호각%20화살촉%20—%20무음%20통신%20(Whistle%20Arrowhead%20of%20the%20Azure%20Sky%20—%20Silent%20Dispatch).md)
+- [창공 호각 화살촉 — 무음 통신 (Whistle Arrowhead of the Azure Sky — Silent Dispatch)](../../01-19-1.무기/11.투척/창공%20편지%20(Azure%20Letter).md)

@@ -109,5 +109,5 @@
 ## 🔗 관련 문서
 
 - [다미안 베일 (Damian Bale)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-5.철의금고연맹소속/5.스틱스심연의금고/다미안베일.md)
-- [파문당한 스승의 유고 — 침묵의 강령 필사본 (Excommunicated Master's Last Manuscript, Codex of Silent Necromancy)](../13.오브·마법서/파문당한 스승의 유고 — 침묵의 강령 필사본 (Excommunicated Master's Last Manuscript, Codex of Silent Necromancy).md)
+- [파문당한 스승의 유고 — 침묵의 강령 필사본 (Excommunicated Master's Last Manuscript, Codex of Silent Necromancy)](../13.오브·마법서/미완의 유고 (The Unfinished Testament).md)
 - 스틱스 심연의 금고 (Styx Abyssal Reserve)

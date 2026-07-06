@@ -90,5 +90,5 @@
 
 - [발타리온 펠스토리아 (Baltarion Felstoria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/06.발타리온펠스토리아.md)
 - [정신 오염을 반사하는 납 구속복 (Lead Straitjacket that Reflects Mental Contamination)](인노켄스%20(Innocens).md)
-- [히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues)](../../01-19-1.무기/13.오브·마법서/히스토리아의%20혓바닥이%20달린%20악요(惡妖)의%20금서%20(Forbidden%20Book%20of%20the%20Wicked%20FIend%20with%20Tongues).md)
+- [히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues)](../../01-19-1.무기/13.오브·마법서/혓바닥의%20금서%20(Grimoire%20of%20Tongues).md)
 - [심연 봉인의 가시 쇠사슬 (Abyss-Seal Spiked Iron Chains)](../../01-19-1.무기/16.특수·마도구·기타/펠스토리아%20봉인쇄%20(Felstoria%20Sealchain).md)

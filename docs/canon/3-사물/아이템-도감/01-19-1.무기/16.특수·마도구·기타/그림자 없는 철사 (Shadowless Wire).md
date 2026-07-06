@@ -81,4 +81,4 @@
 ## 🔗 관련 문서
 - [세이라 던크림 (Seira Dunecrime)](../../../../4-인물/영웅-백과/01-14-3.소환영웅/5.일반급/03.세이라던크림.md)
 - [여명의 침묵 (Silence of Dawn)](여명의%20침묵(Silence%20of%20Dawn).md)
-- [세이라 던크림의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](../13.오브·마법서/세이라%20던크림의%20저주받은%20고대어%20마도서%20(Ancient%20Cursed%20Grimoire).md)
+- [세이라 던크림의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](../13.오브·마법서/언약의%20각인%20(Brand%20of%20the%20Covenant).md)

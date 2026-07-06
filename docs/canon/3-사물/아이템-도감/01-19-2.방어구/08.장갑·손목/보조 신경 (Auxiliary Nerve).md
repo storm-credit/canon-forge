@@ -91,5 +91,5 @@
 
 ## 🔗 관련 문서
 - [에리오누스 사불로 (Erionus Sabulo)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/16.에리오누스사불로.md)
-- [사불로의 마나 파쇄(Mana-Crushing) 대물 저격소총 (Anti-Materiel Sniper Rifle of Sabulo)](../../01-19-1.무기/15.화기/사불로의%20마나%20파쇄(Mana-Crushing)%20대물%20저격소총%20(Anti-Materiel%20Sniper%20Rifle%20of%20Sabulo).md)
+- [사불로의 마나 파쇄(Mana-Crushing) 대물 저격소총 (Anti-Materiel Sniper Rifle of Sabulo)](../../01-19-1.무기/15.화기/모래폭풍의%20시작%20(Sandstorm's%20Onset).md)
 - [종교백과 - 꿰뚫린 심장의 무음 제례 머리띠 (Headband of the Silent Ritual of the Pierced Heart)](../../01-19-3.악세서리/04.머리장식/사일런티스%20(Silentis).md)

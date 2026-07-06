@@ -111,4 +111,4 @@
 ## 🔗 관련 문서
 
 - [카르멘 그레이슨 (Carmen Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/2.붉은모래상인회/07.카르멘그레이슨.md)
-- [담보 사슬의 압류창 — 카르멘 그레이슨의 채권 랜스 (Lien-Chain Repossession Lance — Carmen Grayson's Collateral Lance)](../../01-19-1.무기/06.창/담보%20사슬의%20압류창%20—%20카르멘%20그레이슨의%20채권%20랜스%20(Lien-Chain%20Repossession%20Lance%20—%20Carmen%20Grayson's%20Collateral%20Lance).md)
+- [담보 사슬의 압류창 — 카르멘 그레이슨의 채권 랜스 (Lien-Chain Repossession Lance — Carmen Grayson's Collateral Lance)](../../01-19-1.무기/06.창/그레이브바인드%20(Gravebind).md)

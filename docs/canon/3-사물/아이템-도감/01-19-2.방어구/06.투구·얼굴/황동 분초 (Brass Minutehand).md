@@ -86,5 +86,5 @@
 ## 🔗 관련 문서
 
 - [크세노스 아르카디아 (Xenos Arcadia)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/02.크세노스아르카디아.md)
-- [크로노스의 황금 눈 시계추 (Golden Pendulum with the Eye of Chronos)](../../01-19-1.무기/07.둔기/크로노스의%20황금%20눈%20시계추%20%28Golden%20Pendulum%20with%20the%20Eye%20of%20Chronos%29.md)
+- [크로노스의 황금 눈 시계추 (Golden Pendulum with the Eye of Chronos)](../../01-19-1.무기/07.둔기/황금%20눈%20%28Golden%20Eye%29.md)
 - [별자리 시간 룬 딥블루 로브 (Constellation-Rune Deep-Blue Robe of the Chrono-Scholar)](../03.로브·마법복/성좌시력%20%28Astrolume%29.md)

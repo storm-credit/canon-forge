@@ -106,5 +106,5 @@
 ## 🔗 관련 문서
 
 - [발렌타인 라크루아 (Valentine Lacroix)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/3.붉은칼날용병단/04.발렌타인라크루아.md)
-- [윈드블래스트 파성 도끼망치 — 발렌타인 라크루아의 유성무 (Windblast Siege-Hammer — Valentine Lacroix's Meteor Dance)](../../01-19-1.무기/07.둔기/윈드블래스트 파성 도끼망치 — 발렌타인 라크루아의 유성무 (Windblast Siege-Hammer — Valentine Lacroix's Meteor Dance).md)
+- [윈드블래스트 파성 도끼망치 — 발렌타인 라크루아의 유성무 (Windblast Siege-Hammer — Valentine Lacroix's Meteor Dance)](../../01-19-1.무기/07.둔기/유성무 (Meteor Dance).md)
 - [붉은 칼날 용병단](../../../../2-무대/세력/용병단/붉은칼날용병단/붉은칼날용병단.md)

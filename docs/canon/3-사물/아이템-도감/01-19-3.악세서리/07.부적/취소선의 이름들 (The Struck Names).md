@@ -92,4 +92,4 @@
 ## 🔗 관련 문서
 
 - [모르가나 스텔라리스 (Morgana Stellaris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/8.바이퍼해적단/06.모르가나스텔라리스.md)
-- [선고의 처형도끼 (Sentencing Execution Hatchet)](../../01-19-1.무기/05.도끼/선고의 처형도끼 — 아리엔 스텔라리스의 명부각인 손도끼 (Sentencing Execution Hatchet — Arien Stellaris's Ledger-Carved Handaxe).md)
+- [선고의 처형도끼 (Sentencing Execution Hatchet)](../../01-19-1.무기/05.도끼/명부 (The Ledger).md)

@@ -93,5 +93,5 @@
 ## 🔗 관련 문서
 
 - [로건 레드앵커 (Logan Redanchor)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/03.로건레드앵커.md)
-- [레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon)](../../01-19-1.무기/07.둔기/레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon).md)
+- [레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon)](../../01-19-1.무기/07.둔기/크림슨 타이푼 (Crimson Typhoon).md)
 - [광기 제어의 철 이빨 (Iron Teeth of Madness-Control)](../../01-19-4.유물/04.영웅고유성유물/유예의 이빨 (Reprieve Fang).md)

@@ -84,4 +84,4 @@
 ## 🔗 관련 문서
 - [타리온 카오스 (Tarion Khaos)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/05.타리온카오스.md)
 - [수천 마리 불나방이 갇힌 점화석 (Ignition-Stone of the Thousand Captured Fire-Moths)](../../../01-19-3.악세서리/07.부적/불나방의 입맞춤 (Fire-Moth's Kiss).md)
-- [카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos)](../../13.오브·마법서/카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos).md)
+- [카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos)](../../13.오브·마법서/사막의 미친 눈 (Mad Eye of the Desert).md)

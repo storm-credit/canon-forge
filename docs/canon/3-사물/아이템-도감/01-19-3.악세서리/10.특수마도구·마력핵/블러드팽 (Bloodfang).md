@@ -93,4 +93,4 @@
 ## 🔗 관련 문서
 - [그레이그 시리우스 (Graig Sirius)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/13.그레이그시리우스.md)
 - [굶주린 들개의 조악한 사슬 가죽 (Crude Chain-Leather of Starving Wild-Dog)](../../01-19-2.방어구/02.경갑/굶주린%20들개%20(Starving%20Wolfhide).md)
-- [시리우스의 강철 마수 채찍 (Steel Beast-Whip of Sirius)](../../01-19-1.무기/08.채찍/시리우스의%20강철%20마수%20채찍%20(Steel%20Beast-Whip%20of%20Sirius).md)
+- [시리우스의 강철 마수 채찍 (Steel Beast-Whip of Sirius)](../../01-19-1.무기/08.채찍/강철%20마수%20(Steel%20Beast).md)

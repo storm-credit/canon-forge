@@ -1,7 +1,7 @@
 ---
 정본명: 부적
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B10 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 부적
@@ -46,6 +46,7 @@
 | 만겁봉인 (Myriad-Aeon Seal) | [만겁봉인 (Myriad-Aeon Seal)](만겁봉인%20%28Myriad-Aeon%20Seal%29.md) |
 | 메디시스 혈인 (Medicis Bloodseal) | [메디시스 혈인 (Medicis Bloodseal)](메디시스%20혈인%20%28Medicis%20Bloodseal%29.md) |
 | 명부의 무게 (Weight of the Necrology) | [명부의 무게 (Weight of the Necrology)](명부의%20무게%20%28Weight%20of%20the%20Necrology%29.md) |
+| 무극편 (Zenith Shard) | [무극편 (Zenith Shard)](무극편%20%28Zenith%20Shard%29.md) |
 | 무명의 이름표 (Nameless Nametag) | [무명의 이름표 (Nameless Nametag)](무명의%20이름표%20%28Nameless%20Nametag%29.md) |
 | 무죄 추정의 장막 (Mantle of Presumed Innocence) | [무죄 추정의 장막 (Mantle of Presumed Innocence)](무죄%20추정의%20장막%20%28Mantle%20of%20Presumed%20Innocence%29.md) |
 | 미리암의 눈 (Eye of Miriam) | [미리암의 눈 (Eye of Miriam)](미리암의%20눈%20%28Eye%20of%20Miriam%29.md) |
@@ -58,8 +59,6 @@
 | 버려진 자들의 독병 (Vial of the Discarded) | [버려진 자들의 독병 (Vial of the Discarded)](버려진%20자들의%20독병%20%28Vial%20of%20the%20Discarded%29.md) |
 | 베일페이스 (Veilface) | [베일페이스 (Veilface)](베일페이스%20%28Veilface%29.md) |
 | 부러진 십자가 (Broken Cross) | [부러진 십자가 (Broken Cross)](부러진%20십자가%20%28Broken%20Cross%29.md) |
-| 부적류 - 에린디르의 생명의 목걸이 (Amulet of Vitality) | [부적류 - 에린디르의 생명의 목걸이 (Amulet of Vitality)](부적류%20-%20에린디르의%20생명의%20목걸이%20%28Amulet%20of%20Vitality%29.md) |
-| 부적류 - 쪼개진 무극의 검집 파편 (Splintered Scabbard of Zenith) | [부적류 - 쪼개진 무극의 검집 파편 (Splintered Scabbard of Zenith)](부적류%20-%20쪼개진%20무극의%20검집%20파편%20%28Splintered%20Scabbard%20of%20Zenith%29.md) |
 | 불나방의 입맞춤 (Fire-Moth's Kiss) | [불나방의 입맞춤 (Fire-Moth's Kiss)](불나방의%20입맞춤%20%28Fire-Moth's%20Kiss%29.md) |
 | 브로큰혼 (Broken Horn) | [브로큰혼 (Broken Horn)](브로큰혼%20%28Broken%20Horn%29.md) |
 | 블랙윈드 (Black Wind) | [블랙윈드 (Black Wind)](블랙윈드%20%28Black%20Wind%29.md) |
@@ -82,6 +81,7 @@
 | 스노우볼 (Snowball) | [스노우볼 (Snowball)](스노우볼%20%28Snowball%29.md) |
 | 시위의 기억 (Memory of the String) | [시위의 기억 (Memory of the String)](시위의%20기억%20%28Memory%20of%20the%20String%29.md) |
 | 신더바인드 (Cinderbind) | [신더바인드 (Cinderbind)](신더바인드%20%28Cinderbind%29.md) |
+| 실바리스 비테 (Sylvaris Vitae) | [실바리스 비테 (Sylvaris Vitae)](실바리스%20비테%20%28Sylvaris%20Vitae%29.md) |
 | 쏜 헬 (Thorn Hell) | [쏜 헬 (Thorn Hell)](쏜%20헬%20%28Thorn%20Hell%29.md) |
 | 씰앵커 (Seal Anchor) | [씰앵커 (Seal Anchor)](씰앵커%20%28Seal%20Anchor%29.md) |
 | 안식의 배웅 (Farewell Requiem) | [안식의 배웅 (Farewell Requiem)](안식의%20배웅%20%28Farewell%20Requiem%29.md) |

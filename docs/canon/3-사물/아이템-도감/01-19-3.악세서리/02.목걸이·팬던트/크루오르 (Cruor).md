@@ -63,7 +63,7 @@
 
 ### 관련 캐릭터
 - **라미엘리스 시안** — 이단학파의 교의를 맹목적 신앙이 아닌 화학적 정밀론으로 재해석하지만, 이 목걸이를 손에 쥐었을 때만큼은 어떤 이름도 붙이지 않는다.
-- **[시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis)](../../01-19-1.무기/06.창/시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis).md)** — 창염 방출 기관과 이 목걸이의 결정은 동일한 창염 공진 주파수를 공유한다. 두 장비가 동시에 활성화될 때 창염 방출의 정밀도와 출력 효율이 함께 극대화된다.
+- **[시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis)](../../01-19-1.무기/06.창/청화의 포효 (Azure Roar).md)** — 창염 방출 기관과 이 목걸이의 결정은 동일한 창염 공진 주파수를 공유한다. 두 장비가 동시에 활성화될 때 창염 방출의 정밀도와 출력 효율이 함께 극대화된다.
 
 ---
 
@@ -84,5 +84,5 @@
 
 ## 🔗 관련 문서
 - [라미엘리스 시안 (Ramielis Cyan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/10.라미엘리스시안.md)
-- [시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis)](../../01-19-1.무기/06.창/시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis).md)
+- [시안의 창염 방사 랜스 (Cyan-Flame Ejector Lance of Ramielis)](../../01-19-1.무기/06.창/청화의 포효 (Azure Roar).md)
 - [역병 차단된 멸균 은빛 방사복 (Sterile Silver Hazmat-Suit)](../../01-19-2.방어구/03.로브·마법복/퓨어스트라이드 (Purestride).md)

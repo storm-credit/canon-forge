@@ -90,4 +90,4 @@
 ## 🔗 관련 문서
 - [라헨 벤투스 (Rahen Ventus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/4.봉인수호단/07.라헨벤투스.md)
 - [바람길 역수의 단검 '벤투스의 입술' (Wind-path Reverse Dagger)](벤투스의%20입술%20(Ventus's%20Lips).md)
-- [부메랑 윙 커터 — 카엘의 강철 날개깃 쌍도날 (Boomerang Wing Cutter — Twin Steel Wing-Feather Blades of Kael)](../03.쌍검/부메랑%20윙%20커터%20—%20카엘의%20강철%20날개깃%20쌍도날%20(Boomerang%20Wing%20Cutter%20—%20Twin%20Steel%20Wing-Feather%20Blades%20of%20Kael).md)
+- [부메랑 윙 커터 — 카엘의 강철 날개깃 쌍도날 (Boomerang Wing Cutter — Twin Steel Wing-Feather Blades of Kael)](../03.쌍검/부메랑%20윙%20커터%20(Boomerang%20Wing%20Cutter).md)

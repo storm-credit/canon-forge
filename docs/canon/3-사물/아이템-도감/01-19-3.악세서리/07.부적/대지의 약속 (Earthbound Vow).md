@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [카이론 불구스 (Kyron Vulgus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/03.카이론불구스.md)
-- [불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus)](../../01-19-1.무기/07.둔기/불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus).md)
+- [불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus)](../../01-19-1.무기/07.둔기/헥사 그라비스 (Hexa Gravis).md)
 - [적린 코뿔소 두개골 전투 투구 (Red-Scale Rhino Skull Battle Helm)](../../01-19-2.방어구/06.투구·얼굴/팬텀혼 (Phantom Horn).md)

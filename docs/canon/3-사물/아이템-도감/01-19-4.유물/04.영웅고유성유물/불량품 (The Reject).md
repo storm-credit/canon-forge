@@ -100,4 +100,4 @@
 
 - [모건 페룸 (Morgan Ferrum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/04.모건페룸.md)
 - [방염 부식 코팅 구리스 (Flame-proof Anti-Corrosion Grease)](./방염%20구리스%20(Flameproof%20Grease).md)
-- [강철 고집술의 대망치 '무쇠 덩어리' (Hammer of Iron Stubbornness: Solid Pig-iron)](../../01-19-1.무기/07.둔기/강철%20고집술의%20대망치%20'무쇠%20덩어리'%20(Hammer%20of%20Iron%20Stubbornness%20Solid%20Pig-iron).md)
+- [강철 고집술의 대망치 '무쇠 덩어리' (Hammer of Iron Stubbornness: Solid Pig-iron)](../../01-19-1.무기/07.둔기/무쇠%20덩어리%20(Solid%20Pig-iron).md)

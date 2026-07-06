@@ -94,4 +94,4 @@
 
 ## 🔗 관련 문서
 - [다미안 블러드워커 (Damian Bloodwalker)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/1.황금나침반상회/03.다미안블러드워커.md)
-- [장부를 덮는 전퇴 '최후 결산' (Ledger-Closing War Maul 'Final Settlement')](../../01-19-1.무기/07.둔기/장부를%20덮는%20전퇴%20'최후%20결산'%20(Ledger-Closing%20War%20Maul%20'Final%20Settlement').md)
+- [장부를 덮는 전퇴 '최후 결산' (Ledger-Closing War Maul 'Final Settlement')](../../01-19-1.무기/07.둔기/최후%20결산%20(Final%20Settlement).md)

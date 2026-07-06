@@ -85,5 +85,5 @@
 
 ## 🔗 관련 문서
 - [바스티안 그레이딥 (Bastian Graydeep)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/8.바스티안그레이딥.md)
-- [마력 봉인 기요틴 펜서 '단죄의 혀' (Mana-Sealing Rapier 'Tongue of Judgement')](../13.오브·마법서/마력%20봉인%20기요틴%20펜서%20'단죄의%20혀'%20(Mana-Sealing%20Rapier%20'Tongue%20of%20Judgement').md)
+- [마력 봉인 기요틴 펜서 '단죄의 혀' (Mana-Sealing Rapier 'Tongue of Judgement')](../13.오브·마법서/단죄의%20혀%20(Tongue%20of%20Judgement).md)
 - [정신 오염 방벽 가죽 코트 (Mental-Aegis Trench Coat)](../../01-19-2.방어구/02.경갑/이지스%20리버설%20(Aegis%20Reversal).md)

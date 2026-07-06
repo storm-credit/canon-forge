@@ -98,4 +98,4 @@
 
 - [발레리우스 녹스 (Valerius Nox)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/10.발레리우스녹스.md)
 - [반향(Echo) 포착 비늘망토 (Scale-cloak of Resonance)](../04.망토·외투/녹스 에코 (Nox Echo).md)
-- [맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness')](../../../01-19-1.무기/06.창/맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness').md)
+- [맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness')](../../../01-19-1.무기/06.창/피어서 옵 다크니스 (Piercer of Darkness).md)

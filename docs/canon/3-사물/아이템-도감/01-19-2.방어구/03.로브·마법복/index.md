@@ -1,7 +1,7 @@
 ---
 정본명: 로브·마법복
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B8 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 로브·마법복
@@ -31,6 +31,7 @@
 | 눈꽃 순례 (Snowflake Pilgrimage) | [눈꽃 순례 (Snowflake Pilgrimage)](눈꽃%20순례%20%28Snowflake%20Pilgrimage%29.md) |
 | 니바리스 (Nivaris) | [니바리스 (Nivaris)](니바리스%20%28Nivaris%29.md) |
 | 닉스판테르 (Nyxpanther) | [닉스판테르 (Nyxpanther)](닉스판테르%20%28Nyxpanther%29.md) |
+| 더스트윙 (Dustwing) | [더스트윙 (Dustwing)](더스트윙%20%28Dustwing%29.md) |
 | 두네사르 (Dunesar) | [두네사르 (Dunesar)](두네사르%20%28Dunesar%29.md) |
 | 들리지 않는 자 (The Unheard) | [들리지 않는 자 (The Unheard)](들리지%20않는%20자%20%28The%20Unheard%29.md) |
 | 디멘셔널 스텝 (Dimensional Step) | [디멘셔널 스텝 (Dimensional Step)](디멘셔널%20스텝%20%28Dimensional%20Step%29.md) |
@@ -49,7 +50,6 @@
 | 마르티리아 (Martyria) | [마르티리아 (Martyria)](마르티리아%20%28Martyria%29.md) |
 | 마법복 (Mystic Garb) | [마법복 (Mystic Garb)](마법복%20%28Mystic%20Garb%29.md) |
 | 마엘스트롬 (Maelstrom) | [마엘스트롬 (Maelstrom)](마엘스트롬%20%28Maelstrom%29.md) |
-| 먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet) | [먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet)](먼지%20털이깃%20제비%20앵클렛%20%28Dust-Feather%20Swallow%20Anklet%29.md) |
 | 먼지의 기억 (Dust Memory) | [먼지의 기억 (Dust Memory)](먼지의%20기억%20%28Dust%20Memory%29.md) |
 | 몰트셰이드 (Moltshade) | [몰트셰이드 (Moltshade)](몰트셰이드%20%28Moltshade%29.md) |
 | 뫼비우스 (Mobius) | [뫼비우스 (Mobius)](뫼비우스%20%28Mobius%29.md) |

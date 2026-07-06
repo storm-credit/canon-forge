@@ -101,4 +101,4 @@
 - [모건 아이언클래드 (Morgan Ironclad)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/1.해적연합/10.모건아이언클래드.md)
 - [심연강 전신 중갑 '강철의 파도' (Abyss Steel Full Plate 'Iron Tide')](../01.중갑/강철의%20파도%20(Iron%20Tide).md)
 - [움직이는 거북선의 타워 실드 '바다의 요새' (Tower Shield 'Fortress of the Sea')](../05.방패/바다의%20요새%20(Fortress%20of%20the%20Sea).md)
-- [강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace)](../../01-19-1.무기/07.둔기/강철%20해일의%20철퇴%20'파도%20부수기'%20(Tidebreaker%20Mace).md)
+- [강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace)](../../01-19-1.무기/07.둔기/파도%20부수기%20(Tidebreaker).md)

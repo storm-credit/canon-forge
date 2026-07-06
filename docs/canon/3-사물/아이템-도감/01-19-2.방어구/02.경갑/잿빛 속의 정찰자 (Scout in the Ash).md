@@ -80,5 +80,5 @@
 ## 🔗 관련 문서
 
 - [아이리스 실버문 (Iris Silvermoon)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/13.발키리아용병단/07.아이리스실버문.md)
-- [재의 포효 — 아이리스 실버문의 쌍두 부월 (Ashen Roar — Iris Silvermoon's Twin-Headed Battleaxe)](../../01-19-1.무기/05.도끼/재의 포효 — 아이리스 실버문의 쌍두 부월 (Ashen Roar — Iris Silvermoon's Twin-Headed Battleaxe).md)
+- [재의 포효 — 아이리스 실버문의 쌍두 부월 (Ashen Roar — Iris Silvermoon's Twin-Headed Battleaxe)](../../01-19-1.무기/05.도끼/재의 포효 (Ashen Roar).md)
 - 발키리아 전장의 맹세 용병단 (Valkyria Oathbound Mercenaries)

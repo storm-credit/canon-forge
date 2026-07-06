@@ -1,7 +1,7 @@
 ---
 정본명: 지팡이·완드
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B4 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 지팡이·완드
@@ -23,6 +23,7 @@
 | 그라모스 스태프 (Gramos Staff) | [그라모스 스태프 (Gramos Staff)](그라모스%20스태프%20%28Gramos%20Staff%29.md) |
 | 글라키에스 (Glacies) | [글라키에스 (Glacies)](글라키에스%20%28Glacies%29.md) |
 | 글라키에스 프로스트 (Glacies Frost) | [글라키에스 프로스트 (Glacies Frost)](글라키에스%20프로스트%20%28Glacies%20Frost%29.md) |
+| 기어버드 (Gearbud) | [기어버드 (Gearbud)](기어버드%20%28Gearbud%29.md) |
 | 기억의 빛 (Remembered Light) | [기억의 빛 (Remembered Light)](기억의%20빛%20%28Remembered%20Light%29.md) |
 | 꺼지지 않는 불꽃 (Undying Flame) | [꺼지지 않는 불꽃 (Undying Flame)](꺼지지%20않는%20불꽃%20%28Undying%20Flame%29.md) |
 | 나이트블룸의 달빛 (Nightbloom's Moonlight) | [나이트블룸의 달빛 (Nightbloom's Moonlight)](나이트블룸의%20달빛%20%28Nightbloom's%20Moonlight%29.md) |
@@ -231,7 +232,6 @@
 | 타이드윈드의 별빛 (Starlight of Tidewind) | [타이드윈드의 별빛 (Starlight of Tidewind)](타이드윈드의%20별빛%20%28Starlight%20of%20Tidewind%29.md) |
 | 택티카 (Tactica) | [택티카 (Tactica)](택티카%20%28Tactica%29.md) |
 | 템페스트의 별무리 (Cluster of Tempest) | [템페스트의 별무리 (Cluster of Tempest)](템페스트의%20별무리%20%28Cluster%20of%20Tempest%29.md) |
-| 톱니 잠긴 이그드라실의 가지 (Gear-Bound Bough of Yggdrasil) | [톱니 잠긴 이그드라실의 가지 (Gear-Bound Bough of Yggdrasil)](톱니%20잠긴%20이그드라실의%20가지%20%28Gear-Bound%20Bough%20of%20Yggdrasil%29.md) |
 | 티데브라움 (Tidebloom) | [티데브라움 (Tidebloom)](티데브라움%20%28Tidebloom%29.md) |
 | 페레그리나 (Peregrina) | [페레그리나 (Peregrina)](페레그리나%20%28Peregrina%29.md) |
 | 폐허 서기봉 (Ruin-Scribe Rod) | [폐허 서기봉 (Ruin-Scribe Rod)](폐허%20서기봉%20%28Ruin-Scribe%20Rod%29.md) |

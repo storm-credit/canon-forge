@@ -94,6 +94,6 @@
 ## 🔗 관련 문서
 
 - [벨가스토르 테네브리스 (Belgastor Tenebris)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/13.벨가스토르테네브리스.md)
-- [테네브리스의 흑야 투창 쌍발기 (Dual-Sling Black-Night Javelins of Tenebris)](../06.창/테네브리스의%20흑야%20투창%20쌍발기%20(Dual-Sling%20Black-Night%20Javelins%20of%20Tenebris).md)
+- [테네브리스의 흑야 투창 쌍발기 (Dual-Sling Black-Night Javelins of Tenebris)](../06.창/녹스브링어%20(Noxbringer).md)
 - [흡음(Sound-Absorbing) 처리된 흑박쥐 피박 갑주 (Blood-Foil Armor of the Dark-Bat)](../../01-19-2.방어구/01.중갑/심연의%20정적갑%20(Abyssal%20Hush).md)
 - [빛을 삼키는 달무리의 고리 (Ring of the Light-Swallowing Halo)](../../01-19-3.악세서리/01.반지/달무리의%20고리%20(Halo%20Ring).md)

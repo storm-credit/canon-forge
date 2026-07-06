@@ -1,7 +1,7 @@
 ---
 정본명: 둔기
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B7 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 둔기
@@ -10,109 +10,109 @@
 
 | 아이템 | 링크 |
 |--------|------|
-| 가론 웨이브크래셔의 수압 철퇴 (Water-Pressure Mace of 가론 웨이브크래셔) | [가론 웨이브크래셔의 수압 철퇴 (Water-Pressure Mace of 가론 웨이브크래셔)](가론%20웨이브크래셔의%20수압%20철퇴%20%28Water-Pressure%20Mace%20of%20가론%20웨이브크래셔%29.md) |
-| 가시 박힌 참회의 구원 철퇴(Mace of Bludgeoning Penance) | [가시 박힌 참회의 구원 철퇴(Mace of Bludgeoning Penance)](가시%20박힌%20참회의%20구원%20철퇴%28Mace%20of%20Bludgeoning%20Penance%29.md) |
 | 갓 핸드 (God Hand) | [갓 핸드 (God Hand)](갓%20핸드%20%28God%20Hand%29.md) |
-| 강철 고집술의 대망치 '무쇠 덩어리' (Hammer of Iron Stubbornness Solid Pig-iron) | [강철 고집술의 대망치 '무쇠 덩어리' (Hammer of Iron Stubbornness Solid Pig-iron)](강철%20고집술의%20대망치%20'무쇠%20덩어리'%20%28Hammer%20of%20Iron%20Stubbornness%20Solid%20Pig-iron%29.md) |
-| 강철 대장장이의 골렘 제어 해머 (Ironforge's Golem Control Hammer) | [강철 대장장이의 골렘 제어 해머 (Ironforge's Golem Control Hammer)](강철%20대장장이의%20골렘%20제어%20해머%20%28Ironforge's%20Golem%20Control%20Hammer%29.md) |
-| 강철 이빨의 정비 망치 (Fang's Ironbite Hammer) | [강철 이빨의 정비 망치 (Fang's Ironbite Hammer)](강철%20이빨의%20정비%20망치%20%28Fang's%20Ironbite%20Hammer%29.md) |
-| 강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace) | [강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace)](강철%20해일의%20철퇴%20'파도%20부수기'%20%28Tidebreaker%20Mace%29.md) |
+| 강철 이빨 (Steel Fang) | [강철 이빨 (Steel Fang)](강철%20이빨%20%28Steel%20Fang%29.md) |
+| 거북이 모루 (Turtle Anvil) | [거북이 모루 (Turtle Anvil)](거북이%20모루%20%28Turtle%20Anvil%29.md) |
+| 기우는 저울 (Tolling Scale) | [기우는 저울 (Tolling Scale)](기우는%20저울%20%28Tolling%20Scale%29.md) |
 | 나락의 철퇴 (Mace of the Abyssal Ledger) | [나락의 철퇴 (Mace of the Abyssal Ledger)](나락의%20철퇴%20%28Mace%20of%20the%20Abyssal%20Ledger%29.md) |
-| 낙하의 저지추 — 실비아 베클렌의 스톰 브레이크 (Falling Bulwark-Hammer — Sylvia Becklen's Storm-Break) | [낙하의 저지추 — 실비아 베클렌의 스톰 브레이크 (Falling Bulwark-Hammer — Sylvia Becklen's Storm-Break)](낙하의%20저지추%20—%20실비아%20베클렌의%20스톰%20브레이크%20%28Falling%20Bulwark-Hammer%20—%20Sylvia%20Becklen's%20Storm-Break%29.md) |
 | 뇌전의 망치 (Hammer of Thunder) | [뇌전의 망치 (Hammer of Thunder)](뇌전의%20망치%20%28Hammer%20of%20Thunder%29.md) |
-| 니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass) | [니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass)](니비스코르의%20도면%20지휘봉%20-%20나침반%20%28Blueprint%20Baton%20of%20Niviscor,%20Compass%29.md) |
+| 눈먼 저울 (Blind Man's Scale) | [눈먼 저울 (Blind Man's Scale)](눈먼%20저울%20%28Blind%20Man's%20Scale%29.md) |
+| 니비스코르 (Niviscor) | [니비스코르 (Niviscor)](니비스코르%20%28Niviscor%29.md) |
 | 다목적 렌치 '옴니툴' (Werther Neumann's Omni-Tool Wrench) | [다목적 렌치 '옴니툴' (Werther Neumann's Omni-Tool Wrench)](다목적%20렌치%20'옴니툴'%20%28Werther%20Neumann's%20Omni-Tool%20Wrench%29.md) |
-| 단조의 대망치 '묠니르 2호' (Drego Ironpix's Forge Hammer Mjolnir Mk2) | [단조의 대망치 '묠니르 2호' (Drego Ironpix's Forge Hammer Mjolnir Mk2)](단조의%20대망치%20'묠니르%202호'%20%28Drego%20Ironpix's%20Forge%20Hammer%20Mjolnir%20Mk2%29.md) |
 | 단죄의 철퇴 (Hammer of Condemnation) | [단죄의 철퇴 (Hammer of Condemnation)](단죄의%20철퇴%20%28Hammer%20of%20Condemnation%29.md) |
-| 닻못 박힌 이정표 전곤 (Waymarker Warmace of the Anchored Nail) | [닻못 박힌 이정표 전곤 (Waymarker Warmace of the Anchored Nail)](닻못%20박힌%20이정표%20전곤%20%28Waymarker%20Warmace%20of%20the%20Anchored%20Nail%29.md) |
-| 대장기사의 겹벼림 워해머 '이음쇠 파쇄자' (Layersmith's War-Hammer, Seam-Breaker) | [대장기사의 겹벼림 워해머 '이음쇠 파쇄자' (Layersmith's War-Hammer, Seam-Breaker)](대장기사의%20겹벼림%20워해머%20'이음쇠%20파쇄자'%20%28Layersmith's%20War-Hammer,%20Seam-Breaker%29.md) |
-| 대지를 가르는 운철 망치(Meteoric Hammer of Earthcleaving) | [대지를 가르는 운철 망치(Meteoric Hammer of Earthcleaving)](대지를%20가르는%20운철%20망치%28Meteoric%20Hammer%20of%20Earthcleaving%29.md) |
+| 대장장이의 파열 (Forge-rupture) | [대장장이의 파열 (Forge-rupture)](대장장이의%20파열%20%28Forge-rupture%29.md) |
 | 대지의 분쇄망치 (Warhammer of Earthshattering) | [대지의 분쇄망치 (Warhammer of Earthshattering)](대지의%20분쇄망치%20%28Warhammer%20of%20Earthshattering%29.md) |
-| 대지의 심박을 조율하는 토석 망치 (Earthern Hammer Resonating the Heartbeat of the Earth) | [대지의 심박을 조율하는 토석 망치 (Earthern Hammer Resonating the Heartbeat of the Earth)](대지의%20심박을%20조율하는%20토석%20망치%20%28Earthern%20Hammer%20Resonating%20the%20Heartbeat%20of%20the%20Earth%29.md) |
-| 대지의 심박을 찢는 토석 망치-판게아 (Earthern Doom-Hammer Resonating Pangaea) | [대지의 심박을 찢는 토석 망치-판게아 (Earthern Doom-Hammer Resonating Pangaea)](대지의%20심박을%20찢는%20토석%20망치-판게아%20%28Earthern%20Doom-Hammer%20Resonating%20Pangaea%29.md) |
-| 대지의망치테라해머네프튠해머프로스트해머 | [대지의망치테라해머네프튠해머프로스트해머](대지의망치테라해머네프튠해머프로스트해머.md) |
-| 둔기류 - 스톤베인의 대륙 파쇄 망치 (Continental Crusher) | [둔기류 - 스톤베인의 대륙 파쇄 망치 (Continental Crusher)](둔기류%20-%20스톤베인의%20대륙%20파쇄%20망치%20%28Continental%20Crusher%29.md) |
+| 둠 불워크 (Doom Bulwark) | [둠 불워크 (Doom Bulwark)](둠%20불워크%20%28Doom%20Bulwark%29.md) |
 | 둠브링어 (Doombringer) | [둠브링어 (Doombringer)](둠브링어%20%28Doombringer%29.md) |
 | 둠해머 폴른 스카이 (Doomhammer Fallen Sky) | [둠해머 폴른 스카이 (Doomhammer Fallen Sky)](둠해머%20폴른%20스카이%20%28Doomhammer%20Fallen%20Sky%29.md) |
-| 디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord) | [디스코드의 음파 튜닝포크 망치 (Sonic Tuning-Fork Hammer of Discord)](디스코드의%20음파%20튜닝포크%20망치%20%28Sonic%20Tuning-Fork%20Hammer%20of%20Discord%29.md) |
-| 땅을 여는 자의 대형 곡괭이 — 발렌타인 어스바운드의 개척 곡괭이 (Ground-Breaker's Great Pick — Valentine Earthbound's Frontier Pickaxe) | [땅을 여는 자의 대형 곡괭이 — 발렌타인 어스바운드의 개척 곡괭이 (Ground-Breaker's Great Pick — Valentine Earthbound's Frontier Pickaxe)](땅을%20여는%20자의%20대형%20곡괭이%20—%20발렌타인%20어스바운드의%20개척%20곡괭이%20%28Ground-Breaker's%20Great%20Pick%20—%20Valentine%20Earthbound's%20Frontier%20Pickaxe%29.md) |
-| 레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon) | [레드앵커의 사슬 닻 - 크림슨 타이푼 (Chain Anchor, Crimson Typhoon)](레드앵커의%20사슬%20닻%20-%20크림슨%20타이푼%20%28Chain%20Anchor,%20Crimson%20Typhoon%29.md) |
-| 마도 연성 망치 '아틀라스의 스패너' (Alchemical Hammer 'Spanner of Atlas') | [마도 연성 망치 '아틀라스의 스패너' (Alchemical Hammer 'Spanner of Atlas')](마도%20연성%20망치%20'아틀라스의%20스패너'%20%28Alchemical%20Hammer%20'Spanner%20of%20Atlas'%29.md) |
-| 마력 과적 렌치 '포탄받이' (Mana Overcharge Wrench 'Cannonball Catcher') | [마력 과적 렌치 '포탄받이' (Mana Overcharge Wrench 'Cannonball Catcher')](마력%20과적%20렌치%20'포탄받이'%20%28Mana%20Overcharge%20Wrench%20'Cannonball%20Catcher'%29.md) |
-| 마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer) | [마키나스의 울로코 압력 건망치 (Uloco Pressure Gun-Hammer)](마키나스의%20울로코%20압력%20건망치%20%28Uloco%20Pressure%20Gun-Hammer%29.md) |
+| 듣는 저울 (Listener's Scale) | [듣는 저울 (Listener's Scale)](듣는%20저울%20%28Listener's%20Scale%29.md) |
+| 디스코드 (Discord) | [디스코드 (Discord)](디스코드%20%28Discord%29.md) |
+| 레이븐스톰 (Ravenstorm) | [레이븐스톰 (Ravenstorm)](레이븐스톰%20%28Ravenstorm%29.md) |
+| 레조넌트 램 (Resonant Ram) | [레조넌트 램 (Resonant Ram)](레조넌트%20램%20%28Resonant%20Ram%29.md) |
+| 레커 (Wrecker) | [레커 (Wrecker)](레커%20%28Wrecker%29.md) |
+| 마리아나의 닻 (Mariana's Weight) | [마리아나의 닻 (Mariana's Weight)](마리아나의%20닻%20%28Mariana's%20Weight%29.md) |
+| 마지막 포효 (The Last Roar) | [마지막 포효 (The Last Roar)](마지막%20포효%20%28The%20Last%20Roar%29.md) |
 | 만능 렌치 (Omni Wrench) | [만능 렌치 (Omni Wrench)](만능%20렌치%20%28Omni%20Wrench%29.md) |
 | 만능 렌치 (Universal Wrench) | [만능 렌치 (Universal Wrench)](만능%20렌치%20%28Universal%20Wrench%29.md) |
-| 만능 전격 렌치 '볼트' (Theodor Maxwell's Omni-Wrench Volt) | [만능 전격 렌치 '볼트' (Theodor Maxwell's Omni-Wrench Volt)](만능%20전격%20렌치%20'볼트'%20%28Theodor%20Maxwell's%20Omni-Wrench%20Volt%29.md) |
+| 망치의 낙하 (Hammerfall) | [망치의 낙하 (Hammerfall)](망치의%20낙하%20%28Hammerfall%29.md) |
+| 메테오 스매셔 (Meteor Smasher) | [메테오 스매셔 (Meteor Smasher)](메테오%20스매셔%20%28Meteor%20Smasher%29.md) |
 | 몬스페룸의 중력석 망치 (Gravity-Stone Hammer of Monsferrum) | [몬스페룸의 중력석 망치 (Gravity-Stone Hammer of Monsferrum)](몬스페룸의%20중력석%20망치%20%28Gravity-Stone%20Hammer%20of%20Monsferrum%29.md) |
 | 묠니르 2.0 (Mjolnir 2.0) | [묠니르 2.0 (Mjolnir 2.0)](묠니르%202.0%20%28Mjolnir%202.0%29.md) |
-| 무형광 강철 망치와 거북이 모루(Colorless Hammer & Anvil) | [무형광 강철 망치와 거북이 모루(Colorless Hammer & Anvil)](무형광%20강철%20망치와%20거북이%20모루%28Colorless%20Hammer%20&%20Anvil%29.md) |
-| 미라엘 사일렌시아의 추적 합성궁 (Tracking Composite Bow of 미라엘 사일렌시아) | [미라엘 사일렌시아의 추적 합성궁 (Tracking Composite Bow of 미라엘 사일렌시아)](미라엘%20사일렌시아의%20추적%20합성궁%20%28Tracking%20Composite%20Bow%20of%20미라엘%20사일렌시아%29.md) |
+| 묠니르 2호 (Mjolnir Mk2) | [묠니르 2호 (Mjolnir Mk2)](묠니르%202호%20%28Mjolnir%20Mk2%29.md) |
+| 무쇠 덩어리 (Solid Pig-iron) | [무쇠 덩어리 (Solid Pig-iron)](무쇠%20덩어리%20%28Solid%20Pig-iron%29.md) |
 | 미스릴 메이스 (Ricardo Belgarde's Mithril Mace) | [미스릴 메이스 (Ricardo Belgarde's Mithril Mace)](미스릴%20메이스%20%28Ricardo%20Belgarde's%20Mithril%20Mace%29.md) |
-| 방패 파쇄자의 강철 파성퇴 (Shieldbreaker's Iron Ram) | [방패 파쇄자의 강철 파성퇴 (Shieldbreaker's Iron Ram)](방패%20파쇄자의%20강철%20파성퇴%20%28Shieldbreaker's%20Iron%20Ram%29.md) |
+| 바다 코뿔소 (Sea Rhino) | [바다 코뿔소 (Sea Rhino)](바다%20코뿔소%20%28Sea%20Rhino%29.md) |
+| 발렌타인의 나침반 (Valentine's Compass) | [발렌타인의 나침반 (Valentine's Compass)](발렌타인의%20나침반%20%28Valentine's%20Compass%29.md) |
+| 백수정 교향곡 (White-crystal Symphony) | [백수정 교향곡 (White-crystal Symphony)](백수정%20교향곡%20%28White-crystal%20Symphony%29.md) |
 | 뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard) | [뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard)](뱅가드의%20은빛%20지휘봉%20%28Silver%20Baton%20of%20Vanguard%29.md) |
-| 베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank) | [베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank)](베인의%20생화학%20추출봉%20-%20페스트%20크랭크%20%28Biochemical%20Extractor,%20Pest-Crank%29.md) |
-| 베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth) | [베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth)](베헤모스의%20운석추%20메테오%20스매셔%20%28Meteor%20Smasher%20of%20Behemoth%29.md) |
-| 별빛 인도자의 충격 지휘봉 — 엑터 스텔라리스의 인도자 망치 (Starward Warden's Shock Baton — Ector Stellaris's Guiding Hammer) | [별빛 인도자의 충격 지휘봉 — 엑터 스텔라리스의 인도자 망치 (Starward Warden's Shock Baton — Ector Stellaris's Guiding Hammer)](별빛%20인도자의%20충격%20지휘봉%20—%20발렌타인%20스텔라리스의%20인도자%20망치%20%28Starward%20Warden's%20Shock%20Baton%20—%20Valentine%20Stellaris's%20Guiding%20Hammer%29.md) |
-| 별빛의 망치 스타 해머 (Star Hammer) | [별빛의 망치 스타 해머 (Star Hammer)](별빛의%20망치%20스타%20해머%20%28Star%20Hammer%29.md) |
 | 보랏빛 시계추(Pendulum of Khronos) | [보랏빛 시계추(Pendulum of Khronos)](보랏빛%20시계추%28Pendulum%20of%20Khronos%29.md) |
+| 볼트 (Volt) | [볼트 (Volt)](볼트%20%28Volt%29.md) |
+| 부서지는 저울 (Breaking Scale) | [부서지는 저울 (Breaking Scale)](부서지는%20저울%20%28Breaking%20Scale%29.md) |
 | 북방의 망치 모르딘 (Mordin) | [북방의 망치 모르딘 (Mordin)](북방의%20망치%20모르딘%20%28Mordin%29.md) |
-| 불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus) | [불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus)](불구스의%20초중력%28Hyper-Gravity%29%20육각%20철퇴%20%28Hexagonal%20Iron-Mace%20of%20Vulgus%29.md) |
-| 불프가리스의 용골(Dragon-bone) 중력 파쇄망치 (Gravity-Crush Hammer of Vulfgaris) | [불프가리스의 용골(Dragon-bone) 중력 파쇄망치 (Gravity-Crush Hammer of Vulfgaris)](불프가리스의%20용골%28Dragon-bone%29%20중력%20파쇄망치%20%28Gravity-Crush%20Hammer%20of%20Vulfgaris%29.md) |
-| 붕괴하는 별의 닻 — 시리우스 나이트폴의 특이점 망치 (Collapsing Star's Anchor — Sirius Nightfall's Singularity Maul) | [붕괴하는 별의 닻 — 시리우스 나이트폴의 특이점 망치 (Collapsing Star's Anchor — Sirius Nightfall's Singularity Maul)](붕괴하는%20별의%20닻%20—%20시리우스%20나이트폴의%20특이점%20망치%20%28Collapsing%20Star's%20Anchor%20—%20Sirius%20Nightfall's%20Singularity%20Maul%29.md) |
+| 불식의 저울 (Unerring Scale) | [불식의 저울 (Unerring Scale)](불식의%20저울%20%28Unerring%20Scale%29.md) |
+| 불타는 저울 (Blazing Scale) | [불타는 저울 (Blazing Scale)](불타는%20저울%20%28Blazing%20Scale%29.md) |
+| 붕괴하는 별의 닻 (Collapsing Star's Anchor) | [붕괴하는 별의 닻 (Collapsing Star's Anchor)](붕괴하는%20별의%20닻%20%28Collapsing%20Star's%20Anchor%29.md) |
 | 비탄의 척추 (Spine of Lamentation) | [비탄의 척추 (Spine of Lamentation)](비탄의%20척추%20%28Spine%20of%20Lamentation%29.md) |
 | 뼈분쇄 전쟁 망치 (Bonecrush Warhammer) | [뼈분쇄 전쟁 망치 (Bonecrush Warhammer)](뼈분쇄%20전쟁%20망치%20%28Bonecrush%20Warhammer%29.md) |
-| 산호 지휘봉 '세이렌의 숨결' (Coral Baton 'Siren's Breath') | [산호 지휘봉 '세이렌의 숨결' (Coral Baton 'Siren's Breath')](산호%20지휘봉%20'세이렌의%20숨결'%20%28Coral%20Baton%20'Siren's%20Breath'%29.md) |
+| 뿌리내린 저울 (Rooted Scale) | [뿌리내린 저울 (Rooted Scale)](뿌리내린%20저울%20%28Rooted%20Scale%29.md) |
+| 사일런트 트랙 (Silent Track) | [사일런트 트랙 (Silent Track)](사일런트%20트랙%20%28Silent%20Track%29.md) |
 | 성게 가시 철퇴 (Mace of the Abyss) | [성게 가시 철퇴 (Mace of the Abyss)](성게%20가시%20철퇴%20%28Mace%20of%20the%20Abyss%29.md) |
-| 성전의 철퇴 '저스티스 브레이커' (Gavian Holyfaith's Justice Breaker) | [성전의 철퇴 '저스티스 브레이커' (Gavian Holyfaith's Justice Breaker)](성전의%20철퇴%20'저스티스%20브레이커'%20%28Gavian%20Holyfaith's%20Justice%20Breaker%29.md) |
+| 세이렌의 숨결 (Siren's Breath) | [세이렌의 숨결 (Siren's Breath)](세이렌의%20숨결%20%28Siren's%20Breath%29.md) |
 | 솔라리스 해머 (Solaris Hammer) | [솔라리스 해머 (Solaris Hammer)](솔라리스%20해머%20%28Solaris%20Hammer%29.md) |
-| 순례자의 빙염 메이스 '프로스트 모운' (Frost-mourn Mace) | [순례자의 빙염 메이스 '프로스트 모운' (Frost-mourn Mace)](순례자의%20빙염%20메이스%20'프로스트%20모운'%20%28Frost-mourn%20Mace%29.md) |
+| 스타 해머 (Star Hammer) | [스타 해머 (Star Hammer)](스타%20해머%20%28Star%20Hammer%29.md) |
+| 스톰 브레이크 (Storm-Break) | [스톰 브레이크 (Storm-Break)](스톰%20브레이크%20%28Storm-Break%29.md) |
 | 신망치 아스가르 (Divine Hammer Asgar) | [신망치 아스가르 (Divine Hammer Asgar)](신망치%20아스가르%20%28Divine%20Hammer%20Asgar%29.md) |
 | 심문관의 망치 (Inquisitor's Hammer) | [심문관의 망치 (Inquisitor's Hammer)](심문관의%20망치%20%28Inquisitor's%20Hammer%29.md) |
 | 심연의 모루 망치 (Anvil-Hammer of the Abyss) | [심연의 모루 망치 (Anvil-Hammer of the Abyss)](심연의%20모루%20망치%20%28Anvil-Hammer%20of%20the%20Abyss%29.md) |
-| 심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace) | [심연의 추 — 다미안 스텔라리스의 저울추 사슬철퇴 (Weight of the Abyss — Damian Stellaris's Ledger-Chain Mace)](심연의%20추%20—%20다미안%20스텔라리스의%20저울추%20사슬철퇴%20%28Weight%20of%20the%20Abyss%20—%20Damian%20Stellaris's%20Ledger-Chain%20Mace%29.md) |
-| 심연의 추 — 레오나드 윈드런너의 눈먼 저울추 (Weight of the Abyss — Leonard Windrunner's Blind Scale-Weight) | [심연의 추 — 레오나드 윈드런너의 눈먼 저울추 (Weight of the Abyss — Leonard Windrunner's Blind Scale-Weight)](심연의%20추%20—%20레오나드%20윈드런너의%20눈먼%20저울추%20%28Weight%20of%20the%20Abyss%20—%20Leonard%20Windrunner's%20Blind%20Scale-Weight%29.md) |
-| 심연의 추 — 마티아스 실버문의 청강 저울추 (Weight of the Abyss — Mathias Silvermoon's Listening-Weight) | [심연의 추 — 마티아스 실버문의 청강 저울추 (Weight of the Abyss — Mathias Silvermoon's Listening-Weight)](심연의%20추%20—%20마티아스%20실버문의%20청강%20저울추%20%28Weight%20of%20the%20Abyss%20—%20Mathias%20Silvermoon's%20Listening-Weight%29.md) |
-| 심연의 추 — 보리스 오크우드의 뿌리내린 감정추 (Weight of the Abyss — Boris Oakwood's Rooted Assay-Weight) | [심연의 추 — 보리스 오크우드의 뿌리내린 감정추 (Weight of the Abyss — Boris Oakwood's Rooted Assay-Weight)](심연의%20추%20—%20보리스%20오크우드의%20뿌리내린%20감정추%20%28Weight%20of%20the%20Abyss%20—%20Boris%20Oakwood's%20Rooted%20Assay-Weight%29.md) |
-| 심연의 추 — 세리아 아이언사이드의 파쇄 저울추 (Weight of the Abyss — Seria Ironside's Shattering Scale-Weight) | [심연의 추 — 세리아 아이언사이드의 파쇄 저울추 (Weight of the Abyss — Seria Ironside's Shattering Scale-Weight)](심연의%20추%20—%20세리아%20아이언사이드의%20파쇄%20저울추%20%28Weight%20of%20the%20Abyss%20—%20Seria%20Ironside's%20Shattering%20Scale-Weight%29.md) |
-| 심연의 추 — 셀레스티아 맥시무스의 불타는 저울추 (Weight of the Abyss — Celestia Maximus's Blazing Scale-Weight) | [심연의 추 — 셀레스티아 맥시무스의 불타는 저울추 (Weight of the Abyss — Celestia Maximus's Blazing Scale-Weight)](심연의%20추%20—%20셀레스티아%20맥시무스의%20불타는%20저울추%20%28Weight%20of%20the%20Abyss%20—%20Celestia%20Maximus's%20Blazing%20Scale-Weight%29.md) |
 | 심판봉 (Gavel of Arcturus) | [심판봉 (Gavel of Arcturus)](심판봉%20%28Gavel%20of%20Arcturus%29.md) |
 | 심판의 망치 (Auction Hammer) | [심판의 망치 (Auction Hammer)](심판의%20망치%20%28Auction%20Hammer%29.md) |
-| 심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight') | [심해압축 거대 투척묘 '마리아나의 닻' (Deep-Pressure Anchor 'Mariana's Weight')](심해압축%20거대%20투척묘%20'마리아나의%20닻'%20%28Deep-Pressure%20Anchor%20'Mariana's%20Weight'%29.md) |
-| 아이언벨리의 파쇄 메이스 - 둠 불워크 (Shipbreaker Mace, Doom Bulwark) | [아이언벨리의 파쇄 메이스 - 둠 불워크 (Shipbreaker Mace, Doom Bulwark)](아이언벨리의%20파쇄%20메이스%20-%20둠%20불워크%20%28Shipbreaker%20Mace,%20Doom%20Bulwark%29.md) |
+| 아비스타이드 (Abysstide) | [아비스타이드 (Abysstide)](아비스타이드%20%28Abysstide%29.md) |
+| 아틀라스의 스패너 (Spanner of Atlas) | [아틀라스의 스패너 (Spanner of Atlas)](아틀라스의%20스패너%20%28Spanner%20of%20Atlas%29.md) |
 | 어스 브레이커 (Earth Breaker) | [어스 브레이커 (Earth Breaker)](어스%20브레이커%20%28Earth%20Breaker%29.md) |
-| 엘리스 섀도우워크의 수압 철퇴 (Water-Pressure Mace of 엘리스 섀도우워크) | [엘리스 섀도우워크의 수압 철퇴 (Water-Pressure Mace of 엘리스 섀도우워크)](엘리스%20섀도우워크의%20수압%20철퇴%20%28Water-Pressure%20Mace%20of%20엘리스%20섀도우워크%29.md) |
+| 오르디나 피스 (Ordina Peace) | [오르디나 피스 (Ordina Peace)](오르디나%20피스%20%28Ordina%20Peace%29.md) |
 | 오우거의 몽둥이 (Ogre's Club) | [오우거의 몽둥이 (Ogre's Club)](오우거의%20몽둥이%20%28Ogre's%20Club%29.md) |
-| 윈드블래스트 파성 도끼망치 — 발렌타인 라크루아의 유성무 (Windblast Siege-Hammer — Valentine Lacroix's Meteor Dance) | [윈드블래스트 파성 도끼망치 — 발렌타인 라크루아의 유성무 (Windblast Siege-Hammer — Valentine Lacroix's Meteor Dance)](윈드블래스트%20파성%20도끼망치%20—%20발렌타인%20라크루아의%20유성무%20%28Windblast%20Siege-Hammer%20—%20Valentine%20Lacroix's%20Meteor%20Dance%29.md) |
+| 울로코 (Uloco) | [울로코 (Uloco)](울로코%20%28Uloco%29.md) |
+| 유성무 (Meteor Dance) | [유성무 (Meteor Dance)](유성무%20%28Meteor%20Dance%29.md) |
 | 이그니스 (Ignis) | [이그니스 (Ignis)](이그니스%20%28Ignis%29.md) |
-| 장부를 덮는 전퇴 '최후 결산' (Ledger-Closing War Maul 'Final Settlement') | [장부를 덮는 전퇴 '최후 결산' (Ledger-Closing War Maul 'Final Settlement')](장부를%20덮는%20전퇴%20'최후%20결산'%20%28Ledger-Closing%20War%20Maul%20'Final%20Settlement'%29.md) |
-| 재의 조각가의 마지막 작품 — 일리오스 아이언팽의 융착 전곤 (Last Work of the Ash Sculptor — Ilios Ironfang's Fused Warmace) | [재의 조각가의 마지막 작품 — 일리오스 아이언팽의 융착 전곤 (Last Work of the Ash Sculptor — Ilios Ironfang's Fused Warmace)](재의%20조각가의%20마지막%20작품%20—%20일리오스%20아이언팽의%20융착%20전곤%20%28Last%20Work%20of%20the%20Ash%20Sculptor%20—%20Ilios%20Ironfang's%20Fused%20Warmace%29.md) |
+| 이음쇠 파쇄자 (Seam-Breaker) | [이음쇠 파쇄자 (Seam-Breaker)](이음쇠%20파쇄자%20%28Seam-Breaker%29.md) |
+| 이정표 전곤 (The Waymarker) | [이정표 전곤 (The Waymarker)](이정표%20전곤%20%28The%20Waymarker%29.md) |
+| 인도자의 망치 (Guiding Hammer) | [인도자의 망치 (Guiding Hammer)](인도자의%20망치%20%28Guiding%20Hammer%29.md) |
+| 재의 조각 (Sculpture of Ash) | [재의 조각 (Sculpture of Ash)](재의%20조각%20%28Sculpture%20of%20Ash%29.md) |
 | 잿빛 성가의 철퇴 (Warhammer of the Ashen Hymn) | [잿빛 성가의 철퇴 (Warhammer of the Ashen Hymn)](잿빛%20성가의%20철퇴%20%28Warhammer%20of%20the%20Ashen%20Hymn%29.md) |
-| 저울추 감정봉 — 가웨인 라크루아의 확정 지팡이 (Assessor's Scale-Staff — Gawain Lacroix's Verdict Rod) | [저울추 감정봉 — 가웨인 라크루아의 확정 지팡이 (Assessor's Scale-Staff — Gawain Lacroix's Verdict Rod)](저울추%20감정봉%20—%20가웨인%20라크루아의%20확정%20지팡이%20%28Assessor's%20Scale-Staff%20—%20Gawain%20Lacroix's%20Verdict%20Rod%29.md) |
-| 적자의 심판봉 — 아테나 코어스의 채권압류봉 (Gavel of the Deficit — Athena Cores's Debt-Foreclosure Rod) | [적자의 심판봉 — 아테나 코어스의 채권압류봉 (Gavel of the Deficit — Athena Cores's Debt-Foreclosure Rod)](적자의%20심판봉%20—%20아테나%20코어스의%20채권압류봉%20%28Gavel%20of%20the%20Deficit%20—%20Athena%20Cores's%20Debt-Foreclosure%20Rod%29.md) |
-| 정크 야드의 파성추 팔뚝 (Battering-Ram Arm of the Junkyard) | [정크 야드의 파성추 팔뚝 (Battering-Ram Arm of the Junkyard)](정크%20야드의%20파성추%20팔뚝%20%28Battering-Ram%20Arm%20of%20the%20Junkyard%29.md) |
-| 중력 둔기 '바다 코뿔소' (Gravity Mace 'Sea Rhino') | [중력 둔기 '바다 코뿔소' (Gravity Mace 'Sea Rhino')](중력%20둔기%20'바다%20코뿔소'%20%28Gravity%20Mace%20'Sea%20Rhino'%29.md) |
+| 저무는 종 (The Setting Bell) | [저무는 종 (The Setting Bell)](저무는%20종%20%28The%20Setting%20Bell%29.md) |
+| 저스티스 브레이커 (Justice Breaker) | [저스티스 브레이커 (Justice Breaker)](저스티스%20브레이커%20%28Justice%20Breaker%29.md) |
+| 적자의 심판봉 (Gavel of the Deficit) | [적자의 심판봉 (Gavel of the Deficit)](적자의%20심판봉%20%28Gavel%20of%20the%20Deficit%29.md) |
 | 중력자 망치 '그라비톤' (Owen Bergart's Graviton Hammer) | [중력자 망치 '그라비톤' (Owen Bergart's Graviton Hammer)](중력자%20망치%20'그라비톤'%20%28Owen%20Bergart's%20Graviton%20Hammer%29.md) |
-| 증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace Forge-rupture) | [증기 압축 메이스 '대장장이의 파열' (Steam-Compress Mace Forge-rupture)](증기%20압축%20메이스%20'대장장이의%20파열'%20%28Steam-Compress%20Mace%20Forge-rupture%29.md) |
+| 지열단 (Terracleaver) | [지열단 (Terracleaver)](지열단%20%28Terracleaver%29.md) |
 | 지옥불 박격포 (Hellfire Mortars) | [지옥불 박격포 (Hellfire Mortars)](지옥불%20박격포%20%28Hellfire%20Mortars%29.md) |
-| 창백한 궤도의 지휘봉 '오르디나 피스' (Baton of Pale Orbit) | [창백한 궤도의 지휘봉 '오르디나 피스' (Baton of Pale Orbit)](창백한%20궤도의%20지휘봉%20'오르디나%20피스'%20%28Baton%20of%20Pale%20Orbit%29.md) |
-| 창해의 망자 지휘봉 '칼라베라' (Calavera) | [창해의 망자 지휘봉 '칼라베라' (Calavera)](창해의%20망자%20지휘봉%20'칼라베라'%20%28Calavera%29.md) |
-| 채무자의 뼈로 벼린 사슬 철퇴 (Debtor's Bone-Forged Chain Mace of Heinrich) | [채무자의 뼈로 벼린 사슬 철퇴 (Debtor's Bone-Forged Chain Mace of Heinrich)](채무자의%20뼈로%20벼린%20사슬%20철퇴%20%28Debtor's%20Bone-Forged%20Chain%20Mace%20of%20Heinrich%29.md) |
-| 천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony) | [천궁의 지휘봉 '백수정 교향곡' (Baton of Zenith White-crystal Symphony)](천궁의%20지휘봉%20'백수정%20교향곡'%20%28Baton%20of%20Zenith%20White-crystal%20Symphony%29.md) |
+| 참회 강요 (Penance Sentence) | [참회 강요 (Penance Sentence)](참회%20강요%20%28Penance%20Sentence%29.md) |
+| 채무자의 뼈 (Debtor's Bone) | [채무자의 뼈 (Debtor's Bone)](채무자의%20뼈%20%28Debtor's%20Bone%29.md) |
+| 천공 새김 (Celestial Line) | [천공 새김 (Celestial Line)](천공%20새김%20%28Celestial%20Line%29.md) |
 | 천둥의 망치 (Thunder Hammer) | [천둥의 망치 (Thunder Hammer)](천둥의%20망치%20%28Thunder%20Hammer%29.md) |
+| 철벽 기동대 (Iron Vanguard) | [철벽 기동대 (Iron Vanguard)](철벽%20기동대%20%28Iron%20Vanguard%29.md) |
 | 철벽의 철퇴 (Iron Bulwark Mace) | [철벽의 철퇴 (Iron Bulwark Mace)](철벽의%20철퇴%20%28Iron%20Bulwark%20Mace%29.md) |
+| 최후 결산 (Final Settlement) | [최후 결산 (Final Settlement)](최후%20결산%20%28Final%20Settlement%29.md) |
 | 춤추는 황사 장막(Dancing Dust-veil) | [춤추는 황사 장막(Dancing Dust-veil)](춤추는%20황사%20장막%28Dancing%20Dust-veil%29.md) |
-| 카엘리의 천공을 긋는 지휘봉 (Celestial Baton of Caeli) | [카엘리의 천공을 긋는 지휘봉 (Celestial Baton of Caeli)](카엘리의%20천공을%20긋는%20지휘봉%20%28Celestial%20Baton%20of%20Caeli%29.md) |
+| 칼라베라 (Calavera) | [칼라베라 (Calavera)](칼라베라%20%28Calavera%29.md) |
+| 컨티넨탈 크러셔 (Continental Crusher) | [컨티넨탈 크러셔 (Continental Crusher)](컨티넨탈%20크러셔%20%28Continental%20Crusher%29.md) |
 | 퀘이크 (Quake) | [퀘이크 (Quake)](퀘이크%20%28Quake%29.md) |
-| 크로노스의 황금 눈 시계추 (Golden Pendulum with the Eye of Chronos) | [크로노스의 황금 눈 시계추 (Golden Pendulum with the Eye of Chronos)](크로노스의%20황금%20눈%20시계추%20%28Golden%20Pendulum%20with%20the%20Eye%20of%20Chronos%29.md) |
+| 크림슨 타이푼 (Crimson Typhoon) | [크림슨 타이푼 (Crimson Typhoon)](크림슨%20타이푼%20%28Crimson%20Typhoon%29.md) |
 | 타이탄 증기 철퇴 (Titan Steam Maul) | [타이탄 증기 철퇴 (Titan Steam Maul)](타이탄%20증기%20철퇴%20%28Titan%20Steam%20Maul%29.md) |
 | 타이탄의 망치 (Titan's Hammer) | [타이탄의 망치 (Titan's Hammer)](타이탄의%20망치%20%28Titan's%20Hammer%29.md) |
+| 테라 네프튠 프로스트 (Terra Neptune Frost) | [테라 네프튠 프로스트 (Terra Neptune Frost)](테라%20네프튠%20프로스트%20%28Terra%20Neptune%20Frost%29.md) |
 | 토나르 (Tonar) | [토나르 (Tonar)](토나르%20%28Tonar%29.md) |
+| 파도 부수기 (Tidebreaker) | [파도 부수기 (Tidebreaker)](파도%20부수기%20%28Tidebreaker%29.md) |
+| 파도의 압쇄 (Wave Pressure Crush) | [파도의 압쇄 (Wave Pressure Crush)](파도의%20압쇄%20%28Wave%20Pressure%20Crush%29.md) |
 | 파쇄의 철퇴 (Mace of Destruction) | [파쇄의 철퇴 (Mace of Destruction)](파쇄의%20철퇴%20%28Mace%20of%20Destruction%29.md) |
-| 페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus) | [페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus)](페란투스의%20단야%20전쟁%20망치%20%28War-Forge%20Hammer%20of%20Ferrantus%29.md) |
-| 폭풍의 철퇴 '레이븐스톰의 파괴' (Edward Ravenstorm's Mace of Storm) | [폭풍의 철퇴 '레이븐스톰의 파괴' (Edward Ravenstorm's Mace of Storm)](폭풍의%20철퇴%20'레이븐스톰의%20파괴'%20%28Edward%20Ravenstorm's%20Mace%20of%20Storm%29.md) |
+| 판게아 (Pangaea) | [판게아 (Pangaea)](판게아%20%28Pangaea%29.md) |
+| 판게아 해머 (Pangaea Hammer) | [판게아 해머 (Pangaea Hammer)](판게아%20해머%20%28Pangaea%20Hammer%29.md) |
+| 페란투스 (Ferrantus) | [페란투스 (Ferrantus)](페란투스%20%28Ferrantus%29.md) |
+| 페스트 크랭크 (Pest-Crank) | [페스트 크랭크 (Pest-Crank)](페스트%20크랭크%20%28Pest-Crank%29.md) |
+| 포탄받이 (Cannonball Catcher) | [포탄받이 (Cannonball Catcher)](포탄받이%20%28Cannonball%20Catcher%29.md) |
+| 프로스트 모운 (Frost-mourn) | [프로스트 모운 (Frost-mourn)](프로스트%20모운%20%28Frost-mourn%29.md) |
 | 해방자의 적열 해머 (Redheat Hammer of the Liberator) | [해방자의 적열 해머 (Redheat Hammer of the Liberator)](해방자의%20적열%20해머%20%28Redheat%20Hammer%20of%20the%20Liberator%29.md) |
 | 해석의 망치 (Hammer of Interpretation) | [해석의 망치 (Hammer of Interpretation)](해석의%20망치%20%28Hammer%20of%20Interpretation%29.md) |
+| 헥사 그라비스 (Hexa Gravis) | [헥사 그라비스 (Hexa Gravis)](헥사%20그라비스%20%28Hexa%20Gravis%29.md) |
+| 황금 눈 (Golden Eye) | [황금 눈 (Golden Eye)](황금%20눈%20%28Golden%20Eye%29.md) |
 | 황금 엄니 (Golden Tusk) | [황금 엄니 (Golden Tusk)](황금%20엄니%20%28Golden%20Tusk%29.md) |
-| 황혼서고의 종언추 — 프리드리히 펜드래곤의 유랑 철학봉 (Twilight Archive's Dusk-Bell Mace — Friedrich Pendragon's Wayfaring Philosopher's Rod) | [황혼서고의 종언추 — 프리드리히 펜드래곤의 유랑 철학봉 (Twilight Archive's Dusk-Bell Mace — Friedrich Pendragon's Wayfaring Philosopher's Rod)](황혼서고의%20종언추%20—%20프리드리히%20펜드래곤의%20유랑%20철학봉%20%28Twilight%20Archive's%20Dusk-Bell%20Mace%20—%20Friedrich%20Pendragon's%20Wayfaring%20Philosopher's%20Rod%29.md) |
 | 흑철 사슬 (Black Iron Chain) | [흑철 사슬 (Black Iron Chain)](흑철%20사슬%20%28Black%20Iron%20Chain%29.md) |
-| 흑표범의 낙하 충격 해머 (Hammerfall's Iron Panther Hammer) | [흑표범의 낙하 충격 해머 (Hammerfall's Iron Panther Hammer)](흑표범의%20낙하%20충격%20해머%20%28Hammerfall's%20Iron%20Panther%20Hammer%29.md) |

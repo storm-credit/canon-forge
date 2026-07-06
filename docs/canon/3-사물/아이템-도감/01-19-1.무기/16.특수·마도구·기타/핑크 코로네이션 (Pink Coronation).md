@@ -88,5 +88,5 @@
 
 ## 🔗 관련 문서
 - [에스마레다 나이트셰이드 (Esmareda Nightshade)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/12.에스마레다나이트셰이드.md)
-- [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](../11.투척/천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams Agony).md)
+- [천 개의 비명 투척 플라스크 아고니 (Flask of A Thousand Screams: Agony)](../11.투척/아고니 (Agony).md)
 - [칠흑 밤안개 독가시 코르셋 하네스 (Pitch-Black Night-Fog Venom-Thorn Corset Harness)](../../01-19-2.방어구/03.로브·마법복/나이트셰이드 (Nightshade).md)

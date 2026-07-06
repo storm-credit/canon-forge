@@ -100,6 +100,6 @@
 ## 🔗 관련 문서
 
 - [모건 페룸 (Morgan Ferrum)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/04.모건페룸.md)
-- [강철 고집술의 대망치 '무쇠 덩어리' (Hammer of Iron Stubbornness: Solid Pig-iron)](../../01-19-1.무기/07.둔기/강철%20고집술의%20대망치%20'무쇠%20덩어리'%20(Hammer%20of%20Iron%20Stubbornness%20Solid%20Pig-iron).md)
+- [강철 고집술의 대망치 '무쇠 덩어리' (Hammer of Iron Stubbornness: Solid Pig-iron)](../../01-19-1.무기/07.둔기/무쇠%20덩어리%20(Solid%20Pig-iron).md)
 - [모건 페룸의 움직이는 철탑 방패 (Mobile Iron Tower-Shield of Morgan Ferrum)](../05.방패/아이언마치%20(Ironmarch).md)
 - [방염 부식 코팅 구리스 (Flame-proof Anti-Corrosion Grease)](../../01-19-4.유물/04.영웅고유성유물/방염%20구리스%20(Flameproof%20Grease).md)

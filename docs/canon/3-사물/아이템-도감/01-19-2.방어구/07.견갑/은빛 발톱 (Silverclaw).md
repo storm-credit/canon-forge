@@ -99,6 +99,6 @@
 ## 🔗 관련 문서
 
 - [칼리드 루프스피리투스 (Khalid Lupuspiritus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/03.칼리드루프스피리투스.md)
-- [루프스피리투스의 참격 쌍검 - 펜리르 바이트 (Twin-Blades Fenrir-Bite)](../../01-19-1.무기/03.쌍검/루프스피리투스의%20참격%20쌍검%20-%20펜리르%20바이트%20(Twin-Blades%20Fenrir-Bite).md)
+- [루프스피리투스의 참격 쌍검 - 펜리르 바이트 (Twin-Blades Fenrir-Bite)](../../01-19-1.무기/03.쌍검/펜리르%20바이트%20(Fenrir-Bite).md)
 - [야수 군주의 사슬조끼 (Chain-Vest of the Beast Lord)](../03.로브·마법복/펜리스%20메일%20(Fenris%20Mail).md)
 - [펜리르 피의 키스 맹약 각인 (Blood-Kiss Covenant Brand of Fenrir)](../../01-19-3.악세서리/07.부적/펜리르의%20혈인%20(Fenrir's%20Bloodmark).md)

@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [카리나 녹턴 (Karina Nocturne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/09.카리나녹턴.md)
-- [녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night)](../../01-19-1.무기/03.쌍검/녹턴의%20쌍검%20밤의%20베일%20(Twin%20Blades%20of%20Nocturne%20Veil%20of%20Night).md)
+- [녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night)](../../01-19-1.무기/03.쌍검/밤의%20베일%20(Veil%20of%20Night).md)
 - [흑장미 무희의 검은 실크 붕대 검객 드레스 (Black-Silk Sworddancer Bandage Dress of the Dark Rose)](../../01-19-2.방어구/03.로브·마법복/녹티로사%20(Noctirosa).md)

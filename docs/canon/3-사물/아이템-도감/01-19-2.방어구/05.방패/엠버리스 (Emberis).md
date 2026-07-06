@@ -107,5 +107,5 @@
 ## 🔗 관련 문서
 
 - [루시안 코어스 (Lucian Cores)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/5.유랑기사단/03.루시안코어스.md)
-- [황혼의 서약창 — 루시안 코어스의 여명 랜스 (Twilight Oath-Lance — Lucian Cores' Dawnbringer Spear)](../../01-19-1.무기/06.창/황혼의 서약창 — 루시안 코어스의 여명 랜스 (Twilight Oath-Lance — Lucian Cores' Dawnbringer Spear).md)
+- [황혼의 서약창 — 루시안 코어스의 여명 랜스 (Twilight Oath-Lance — Lucian Cores' Dawnbringer Spear)](../../01-19-1.무기/06.창/여명서표 (Dawnbringer's Bookmark).md)
 - [유랑 기사단 (Wandering Knights)](../../../../2-무대/세력/용병단/유랑기사단/유랑기사단.md)

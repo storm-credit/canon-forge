@@ -95,5 +95,5 @@
 ## 🔗 관련 문서
 
 - [엘리아스 루미나르 (Elias Luminar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/5.잊혀진서고단/02.엘리아스루미나르.md)
-- [엘리아스의 심연 서지학 마도서 (Abyssal Bibliographic Grimoire of Elias)](../../01-19-1.무기/13.오브·마법서/엘리아스의%20심연%20서지학%20마도서%20(Abyssal%20Bibliographic%20Grimoire%20of%20Elias).md)
-- [엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](../../01-19-1.무기/13.오브·마법서/엘리아스%20루미나르의%20저주받은%20고대어%20마도서%20(Ancient%20Cursed%20Grimoire).md)
+- [엘리아스의 심연 서지학 마도서 (Abyssal Bibliographic Grimoire of Elias)](../../01-19-1.무기/13.오브·마법서/아카식%20그리모어%20(Akashic%20Grimoire).md)
+- [엘리아스 루미나르의 저주받은 고대어 마도서 (Ancient Cursed Grimoire)](../../01-19-1.무기/13.오브·마법서/저주의%20인각%20(Curse%20Brand).md)

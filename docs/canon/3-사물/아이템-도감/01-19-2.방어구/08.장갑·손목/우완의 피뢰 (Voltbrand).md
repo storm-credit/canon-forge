@@ -61,7 +61,7 @@
 
 ### 관련 캐릭터
 - **볼트가르 풀미넨투스** — 역류 방전으로부터 오른팔을 보호하기 위해 직접 설계를 의뢰한 소유자. 완갑이 없다면 에픽 강림급 찌르기 이후 오른팔을 즉시 사용할 수 없다.
-- **[풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../06.창/풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale).md)** — 역류 방전의 발원지. 게일에서 생성된 초과 뇌격이 창자루를 타고 볼트가르의 오른팔로 흘러 들어올 때 이 완갑이 작동한다.
+- **[풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../06.창/게일 (Gale).md)** — 역류 방전의 발원지. 게일에서 생성된 초과 뇌격이 창자루를 타고 볼트가르의 오른팔로 흘러 들어올 때 이 완갑이 작동한다.
 
 ---
 
@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [볼트가르 풀미넨투스 (Voltgar Fulminentus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/05.볼트가르풀미넨투스.md)
-- [풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../06.창/풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale).md)
+- [풀미넨투스의 피뢰 장창 - 게일 (Lightning-Rod Pike of Fulminentus, Gale)](../06.창/게일 (Gale).md)
 - [빙뇌의 가죽 각반 (Leggings of Ice-Thunder)](../02.경갑/빙뇌 쇄보 (Frostpeal Stride).md)

@@ -1,7 +1,7 @@
 ---
 정본명: 머리장식
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B10 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 머리장식
@@ -12,7 +12,6 @@
 |--------|------|
 | 05.머리장식 | [05.머리장식](05.머리장식.md) |
 | 글라시비녹스 (Glacivenox) | [글라시비녹스 (Glacivenox)](글라시비녹스%20%28Glacivenox%29.md) |
-| 녹아내린 태양의 가시 왕관 (Melting Crown of Sol) | [녹아내린 태양의 가시 왕관 (Melting Crown of Sol)](녹아내린%20태양의%20가시%20왕관%20%28Melting%20Crown%20of%20Sol%29.md) |
 | 다곤의 시선 (Gaze of Dagon) | [다곤의 시선 (Gaze of Dagon)](다곤의%20시선%20%28Gaze%20of%20Dagon%29.md) |
 | 대속의 가시관 (Crown of Vicarious Thorns) | [대속의 가시관 (Crown of Vicarious Thorns)](대속의%20가시관%20%28Crown%20of%20Vicarious%20Thorns%29.md) |
 | 루나베일 은테안경 (Lunavale Silver Spectacles) | [루나베일 은테안경 (Lunavale Silver Spectacles)](루나베일%20은테안경%20%28Lunavale%20Silver%20Spectacles%29.md) |
@@ -29,6 +28,7 @@
 | 성채의 티아라 (Tiara of Acropolis) | [성채의 티아라 (Tiara of Acropolis)](성채의%20티아라%20%28Tiara%20of%20Acropolis%29.md) |
 | 성해의 산호초 왕관 (Coronet of the Sacred Reef) | [성해의 산호초 왕관 (Coronet of the Sacred Reef)](성해의%20산호초%20왕관%20%28Coronet%20of%20the%20Sacred%20Reef%29.md) |
 | 소음 봉인의 은막 (Silver Veil of Noise Seal) | [소음 봉인의 은막 (Silver Veil of Noise Seal)](소음%20봉인의%20은막%20%28Silver%20Veil%20of%20Noise%20Seal%29.md) |
+| 솔라 다이어뎀 (Sol Diadem) | [솔라 다이어뎀 (Sol Diadem)](솔라%20다이어뎀%20%28Sol%20Diadem%29.md) |
 | 솔레미넨스 (Soleminence) | [솔레미넨스 (Soleminence)](솔레미넨스%20%28Soleminence%29.md) |
 | 실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty) | [실바나리스 녹엽 군주관 (Sylvanaris Crown of Verdant Sovereignty)](실바나리스%20녹엽%20군주관%20%28Sylvanaris%20Crown%20of%20Verdant%20Sovereignty%29.md) |
 | 아라크네 (Arachne) | [아라크네 (Arachne)](아라크네%20%28Arachne%29.md) |

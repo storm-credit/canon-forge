@@ -81,5 +81,5 @@
 
 ## 🔗 관련 문서
 - [고르 베헤모스 (Gore Behemoth)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/12.고르베헤모스.md)
-- [베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth)](../../01-19-1.무기/07.둔기/베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth).md)
+- [베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth)](../../01-19-1.무기/07.둔기/메테오 스매셔 (Meteor Smasher).md)
 - [지진 핵의 건틀릿 (Gauntlets of the Quake Core)](../08.장갑·손목/어스셰이커 (Earthshaker).md)

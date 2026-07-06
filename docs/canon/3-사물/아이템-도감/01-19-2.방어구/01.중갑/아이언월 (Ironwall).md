@@ -95,4 +95,4 @@
 - [발두르 아크가드 (Baldur Archguard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/3.잊힌자들의연합/05.발두르아크가드.md)
 - [심장 동력 에테르 코어 (Heart-Drive Ether Core)](../../01-19-4.유물/04.영웅고유성유물/코르 아에테르눔 (Cor Aeternum).md)
 - [폐기된 역장 발생 코일 (Discarded Force-field Coil)](../03.로브·마법복/버려진 역장 (Forsaken Field).md)
-- [정크 야드의 파성추 팔뚝 (Battering-Ram Arm of the Junkyard)](../../01-19-1.무기/07.둔기/정크 야드의 파성추 팔뚝 (Battering-Ram Arm of the Junkyard).md)
+- [정크 야드의 파성추 팔뚝 (Battering-Ram Arm of the Junkyard)](../../01-19-1.무기/07.둔기/레커 (Wrecker).md)

@@ -82,4 +82,4 @@
 ## 🔗 관련 문서
 - [카이론 불구스 (Kyron Vulgus)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/03.카이론불구스.md)
 - [적린(Red-scale) 코뿔소의 뚫리지 않는 플레이트 (Unpierceable Plate of the Red-Scale Rhino)](../01.중갑/레드혼 (Redhorn).md)
-- [불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus)](../../01-19-1.무기/07.둔기/불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus).md)
+- [불구스의 초중력(Hyper-Gravity) 육각 철퇴 (Hexagonal Iron-Mace of Vulgus)](../../01-19-1.무기/07.둔기/헥사 그라비스 (Hexa Gravis).md)

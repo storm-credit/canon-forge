@@ -102,5 +102,5 @@
 
 - [베르트람 글라스페인 (Bertram Glasspane)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/11.베르트람글라스페인.md)
 - [은빛 보온병 형태의 무한 시약조 (Silver Flask of Infinite Reagents)](../../01-19-4.유물/04.영웅고유성유물/영원의%20은병%20(Everflask).md)
-- [글라스페인의 혼합 사출 총포 (Fusion Injector Cannon of Glasspane)](../../01-19-1.무기/15.화기/글라스페인의%20혼합%20사출%20총포%20(Fusion%20Injector%20Cannon%20of%20Glasspane).md)
+- [글라스페인의 혼합 사출 총포 (Fusion Injector Cannon of Glasspane)](../../01-19-1.무기/15.화기/제국%20최후의%20설계%20(Empire's%20Last%20Design).md)
 - [안티-톡신 방독면형 중절모 (Anti-Toxin Gasmask Fedora)](../../01-19-2.방어구/03.로브·마법복/베놈워드%20(Venomward).md)

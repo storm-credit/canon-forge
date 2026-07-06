@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [불프가리스 드라코포지 (Vulfgaris Dracoforge)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/3.용의후예/06.불프가리스드라코포지.md)
 - [마그마 도금 흑철(Dark-Iron) 강화복 (Magma-Plated Dark-Iron Exosuit)](../03.로브·마법복/용암갑주%20(Lavaplate).md) — 강화복 본체. 이 의수는 강화복 어깨 관절과 마나 결속으로 연결되며, 의수의 용혈 관로가 강화복의 마그마 도금층과 공명한다.
-- [불프가리스의 용골(Dragon-bone) 중력 파쇄망치 (Gravity-Crush Hammer of Vulfgaris)](../../01-19-1.무기/07.둔기/불프가리스의%20용골(Dragon-bone)%20중력%20파쇄망치%20(Gravity-Crush%20Hammer%20of%20Vulfgaris).md) — 의수 손바닥 마운트 면에 마나 결속으로 고정되는 무기. 의수 없이는 이 파쇄망치를 운반할 수 없다.
+- [불프가리스의 용골(Dragon-bone) 중력 파쇄망치 (Gravity-Crush Hammer of Vulfgaris)](../../01-19-1.무기/07.둔기/마지막%20포효%20(The%20Last%20Roar).md) — 의수 손바닥 마운트 면에 마나 결속으로 고정되는 무기. 의수 없이는 이 파쇄망치를 운반할 수 없다.

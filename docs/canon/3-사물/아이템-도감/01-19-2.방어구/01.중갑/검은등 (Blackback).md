@@ -74,4 +74,4 @@
 
 ## 🔗 관련 문서
 - [기네비어 나이트폴 (Guinevere Nightfall)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/12.자연의방랑자/03.기네비어나이트폴.md)
-- [뿔뚫이 랜스 — 기네비어 나이트폴의 코뿔소 돌각창 (Horn-Piercer Lance — Guinevere Nightfall's Rhino-Horn Charge Lance)](../../01-19-1.무기/06.창/뿔뚫이%20랜스%20—%20기네비어%20나이트폴의%20코뿔소%20돌각창%20(Horn-Piercer%20Lance%20—%20Guinevere%20Nightfall's%20Rhino-Horn%20Charge%20Lance).md)
+- [뿔뚫이 랜스 — 기네비어 나이트폴의 코뿔소 돌각창 (Horn-Piercer Lance — Guinevere Nightfall's Rhino-Horn Charge Lance)](../../01-19-1.무기/06.창/검은등의%20돌진%20(Charge%20of%20the%20Blackback).md)

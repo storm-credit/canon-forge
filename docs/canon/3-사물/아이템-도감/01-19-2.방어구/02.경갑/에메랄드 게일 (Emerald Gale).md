@@ -95,5 +95,5 @@
 
 ## 🔗 관련 문서
 - [레투스 템페스트 (Letus Tempest)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/1.심연군단/10.레투스템페스트.md)
-- [창공을 찢어발긴 쌍검 소용돌이의 뼈 (Dual Blades of Torn Sky: Cyclone Bone)](../../01-19-1.무기/03.쌍검/창공을 찢어발긴 쌍검 소용돌이의 뼈 (Dual Blades of Torn Sky Cyclone Bone).md)
+- [창공을 찢어발긴 쌍검 소용돌이의 뼈 (Dual Blades of Torn Sky: Cyclone Bone)](../../01-19-1.무기/03.쌍검/소용돌이의 뼈 (Cyclone Bone).md)
 - [깃털 융합체 정령풍 어깨갑 (Feather-Fusion Spirit-Wind Pauldron)](../07.견갑/정령풍 산개 (Zephyr Spread).md)

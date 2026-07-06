@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [바르칸 아이언벨리 (Barkan Ironbelly)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/4.그림자항구/07.바르칸아이언벨리.md)
-- [아이언벨리의 파쇄 메이스 - 둠 불워크 (Shipbreaker Mace, Doom Bulwark)](../../01-19-1.무기/07.둔기/아이언벨리의%20파쇄%20메이스%20-%20둠%20불워크%20(Shipbreaker%20Mace,%20Doom%20Bulwark).md)
+- [아이언벨리의 파쇄 메이스 - 둠 불워크 (Shipbreaker Mace, Doom Bulwark)](../../01-19-1.무기/07.둔기/둠%20불워크%20(Doom%20Bulwark).md)
 - [선체 파편 직조 판금 흉갑 (Hull-Fragment Woven Plate)](../01.중갑/난파의%20방벽%20(Wreck%20Bastion).md)

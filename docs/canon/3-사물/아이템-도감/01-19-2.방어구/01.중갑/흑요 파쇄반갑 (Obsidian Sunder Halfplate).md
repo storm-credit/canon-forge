@@ -92,4 +92,4 @@
 ## 🔗 관련 문서
 - [울프가르 이그니겔루 (Wulfgard Ignigelu)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/10.울프가르이그니겔루.md)
 - [구속의 미스릴 붕대 (Mithril Bandages of Restraint)](../../03.로브·마법복/울프가르의%20경계선%20(Wulfgard's%20Threshold).md)
-- [이그니겔루의 폭염빙 도끼 - 옵시디언 엣지 (Obsidian Edge Axe of Ignigelu)](../../../01-19-1.무기/05.도끼/이그니겔루의%20폭염빙%20도끼%20-%20옵시디언%20엣지%20(Obsidian%20Edge%20Axe%20of%20Ignigelu).md)
+- [이그니겔루의 폭염빙 도끼 - 옵시디언 엣지 (Obsidian Edge Axe of Ignigelu)](../../../01-19-1.무기/05.도끼/옵시디언%20엣지%20(Obsidian%20Edge).md)

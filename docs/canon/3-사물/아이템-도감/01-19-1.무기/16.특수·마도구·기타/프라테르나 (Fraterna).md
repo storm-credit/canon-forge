@@ -84,6 +84,6 @@
 
 ## 🔗 관련 문서
 - [볼그라드 스틸비어드 (Bolgrad Steelbeard)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/01.볼그라드스틸비어드.md)
-- [페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus)](../07.둔기/페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus).md)
+- [페란투스의 단야 전쟁 망치 (War-Forge Hammer of Ferrantus)](../07.둔기/페란투스 (Ferrantus).md)
 - [포지마스터의 용접된 닻 방패 (Welded Anchor-Shield of the Forgemaster)](../../01-19-2.방어구/05.방패/닻 내림 (Anchorhold).md)
 - [아이언홀드의 숨막히는 구속복 (Suffocating Plate of Ironhold)](../../01-19-2.방어구/03.로브·마법복/아이언홀드 슈라우드 (Ironhold Shroud).md)

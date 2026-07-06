@@ -99,5 +99,5 @@
 
 - [레오나르도 벨레스 (Leonardo Veles)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/2.레오나르도벨레스.md)
 - [군마의 타워 실드 '이모탈 가드' (Tower Shield 'Immortal Guard')](../05.방패/이모탈%20가드%20(Immortal%20Guard).md)
-- [중력 둔기 '바다 코뿔소' (Gravity Mace 'Sea Rhino')](../../01-19-1.무기/07.둔기/중력%20둔기%20'바다%20코뿔소'%20(Gravity%20Mace%20'Sea%20Rhino').md)
+- [중력 둔기 '바다 코뿔소' (Gravity Mace 'Sea Rhino')](../../01-19-1.무기/07.둔기/바다%20코뿔소%20(Sea%20Rhino).md)
 - [철의 회랑 공간 압축 육면체 (Iron Corridor Spatial Compression Cube)](../../01-19-3.악세서리/10.특수마도구·마력핵/아이언코리도어%20(Iron%20Corridor).md)

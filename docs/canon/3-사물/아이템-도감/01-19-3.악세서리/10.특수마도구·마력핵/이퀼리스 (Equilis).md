@@ -90,5 +90,5 @@
 
 ## 🔗 관련 문서
 - [리아넬 오르도리아 (Lianel Ordoria)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/13.리아넬오르도리아.md)
-- [오르도리아의 강압 균형 추 도끼창 (Halberd of Ordoria's Counterweight)](../../01-19-1.무기/06.창/오르도리아의%20강압%20균형%20추%20도끼창%20(Halberd%20of%20Ordoria's%20Counterweight).md)
+- [오르도리아의 강압 균형 추 도끼창 (Halberd of Ordoria's Counterweight)](../../01-19-1.무기/06.창/오르도리아%20(Ordoria).md)
 - [혈서 집행 결재 법판 (Blood-Signed Execution Verdict Tablet)](./혈서%20법판%20(Blood-Verdict%20Tablet).md)

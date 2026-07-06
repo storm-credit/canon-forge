@@ -92,6 +92,6 @@
 ## 🔗 관련 문서
 - [레온 코르디스 (Leon Cordis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/04.레온코르디스.md)
 - [코르디스의 마지막 이성 고리 (Choker of Cordis's Last Sanity)](../../01-19-3.악세서리/02.목걸이·팬던트/생크투르 (Sanctur).md)
-- [포효하는 지옥견의 뼈 건틀릿 (Bone Gauntlet of the Roaring Hell-Hound)](../../01-19-1.무기/14.건틀릿·클로/포효하는 지옥견의 뼈 건틀릿 (Bone Gauntlet of the Roaring Hell-Hound).md)
+- [포효하는 지옥견의 뼈 건틀릿 (Bone Gauntlet of the Roaring Hell-Hound)](../../01-19-1.무기/14.건틀릿·클로/헬하울 (Hellhowl).md)
 - [흡혈하는 야성의 진피 (Dermis of Vampiric Savagery)](../../01-19-2.방어구/03.로브·마법복/상귀네 (Sanguine).md)
 - [고대 짐승 털가죽 반쪽 요갑 (Primordial Beast Half-Pelt Wrap)](../../01-19-2.방어구/02.경갑/반쪽 야수 (Halfbeast Hide).md)

@@ -1,7 +1,7 @@
 ---
 정본명: 단검
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B3 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 단검
@@ -65,6 +65,7 @@
 | 미스릴 랜싯 (Mithril Lancet) | [미스릴 랜싯 (Mithril Lancet)](미스릴%20랜싯%20%28Mithril%20Lancet%29.md) |
 | 미스트 (Mist) | [미스트 (Mist)](미스트%20%28Mist%29.md) |
 | 미스트랄 (Mistral) | [미스트랄 (Mistral)](미스트랄%20%28Mistral%29.md) |
+| 미스트워커 (Mistwalker) | [미스트워커 (Mistwalker)](미스트워커%20%28Mistwalker%29.md) |
 | 바람의 눈 (Eye of the Storm) | [바람의 눈 (Eye of the Storm)](바람의%20눈%20%28Eye%20of%20the%20Storm%29.md) |
 | 바실리스크 송곳니 (Basilisk Fang) | [바실리스크 송곳니 (Basilisk Fang)](바실리스크%20송곳니%20%28Basilisk%20Fang%29.md) |
 | 바이퍼 (Viper) | [바이퍼 (Viper)](바이퍼%20%28Viper%29.md) |
@@ -96,13 +97,13 @@
 | 수호자의 맹세 (Warden's Vow) | [수호자의 맹세 (Warden's Vow)](수호자의%20맹세%20%28Warden's%20Vow%29.md) |
 | 스칼펠 (Scalpel) | [스칼펠 (Scalpel)](스칼펠%20%28Scalpel%29.md) |
 | 스콜피온 팽 (Scorpion Fang) | [스콜피온 팽 (Scorpion Fang)](스콜피온%20팽%20%28Scorpion%20Fang%29.md) |
+| 스콜피온 팽 (Twin Fang) | [스콜피온 팽 (Twin Fang)](스콜피온%20팽%20%28Twin%20Fang%29.md) |
 | 스텔라 스틸레토 (Stellar Stiletto) | [스텔라 스틸레토 (Stellar Stiletto)](스텔라%20스틸레토%20%28Stellar%20Stiletto%29.md) |
 | 스틱스 (Styx) | [스틱스 (Styx)](스틱스%20%28Styx%29.md) |
 | 실버팽 (Silver Fang) | [실버팽 (Silver Fang)](실버팽%20%28Silver%20Fang%29.md) |
 | 쌍성의 궤도 (Twin Star Orbit) | [쌍성의 궤도 (Twin Star Orbit)](쌍성의%20궤도%20%28Twin%20Star%20Orbit%29.md) |
 | 아라네아 독니 (Aranea Fang) | [아라네아 독니 (Aranea Fang)](아라네아%20독니%20%28Aranea%20Fang%29.md) |
 | 아이언 벨 (Iron Bell) | [아이언 벨 (Iron Bell)](아이언%20벨%20%28Iron%20Bell%29.md) |
-| 안개 걷는 자의 단검 (Mistwalker Dagger) | [안개 걷는 자의 단검 (Mistwalker Dagger)](안개%20걷는%20자의%20단검%20%28Mistwalker%20Dagger%29.md) |
 | 앞면폭탄 (Frontface Bomb) | [앞면폭탄 (Frontface Bomb)](앞면폭탄%20%28Frontface%20Bomb%29.md) |
 | 어비스 렐릭 (Abyss Relic) | [어비스 렐릭 (Abyss Relic)](어비스%20렐릭%20%28Abyss%20Relic%29.md) |
 | 에메랄드 대거 (Emerald Dagger) | [에메랄드 대거 (Emerald Dagger)](에메랄드%20대거%20%28Emerald%20Dagger%29.md) |
@@ -160,7 +161,6 @@
 | 트윈 샤크 (Twin Shark) | [트윈 샤크 (Twin Shark)](트윈%20샤크%20%28Twin%20Shark%29.md) |
 | 트윈 스왈로우 (Twin Swallow) | [트윈 스왈로우 (Twin Swallow)](트윈%20스왈로우%20%28Twin%20Swallow%29.md) |
 | 트윈 위스퍼 (Twin Whispers) | [트윈 위스퍼 (Twin Whispers)](트윈%20위스퍼%20%28Twin%20Whispers%29.md) |
-| 트윈 팽 (Twin Fang) | [트윈 팽 (Twin Fang)](../03.쌍검/트윈%20팽%20%28Twin%20Fang%29.md) |
 | 패스파인더 (Pathfinder) | [패스파인더 (Pathfinder)](패스파인더%20%28Pathfinder%29.md) |
 | 팬텀 (Phantom) | [팬텀 (Phantom)](팬텀%20%28Phantom%29.md) |
 | 팬텀 에지 (Phantom Edge) | [팬텀 에지 (Phantom Edge)](팬텀%20에지%20%28Phantom%20Edge%29.md) |

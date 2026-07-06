@@ -82,4 +82,4 @@
 
 ## 🔗 관련 문서
 - [보리스 그레이슨 (Boris Grayson)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/5.데메테르곡물연합/04.보리스그레이슨.md)
-- [굶주림의 대지겸 — 보리스 그레이슨의 결박 수확도 (Earth-Bound Scythe of the Famine Vow — Boris Grayson's Coercive Harvest)](../../01-19-1.무기/09.낫/굶주림의 대지겸 — 보리스 그레이슨의 결박 수확도 (Earth-Bound Scythe of the Famine Vow — Boris Grayson's Coercive Harvest).md)
+- [굶주림의 대지겸 — 보리스 그레이슨의 결박 수확도 (Earth-Bound Scythe of the Famine Vow — Boris Grayson's Coercive Harvest)](../../01-19-1.무기/09.낫/배런홀드 (Barrenhold).md)

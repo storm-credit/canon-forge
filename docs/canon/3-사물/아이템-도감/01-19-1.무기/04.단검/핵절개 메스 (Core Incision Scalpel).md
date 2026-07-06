@@ -92,5 +92,5 @@
 
 ## 🔗 관련 문서
 - [세바리온 네크로반 (Sevarion Necrovan)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/10.세바리온네크로반.md)
-- [네크로반의 영원 해부학 인피 서책 (Tome of Necrovan's Eternal Anatomy)](../../01-19-1.무기/13.오브·마법서/네크로반의 영원 해부학 인피 서책 (Tome of Necrovan's Eternal Anatomy).md)
+- [네크로반의 영원 해부학 인피 서책 (Tome of Necrovan's Eternal Anatomy)](../../01-19-1.무기/13.오브·마법서/네크로토미아 (Necrotomia).md)
 - [심연 종양 배양 핵 (Abyssal Tumor Culture Core)](../../01-19-3.악세서리/10.특수마도구·마력핵/언데드하트 (Deathless Heart).md)

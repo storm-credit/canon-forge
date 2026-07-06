@@ -93,6 +93,6 @@
 
 ## 🔗 관련 문서
 - [이그나시오 모르티스 (Ignacio Mortis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/02.이그나시오모르티스.md)
-- [피에 굶주린 성은(聖銀)의 낫 채찍 '모르테 쏜' (Blood-Thirsty Silver Whip 'Morte Thorn')](../../01-19-1.무기/08.채찍/피에%20굶주린%20성은(聖銀)의%20낫%20채찍%20'모르테%20쏜'%20(Blood-Thirsty%20Silver%20Whip%20'Morte%20Thorn').md)
+- [피에 굶주린 성은(聖銀)의 낫 채찍 '모르테 쏜' (Blood-Thirsty Silver Whip 'Morte Thorn')](../../01-19-1.무기/08.채찍/모르테%20쏜%20(Morte%20Thorn).md)
 - [단죄자의 안감 가시 사슬갑옷 (Penitent's Thorn-Chainmail)](../01.중갑/페니텐치아%20(Penitentia).md)
 - [단죄자의 철제 하관 마스크 (Iron Lower-Face Mask of the Condemner)](../06.투구·얼굴/단죄자의%20재갈%20(Condemner%20Muzzle).md)

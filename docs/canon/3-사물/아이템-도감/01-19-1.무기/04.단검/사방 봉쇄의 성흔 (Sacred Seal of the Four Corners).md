@@ -89,5 +89,5 @@
 ## 🔗 관련 문서
 - [엘리시아 블러드본 (Elysia Bloodborn)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/06.엘리시아블러드본.md)
 - [순교자의 은장 곡검 '가시관의 춤' (Martyr's Silver Shotel 'Crown of Thorns')](../01.한손검/가시관의 춤 (Crown of Thorns).md)
-- [교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose')](../11.투척/교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose').md)
-- [블루 링 데스 크랩 신경독 침 세트 '침묵의 마비' (Blue-Ring Death Crab Neurotoxin Needle Set 'Silent Paralysis')](../11.투척/블루 링 데스 크랩 신경독 침 세트 '침묵의 마비' (Blue-Ring Death Crab Neurotoxin Needle Set 'Silent Paralysis').md)
+- [교단 은화 투척 단검 세트 '칠흑 자매의 꽃잎' (Church Silver-Petal Throwing Dagger Set 'Ebon Sisters' Rose')](../11.투척/칠흑의 꽃비 (Ebon Petal-Rain).md)
+- [블루 링 데스 크랩 신경독 침 세트 '침묵의 마비' (Blue-Ring Death Crab Neurotoxin Needle Set 'Silent Paralysis')](../11.투척/침묵의 마비 (Silent Paralysis).md)

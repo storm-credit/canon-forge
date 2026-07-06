@@ -1,7 +1,7 @@
 ---
 정본명: 영웅고유성유물
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B11 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 영웅고유성유물
@@ -107,7 +107,7 @@
 | 불굴의 급유관 (Undying Oilfeed) | [불굴의 급유관 (Undying Oilfeed)](불굴의%20급유관%20%28Undying%20Oilfeed%29.md) |
 | 불량품 (The Reject) | [불량품 (The Reject)](불량품%20%28The%20Reject%29.md) |
 | 불을 기억하는 것 (Emberkeeper) | [불을 기억하는 것 (Emberkeeper)](불을%20기억하는%20것%20%28Emberkeeper%29.md) |
-| 불티를 머금은 강압 풀무 (Bellows of Embers) | [불티를 머금은 강압 풀무 (Bellows of Embers)](불티를%20머금은%20강압%20풀무%20%28Bellows%20of%20Embers%29.md) |
+| 브레스포지 (Breathforge) | [브레스포지 (Breathforge)](브레스포지%20%28Breathforge%29.md) |
 | 비두아 (Vidua) | [비두아 (Vidua)](비두아%20%28Vidua%29.md) |
 | 비탄석 라멘타 (Lamenta Tearstone) | [비탄석 라멘타 (Lamenta Tearstone)](비탄석%20라멘타%20%28Lamenta%20Tearstone%29.md) |
 | 빚의 유골함 (Reliquary of Debt) | [빚의 유골함 (Reliquary of Debt)](빚의%20유골함%20%28Reliquary%20of%20Debt%29.md) |
@@ -127,7 +127,7 @@
 | 솜누아라크리마 (Somnua Lacrima) | [솜누아라크리마 (Somnua Lacrima)](솜누아라크리마%20%28Somnua%20Lacrima%29.md) |
 | 수장곡 (Dirge of the Drowned) | [수장곡 (Dirge of the Drowned)](수장곡%20%28Dirge%20of%20the%20Drowned%29.md) |
 | 순환의 서 (The Book of Cycles) | [순환의 서 (The Book of Cycles)](순환의%20서%20%28The%20Book%20of%20Cycles%29.md) |
-| 스캐빈저의 만물 배낭 — 다미안 스텔라리스의 잡동사니 유물함 (Scavenger's Omni-Satchel — Damian Stellaris's Reliquary of Odds and Ends) | [스캐빈저의 만물 배낭 — 다미안 스텔라리스의 잡동사니 유물함 (Scavenger's Omni-Satchel — Damian Stellaris's Reliquary of Odds and Ends)](스캐빈저의%20만물%20배낭%20—%20다미안%20스텔라리스의%20잡동사니%20유물함%20%28Scavenger's%20Omni-Satchel%20—%20Damian%20Stellaris's%20Reliquary%20of%20Odds%20and%20Ends%29.md) |
+| 스캐빈저의 만물 배낭 (Scavenger's Omni-Satchel) | [스캐빈저의 만물 배낭 (Scavenger's Omni-Satchel)](스캐빈저의%20만물%20배낭%20%28Scavenger's%20Omni-Satchel%29.md) |
 | 스테드파스트 (Steadfast) | [스테드파스트 (Steadfast)](스테드파스트%20%28Steadfast%29.md) |
 | 스텔라비질 (Stellavigil) | [스텔라비질 (Stellavigil)](스텔라비질%20%28Stellavigil%29.md) |
 | 스텔라위브 장갑 (Stellaweave Gloves) | [스텔라위브 장갑 (Stellaweave Gloves)](스텔라위브%20장갑%20%28Stellaweave%20Gloves%29.md) |

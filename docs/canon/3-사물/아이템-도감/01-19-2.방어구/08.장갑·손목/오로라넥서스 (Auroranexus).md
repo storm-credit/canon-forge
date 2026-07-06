@@ -91,6 +91,6 @@
 ## 🔗 관련 문서
 
 - [이세나 니비스코르 (Isena Niviscor)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/2.프로스트본연합/12.이세나니비스코르.md)
-- [니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass)](../../../01-19-1.무기/07.둔기/니비스코르의%20도면%20지휘봉%20-%20나침반%20(Blueprint%20Baton%20of%20Niviscor,%20Compass).md)
+- [니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass)](../../../01-19-1.무기/07.둔기/니비스코르%20(Niviscor).md)
 - [순환의 절연 코트 (Insulation Coat of Circulation)](../../03.로브·마법복/널서킷%20(Nullcircuit).md)
 - [초정밀 마도 심장 박동기 (Arcane Ultra-Precision Pacemaker)](../../../01-19-4.유물/04.영웅고유성유물/코르디스%20(Cordis).md)

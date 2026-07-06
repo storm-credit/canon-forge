@@ -84,5 +84,5 @@
 
 ## 🔗 관련 문서
 - [타데우스 바일 (Thaddeus Vile)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/3.바다의교단/12.타데우스바일.md)
-- [심해 균사 부패 독액 투척 플라스크 세트 (Abyssal Mycelium Rot-Toxin Throwing Flask Set)](../11.투척/심해 균사 부패 독액 투척 플라스크 세트 (Abyssal Mycelium Rot-Toxin Throwing Flask Set).md)
+- [심해 균사 부패 독액 투척 플라스크 세트 (Abyssal Mycelium Rot-Toxin Throwing Flask Set)](../11.투척/부패의 숨결 (Breath of Decay).md)
 - [산성 분사기 노즐지팡이 '플라그 스피터' (Plague Spitter Wand)](../12.지팡이·완드/플라그 스피터 (Plague Spitter).md)

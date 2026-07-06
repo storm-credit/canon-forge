@@ -97,5 +97,5 @@
 
 ## 🔗 관련 문서
 - [발두르 루인스 (Baldur Ruins)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/4.크리사오르해양무역상회/02.발두르루인스.md)
-- [해일의 삼지창 — 로엔그린 블러드워커의 만조 삼지창 (Trident of the Tide — Lohengrin Bloodwalker's High-Tide Trident)](해일의%20삼지창%20—%20로엔그린%20블러드워커의%20만조%20삼지창%20(Trident%20of%20the%20Tide%20—%20Lohengrin%20Bloodwalker's%20High-Tide%20Trident).md)
+- [해일의 삼지창 — 로엔그린 블러드워커의 만조 삼지창 (Trident of the Tide — Lohengrin Bloodwalker's High-Tide Trident)](만조의%20벽%20(Wall%20of%20the%20High%20Tide).md)
 - [크리사오르 해양 무역상회](../../../../2-무대/세력/무역상단/크리사오르해양무역상회/크리사오르해양무역상회.md)

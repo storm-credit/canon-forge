@@ -86,5 +86,5 @@
 
 ## 🔗 관련 문서
 - [에리오누스 사불로 (Erionus Sabulo)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/16.에리오누스사불로.md)
-- [사불로의 마나 파쇄(Mana-Crushing) 대물 저격소총 (Anti-Materiel Sniper Rifle of Sabulo)](../../01-19-1.무기/15.화기/사불로의%20마나%20파쇄(Mana-Crushing)%20대물%20저격소총%20(Anti-Materiel%20Sniper%20Rifle%20of%20Sabulo).md)
+- [사불로의 마나 파쇄(Mana-Crushing) 대물 저격소총 (Anti-Materiel Sniper Rifle of Sabulo)](../../01-19-1.무기/15.화기/모래폭풍의%20시작%20(Sandstorm's%20Onset).md)
 - [적외선 감지를 숨기는 항온성(Thermostatic) 길리슈트 (Thermostatic Ghillie Suit that Hides Infrared Sensing)](../../01-19-2.방어구/03.로브·마법복/샌드셰이드%20(Sandshade).md)

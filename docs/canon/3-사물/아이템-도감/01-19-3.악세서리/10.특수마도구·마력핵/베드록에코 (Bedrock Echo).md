@@ -92,5 +92,5 @@
 ## 🔗 관련 문서
 
 - [고르딘 어스소나 (Gordin Earth-sonar)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/3.프로스트대륙/1.딥포지왕국/12.고르딘어스소나.md)
-- [코어 브레이커 터보 랜스 (Turbo-Lance of Core Breaking)](../../01-19-1.무기/06.창/코어%20브레이커%20터보%20랜스%20(Turbo-Lance%20of%20Core%20Breaking).md)
+- [코어 브레이커 터보 랜스 (Turbo-Lance of Core Breaking)](../../01-19-1.무기/06.창/코어%20브레이커%20(Core%20Breaker).md)
 - [소나 박쥐의 두개골 방울 (Resonator Bell of the Sonar Bat)](../../01-19-4.유물/04.영웅고유성유물/레조나%20방울%20(Resona%20Bell).md)

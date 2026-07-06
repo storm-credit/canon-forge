@@ -1,7 +1,7 @@
 ---
 정본명: 양손검
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B2 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 양손검
@@ -14,7 +14,6 @@
 | 각인 추적자 (Trail-Sealer) | [각인 추적자 (Trail-Sealer)](각인%20추적자%20%28Trail-Sealer%29.md) |
 | 개통의 일격 (Breachbringer) | [개통의 일격 (Breachbringer)](개통의%20일격%20%28Breachbringer%29.md) |
 | 거수의 궤적 (Beast's Arc) | [거수의 궤적 (Beast's Arc)](거수의%20궤적%20%28Beast's%20Arc%29.md) |
-| 거울 속 짐승검 미렐베인 (Mirrelbane) | [거울 속 짐승검 미렐베인 (Mirrelbane)](거울%20속%20짐승검%20미렐베인%20%28Mirrelbane%29.md) |
 | 게일브레이커 (Galebreaker) | [게일브레이커 (Galebreaker)](게일브레이커%20%28Galebreaker%29.md) |
 | 그레이브웨이트 (Graveweight) | [그레이브웨이트 (Graveweight)](그레이브웨이트%20%28Graveweight%29.md) |
 | 그렌델 (Grendel) | [그렌델 (Grendel)](그렌델%20%28Grendel%29.md) |
@@ -45,6 +44,7 @@
 | 모루의 유언 (Anvil's Last Word) | [모루의 유언 (Anvil's Last Word)](모루의%20유언%20%28Anvil's%20Last%20Word%29.md) |
 | 무게가 곧 진실 (Weight is Truth) | [무게가 곧 진실 (Weight is Truth)](무게가%20곧%20진실%20%28Weight%20is%20Truth%29.md) |
 | 미라주 크러셔 (Mirage Crusher) | [미라주 크러셔 (Mirage Crusher)](미라주%20크러셔%20%28Mirage%20Crusher%29.md) |
+| 미렐베인 (Mirrelbane) | [미렐베인 (Mirrelbane)](미렐베인%20%28Mirrelbane%29.md) |
 | 바스티온 (Bastion) | [바스티온 (Bastion)](바스티온%20%28Bastion%29.md) |
 | 배신자 (The Traitor) | [배신자 (The Traitor)](배신자%20%28The%20Traitor%29.md) |
 | 베놈브랜드 (Venombrand) | [베놈브랜드 (Venombrand)](베놈브랜드%20%28Venombrand%29.md) |

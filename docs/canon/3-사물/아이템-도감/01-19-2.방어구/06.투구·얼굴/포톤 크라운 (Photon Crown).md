@@ -104,4 +104,4 @@
 - [신경기어 - 다각 렌즈 모노클 (Neural-Gear, Multi-Lens Monocle)](../../../01-19-4.유물/04.영웅고유성유물/프리즘아이 (Prism-Eye).md)
 - [광자 거울 튜닉 (Photon Mirror Tunic)](../../01-19-2.방어구/03.로브·마법복/프리즈마 (Prisma).md)
 - [허공 좌표 수식 각인 건틀릿 (Void-Coordinate Formula Tracing Gauntlets)](../../01-19-2.방어구/08.장갑·손목/세븐 액시스 (Seven Axis).md)
-- [굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost)](../../../01-19-1.무기/13.오브·마법서/굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost).md)
+- [굴라프리즘 설계봉 - 아르키메데스의 서리 (Design Wand, Archimedes' Frost)](../../../01-19-1.무기/13.오브·마법서/아르키메데스의 서리 (Archimedes' Frost).md)

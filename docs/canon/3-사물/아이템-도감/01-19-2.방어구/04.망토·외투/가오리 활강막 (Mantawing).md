@@ -91,4 +91,4 @@
 ## 🔗 관련 문서
 - [엘라드레스 제퍼 (Eladres Zephyr)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/04.엘라드레스제퍼.md)
 - [침묵하는 폭풍의 나침반 (Compass of Silent Storm)](../../01-19-4.유물/04.영웅고유성유물/폭풍안 (Storm's Eye).md)
-- [먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet)](../03.로브·마법복/먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet).md)
+- [먼지 털이깃 제비 앵클렛 (Dust-Feather Swallow Anklet)](../03.로브·마법복/더스트윙 (Dustwing).md)

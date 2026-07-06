@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [레오나르트 상그윈 (Leonart Sanguine)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/06.레오나르트상그윈.md)
-- [선혈의 갈증 대낫 카르밀라 (Great Scythe of Blood-Thirst: Carmilla)](../../01-19-1.무기/09.낫/선혈의 갈증 대낫 카르밀라 (Great Scythe of Blood-Thirst Carmilla).md)
+- [선혈의 갈증 대낫 카르밀라 (Great Scythe of Blood-Thirst: Carmilla)](../../01-19-1.무기/09.낫/카르밀라 (Carmilla).md)
 - [선혈 응고의 타르 롱코트 (Tar-Longcoat of Blood Coagulation)](../03.로브·마법복/타르카르나 (Tarcarna).md)

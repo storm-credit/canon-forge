@@ -83,5 +83,5 @@
 
 ## 🔗 관련 문서
 - [타리온 카오스 (Tarion Khaos)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/4.붉은사막부족/05.타리온카오스.md)
-- [카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos)](../../../01-19-1.무기/13.오브·마법서/카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos).md)
+- [카오스의 휘발성(Volatile) 모래구슬 백(Bag) (Bag of Volatile Sand-Orbs of Khaos)](../../../01-19-1.무기/13.오브·마법서/사막의 미친 눈 (Mad Eye of the Desert).md)
 - [폭음 봉인 근접 단검 (Blast-Sealed Close-Range Dagger)](../../../01-19-1.무기/04.단검/앞면폭탄 (Frontface Bomb).md)

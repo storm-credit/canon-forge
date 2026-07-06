@@ -82,5 +82,5 @@
 
 ## 🔗 관련 문서
 - [테크노스 파브리 (Technos Fabri)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/2.크림슨대륙/2.아르카나제국잔재/04.테크노스파브리.md)
-- [파브리의 창조를 여는 만능 렌치 (Omni-Wrench of Fabri's Creation)](../../01-19-1.무기/06.창/파브리의%20창조를%20여는%20만능%20렌치%20(Omni-Wrench%20of%20Fabri's%20Creation).md)
+- [파브리의 창조를 여는 만능 렌치 (Omni-Wrench of Fabri's Creation)](../../01-19-1.무기/06.창/파브리카%20(Fabrica).md)
 - [반응형 에테리움 헥사 실드 코트 (Reactive Hexa-Shield Coat)](../03.로브·마법복/헥사리움%20(Hexarium).md)

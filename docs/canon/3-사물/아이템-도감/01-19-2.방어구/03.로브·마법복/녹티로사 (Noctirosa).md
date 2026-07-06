@@ -97,5 +97,5 @@
 ## 🔗 관련 문서
 
 - [카리나 녹턴 (Karina Nocturne)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/4.오벨리스크대륙/2.망자의왕국/09.카리나녹턴.md)
-- [녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night)](../../01-19-1.무기/03.쌍검/녹턴의%20쌍검%20밤의%20베일%20(Twin%20Blades%20of%20Nocturne%20Veil%20of%20Night).md)
+- [녹턴의 쌍검 밤의 베일 (Twin Blades of Nocturne: Veil of Night)](../../01-19-1.무기/03.쌍검/밤의%20베일%20(Veil%20of%20Night).md)
 - [망각의 연성 가죽 부츠 (Soft-Leather Boots of Oblivion)](../02.경갑/망각의%20발자취%20(Oblivion%20Step).md)

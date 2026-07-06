@@ -98,4 +98,4 @@
 
 - [리오넬 웨이브스팅 (Lionel Wavesting)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/5.해양대륙/2.황금함대/11.리오넬웨이브스팅.md)
 - [쾌속 해류 편광 고글 (Slipstream Polarized Goggles)](../04.머리장식/편광%20고글%20(Polarized%20Goggles).md)
-- [마도 어뢰 작살총 '스팅-레이' (M-Torpedo Harpoon 'Sting-Ray')](../../01-19-1.무기/15.화기/마도%20어뢰%20작살총%20'스팅-레이'%20(M-Torpedo%20Harpoon%20'Sting-Ray').md)
+- [마도 어뢰 작살총 '스팅-레이' (M-Torpedo Harpoon 'Sting-Ray')](../../01-19-1.무기/15.화기/스팅-레이%20(Sting-Ray).md)

@@ -93,5 +93,5 @@
 
 ## 🔗 관련 문서
 - [세라핀 루미너스 (Seraphin Luminous, 벌칸 무스펠하임 마도공창)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/8.벌칸무스펠하임마도공창/03.세라핀루미너스.md)
-- [침묵로의 저지포 — 세라핀 루미너스의 여명 압력창 (Silent-Furnace Suppressor — Seraphin Luminous's Dawnward Pressure Lance)](../../01-19-1.무기/15.화기/침묵로의%20저지포%20—%20세라핀%20루미너스의%20여명%20압력창%20(Silent-Furnace%20Suppressor%20—%20Seraphin%20Luminous's%20Dawnward%20Pressure%20Lance).md)
+- [침묵로의 저지포 — 세라핀 루미너스의 여명 압력창 (Silent-Furnace Suppressor — Seraphin Luminous's Dawnward Pressure Lance)](../../01-19-1.무기/15.화기/새벽%20방화벽%20(Dawnwall).md)
 - 벌칸 무스펠하임 마도공창 (Vulcan Muspelheim Foundry)

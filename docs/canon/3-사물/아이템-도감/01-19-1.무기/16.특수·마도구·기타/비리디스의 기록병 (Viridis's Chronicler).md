@@ -87,5 +87,5 @@
 
 ## 🔗 관련 문서
 - [라엘 비리디스 (Rael Viridis)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/5.정령연합/11.라엘비리디스.md)
-- [태고의 생태를 담은 자연 비전서 (Secret Book of Nature Containing Primeval Ecology)](../13.오브·마법서/태고의 생태를 담은 자연 비전서 (Secret Book of Nature Containing Primeval Ecology).md)
-- [브레인 싱크 비행 정찰 마도서 군 (Brain-Sync Aerial Surveillance Grimoire Fleet)](../13.오브·마법서/브레인 싱크 비행 정찰 마도서 군 (Brain-Sync Aerial Surveillance Grimoire Fleet).md)
+- [태고의 생태를 담은 자연 비전서 (Secret Book of Nature Containing Primeval Ecology)](../13.오브·마법서/실바나리스 서 (Codex Silvanaris).md)
+- [브레인 싱크 비행 정찰 마도서 군 (Brain-Sync Aerial Surveillance Grimoire Fleet)](../13.오브·마법서/라엘의 열 눈 (Ten Eyes of Rael).md)

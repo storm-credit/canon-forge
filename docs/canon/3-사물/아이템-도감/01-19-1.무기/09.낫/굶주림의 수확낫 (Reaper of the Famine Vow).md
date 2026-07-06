@@ -79,4 +79,4 @@
 ## 🔗 관련 문서
 - [기네비어 할로윈 (Guinevere Halloween)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/5.데메테르곡물연합/01.기네비어할로윈.md)
 - [이벨린 할로윈 (Evelynn Halloween)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-2.대륙무역상단소속/5.데메테르곡물연합/10.이벨린할로윈.md)
-- [굶주림의 대지겸 — 보리스 그레이슨의 결박 수확도 (Earth-Bound Scythe of the Famine Vow — Boris Grayson's Coercive Harvest)](굶주림의 대지겸 — 보리스 그레이슨의 결박 수확도 (Earth-Bound Scythe of the Famine Vow — Boris Grayson's Coercive Harvest).md) — 같은 낙인 계열, 보리스 그레이슨 전용 대낫
+- [굶주림의 대지겸 — 보리스 그레이슨의 결박 수확도 (Earth-Bound Scythe of the Famine Vow — Boris Grayson's Coercive Harvest)](배런홀드 (Barrenhold).md) — 같은 낙인 계열, 보리스 그레이슨 전용 대낫

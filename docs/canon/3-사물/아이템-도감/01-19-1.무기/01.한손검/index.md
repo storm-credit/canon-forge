@@ -1,12 +1,12 @@
 ---
 정본명: 한손검
 유형: 도감 인덱스
-검증상태: 파일명 정본화 R1-B9 index 재생성 (2026-07-04)
+검증상태: O-E 재심 index 재생성 (2026-07-07)
 ---
 
 # 📚 한손검
 
-## 항목 (305)
+## 항목 (304)
 
 | 아이템 | 링크 |
 |--------|------|
@@ -243,7 +243,6 @@
 | 이시스아스트라 (Isis-Astra) | [이시스아스트라 (Isis-Astra)](이시스아스트라%20%28Isis-Astra%29.md) |
 | 인코그니토 (Incognito) | [인코그니토 (Incognito)](인코그니토%20%28Incognito%29.md) |
 | 인페르노 볼텍스 (Inferno Vortex) | [인페르노 볼텍스 (Inferno Vortex)](인페르노%20볼텍스%20%28Inferno%20Vortex%29.md) |
-| 일곱 겨울바람의 홀 (Scepter of the Seven Wintergales) | [일곱 겨울바람의 홀 (Scepter of the Seven Wintergales)](../12.지팡이·완드/일곱%20겨울바람의%20홀%20%28Scepter%20of%20the%20Seven%20Wintergales%29.md) |
 | 잊혀진 왕가의 서약검 (Oathblade of the Forgotten Crown) | [잊혀진 왕가의 서약검 (Oathblade of the Forgotten Crown)](잊혀진%20왕가의%20서약검%20%28Oathblade%20of%20the%20Forgotten%20Crown%29.md) |
 | 자기부정검 이시스-아스트라 (Self-Denial Blade Isis-Astra) | [자기부정검 이시스-아스트라 (Self-Denial Blade Isis-Astra)](자기부정검%20이시스-아스트라%20%28Self-Denial%20Blade%20Isis-Astra%29.md) |
 | 자린 (Zarrin) | [자린 (Zarrin)](자린%20%28Zarrin%29.md) |
