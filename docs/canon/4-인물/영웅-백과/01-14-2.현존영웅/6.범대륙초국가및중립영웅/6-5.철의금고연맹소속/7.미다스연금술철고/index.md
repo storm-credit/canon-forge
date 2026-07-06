@@ -13,7 +13,7 @@
 |---|------|
 | 1 | [가헤리스 발레리우스 (Gaheris Valerius)](01.가헤리스발레리우스.md) |
 | 2 | [카엘 노바 (Kael Nova)](02.카엘노바.md) |
-| 3 | [세리아 루미너스 (Seria Luminous)](03.세리아루미너스.md) |
+| 3 | [리네트 루미너스 (Lynette Luminous)](03.리네트루미너스.md) |
 | 4 | [셀레스티아 호크윈드 (Celestia Hawkwind)](04.셀레스티아호크윈드.md) |
 | 5 | [아서 바스커빌 (Arthur Baskerville)](05.아서바스커빌.md) |
 | 6 | [아프로디테 앰버라이트 (Aphrodite Amberlight)](06.아프로디테앰버라이트.md) |

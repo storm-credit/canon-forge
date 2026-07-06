@@ -18,6 +18,6 @@
 | 5 | [발렌타인 카디널 (Valentine Cardinal)](05.발렌타인카디널.md) |
 | 6 | [녹티스 스텔라리스 (Noctis Stellaris)](06.녹티스스텔라리스.md) |
 | 7 | [카심 할로윈 (Kasim Halloween)](07.카심할로윈.md) |
-| 8 | [아테나 아르트리우스 (Athena Artorius)](08.아테나아르트리우스.md) |
+| 8 | [모르가나 아르트리우스 (Morgana Artorius)](08.모르가나아르트리우스.md) |
 | 9 | [아테나 카디널 (Athena Cardinal)](09.아테나카디널.md) |
 | 10 | [엘레노아 나이트폴 (Eleanor Nightfall)](10.엘레노아나이트폴.md) |
