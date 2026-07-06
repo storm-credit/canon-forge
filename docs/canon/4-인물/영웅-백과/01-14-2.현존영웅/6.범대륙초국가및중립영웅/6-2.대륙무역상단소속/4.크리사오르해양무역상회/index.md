@@ -18,6 +18,6 @@
 | 5 | [카르멘 그레이 (Carmen Gray)](05.카르멘그레이.md) |
 | 6 | [카르멘 블러드워커 (Carmen Bloodwalker)](06.카르멘블러드워커.md) |
 | 7 | [카르멘 아스트라 (Carmen Astra)](07.카르멘아스트라.md) |
-| 8 | [카르멘 에스더 (Carmen Esther)](08.카르멘에스더.md) |
+| 8 | [코델리아 에스더 (Cordelia Esther)](../../6-7.그림자첩보조직소속/6.칠흑의까마귀정보국/08.코델리아에스더.md) |
 | 9 | [클라우스 할로윈 (Klaus Halloween)](09.클라우스할로윈.md) |
 | 10 | [헥토르 바스커빌 (Hector Baskerville)](10.헥토르바스커빌.md) |

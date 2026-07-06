@@ -15,7 +15,7 @@
 | 2 | [베아트리체 그레이슨 (Beatrice Grayson)](02.베아트리체그레이슨.md) |
 | 3 | [보리스 팔콘 (Boris Falcon)](03.보리스팔콘.md) |
 | 4 | [세리아 코어스 (Seria Cores)](04.세리아코어스.md) |
-| 5 | [아리엔 카디널 (Arien Cardinal)](05.아리엔카디널.md) |
+| 5 | [세라피나 카디널 (Serafina Cardinal)](05.세라피나카디널.md) |
 | 6 | [아이리스 아르젠트 (Iris Argent)](06.아이리스아르젠트.md) |
 | 7 | [에일린 오크우드 (Eileen Oakwood)](07.에일린오크우드.md) |
 | 8 | [이벨린 헬하운드 (Evelynn Hellhound)](08.이벨린헬하운드.md) |

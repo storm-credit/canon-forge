@@ -101,11 +101,11 @@
 | 와일드루인 (Wildruin) | [와일드루인 (Wildruin)](와일드루인%20%28Wildruin%29.md) |
 | 와일드하울 (Wildhowl) | [와일드하울 (Wildhowl)](와일드하울%20%28Wildhowl%29.md) |
 | 울음검 야생기억 (Wildmemory Keen) | [울음검 야생기억 (Wildmemory Keen)](울음검%20야생기억%20%28Wildmemory%20Keen%29.md) |
-| 이그니스 (Ignis) | [이그니스 (Ignis)](이그니스%20%28Ignis%29.md) |
 | 이그니스 크럭스 (Ignis Crux) | [이그니스 크럭스 (Ignis Crux)](이그니스%20크럭스%20%28Ignis%20Crux%29.md) |
 | 이름 없는 날 (The Nameless Edge) | [이름 없는 날 (The Nameless Edge)](이름%20없는%20날%20%28The%20Nameless%20Edge%29.md) |
 | 이름 없는 자들의 검 (Nameless Blade) | [이름 없는 자들의 검 (Nameless Blade)](이름%20없는%20자들의%20검%20%28Nameless%20Blade%29.md) |
 | 이빨 달린 방벽 파괴자 (Fanged Wall-Breaker) | [이빨 달린 방벽 파괴자 (Fanged Wall-Breaker)](이빨%20달린%20방벽%20파괴자%20%28Fanged%20Wall-Breaker%29.md) |
+| 인페르누스 (Infernus) | [인페르누스 (Infernus)](인페르누스%20%28Infernus%29.md) |
 | 임페라토르 (Imperator) | [임페라토르 (Imperator)](임페라토르%20%28Imperator%29.md) |
 | 잿불 (Ashfire) | [잿불 (Ashfire)](잿불%20%28Ashfire%29.md) |
 | 잿빛 거수 (Ashen Behemoth) | [잿빛 거수 (Ashen Behemoth)](잿빛%20거수%20%28Ashen%20Behemoth%29.md) |

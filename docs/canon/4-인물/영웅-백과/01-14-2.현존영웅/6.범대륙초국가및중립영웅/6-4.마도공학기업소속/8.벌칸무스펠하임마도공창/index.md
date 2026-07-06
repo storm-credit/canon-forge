@@ -13,7 +13,7 @@
 |---|------|
 | 1 | [가웨인 아스텔 (Gawain Astell)](01.가웨인아스텔.md) |
 | 2 | [가웨인 헬하운드 (Gawain Hellhound)](02.가웨인헬하운드.md) |
-| 3 | [다미안 루미너스 (Damian Luminous)](03.다미안루미너스.md) |
+| 3 | [세라핀 루미너스 (Seraphin Luminous)](03.세라핀루미너스.md) |
 | 4 | [레오나드 크로스 (Leonard Cross)](04.레오나드크로스.md) |
 | 5 | [발두르 크로스 (Baldur Cross)](05.발두르크로스.md) |
 | 6 | [세리아 아스텔 (Seria Astell)](06.세리아아스텔.md) |

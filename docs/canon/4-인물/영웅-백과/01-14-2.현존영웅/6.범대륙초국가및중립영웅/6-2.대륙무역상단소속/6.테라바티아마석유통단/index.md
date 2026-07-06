@@ -13,7 +13,7 @@
 |---|------|
 | 1 | [미하일 아스텔 (Mikhail Astell)](01.미하일아스텔.md) |
 | 2 | [발렌타인 베일 (Valentine Bale)](02.발렌타인베일.md) |
-| 3 | [발렌타인 어스바운드 (Valentine Earthbound)](03.발렌타인어스바운드.md) |
+| 3 | [델빈 어스바운드 (Delvin Earthbound)](03.델빈어스바운드.md) |
 | 4 | [셀레스티아 오크우드 (Celestia Oakwood)](04.셀레스티아오크우드.md) |
 | 5 | [이벨린 디아만테 (Evelynn Diamante)](05.이벨린디아만테.md) |
 | 6 | [이벨린 아스텔 (Evelynn Astell)](06.이벨린아스텔.md) |

@@ -13,7 +13,7 @@
 | 가디언 랜스 (Guardian Lance) | [가디언 랜스 (Guardian Lance)](가디언%20랜스%20%28Guardian%20Lance%29.md) |
 | 가디언의 랜스 (Guardian's Lance) | [가디언의 랜스 (Guardian's Lance)](가디언의%20랜스%20%28Guardian's%20Lance%29.md) |
 | 가시비늘 저지 렌스 '물러서지 않는 선' (Thorn-Scale Anchor Lance, The Line That Does Not Yield) | [가시비늘 저지 렌스 '물러서지 않는 선' (Thorn-Scale Anchor Lance, The Line That Does Not Yield)](가시비늘%20저지%20렌스%20'물러서지%20않는%20선'%20%28Thorn-Scale%20Anchor%20Lance,%20The%20Line%20That%20Does%20Not%20Yield%29.md) |
-| 가웨인 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Gawain Cardinal's Ashvow Pole) | [가웨인 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Gawain Cardinal's Ashvow Pole)](가웨인%20카디널의%20쌍염%20할버드%20—%20재의%20서약창%20%28Twin-Flame%20Halberd%20—%20Gawain%20Cardinal's%20Ashvow%20Pole%29.md) |
+| 퍼시벌 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Percival Cardinal's Ashvow Pole) | [퍼시벌 카디널의 쌍염 할버드 — 재의 서약창 (Twin-Flame Halberd — Percival Cardinal's Ashvow Pole)](퍼시벌%20카디널의%20쌍염%20할버드%20—%20재의%20서약창%20%28Twin-Flame%20Halberd%20—%20Percival%20Cardinal's%20Ashvow%20Pole%29.md) |
 | 갑판 도약 작살창 '적함 통과제' (Boarding Harpoon Lance 'Enemy-Deck Passcard') | [갑판 도약 작살창 '적함 통과제' (Boarding Harpoon Lance 'Enemy-Deck Passcard')](갑판%20도약%20작살창%20'적함%20통과제'%20%28Boarding%20Harpoon%20Lance%20'Enemy-Deck%20Passcard'%29.md) |
 | 강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun) | [강철 폭발 삼지창과 작살포 (Exploding Trident & Auto-Harpoon Gun)](강철%20폭발%20삼지창과%20작살포%20%28Exploding%20Trident%20&%20Auto-Harpoon%20Gun%29.md) |
 | 게이볼그 (Gae Bolg) | [게이볼그 (Gae Bolg)](게이볼그%20%28Gae%20Bolg%29.md) |
@@ -26,14 +26,14 @@
 | 뇌절 (Lightning Cutter) | [뇌절 (Lightning Cutter)](뇌절%20%28Lightning%20Cutter%29.md) |
 | 단분자 회오리 창(Monofilament Gale Spear) | [단분자 회오리 창(Monofilament Gale Spear)](단분자%20회오리%20창%28Monofilament%20Gale%20Spear%29.md) |
 | 담보 사슬의 압류창 — 카르멘 그레이슨의 채권 랜스 (Lien-Chain Repossession Lance — Carmen Grayson's Collateral Lance) | [담보 사슬의 압류창 — 카르멘 그레이슨의 채권 랜스 (Lien-Chain Repossession Lance — Carmen Grayson's Collateral Lance)](담보%20사슬의%20압류창%20—%20카르멘%20그레이슨의%20채권%20랜스%20%28Lien-Chain%20Repossession%20Lance%20—%20Carmen%20Grayson's%20Collateral%20Lance%29.md) |
-| 닻사슬 초중량 작살 '심연의 맹세' — 클라우스 노바의 저지선 (Anchor-Chain Heavyharpoon, Deep Vow — Klaus Nova's Last Line) | [닻사슬 초중량 작살 '심연의 맹세' — 클라우스 노바의 저지선 (Anchor-Chain Heavyharpoon, Deep Vow — Klaus Nova's Last Line)](닻사슬%20초중량%20작살%20'심연의%20맹세'%20—%20클라우스%20노바의%20저지선%20%28Anchor-Chain%20Heavyharpoon,%20Deep%20Vow%20—%20Klaus%20Nova's%20Last%20Line%29.md) |
+| 닻사슬 초중량 작살 '심연의 맹세' — 안카르 노바의 저지선 (Anchor-Chain Heavyharpoon, Deep Vow — Anchor Nova's Last Line) | [닻사슬 초중량 작살 '심연의 맹세' — 안카르 노바의 저지선 (Anchor-Chain Heavyharpoon, Deep Vow — Anchor Nova's Last Line)](닻사슬%20초중량%20작살%20'심연의%20맹세'%20—%20안카르%20노바의%20저지선%20%28Anchor-Chain%20Heavyharpoon,%20Deep%20Vow%20—%20Anchor%20Nova's%20Last%20Line%29.md) |
 | 대지수호의 철창 '다크홈의 마지막 영지' (Earthward Iron Spear, Darkholm's Last Domain) | [대지수호의 철창 '다크홈의 마지막 영지' (Earthward Iron Spear, Darkholm's Last Domain)](대지수호의%20철창%20'다크홈의%20마지막%20영지'%20%28Earthward%20Iron%20Spear,%20Darkholm's%20Last%20Domain%29.md) |
 | 대지의 창 테라 스피어 (Terra Spear) | [대지의 창 테라 스피어 (Terra Spear)](대지의%20창%20테라%20스피어%20%28Terra%20Spear%29.md) |
 | 대지혈맥 동기화 철창 (Tellus-Sync Earth-Vein Iron Spike) | [대지혈맥 동기화 철창 (Tellus-Sync Earth-Vein Iron Spike)](대지혈맥%20동기화%20철창%20%28Tellus-Sync%20Earth-Vein%20Iron%20Spike%29.md) |
 | 드라코니우스의 혈분쇄창 (Blood-Crushing Lance of Drakonius) | [드라코니우스의 혈분쇄창 (Blood-Crushing Lance of Drakonius)](드라코니우스의%20혈분쇄창%20%28Blood-Crushing%20Lance%20of%20Drakonius%29.md) |
 | 락 브레이커 (Rock Breaker) | [락 브레이커 (Rock Breaker)](락%20브레이커%20%28Rock%20Breaker%29.md) |
 | 맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness') | [맹독 성게가시 랜스 '피어서 옵 다크니스' (Urchin-Spike Lance 'Piercer of Darkness')](맹독%20성게가시%20랜스%20'피어서%20옵%20다크니스'%20%28Urchin-Spike%20Lance%20'Piercer%20of%20Darkness'%29.md) |
-| 맹독의 춤사위 랜스 — 아테나 카디널의 뱀혓바닥 창 (Venomdancer's Lance — Athena Cardinal's Serpent-Tongue Spear) | [맹독의 춤사위 랜스 — 아테나 카디널의 뱀혓바닥 창 (Venomdancer's Lance — Athena Cardinal's Serpent-Tongue Spear)](맹독의%20춤사위%20랜스%20—%20아테나%20카디널의%20뱀혓바닥%20창%20%28Venomdancer's%20Lance%20—%20Athena%20Cardinal's%20Serpent-Tongue%20Spear%29.md) |
+| 맹독의 춤사위 랜스 — 세레나 카디널의 뱀혓바닥 창 (Venomdancer's Lance — Serena Cardinal's Serpent-Tongue Spear) | [맹독의 춤사위 랜스 — 세레나 카디널의 뱀혓바닥 창 (Venomdancer's Lance — Serena Cardinal's Serpent-Tongue Spear)](맹독의%20춤사위%20랜스%20—%20세레나%20카디널의%20뱀혓바닥%20창%20%28Venomdancer's%20Lance%20—%20Serena%20Cardinal's%20Serpent-Tongue%20Spear%29.md) |
 | 문지기의 은빛 할버드 '아이언 게이트' (Marcel Duval's Iron Gate Halberd) | [문지기의 은빛 할버드 '아이언 게이트' (Marcel Duval's Iron Gate Halberd)](문지기의%20은빛%20할버드%20'아이언%20게이트'%20%28Marcel%20Duval's%20Iron%20Gate%20Halberd%29.md) |
 | 바다의 창 트라이던트 (Trident) | [바다의 창 트라이던트 (Trident)](바다의%20창%20트라이던트%20%28Trident%29.md) |
 | 바람결의 언월도 (Windward Glaive) | [바람결의 언월도 (Windward Glaive)](바람결의%20언월도%20%28Windward%20Glaive%29.md) |
@@ -73,7 +73,7 @@
 | 제피로스 랜스 (Zephyros Lance) | [제피로스 랜스 (Zephyros Lance)](제피로스%20랜스%20%28Zephyros%20Lance%29.md) |
 | 제피루스의 진공 갈퀴창 (Vacuum-Rake Spear of Zephyrus) | [제피루스의 진공 갈퀴창 (Vacuum-Rake Spear of Zephyrus)](제피루스의%20진공%20갈퀴창%20%28Vacuum-Rake%20Spear%20of%20Zephyrus%29.md) |
 | 조류의 산호창 '드리프트' (Meira Driftwood's Coral Lance) | [조류의 산호창 '드리프트' (Meira Driftwood's Coral Lance)](조류의%20산호창%20'드리프트'%20%28Meira%20Driftwood's%20Coral%20Lance%29.md) |
-| 증기에 잠긴 이시스-아스트라 — 다미안 라크루아의 공성창 (Steam-Drowned Blade Isis-Astra — Damian Lacroix's Siege-Lance) | [증기에 잠긴 이시스-아스트라 — 다미안 라크루아의 공성창 (Steam-Drowned Blade Isis-Astra — Damian Lacroix's Siege-Lance)](증기에%20잠긴%20이시스-아스트라%20—%20다미안%20라크루아의%20공성창%20%28Steam-Drowned%20Blade%20Isis-Astra%20—%20Damian%20Lacroix's%20Siege-Lance%29.md) |
+| 증기에 잠긴 이시스-아스트라 — 오리온 라크루아의 공성창 (Steam-Drowned Blade Isis-Astra — Orion Lacroix's Siege-Lance) | [증기에 잠긴 이시스-아스트라 — 오리온 라크루아의 공성창 (Steam-Drowned Blade Isis-Astra — Orion Lacroix's Siege-Lance)](증기에%20잠긴%20이시스-아스트라%20—%20오리온%20라크루아의%20공성창%20%28Steam-Drowned%20Blade%20Isis-Astra%20—%20Orion%20Lacroix's%20Siege-Lance%29.md) |
 | 진홍의 낫 '스칼렛의 혈월' (Laila Scarlet's Crimson Scythe) | [진홍의 낫 '스칼렛의 혈월' (Laila Scarlet's Crimson Scythe)](진홍의%20낫%20'스칼렛의%20혈월'%20%28Laila%20Scarlet's%20Crimson%20Scythe%29.md) |
 | 창공의 랜스 (Lance of Zenith) | [창공의 랜스 (Lance of Zenith)](창공의%20랜스%20%28Lance%20of%20Zenith%29.md) |
 | 창공의 창 (Spear of the Firmament) | [창공의 창 (Spear of the Firmament)](창공의%20창%20%28Spear%20of%20the%20Firmament%29.md) |
@@ -85,7 +85,7 @@
 | 천둥의 창 브류나크 (Brionac) | [천둥의 창 브류나크 (Brionac)](천둥의%20창%20브류나크%20%28Brionac%29.md) |
 | 철의 서약 신성 창 (Dion Ironvow's White Sacred Lance) | [철의 서약 신성 창 (Dion Ironvow's White Sacred Lance)](철의%20서약%20신성%20창%20%28Dion%20Ironvow's%20White%20Sacred%20Lance%29.md) |
 | 청뢰의 기창 (Lightning Lance) | [청뢰의 기창 (Lightning Lance)](청뢰의%20기창%20%28Lightning%20Lance%29.md) |
-| 침묵을 요구하는 작살창 — 카르멘 베클렌의 닻줄 서약 (Silence-Demanding Harpoon-Spear — Carmen Becklen's Anchor-Line Vow) | [침묵을 요구하는 작살창 — 카르멘 베클렌의 닻줄 서약 (Silence-Demanding Harpoon-Spear — Carmen Becklen's Anchor-Line Vow)](침묵을%20요구하는%20작살창%20—%20카르멘%20베클렌의%20닻줄%20서약%20%28Silence-Demanding%20Harpoon-Spear%20—%20Carmen%20Becklen's%20Anchor-Line%20Vow%29.md) |
+| 침묵을 요구하는 작살창 — 브루넬 베클렌의 닻줄 서약 (Silence-Demanding Harpoon-Spear — Brunel Becklen's Anchor-Line Vow) | [침묵을 요구하는 작살창 — 브루넬 베클렌의 닻줄 서약 (Silence-Demanding Harpoon-Spear — Brunel Becklen's Anchor-Line Vow)](침묵을%20요구하는%20작살창%20—%20브루넬%20베클렌의%20닻줄%20서약%20%28Silence-Demanding%20Harpoon-Spear%20—%20Brunel%20Becklen's%20Anchor-Line%20Vow%29.md) |
 | 카리엘 하이드론의 심해 작살 (Abyssal Harpoon of 카리엘 하이드론) | [카리엘 하이드론의 심해 작살 (Abyssal Harpoon of 카리엘 하이드론)](카리엘%20하이드론의%20심해%20작살%20%28Abyssal%20Harpoon%20of%20카리엘%20하이드론%29.md) |
 | 코어 브레이커 터보 랜스 (Turbo-Lance of Core Breaking) | [코어 브레이커 터보 랜스 (Turbo-Lance of Core Breaking)](코어%20브레이커%20터보%20랜스%20%28Turbo-Lance%20of%20Core%20Breaking%29.md) |
 | 태풍의 눈을 꿰뚫는 바람의 돌격창 (Assault Spear of Wind Piercing the Eye of the Typhoon) | [태풍의 눈을 꿰뚫는 바람의 돌격창 (Assault Spear of Wind Piercing the Eye of the Typhoon)](태풍의%20눈을%20꿰뚫는%20바람의%20돌격창%20%28Assault%20Spear%20of%20Wind%20Piercing%20the%20Eye%20of%20the%20Typhoon%29.md) |

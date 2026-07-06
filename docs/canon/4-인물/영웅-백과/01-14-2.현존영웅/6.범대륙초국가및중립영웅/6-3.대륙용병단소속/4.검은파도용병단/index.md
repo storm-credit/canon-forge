@@ -15,9 +15,9 @@
 | 2 | [다미안 베클렌 (Damian Becklen)](02.다미안베클렌.md) |
 | 3 | [세리아 나이트폴 (Seria Nightfall)](03.세리아나이트폴.md) |
 | 4 | [세리아 에스더 (Seria Esther)](04.세리아에스더.md) |
-| 5 | [아리엔 베클렌 (Arien Becklen)](05.아리엔베클렌.md) |
+| 5 | [마리스 베클렌 (Maris Becklen)](05.마리스베클렌.md) |
 | 6 | [엘레노아 어스바운드 (Eleanor Earthbound)](06.엘레노아어스바운드.md) |
-| 7 | [카르멘 아르트리우스 (Carmen Artorius)](07.카르멘아르트리우스.md) |
-| 8 | [클라우스 노바 (Klaus Nova)](08.클라우스노바.md) |
+| 7 | [코델리아 아르트리우스 (Cordelia Artorius)](07.코델리아아르트리우스.md) |
+| 8 | [안카르 노바 (Anchor Nova)](08.안카르노바.md) |
 | 9 | [클라우스 라크루아 (Klaus Lacroix)](09.클라우스라크루아.md) |
 | 10 | [클라우스 코어스 (Klaus Cores)](10.클라우스코어스.md) |

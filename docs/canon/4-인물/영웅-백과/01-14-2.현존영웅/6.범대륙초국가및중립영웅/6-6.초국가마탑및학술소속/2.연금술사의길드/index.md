@@ -15,7 +15,7 @@
 | 2 | [기네비어 코어스 (Guinevere Cores)](02.기네비어코어스.md) |
 | 3 | [다미안 라크루아 (Damian Lacroix)](03.다미안라크루아.md) |
 | 4 | [루시안 노바 (Lucian Nova)](04.루시안노바.md) |
-| 5 | [세리아 노바 (Seria Nova)](05.세리아노바.md) |
+| 5 | [비올라 노바 (Viola Nova)](05.비올라노바.md) |
 | 6 | [세리아 라크루아 (Seria Lacroix)](06.세리아라크루아.md) |
 | 7 | [세리아 코어스 (Seria Cores)](07.세리아코어스.md) |
 | 8 | [실비아 노바 (Silvia Nova)](08.실비아노바.md) |

@@ -18,7 +18,7 @@
 | 강철 이빨의 정비 망치 (Fang's Ironbite Hammer) | [강철 이빨의 정비 망치 (Fang's Ironbite Hammer)](강철%20이빨의%20정비%20망치%20%28Fang's%20Ironbite%20Hammer%29.md) |
 | 강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace) | [강철 해일의 철퇴 '파도 부수기' (Tidebreaker Mace)](강철%20해일의%20철퇴%20'파도%20부수기'%20%28Tidebreaker%20Mace%29.md) |
 | 나락의 철퇴 (Mace of the Abyssal Ledger) | [나락의 철퇴 (Mace of the Abyssal Ledger)](나락의%20철퇴%20%28Mace%20of%20the%20Abyssal%20Ledger%29.md) |
-| 낙하의 저지추 — 카르멘 베클렌의 스톰 브레이크 (Falling Bulwark-Hammer — Carmen Becklen's Storm-Break) | [낙하의 저지추 — 카르멘 베클렌의 스톰 브레이크 (Falling Bulwark-Hammer — Carmen Becklen's Storm-Break)](낙하의%20저지추%20—%20카르멘%20베클렌의%20스톰%20브레이크%20%28Falling%20Bulwark-Hammer%20—%20Carmen%20Becklen's%20Storm-Break%29.md) |
+| 낙하의 저지추 — 실비아 베클렌의 스톰 브레이크 (Falling Bulwark-Hammer — Sylvia Becklen's Storm-Break) | [낙하의 저지추 — 실비아 베클렌의 스톰 브레이크 (Falling Bulwark-Hammer — Sylvia Becklen's Storm-Break)](낙하의%20저지추%20—%20실비아%20베클렌의%20스톰%20브레이크%20%28Falling%20Bulwark-Hammer%20—%20Sylvia%20Becklen's%20Storm-Break%29.md) |
 | 뇌전의 망치 (Hammer of Thunder) | [뇌전의 망치 (Hammer of Thunder)](뇌전의%20망치%20%28Hammer%20of%20Thunder%29.md) |
 | 니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass) | [니비스코르의 도면 지휘봉 - 나침반 (Blueprint Baton of Niviscor, Compass)](니비스코르의%20도면%20지휘봉%20-%20나침반%20%28Blueprint%20Baton%20of%20Niviscor,%20Compass%29.md) |
 | 다목적 렌치 '옴니툴' (Werther Neumann's Omni-Tool Wrench) | [다목적 렌치 '옴니툴' (Werther Neumann's Omni-Tool Wrench)](다목적%20렌치%20'옴니툴'%20%28Werther%20Neumann's%20Omni-Tool%20Wrench%29.md) |
@@ -52,7 +52,7 @@
 | 뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard) | [뱅가드의 은빛 지휘봉 (Silver Baton of Vanguard)](뱅가드의%20은빛%20지휘봉%20%28Silver%20Baton%20of%20Vanguard%29.md) |
 | 베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank) | [베인의 생화학 추출봉 - 페스트 크랭크 (Biochemical Extractor, Pest-Crank)](베인의%20생화학%20추출봉%20-%20페스트%20크랭크%20%28Biochemical%20Extractor,%20Pest-Crank%29.md) |
 | 베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth) | [베헤모스의 운석추 메테오 스매셔 (Meteor Smasher of Behemoth)](베헤모스의%20운석추%20메테오%20스매셔%20%28Meteor%20Smasher%20of%20Behemoth%29.md) |
-| 별빛 인도자의 충격 지휘봉 — 발렌타인 스텔라리스의 인도자 망치 (Starward Warden's Shock Baton — Valentine Stellaris's Guiding Hammer) | [별빛 인도자의 충격 지휘봉 — 발렌타인 스텔라리스의 인도자 망치 (Starward Warden's Shock Baton — Valentine Stellaris's Guiding Hammer)](별빛%20인도자의%20충격%20지휘봉%20—%20발렌타인%20스텔라리스의%20인도자%20망치%20%28Starward%20Warden's%20Shock%20Baton%20—%20Valentine%20Stellaris's%20Guiding%20Hammer%29.md) |
+| 별빛 인도자의 충격 지휘봉 — 엑터 스텔라리스의 인도자 망치 (Starward Warden's Shock Baton — Ector Stellaris's Guiding Hammer) | [별빛 인도자의 충격 지휘봉 — 엑터 스텔라리스의 인도자 망치 (Starward Warden's Shock Baton — Ector Stellaris's Guiding Hammer)](별빛%20인도자의%20충격%20지휘봉%20—%20발렌타인%20스텔라리스의%20인도자%20망치%20%28Starward%20Warden's%20Shock%20Baton%20—%20Valentine%20Stellaris's%20Guiding%20Hammer%29.md) |
 | 별빛의 망치 스타 해머 (Star Hammer) | [별빛의 망치 스타 해머 (Star Hammer)](별빛의%20망치%20스타%20해머%20%28Star%20Hammer%29.md) |
 | 보랏빛 시계추(Pendulum of Khronos) | [보랏빛 시계추(Pendulum of Khronos)](보랏빛%20시계추%28Pendulum%20of%20Khronos%29.md) |
 | 북방의 망치 모르딘 (Mordin) | [북방의 망치 모르딘 (Mordin)](북방의%20망치%20모르딘%20%28Mordin%29.md) |

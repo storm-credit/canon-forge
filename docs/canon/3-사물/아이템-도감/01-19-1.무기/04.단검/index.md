@@ -160,7 +160,7 @@
 | 트윈 샤크 (Twin Shark) | [트윈 샤크 (Twin Shark)](트윈%20샤크%20%28Twin%20Shark%29.md) |
 | 트윈 스왈로우 (Twin Swallow) | [트윈 스왈로우 (Twin Swallow)](트윈%20스왈로우%20%28Twin%20Swallow%29.md) |
 | 트윈 위스퍼 (Twin Whispers) | [트윈 위스퍼 (Twin Whispers)](트윈%20위스퍼%20%28Twin%20Whispers%29.md) |
-| 트윈 팽 (Twin Fang) | [트윈 팽 (Twin Fang)](트윈%20팽%20%28Twin%20Fang%29.md) |
+| 트윈 팽 (Twin Fang) | [트윈 팽 (Twin Fang)](../03.쌍검/트윈%20팽%20%28Twin%20Fang%29.md) |
 | 패스파인더 (Pathfinder) | [패스파인더 (Pathfinder)](패스파인더%20%28Pathfinder%29.md) |
 | 팬텀 (Phantom) | [팬텀 (Phantom)](팬텀%20%28Phantom%29.md) |
 | 팬텀 에지 (Phantom Edge) | [팬텀 에지 (Phantom Edge)](팬텀%20에지%20%28Phantom%20Edge%29.md) |

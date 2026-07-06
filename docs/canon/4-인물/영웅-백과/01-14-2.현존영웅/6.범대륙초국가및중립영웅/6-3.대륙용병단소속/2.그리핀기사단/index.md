@@ -11,13 +11,13 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [가웨인 에스더 (Gawain Esther)](01.가웨인에스더.md) |
+| 1 | [퍼시벌 에스더 (Percival Esther)](01.퍼시벌에스더.md) |
 | 2 | [다미안 루미너스 (Damian Luminous)](02.다미안루미너스.md) |
 | 3 | [루시안 코어스 (Lucian Cores)](03.루시안코어스.md) |
 | 4 | [발렌타인 나이트폴 (Valentine Nightfall)](04.발렌타인나이트폴.md) |
 | 5 | [발렌타인 루미너스 (Valentine Luminous)](05.발렌타인루미너스.md) |
 | 6 | [발렌타인 어스바운드 (Valentine Earthbound)](06.발렌타인어스바운드.md) |
-| 7 | [세리아 베클렌 (Seria Becklen)](07.세리아베클렌.md) |
-| 8 | [실비아 코어스 (Silvia Cores)](08.실비아코어스.md) |
+| 7 | [루시아 베클렌 (Lucia Becklen)](07.루시아베클렌.md) |
+| 8 | [셀레네 코어스 (Selene Cores)](08.셀레네코어스.md) |
 | 9 | [아리엔 루미너스 (Arien Luminous)](09.아리엔루미너스.md) |
 | 10 | [아테나 라크루아 (Athena Lacroix)](10.아테나라크루아.md) |

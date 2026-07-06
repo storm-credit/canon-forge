@@ -11,9 +11,9 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [가웨인 스텔라리스 (Gawain Stellaris)](01.가웨인스텔라리스.md) |
+| 1 | [발린 스텔라리스 (Balin Stellaris)](01.발린스텔라리스.md) |
 | 2 | [기네비어 라크루아 (Guinevere Lacroix)](02.기네비어라크루아.md) |
-| 3 | [발렌타인 스텔라리스 (Valentine Stellaris)](03.발렌타인스텔라리스.md) |
+| 3 | [카시우스 스텔라리스 (Cassius Stellaris)](03.카시우스스텔라리스.md) |
 | 4 | [발렌타인 에스더 (Valentine Esther)](04.발렌타인에스더.md) |
 | 5 | [세리아 어스바운드 (Seria Earthbound)](05.세리아어스바운드.md) |
 | 6 | [세리아 코어스 (Seria Cores)](06.세리아코어스.md) |

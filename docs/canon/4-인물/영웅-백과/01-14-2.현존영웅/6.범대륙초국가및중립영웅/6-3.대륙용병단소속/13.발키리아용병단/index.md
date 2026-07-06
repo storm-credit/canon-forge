@@ -11,8 +11,8 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [가웨인 노바 (Gawain Nova)](01.가웨인노바.md) |
-| 2 | [가웨인 스텔라리스 (Gawain Stellaris)](02.가웨인스텔라리스.md) |
+| 1 | [로데릭 노바 (Roderick Nova)](01.로데릭노바.md) |
+| 2 | [가레스 스텔라리스 (Gareth Stellaris)](02.가레스스텔라리스.md) |
 | 3 | [로잘린드 루인스 (Rosalind Ruins)](03.로잘린드루인스.md) |
 | 4 | [베아트리체 나이트폴 (Beatrice Nightfall)](04.베아트리체나이트폴.md) |
 | 5 | [베아트리체 크림슨 (Beatrice Crimson)](05.베아트리체크림슨.md) |

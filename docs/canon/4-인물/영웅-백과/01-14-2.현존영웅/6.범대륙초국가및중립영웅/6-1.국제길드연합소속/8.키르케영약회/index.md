@@ -16,7 +16,7 @@
 | 3 | [발두르 헬하운드 (Baldur Hellhound)](03.발두르헬하운드.md) |
 | 4 | [발렌타인 라크루아 (Valentine Lacroix)](04.발렌타인라크루아.md) |
 | 5 | [실비아 코어스 (Silvia Cores)](05.실비아코어스.md) |
-| 6 | [아리엔 루미너스 (Arien Luminous)](06.아리엔루미너스.md) |
+| 6 | [베네사 루미너스 (Venessa Luminous)](06.베네사루미너스.md) |
 | 7 | [아리엔 맥시무스 (Arien Maximus)](07.아리엔맥시무스.md) |
 | 8 | [아이리스 크로스 (Iris Cross)](08.아이리스크로스.md) |
 | 9 | [이벨린 아르젠트 (Evelynn Argent)](09.이벨린아르젠트.md) |

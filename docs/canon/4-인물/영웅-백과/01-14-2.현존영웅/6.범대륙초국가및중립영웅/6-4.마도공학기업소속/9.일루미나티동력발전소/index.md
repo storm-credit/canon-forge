@@ -17,7 +17,7 @@
 | 4 | [로엔그린 다크홈 (Lohengrin Darkholm)](04.로엔그린다크홈.md) |
 | 5 | [로잘린드 아이언팽 (Rosalind Ironfang)](05.로잘린드아이언팽.md) |
 | 6 | [보르스 헬하운드 (Bors Hellhound)](06.보르스헬하운드.md) |
-| 7 | [실비아 코어스 (Silvia Cores)](07.실비아코어스.md) |
+| 7 | [비비안 코어스 (Vivian Cores)](07.비비안코어스.md) |
 | 8 | [에일린 베를란 (Eileen Verlan)](08.에일린베를란.md) |
 | 9 | [지크프리트 블러드워커 (Siegfried Bloodwalker)](09.지크프리트블러드워커.md) |
 | 10 | [카르멘 나이트폴 (Carmen Nightfall)](10.카르멘나이트폴.md) |

@@ -12,12 +12,12 @@
 | # | 영웅 |
 |---|------|
 | 1 | [기네비어 베클렌 (Guinevere Becklen)](01.기네비어베클렌.md) |
-| 2 | [다미안 노바 (Damian Nova)](02.다미안노바.md) |
-| 3 | [다미안 카디널 (Damian Cardinal)](03.다미안카디널.md) |
+| 2 | [셀레스티나 노바 (Celestina Nova)](02.셀레스티나노바.md) |
+| 3 | [가레스 카디널 (Gareth Cardinal)](03.가레스카디널.md) |
 | 4 | [발렌타인 라크루아 (Valentine Lacroix)](04.발렌타인라크루아.md) |
 | 5 | [세리아 아르트리우스 (Seria Artorius)](05.세리아아르트리우스.md) |
 | 6 | [세리아 어스바운드 (Seria Earthbound)](06.세리아어스바운드.md) |
-| 7 | [실비아 루미너스 (Silvia Luminous)](07.실비아루미너스.md) |
+| 7 | [클라모르 루미너스 (Clamor Luminous)](07.클라모르루미너스.md) |
 | 8 | [실비아 에스더 (Silvia Esther)](08.실비아에스더.md) |
 | 9 | [아리엔 아르트리우스 (Arien Artorius)](09.아리엔아르트리우스.md) |
 | 10 | [카르멘 라크루아 (Carmen Lacroix)](10.카르멘라크루아.md) |

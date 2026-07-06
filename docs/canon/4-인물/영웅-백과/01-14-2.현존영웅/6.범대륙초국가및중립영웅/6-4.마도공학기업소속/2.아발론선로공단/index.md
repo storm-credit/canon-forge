@@ -11,11 +11,11 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [가웨인 스텔라리스 (Gawain Stellaris)](01.가웨인스텔라리스.md) |
+| 1 | [라모락 스텔라리스 (Lamorak Stellaris)](01.라모락스텔라리스.md) |
 | 2 | [가웨인 코어스 (Gawain Cores)](02.가웨인코어스.md) |
 | 3 | [디트리히 아스텔 (Dietrich Astell)](03.디트리히아스텔.md) |
 | 4 | [레오나드 발라키아 (Leonard Valachia)](04.레오나드발라키아.md) |
-| 5 | [루시안 에스더 (Lucian Esther)](05.루시안에스더.md) |
+| 5 | [로엔 에스더 (Loen Esther)](05.로엔에스더.md) |
 | 6 | [마티아스 호크윈드 (Mathias Hawkwind)](06.마티아스호크윈드.md) |
 | 7 | [미하일 바스커빌 (Mikhail Baskerville)](07.미하일바스커빌.md) |
 | 8 | [발두르 바스커빌 (Baldur Baskerville)](08.발두르바스커빌.md) |

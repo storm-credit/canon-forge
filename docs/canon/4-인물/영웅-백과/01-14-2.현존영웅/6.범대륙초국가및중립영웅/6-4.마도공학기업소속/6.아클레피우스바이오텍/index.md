@@ -11,13 +11,13 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [기네비어 스텔라리스 (Guinevere Stellaris)](01.기네비어스텔라리스.md) |
+| 1 | [베디베르 스텔라리스 (Bedivere Stellaris)](../../6-1.국제길드연합소속/9.이그니스결사/01.베디베르스텔라리스.md) |
 | 2 | [다미안 그레이 (Damian Gray)](02.다미안그레이.md) |
 | 3 | [디트리히 베를란 (Dietrich Verlan)](03.디트리히베를란.md) |
 | 4 | [로잘린드 윈드런너 (Rosalind Windrunner)](04.로잘린드윈드런너.md) |
 | 5 | [발두르 다크홈 (Baldur Darkholm)](05.발두르다크홈.md) |
 | 6 | [셀레스티아 할로윈 (Celestia Halloween)](06.셀레스티아할로윈.md) |
-| 7 | [실비아 나이트폴 (Silvia Nightfall)](07.실비아나이트폴.md) |
+| 7 | [세라 나이트폴 (Serah Nightfall)](07.세라나이트폴.md) |
 | 8 | [아이리스 맥시무스 (Iris Maximus)](08.아이리스맥시무스.md) |
 | 9 | [아이리스 크림슨 (Iris Crimson)](09.아이리스크림슨.md) |
 | 10 | [프리드리히 펜드래곤 (Friedrich Pendragon)](10.프리드리히펜드래곤.md) |

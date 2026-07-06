@@ -11,13 +11,13 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [기네비어 스텔라리스 (Guinevere Stellaris)](01.기네비어스텔라리스.md) |
+| 1 | [베디베르 스텔라리스 (Bedivere Stellaris)](../../6-1.국제길드연합소속/9.이그니스결사/01.베디베르스텔라리스.md) |
 | 2 | [루시안 아르트리우스 (Lucian Artorius)](02.루시안아르트리우스.md) |
 | 3 | [루시안 코어스 (Lucian Cores)](03.루시안코어스.md) |
 | 4 | [발렌타인 나이트폴 (Valentine Nightfall)](04.발렌타인나이트폴.md) |
 | 5 | [발렌타인 카디널 (Valentine Cardinal)](05.발렌타인카디널.md) |
-| 6 | [세리아 스텔라리스 (Seria Stellaris)](06.세리아스텔라리스.md) |
+| 6 | [실렌티아 스텔라리스 (Silentia Stellaris)](06.실렌티아스텔라리스.md) |
 | 7 | [실비아 나이트폴 (Silvia Nightfall)](07.실비아나이트폴.md) |
-| 8 | [실비아 루미너스 (Silvia Luminous)](08.실비아루미너스.md) |
+| 8 | [셀레스티아 루미너스 (Celestia Luminous)](08.셀레스티아루미너스.md) |
 | 9 | [아리아 루나크로스 (Aria Lunacross)](09.아리아루나크로스.md) |
 | 10 | [엘레노아 카디널 (Eleanor Cardinal)](10.엘레노아카디널.md) |

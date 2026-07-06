@@ -1,11 +1,11 @@
 ---
-정본명: 트윈 팽 (Twin Fang)
+정본명: 스콜피온 팽 (Scorpion Fang)
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 쌍검 (Dual Swords)/트윈 팽 (Twin Fang).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/03. 쌍검 (Dual Swords)/스콜피온 팽 (Twin Fang).md"
 검증상태: Phase 3 전수 보존 (원문 보존, 2026-06-23)
 ---
 
-# 🗡️ 트윈 팽 (Twin Fang)
+# 🗡️ 스콜피온 팽 (Scorpion Fang)
 
 > *"두 자루가 하나처럼 움직일 때, 바람도 베인다."*
 > — 다리온 템페스트

@@ -96,4 +96,4 @@
 
 - [카르멘 베클렌 (Carmen Becklen)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/6.범대륙초국가및중립영웅/6-3.대륙용병단소속/6.철혈부대/08.카르멘베클렌.md)
 - [철혈 부대](../../../../2-무대/세력/용병단/철혈부대/철혈부대.md)
-- [여명의 파수경 — 다미안 베클렌의 침묵 관측환 (Dawn-Watcher's Spotting Lens — Damian Becklen's Silent Ranging Loop)](../../01-19-3.악세서리/10.특수마도구·마력핵/여명의%20파수경%20(Dawn-Watcher's%20Spotting%20Lens).md) — 같은 철혈 부대 소속 동성(同姓) 동료의 전용 장비, 계보상 무관
+- [여명의 파수경 — 에이단 베클렌의 침묵 관측환 (Dawn-Watcher's Spotting Lens — Aidan Becklen's Silent Ranging Loop)](../../01-19-3.악세서리/10.특수마도구·마력핵/여명의%20파수경%20(Dawn-Watcher's%20Spotting%20Lens).md) — 같은 철혈 부대 소속 동성(同姓) 동료의 전용 장비, 계보상 무관 (과거 동명 표기 시절의 기록 — 현재는 에이단 베클렌으로 개명 확정)

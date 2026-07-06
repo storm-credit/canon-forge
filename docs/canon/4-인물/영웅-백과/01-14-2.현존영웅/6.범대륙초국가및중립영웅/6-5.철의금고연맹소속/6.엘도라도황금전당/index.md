@@ -11,7 +11,7 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [다미안 스텔라리스 (Damian Stellaris)](01.다미안스텔라리스.md) |
+| 1 | [사그라모어 스텔라리스 (Sagramore Stellaris)](01.사그라모어스텔라리스.md) |
 | 2 | [로엔그린 아스텔 (Lohengrin Astell)](02.로엔그린아스텔.md) |
 | 3 | [로잘린드 코퍼스미스 (Rosalind Coppersmith)](03.로잘린드코퍼스미스.md) |
 | 4 | [루나 윈드런너 (Luna Windrunner)](04.루나윈드런너.md) |

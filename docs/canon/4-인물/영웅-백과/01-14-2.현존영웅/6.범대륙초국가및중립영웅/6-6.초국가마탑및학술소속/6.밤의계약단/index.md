@@ -13,11 +13,11 @@
 |---|------|
 | 1 | [기네비어 아르트리우스 (Guinevere Artorius)](01.기네비어아르트리우스.md) |
 | 2 | [발렌타인 할로윈 (Valentine Halloween)](02.발렌타인할로윈.md) |
-| 3 | [세리아 카디널 (Seria Cardinal)](03.세리아카디널.md) |
-| 4 | [시리우스 코어스 (Sirius Cores)](04.시리우스코어스.md) |
-| 5 | [아리엔 루미너스 (Arien Luminous)](05.아리엔루미너스.md) |
+| 3 | [모르가나 카디널 (Morgana Cardinal)](03.모르가나카디널.md) |
+| 4 | [라자루스 코어스 (Lazarus Cores)](04.라자루스코어스.md) |
+| 5 | [세레인 루미너스 (Seraine Luminous)](05.세레인루미너스.md) |
 | 6 | [아리엔 아르트리우스 (Arien Artorius)](06.아리엔아르트리우스.md) |
-| 7 | [아리엔 카디널 (Arien Cardinal)](07.아리엔카디널.md) |
+| 7 | [코르빈 카디널 (Corvin Cardinal)](07.코르빈카디널.md) |
 | 8 | [아테나 노바 (Athena Nova)](08.아테나노바.md) |
 | 9 | [아테나 코어스 (Athena Cores)](09.아테나코어스.md) |
 | 10 | [엘레노아 루미너스 (Eleanor Luminous)](10.엘레노아루미너스.md) |

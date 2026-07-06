@@ -70,5 +70,5 @@
 | 하프 오브 제피로스 (Harp of Zephyros) | [하프 오브 제피로스 (Harp of Zephyros)](하프%20오브%20제피로스%20%28Harp%20of%20Zephyros%29.md) |
 | 화산의 심장 (Heart of Volcano) | [화산의 심장 (Heart of Volcano)](화산의%20심장%20%28Heart%20of%20Volcano%29.md) |
 | 황금 법전 (Golden Code) | [황금 법전 (Golden Code)](황금%20법전%20%28Golden%20Code%29.md) |
-| 황혼좌표의 관측구 — 루시안 나이트폴의 저물녘 나침의 (Dusk-Coordinate Orb — Lucian Nightfall's Twilight Astrolabe) | [황혼좌표의 관측구 — 루시안 나이트폴의 저물녘 나침의 (Dusk-Coordinate Orb — Lucian Nightfall's Twilight Astrolabe)](황혼좌표의%20관측구%20—%20루시안%20나이트폴의%20저물녘%20나침의%20%28Dusk-Coordinate%20Orb%20—%20Lucian%20Nightfall's%20Twilight%20Astrolabe%29.md) |
+| 황혼좌표의 관측구 — 델런 나이트폴의 저물녘 나침의 (Dusk-Coordinate Orb — Declan Nightfall's Twilight Astrolabe) | [황혼좌표의 관측구 — 델런 나이트폴의 저물녘 나침의 (Dusk-Coordinate Orb — Declan Nightfall's Twilight Astrolabe)](황혼좌표의%20관측구%20—%20델런%20나이트폴의%20저물녘%20나침의%20%28Dusk-Coordinate%20Orb%20—%20Declan%20Nightfall's%20Twilight%20Astrolabe%29.md) |
 | 히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues) | [히스토리아의 혓바닥이 달린 악요(惡妖)의 금서 (Forbidden Book of the Wicked FIend with Tongues)](히스토리아의%20혓바닥이%20달린%20악요%28惡妖%29의%20금서%20%28Forbidden%20Book%20of%20the%20Wicked%20FIend%20with%20Tongues%29.md) |

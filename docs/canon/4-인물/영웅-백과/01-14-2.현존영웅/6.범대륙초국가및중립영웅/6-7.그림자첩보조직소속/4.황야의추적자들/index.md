@@ -11,7 +11,7 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [가웨인 카디널 (Gawain Cardinal)](01.가웨인카디널.md) |
+| 1 | [트리스탄 카디널 (Tristan Cardinal)](01.트리스탄카디널.md) |
 | 2 | [기네비어 나이트폴 (Guinevere Nightfall)](02.기네비어나이트폴.md) |
 | 3 | [기네비어 노바 (Guinevere Nova)](03.기네비어노바.md) |
 | 4 | [기네비어 어스바운드 (Guinevere Earthbound)](04.기네비어어스바운드.md) |
@@ -19,5 +19,5 @@
 | 6 | [다미안 카디널 (Damian Cardinal)](06.다미안카디널.md) |
 | 7 | [루시안 라크루아 (Lucian Lacroix)](07.루시안라크루아.md) |
 | 8 | [루시안 베클렌 (Lucian Becklen)](08.루시안베클렌.md) |
-| 9 | [세리아 노바 (Seria Nova)](09.세리아노바.md) |
+| 9 | [아마릴 노바 (Amaryl Nova)](09.아마릴노바.md) |
 | 10 | [시리우스 에스더 (Sirius Esther)](10.시리우스에스더.md) |

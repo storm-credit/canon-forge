@@ -11,13 +11,13 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [기네비어 스텔라리스 (Guinevere Stellaris)](01.기네비어스텔라리스.md) |
+| 1 | [베디베르 스텔라리스 (Bedivere Stellaris)](01.베디베르스텔라리스.md) |
 | 2 | [로잘린드 헬하운드 (Rosalind Hellhound)](02.로잘린드헬하운드.md) |
 | 3 | [미하일 그레이슨 (Mikhail Grayson)](03.미하일그레이슨.md) |
 | 4 | [미하일 베를란 (Mikhail Verlan)](04.미하일베를란.md) |
 | 5 | [발렌타인 베를란 (Valentine Verlan)](05.발렌타인베를란.md) |
 | 6 | [보리스 에스더 (Boris Esther)](06.보리스에스더.md) |
-| 7 | [세리아 스텔라리스 (Seria Stellaris)](07.세리아스텔라리스.md) |
+| 7 | [브뤼나 스텔라리스 (Brunna Stellaris)](07.브뤼나스텔라리스.md) |
 | 8 | [세리아 호크윈드 (Seria Hawkwind)](08.세리아호크윈드.md) |
 | 9 | [에일린 그레이 (Eileen Gray)](09.에일린그레이.md) |
 | 10 | [크리스티앙 베일 (Christian Bale)](10.크리스티앙베일.md) |

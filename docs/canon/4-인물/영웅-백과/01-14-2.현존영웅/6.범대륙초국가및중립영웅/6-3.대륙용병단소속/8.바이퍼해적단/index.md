@@ -11,13 +11,13 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [다미안 노바 (Damian Nova)](01.다미안노바.md) |
+| 1 | [알데릭 노바 (Alderic Nova)](01.알데릭노바.md) |
 | 2 | [다미안 할로윈 (Damian Halloween)](02.다미안할로윈.md) |
 | 3 | [루시안 코어스 (Lucian Cores)](03.루시안코어스.md) |
 | 4 | [발렌타인 스텔라리스 (Valentine Stellaris)](04.발렌타인스텔라리스.md) |
 | 5 | [세리아 라크루아 (Seria Lacroix)](05.세리아라크루아.md) |
-| 6 | [아리엔 스텔라리스 (Arien Stellaris)](06.아리엔스텔라리스.md) |
-| 7 | [아리엔 카디널 (Arien Cardinal)](07.아리엔카디널.md) |
+| 6 | [모르가나 스텔라리스 (Morgana Stellaris)](06.모르가나스텔라리스.md) |
+| 7 | [코르빈 카디널 (Corvin Cardinal)](../../6-6.초국가마탑및학술소속/6.밤의계약단/07.코르빈카디널.md) |
 | 8 | [아테나 라크루아 (Athena Lacroix)](08.아테나라크루아.md) |
 | 9 | [아테나 루미너스 (Athena Luminous)](09.아테나루미너스.md) |
-| 10 | [카르멘 베클렌 (Carmen Becklen)](10.카르멘베클렌.md) |
+| 10 | [브루넬 베클렌 (Brunel Becklen)](10.브루넬베클렌.md) |

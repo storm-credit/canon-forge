@@ -14,10 +14,10 @@
 | 1 | [가웨인 베클렌 (Gawain Becklen)](01.가웨인베클렌.md) |
 | 2 | [다미안 노바 (Damian Nova)](02.다미안노바.md) |
 | 3 | [루시안 스텔라리스 (Lucian Stellaris)](03.루시안스텔라리스.md) |
-| 4 | [발렌타인 어스바운드 (Valentine Earthbound)](04.발렌타인어스바운드.md) |
+| 4 | [유웨인 어스바운드 (Ywain Earthbound)](../../6-5.철의금고연맹소속/4.옵시디언중립금고/04.유웨인어스바운드.md) |
 | 5 | [세리아 베클렌 (Seria Becklen)](05.세리아베클렌.md) |
 | 6 | [실비아 라크루아 (Silvia Lacroix)](06.실비아라크루아.md) |
 | 7 | [아리엔 에스더 (Arien Esther)](07.아리엔에스더.md) |
-| 8 | [아리엔 카디널 (Arien Cardinal)](08.아리엔카디널.md) |
+| 8 | [실라스 카디널 (Silas Cardinal)](08.실라스카디널.md) |
 | 9 | [아테나 코어스 (Athena Cores)](09.아테나코어스.md) |
-| 10 | [클라우스 노바 (Klaus Nova)](10.클라우스노바.md) |
+| 10 | [리브라 노바 (Libra Nova)](10.리브라노바.md) |

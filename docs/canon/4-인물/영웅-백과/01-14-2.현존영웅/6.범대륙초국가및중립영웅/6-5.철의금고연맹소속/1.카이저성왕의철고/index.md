@@ -19,5 +19,5 @@
 | 6 | [레오나드 팔콘 (Leonard Falcon)](06.레오나드팔콘.md) |
 | 7 | [레오나드 헬하운드 (Leonard Hellhound)](07.레오나드헬하운드.md) |
 | 8 | [로엔그린 헬하운드 (Lohengrin Hellhound)](08.로엔그린헬하운드.md) |
-| 9 | [발렌타인 스텔라리스 (Valentine Stellaris)](09.발렌타인스텔라리스.md) |
+| 9 | [오리온 스텔라리스 (Orion Stellaris)](09.오리온스텔라리스.md) |
 | 10 | [이졸데 아스텔 (Isolde Astell)](10.이졸데아스텔.md) |

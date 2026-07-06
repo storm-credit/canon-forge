@@ -14,7 +14,7 @@
 | 1 | [가웨인 에스더 (Gawain Esther)](01.가웨인에스더.md) |
 | 2 | [루시안 에스더 (Lucian Esther)](02.루시안에스더.md) |
 | 3 | [세리아 에스더 (Seria Esther)](03.세리아에스더.md) |
-| 4 | [아리엔 베클렌 (Arien Becklen)](04.아리엔베클렌.md) |
+| 4 | [세라핀 베클렌 (Seraphine Becklen)](04.세라핀베클렌.md) |
 | 5 | [아이리스 그레이슨 (Iris Grayson)](05.아이리스그레이슨.md) |
 | 6 | [아이리스 루인스 (Iris Ruins)](06.아이리스루인스.md) |
 | 7 | [아이리스 블랙스미스 (Iris Blacksmith)](07.아이리스블랙스미스.md) |

@@ -17,7 +17,7 @@
 | 4 | [세리아 나이트폴 (Seria Nightfall)](04.세리아나이트폴.md) |
 | 5 | [셀레스티아 그레이 (Celestia Gray)](05.셀레스티아그레이.md) |
 | 6 | [셀레스티아 루인스 (Celestia Ruins)](06.셀레스티아루인스.md) |
-| 7 | [시리우스 노바 (Sirius Nova)](07.시리우스노바.md) |
+| 7 | [베인 노바 (Vane Nova)](07.베인노바.md) |
 | 8 | [에일린 아이언사이드 (Eileen Ironside)](08.에일린아이언사이드.md) |
 | 9 | [일리오스 그레이슨 (Ilios Grayson)](09.일리오스그레이슨.md) |
 | 10 | [클라우스 할로윈 (Klaus Halloween)](10.클라우스할로윈.md) |

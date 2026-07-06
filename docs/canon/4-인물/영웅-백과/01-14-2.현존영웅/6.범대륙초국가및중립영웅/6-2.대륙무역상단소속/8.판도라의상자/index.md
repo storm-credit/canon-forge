@@ -16,7 +16,7 @@
 | 3 | [미하일 그레이 (Mikhail Gray)](03.미하일그레이.md) |
 | 4 | [미하일 아이언사이드 (Mikhail Ironside)](04.미하일아이언사이드.md) |
 | 5 | [세리아 라크루아 (Seria Lacroix)](05.세리아라크루아.md) |
-| 6 | [실비아 스텔라리스 (Silvia Stellaris)](06.실비아스텔라리스.md) |
+| 6 | [베라 스텔라리스 (Vera Stellaris)](06.베라스텔라리스.md) |
 | 7 | [아리엔 아스텔 (Arien Astell)](07.아리엔아스텔.md) |
 | 8 | [일리오스 아이언팽 (Ilios Ironfang)](08.일리오스아이언팽.md) |
 | 9 | [하인리히 크로스 (Heinrich Cross)](09.하인리히크로스.md) |

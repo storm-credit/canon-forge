@@ -12,12 +12,12 @@
 | # | 영웅 |
 |---|------|
 | 1 | [가웨인 베클렌 (Gawain Becklen)](01.가웨인베클렌.md) |
-| 2 | [가웨인 카디널 (Gawain Cardinal)](02.가웨인카디널.md) |
+| 2 | [퍼시벌 카디널 (Percival Cardinal)](02.퍼시벌카디널.md) |
 | 3 | [기네비어 나이트폴 (Guinevere Nightfall)](03.기네비어나이트폴.md) |
 | 4 | [기네비어 아르트리우스 (Guinevere Artorius)](04.기네비어아르트리우스.md) |
 | 5 | [다미안 나이트폴 (Damian Nightfall)](05.다미안나이트폴.md) |
-| 6 | [다미안 스텔라리스 (Damian Stellaris)](06.다미안스텔라리스.md) |
+| 6 | [아리엘 스텔라리스 (Ariel Stellaris)](06.아리엘스텔라리스.md) |
 | 7 | [루시안 루미너스 (Lucian Luminous)](07.루시안루미너스.md) |
 | 8 | [루시안 베클렌 (Lucian Becklen)](08.루시안베클렌.md) |
 | 9 | [시리우스 라크루아 (Sirius Lacroix)](09.시리우스라크루아.md) |
-| 10 | [카르멘 베클렌 (Carmen Becklen)](10.카르멘베클렌.md) |
+| 10 | [실비아 베클렌 (Sylvia Becklen)](10.실비아베클렌.md) |

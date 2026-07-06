@@ -13,7 +13,7 @@
 |---|------|
 | 1 | [가웨인 스텔라리스 (Gawain Stellaris)](01.가웨인스텔라리스.md) |
 | 2 | [가웨인 카디널 (Gawain Cardinal)](02.가웨인카디널.md) |
-| 3 | [기네비어 어스바운드 (Guinevere Earthbound)](03.기네비어어스바운드.md) |
+| 3 | [브륀힐트 어스바운드 (Brunhild Earthbound)](03.브륀힐트어스바운드.md) |
 | 4 | [발렌타인 베클렌 (Valentine Becklen)](04.발렌타인베클렌.md) |
 | 5 | [실비아 할로윈 (Silvia Halloween)](05.실비아할로윈.md) |
 | 6 | [아리엔 루미너스 (Arien Luminous)](06.아리엔루미너스.md) |

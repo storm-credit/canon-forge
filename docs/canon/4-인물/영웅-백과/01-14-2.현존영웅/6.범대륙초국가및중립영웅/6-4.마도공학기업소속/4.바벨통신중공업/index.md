@@ -13,7 +13,7 @@
 |---|------|
 | 1 | [가웨인 할로윈 (Gawain Halloween)](01.가웨인할로윈.md) |
 | 2 | [로잘린드 할로윈 (Rosalind Halloween)](02.로잘린드할로윈.md) |
-| 3 | [루시안 할로윈 (Lucian Halloween)](03.루시안할로윈.md) |
+| 3 | [테오도르 할로윈 (Theodore Halloween)](03.테오도르할로윈.md) |
 | 4 | [발두르 윈드런너 (Baldur Windrunner)](04.발두르윈드런너.md) |
 | 5 | [발렌타인 루미너스 (Valentine Luminous)](05.발렌타인루미너스.md) |
 | 6 | [발렌타인 이그니스 (Valentine Ignis)](06.발렌타인이그니스.md) |

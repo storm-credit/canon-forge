@@ -14,7 +14,7 @@
 | 1 | [다미안 에스더 (Damian Esther)](01.다미안에스더.md) |
 | 2 | [로잘린드 블러드혼 (Rosalind Bloodhorn)](02.로잘린드블러드혼.md) |
 | 3 | [발렌타인 아르트리우스 (Valentine Artorius)](03.발렌타인아르트리우스.md) |
-| 4 | [발렌타인 어스바운드 (Valentine Earthbound)](04.발렌타인어스바운드.md) |
+| 4 | [유웨인 어스바운드 (Ywain Earthbound)](04.유웨인어스바운드.md) |
 | 5 | [보리스 헬하운드 (Boris Hellhound)](05.보리스헬하운드.md) |
 | 6 | [셀레스티아 그레이슨 (Celestia Grayson)](06.셀레스티아그레이슨.md) |
 | 7 | [아리엔 크림슨 (Arien Crimson)](07.아리엔크림슨.md) |

@@ -13,7 +13,7 @@
 |---|------|
 | 1 | [로엔그린 베를란 (Lohengrin Verlan)](01.로엔그린베를란.md) |
 | 2 | [발두르 할로윈 (Baldur Halloween)](02.발두르할로윈.md) |
-| 3 | [아리엔 루미너스 (Arien Luminous)](03.아리엔루미너스.md) |
+| 3 | [카민 루미너스 (Carmine Luminous)](03.카민루미너스.md) |
 | 4 | [아이리스 바스커빌 (Iris Baskerville)](04.아이리스바스커빌.md) |
 | 5 | [에일린 맥시무스 (Eileen Maximus)](05.에일린맥시무스.md) |
 | 6 | [카르멘 라크루아 (Carmen Lacroix)](06.카르멘라크루아.md) |

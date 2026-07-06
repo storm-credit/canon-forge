@@ -13,11 +13,11 @@
 |---|------|
 | 1 | [루시안 코어스 (Lucian Cores)](01.루시안코어스.md) |
 | 2 | [발렌타인 라크루아 (Valentine Lacroix)](02.발렌타인라크루아.md) |
-| 3 | [발렌타인 스텔라리스 (Valentine Stellaris)](03.발렌타인스텔라리스.md) |
-| 4 | [발렌타인 코어스 (Valentine Cores)](04.발렌타인코어스.md) |
-| 5 | [세리아 스텔라리스 (Seria Stellaris)](05.세리아스텔라리스.md) |
-| 6 | [세리아 카디널 (Seria Cardinal)](06.세리아카디널.md) |
-| 7 | [실비아 나이트폴 (Silvia Nightfall)](07.실비아나이트폴.md) |
+| 3 | [녹스 스텔라리스 (Nox Stellaris)](03.녹스스텔라리스.md) |
+| 4 | [세라핀 코어스 (Seraphine Cores)](04.세라핀코어스.md) |
+| 5 | [베스퍼 스텔라리스 (Vesper Stellaris)](05.베스퍼스텔라리스.md) |
+| 6 | [브리나 카디널 (Bryna Cardinal)](../../6-3.대륙용병단소속/12.자연의방랑자/06.브리나카디널.md) |
+| 7 | [녹시아 나이트폴 (Noxia Nightfall)](07.녹시아나이트폴.md) |
 | 8 | [아테나 라크루아 (Athena Lacroix)](08.아테나라크루아.md) |
-| 9 | [클라우스 노바 (Klaus Nova)](09.클라우스노바.md) |
+| 9 | [녹시안 노바 (Noxian Nova)](09.녹시안노바.md) |
 | 10 | [클라우스 카디널 (Klaus Cardinal)](10.클라우스카디널.md) |

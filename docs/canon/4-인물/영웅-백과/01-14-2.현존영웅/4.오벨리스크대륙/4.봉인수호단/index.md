@@ -18,7 +18,7 @@
 | 5 | [마르칸 발레리우스 (Marcan Valerius)](04.마르칸발레리우스.md) |
 | 6 | [엘리아 프레비아 (Elia Praevia)](05.엘리아프레비아.md) |
 | 7 | [로라디아 클레멘티아 (Loradia Clementia)](06.로라디아클레멘티아.md) |
-| 8 | [카엘 벤투스 (Kael Ventus)](07.카엘벤투스.md) |
+| 8 | [라헨 벤투스 (Rahen Ventus)](07.라헨벤투스.md) |
 | 9 | [타린 히스토리아 (Taryn Historia)](08.타린히스토리아.md) |
 | 10 | [갈록 크루시오 (Galok Crucio)](09.갈록크루시오.md) |
 | 11 | [세라피나 옴브라 (Seraphina Ombra)](10.세라피나옴브라.md) |

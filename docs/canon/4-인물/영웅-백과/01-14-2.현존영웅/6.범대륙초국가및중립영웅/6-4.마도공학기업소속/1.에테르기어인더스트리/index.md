@@ -11,7 +11,7 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [가웨인 카디널 (Gawain Cardinal)](01.가웨인카디널.md) |
+| 1 | [에이든 카디널 (Aiden Cardinal)](01.에이든카디널.md) |
 | 2 | [아리엔 코어스 (Arien Cores)](02.아리엔코어스.md) |
 | 3 | [엘레노아 블러드워커 (Eleanor Bloodwalker)](03.엘레노아블러드워커.md) |
 | 4 | [이벨린 스톤하츠 (Evelynn Stonehearts)](04.이벨린스톤하츠.md) |

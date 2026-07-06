@@ -11,7 +11,7 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [기네비어 스텔라리스 (Guinevere Stellaris)](01.기네비어스텔라리스.md) |
+| 1 | [베디베르 스텔라리스 (Bedivere Stellaris)](../../6-1.국제길드연합소속/9.이그니스결사/01.베디베르스텔라리스.md) |
 | 2 | [기네비어 아르트리우스 (Guinevere Artorius)](02.기네비어아르트리우스.md) |
 | 3 | [다미안 할로윈 (Damian Halloween)](03.다미안할로윈.md) |
 | 4 | [루시안 나이트폴 (Lucian Nightfall)](04.루시안나이트폴.md) |
@@ -19,5 +19,5 @@
 | 6 | [세리아 어스바운드 (Seria Earthbound)](06.세리아어스바운드.md) |
 | 7 | [시리우스 나이트폴 (Sirius Nightfall)](07.시리우스나이트폴.md) |
 | 8 | [시리우스 카디널 (Sirius Cardinal)](08.시리우스카디널.md) |
-| 9 | [아리엔 베클렌 (Arien Becklen)](09.아리엔베클렌.md) |
+| 9 | [라이오넬 베클렌 (Lionel Becklen)](09.라이오넬베클렌.md) |
 | 10 | [아리엔 할로윈 (Arien Halloween)](10.아리엔할로윈.md) |
