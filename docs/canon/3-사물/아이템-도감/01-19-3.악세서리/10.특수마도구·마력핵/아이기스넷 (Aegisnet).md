@@ -103,5 +103,5 @@
 
 - [카시안 베리타스 (Cassian Veritas)](../../../../4-인물/영웅-백과/01-14-2.현존영웅/1.에테르대륙/4.마법협회/10.카시안베리타스.md)
 - 진실을 재단하는 아카식의 깃펜 (Akashic Quill of Truth-Tailoring)
-- 무지성 방벽의 코트 (Coat of the Unthinking Aegis)
+- 분별을 잃은 방벽의 코트 (Coat of the Unthinking Aegis)
 - 테네브리움의 의안 부엉이 (Glass-Eye Owl of Tenebrium)
