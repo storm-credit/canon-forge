@@ -11,7 +11,7 @@ CANON = 'docs/canon'
 ARGS = set(sys.argv[1:]) or {'--all'}
 def on(k): return '--all' in ARGS or k in ARGS
 
-META_SKIP = ('_템플릿-정본', '_작업계획서', '_커버리지', '_작업프롬프트', '_progress', '_전수분석', '_대륙작업템플릿', '_백과수렴')
+META_SKIP = ('_템플릿-정본', '_작업계획서', '_커버리지', '_작업프롬프트', '_progress', '_전수분석', '_대륙작업템플릿', '_백과수렴', '_인수인계', '_동명판정')
 
 def canon_files():
     for p in glob.glob(CANON + '/**/*.md', recursive=True):
