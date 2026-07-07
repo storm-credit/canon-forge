@@ -8,7 +8,7 @@
 import glob, io, os, re, sys
 
 TARGET = sys.argv[1] if len(sys.argv) > 1 else '원고'
-MIN_CH, MAX_CH = 4300, 6500  # 공백 포함 자수 밴드 (초고 허용 폭)
+MIN_CH, MAX_CH = 4600, 6800  # 공백 포함 자수 밴드 (웹소설 표준 규약, 초고 허용 폭)
 
 # 산문 내 금지: 헌법 폐기 어휘 + 게임서사-경계(시스템창·수치 노출) + 무협 + 현대어 표본
 BAN = ['우주적 십자가', '잔혹한 대가', '혹독한 대가', 'Epic Penalty', '코스믹 호러',
@@ -25,7 +25,7 @@ def check(path):
     t = io.open(path, encoding='utf-8', errors='ignore').read()
     errs = []
     body = re.sub(r'^---.*?---\s*', '', t, flags=re.S)
-    n = len(re.sub(r'\s', '', body))
+    n = len(body)  # 공백 포함 (한국 웹소설 표준 규약)
     # 프론트매터
     if '작가 검토' not in t and '승인' not in t:
         errs.append('프론트매터에 검토 상태 없음')
