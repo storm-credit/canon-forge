@@ -36,6 +36,11 @@
 | 6 | [어비스 대재앙 (Abyssal Catastrophe)](어비스대재앙AbyssalCatastrophe.md) |
 | 7 | [예언과 미래 (Prophecies & Future)](예언과미래Prophecies&Future.md) |
 | 8 | [현재 갈등 (Current Conflicts)](현재갈등CurrentConflicts.md) |
+| 9 | [크로니클 6 · 베리타스 앵커 시드 (Veritas Chronicle Anchor Seed)](크로니클6-베리타스-앵커시드.md) |
+| 10 | [크로니클 4 · 크로노스 강철 앵커 시드 (Chronos Steel Anchor Seed)](크로니클4-크로노스강철-앵커시드.md) — 스팀펑크 세계선 집필 진입 앵커 (Act 19~25) |
+| 11 | [크로니클 2 · 아포크립토스 앵커 시드 (Apocryptos Anchor Seed)](크로니클2-아포크립토스-앵커시드.md) — 유적·차원붕괴 세계선 집필 진입 앵커 (Act 7~12) |
+| 12 | [크로니클 3 · 천극 (天極) 앵커 시드 (Heaven's Zenith Anchor Seed)](크로니클3-천극-앵커시드.md) — 무협 세계선 집필 진입 앵커 (Act 13~18), 로드맵 유일 근거·발명 없음 |
+| 13 | [크로니클 5 · 에테리온 앵커 시드 (Aetherion Anchor Seed)](크로니클5-에테리온-앵커시드.md) — 우주 세계선 집필 진입 앵커 (Act 26~32), 로드맵 유일 근거·발명 없음 |
 
 ---
 
