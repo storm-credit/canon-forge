@@ -1,11 +1,14 @@
 ---
-정본명: 낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)
+정본명: 기억의 증표 (Token of Remembrance)
+이명: "낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)"
 유형: 아이템 도감 (Item Encyclopedia) 항목
-출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/04.단검/낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest).md"
+출처: "01-19. 아이템 도감 (Item Encyclopedia)/01-19-1. 무기 (Weapons)/04.단검/기억의 증표 (Token of Remembrance).md"
 검증상태: Phase 3 리치 v2 신설 (2026-07-03)
 ---
 
-# 🗡️ 낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)
+# 🗡️ 기억의 증표 (Token of Remembrance)
+
+> 이명(異名): 낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)
 
 > *"이 문장을 알아보는 이가 아직 남아 있다면, 그건 내가 완전히 지워지지 않았다는 뜻이겠지."*
 > — 로잘린드 맥시무스

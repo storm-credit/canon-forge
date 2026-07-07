@@ -29,7 +29,7 @@
 | 낙광 (Lumenfall) | [낙광 (Lumenfall)](낙광%20%28Lumenfall%29.md) |
 | 낙뢰의 심판 (Falling Storm) | [낙뢰의 심판 (Falling Storm)](낙뢰의%20심판%20%28Falling%20Storm%29.md) |
 | 낙성 (Fallenstar) | [낙성 (Fallenstar)](낙성%20%28Fallenstar%29.md) |
-| 낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest) | [낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)](낡은%20왕가%20문장의%20단검%20%28Dagger%20of%20the%20Faded%20Royal%20Crest%29.md) |
+| 낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest) | [낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)](기억의%20증표%20%28Token%20of%20Remembrance%29.md) |
 | 네프튠 대거 (Neptune Dagger) | [네프튠 대거 (Neptune Dagger)](네프튠%20대거%20%28Neptune%20Dagger%29.md) |
 | 넵튠 (Neptune) | [넵튠 (Neptune)](넵튠%20%28Neptune%29.md) |
 | 녹슨 자비 (Rust Mercy) | [녹슨 자비 (Rust Mercy)](녹슨%20자비%20%28Rust%20Mercy%29.md) |

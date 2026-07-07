@@ -98,5 +98,5 @@
 ## 🔗 관련 문서
 
 - [로잘린드 맥시무스 (Rosalind Maximus)](../../../../4-인물/영웅-백과/01-14-1.성장영웅/6.범대륙초국가및중립영웅/6-4.마도공학기업소속/5.아발론철도공사/로잘린드맥시무스.md)
-- [낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)](../04.단검/낡은%20왕가%20문장의%20단검%20(Dagger%20of%20the%20Faded%20Royal%20Crest).md)
+- [낡은 왕가 문장의 단검 (Dagger of the Faded Royal Crest)](../04.단검/기억의%20증표%20(Token%20of%20Remembrance).md)
 - 아발론 철도 공사 (Avalon Railway Corp)
