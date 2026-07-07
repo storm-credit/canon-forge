@@ -1,18 +1,54 @@
 {
-  "updated": "2026-07-07 20:30",
-  "batch": "화 루프 1배치 — 1화 리라이트 + 4~10화 집필 + 아크 재미 패널",
-  "agents": [
-    { "name": "오케스트라", "role": "총괄 (Fable→Opus)", "status": "thinking", "task": "배치 감독·검증 대기", "progress": 70 },
-    { "name": "집필 소넷", "role": "화 단위 집필", "status": "coding", "task": "4~10화 순차 집필 중", "progress": 40 },
-    { "name": "리라이터", "role": "1화 압축 리라이트", "status": "coding", "task": "패널 처방 반영 (훅 40~55%)", "progress": 60 },
-    { "name": "게이트", "role": "기계 검증", "status": "waiting", "task": "validate_manuscript 대기", "progress": 0 },
-    { "name": "재미 패널", "role": "독자 4인", "status": "idle", "task": "아크 결착 후 통독 예정", "progress": 0 },
-    { "name": "복선 장부", "role": "FS 원장", "status": "done", "task": "FS-0001~0006 배선 완료", "progress": 100 }
-  ],
-  "log": [
-    "Act 1 잠금 완료 — §5-B (b)안·선택지 16건 확정",
-    "1장 콘티 1~100화 상세 승격",
-    "재미 패널 1차: 4인 전원 결제 통과",
-    "화 루프 1배치 가동"
-  ]
+ "updated": "2026-07-07 21:10",
+ "batch": "수선 배치 — 재미 패널 2차 처방 4건 (2화 중복·9화 독백·10화 미끼·말버릇)",
+ "agents": [
+  {
+   "name": "오케스트라",
+   "role": "총괄",
+   "status": "thinking",
+   "task": "수선 감독·재게이트 대기",
+   "progress": 80
+  },
+  {
+   "name": "수선 소넷 ×4",
+   "role": "화 수선",
+   "status": "coding",
+   "task": "2·9·10화 + 6~8화 말버릇",
+   "progress": 30
+  },
+  {
+   "name": "게이트",
+   "role": "기계 검증",
+   "status": "waiting",
+   "task": "수선 후 재게이트",
+   "progress": 0
+  },
+  {
+   "name": "재미 패널",
+   "role": "독자 3인",
+   "status": "done",
+   "task": "2차 판정 완료(조건부 통과)",
+   "progress": 100
+  },
+  {
+   "name": "집필 1배치",
+   "role": "1~10화",
+   "status": "done",
+   "task": "아크 A1 초고 완료",
+   "progress": 100
+  },
+  {
+   "name": "복선 장부",
+   "role": "FS 원장",
+   "status": "done",
+   "task": "FS-0001~0006",
+   "progress": 100
+  }
+ ],
+ "log": [
+  "아크 A1 초고 10화 완성(게이트 10/10)",
+  "재미 패널 2차: 3인 결제(조건부 2)",
+  "처방 4건 수선 배치 가동",
+  "다음: 재게이트 → 커밋 → 작가 검토"
+ ]
 }
