@@ -43,6 +43,10 @@ def check(path):
     for m in re.finditer(r'.{0,20}[一-鿿]+.{0,20}', body):
         errs.append(f'한자 노출: …{m.group(0).strip()[:40]}…')
         break
+    # 말버릇 과잉 (셈/값 메타포 — 판정 기준 2회, 기계 완충선 6회)
+    tic = len(re.findall(r'셈이|셈을|셈은|셈법|값을 매|값이 매|값어치', body))
+    if tic > 6:
+        errs.append(f"말버릇 과잉: '셈/값' 계열 {tic}회 (완충선 6)")
     # 클리프행어 휴리스틱: 마지막 문단이 정적 서술로 닫히면 경고
     paras = [p.strip() for p in body.strip().split('\n') if p.strip()]
     if paras:
