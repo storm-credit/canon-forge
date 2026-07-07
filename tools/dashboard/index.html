@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<title>잊혀진 소환사 — 에이전트 오피스</title>
+<style>
+  body { background:#1a1c2c; color:#e8e6f0; font-family:'Malgun Gothic',monospace; margin:0; padding:16px; }
+  h1 { font-size:16px; margin:4px 0 2px; }
+  #batch { color:#8be9a8; font-size:12px; margin-bottom:8px; }
+  #wrap { display:flex; gap:16px; flex-wrap:wrap; }
+  canvas { background:#2b2d42; border:4px solid #3a3d5c; border-radius:8px; image-rendering:pixelated; }
+  #side { min-width:280px; max-width:360px; }
+  .agent { background:#26283f; border-radius:6px; padding:8px 10px; margin-bottom:6px; cursor:pointer; border-left:4px solid #555; }
+  .agent .nm { font-weight:bold; font-size:13px; }
+  .agent .tk { font-size:11px; color:#aab; }
+  .bar { height:5px; background:#3a3d5c; border-radius:3px; margin-top:5px; }
+  .bar div { height:5px; border-radius:3px; background:#8be9a8; }
+  #log { font-size:11px; color:#889; margin-top:10px; border-top:1px solid #3a3d5c; padding-top:8px; }
+  .st-coding{border-color:#8be9a8} .st-thinking{border-color:#f5d76e} .st-searching{border-color:#7ec8ff}
+  .st-waiting{border-color:#c39bd3} .st-error{border-color:#ff6b6b} .st-done{border-color:#66d9c2} .st-idle{border-color:#666}
+</style>
+</head>
+<body>
+<h1>🏢 잊혀진 소환사 — 에이전트 오피스</h1>
+<div id="batch">loading…</div>
+<div id="wrap">
+  <canvas id="cv" width="520" height="340"></canvas>
+  <div id="side"><div id="agents"></div><div id="log"></div></div>
+</div>
+<script>
+const cv = document.getElementById('cv'), cx = cv.getContext('2d');
+const COLORS = { coding:'#8be9a8', thinking:'#f5d76e', searching:'#7ec8ff', waiting:'#c39bd3', error:'#ff6b6b', done:'#66d9c2', idle:'#8a8fa8' };
+const SKIN='#f0c8a0', HAIRS=['#4a3728','#222','#8a5a2b','#5c5c8a','#7a2f2f','#2f6b4f'];
+let DATA={agents:[],log:[]}, t=0;
+
+function px(x,y,w,h,c){ cx.fillStyle=c; cx.fillRect(x,y,w,h); }
+
+function drawDesk(x,y){ px(x-4,y+22,44,6,'#6b4f2f'); px(x-2,y+28,4,10,'#4a3520'); px(x+34,y+28,4,10,'#4a3520'); px(x+2,y+16,20,8,'#3a3d5c'); px(x+4,y+18,16,4,'#7ec8ff'); }
+
+function drawChar(a,x,y,i){
+  const bob = (a.status==='idle'||a.status==='waiting') ? 0 : Math.floor(t/20)%2;
+  const hair=HAIRS[i%HAIRS.length];
+  // 몸
+  px(x+6,y+14-bob,12,10,COLORS[a.status]||'#888');
+  // 머리
+  px(x+7,y+4-bob,10,10,SKIN); px(x+7,y+2-bob,10,4,hair); px(x+7,y+4-bob,2,4,hair);
+  // 눈
+  px(x+10,y+8-bob,2,2,'#222'); px(x+14,y+8-bob,2,2,'#222');
+  // 팔: 타이핑이면 흔들림
+  if(a.status==='coding'){ const k=Math.floor(t/10)%2; px(x+4,y+16-k,3,5,SKIN); px(x+17,y+15+k,3,5,SKIN); }
+  else { px(x+4,y+16,3,6,SKIN); px(x+17,y+16,3,6,SKIN); }
+  // 다리
+  px(x+8,y+24,3,6,'#333'); px(x+13,y+24,3,6,'#333');
+  // 상태 아이콘
+  const ix=x+20, iy=y-8-bob;
+  if(a.status==='thinking'){ px(ix,iy,10,8,'#fff'); px(ix+2,iy+8,3,3,'#fff'); cx.fillStyle='#f5d76e'; cx.font='8px monospace'; cx.fillText('…',ix+2,iy+7); }
+  if(a.status==='coding' && Math.floor(t/15)%2){ cx.fillStyle='#8be9a8'; cx.font='9px monospace'; cx.fillText('</>',ix-2,iy+6); }
+  if(a.status==='searching'){ cx.strokeStyle='#7ec8ff'; cx.beginPath(); cx.arc(ix+4,iy+3,3,0,7); cx.stroke(); px(ix+6,iy+6,3,2,'#7ec8ff'); }
+  if(a.status==='waiting' && Math.floor(t/25)%2){ cx.fillStyle='#c39bd3'; cx.font='9px monospace'; cx.fillText('zZ',ix,iy+6); }
+  if(a.status==='error'){ cx.fillStyle='#ff6b6b'; cx.font='bold 11px monospace'; cx.fillText('!',ix+3,iy+8); }
+  if(a.status==='done'){ cx.fillStyle='#66d9c2'; cx.font='bold 10px monospace'; cx.fillText('✓',ix+1,iy+7); }
+  // 이름표
+  cx.fillStyle='#e8e6f0'; cx.font='10px Malgun Gothic'; cx.textAlign='center';
+  cx.fillText(a.name, x+12, y+40); cx.textAlign='left';
+}
+
+function draw(){
+  t++;
+  px(0,0,520,340,'#2b2d42');
+  // 바닥 타일
+  for(let r=0;r<9;r++) for(let c=0;c<13;c++) if((r+c)%2===0) px(c*40,r*40+20,40,40,'#30324a');
+  // 창문
+  for(let i=0;i<3;i++){ px(40+i*160,6,60,10,'#1a1c2c'); px(42+i*160,8,56,6,'#4a6b8a'); }
+  const pos=[[40,70],[200,70],[360,70],[40,200],[200,200],[360,200]];
+  DATA.agents.slice(0,6).forEach((a,i)=>{ const [x,y]=pos[i]; drawDesk(x,y+8); drawChar(a,x+8,y-14,i); });
+  requestAnimationFrame(draw);
+}
+
+function renderSide(){
+  document.getElementById('batch').textContent = '배치: ' + (DATA.batch||'-') + '  (갱신 ' + (DATA.updated||'-') + ')';
+  const el=document.getElementById('agents');
+  el.innerHTML = DATA.agents.map(a=>
+    `<div class="agent st-${a.status}" title="${a.task}"><span class="nm">${a.name}</span> <span style="font-size:10px;color:#778">${a.role||''} · ${a.status}</span><div class="tk">${a.task}</div><div class="bar"><div style="width:${a.progress||0}%"></div></div></div>`).join('');
+  document.getElementById('log').innerHTML = '📜 ' + (DATA.log||[]).map(l=>`<div>· ${l}</div>`).join('');
+}
+
+async function poll(){
+  try{ const r=await fetch('status.json?'+Date.now()); DATA=await r.json(); renderSide(); }catch(e){}
+  setTimeout(poll, 3000);
+}
+poll(); draw();
+</script>
+</body>
+</html>
