@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-무대/세력/철의금융.md",
+                "file": "3-사물/아이템-도감/01-19-1.무기/01.한손검/고행검 이시스-아스트라 (Penitent Blade Isis-Astra).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "철의금융"
+              "title": "고행검 이시스-아스트라 (Penitent Blade Isis-Astra)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 766.5
   },
   "right": {
     "id": "52dab7032cf87708",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-무대/세력/철의금융.md",
+                "file": "3-사물/아이템-도감/01-19-1.무기/01.한손검/고행검 이시스-아스트라 (Penitent Blade Isis-Astra).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "철의금융 의 백링크"
+              "title": "고행검 이시스-아스트라 (Penitent Blade Isis-Astra) 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-무대/세력/철의금융.md",
+                "file": "3-사물/아이템-도감/01-19-1.무기/01.한손검/고행검 이시스-아스트라 (Penitent Blade Isis-Astra).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "철의금융 의 나가는 링크"
+              "title": "고행검 이시스-아스트라 (Penitent Blade Isis-Astra) 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-무대/세력/철의금융.md",
+                "file": "3-사물/아이템-도감/01-19-1.무기/01.한손검/고행검 이시스-아스트라 (Penitent Blade Isis-Astra).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "철의금융 의 개요"
+              "title": "고행검 이시스-아스트라 (Penitent Blade Isis-Astra) 의 개요"
             }
           }
         ]
@@ -185,41 +185,41 @@
   },
   "active": "f248a313db3089d6",
   "lastOpenFiles": [
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/고요히 벼려진 정검 이시스-아스트라 — 지크프리트 블러드워커의 이념 경계검 (Silent-Tempered Blade Isis-Astra — Siegfried Bloodwalker's Ideology-Bound Blade).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/고요히 벼려진 정검 이시스-아스트라 — 크리스티앙 호크윈드의 상호서약검 (Silent-Tempered Blade Isis-Astra — Christian Hawkwind's Mutual-Oath Blade).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/고요히 벼려진 정검 이시스-아스트라 (Silent-Tempered Blade Isis-Astra).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/곡성의 벼림 (Keening Forge).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/굴절검 '프리즘 크래시' — 실비아 어스바운드(진실의 눈)의 무명촌 증언검 (Refraction Blade 'Prism-Crash' — Silvia Earthbound of Eye of Truth's Nameless-Village Testimony Blade).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/그늘의 잔영 (Afterimage of the Shade).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/그린바이트 (Greenbite).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/나이트스트라이크의 명령 (Nightstrike's Command).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/끊어내는 여백검 이시스-아스트라 — 기네비어 베클렌의 해방서약검 (Margin-Severing Blade Isis-Astra — Guinevere Becklen's Liberation Oath Blade).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/기어-스텔라 (Gear-Stella).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/긍지검 이시스-아스트라 (Pride-Blade Isis-Astra).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/낙성보 (Falling-Star Stride).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/네메시스 (Nemesis).md",
+    "3-사물/아이템-도감/01-19-1.무기/01.한손검/게일러너 (Galerunner).md",
+    "4-인물/인물-백과/주요인물/프로스트대륙/벨루아폰아이젠BelluavonEisen.md",
+    "2-무대/세력/용의후예.md",
+    "2-무대/세력/잊혀진서고단.md",
+    "2-무대/세력/잊힌자연합.md",
+    "2-무대/세력/자유도시연합.md",
+    "2-무대/세력/정령연합.md",
+    "2-무대/세력/철의금융.md",
+    "2-무대/세력/용병단.md.tmp.63924.d6f6cf6737b9",
+    "2-무대/세력/그림자첩보.md.tmp.63924.e47031b5c2e4",
+    "2-무대/세력/길드연합.md.tmp.63924.73ac1bf86c65",
+    "1-시스템/동반수-백과/index.md.tmp.63924.d98020295115",
+    "1-시스템/동반수-백과/동반수-백과.md.tmp.63924.1c8d1e488dda",
     "1-시스템/동반수-백과/동반수-백과.md",
     "2-무대/몬스터-도감/몬스터-백과.md",
     "2-무대/세력/해적연합.md",
     "2-무대/크림슨대륙.md",
     "2-무대/세력/성국/가문/산크투스왕가.md",
-    "2-무대/세력/성국/가문/몬탈티가문.md",
-    "2-무대/세력/잊혀진서고단.md",
-    "2-무대/세력/심연군단.md",
-    "2-무대/세력/솔라리안제국.md",
-    "2-무대/세력/용병단/유랑기사단/유랑기사단.md",
-    "2-무대/세력/용병단.md",
     "4-인물/영웅-백과/01-14-3.소환영웅/3.영웅급/06.발트론실드워드.md.tmp.63924.59da95b63b81",
-    "2-무대/몬스터-도감/01-11-00.마수생태총론/00.마수생태총론인덱스.md",
-    "2-무대/세력/철의금융.md",
-    "2-무대/세력/그림자첩보/검은여우단/검은여우단.md",
-    "2-무대/세력/그림자첩보/검은여우단/가문.md",
-    "2-무대/세력/그림자항구/요새/얼음송곳요새.md",
-    "2-무대/세력/감시자/index.md",
-    "2-무대/오벨리스크대륙/지형/북부-독기안개늪지.md",
-    "2-무대/오벨리스크대륙/지형/서부-망자의평원.md",
-    "2-무대/마도교통-백과/1.대륙간육상교통망/1-1.육상교역망과루트/5.붉은모래바람무역로.md",
-    "2-무대/마도교통-백과/1.대륙간육상교통망/1-1.육상교역망과루트/2.엘프의지하지맥탐식로.md",
-    "3-사물/동반수-백과.md",
-    "3-사물/몬스터-백과.md",
-    "3-사물/탐험-장비/탐험-장비-도감.md",
-    "3-사물/아이템-도감/01-19-1.무기/01.한손검/고대명검 이시스-아스트라 (Ancient Blade Isis-Astra).md",
-    "3-사물/아이템-도감/01-19-1.무기/01.한손검/고대 명검 이시스-아스트라 — 로엔그린 헬하운드의 여명서약검 (Ancient Blade Isis-Astra — Lohengrin Hellhound's Dawn-Oath Blade).md",
     "가이드라인/작문법-엔진/03.군상-회색도덕.md.tmp.63924.a2a800a7f92a",
     "0-헌법/연대기/Act5-서브액트-설계안.md.tmp.63924.2d0ac34ab91a",
     "_인수인계_Opus.md.tmp.63924.4d91565562cd",
-    "0-헌법/연대기/결말-계층-정본.md.tmp.63924.faf3b0f63c54",
-    "0-헌법/연대기/Act6-서브액트-설계안.md.tmp.63924.7482e1631682",
-    "0-헌법/연대기/Act3-서브액트-설계안.md.tmp.63924.e12640980b22",
-    "0-헌법/연대기/Act2-서브액트-설계안.md.tmp.63924.62c7d64101aa",
-    "0-헌법/연대기/Act1-서브액트-설계안.md.tmp.63924.bbe39de47677",
-    "가이드라인/작문법-엔진/_문체시료.md.tmp.63924.24840141aed8"
+    "0-헌법/연대기/결말-계층-정본.md.tmp.63924.faf3b0f63c54"
   ]
 }
