@@ -40,9 +40,7 @@ def check(path):
             errs.append(f'금지 표현: {b} :: {m.group(0).strip()[:50]}')
             break
     # 한자 금지 (작가 판정 2026-07-08: 원고 산문에 한자 병기 금지)
-    for m in re.finditer(r'[^
-]{0,20}[一-鿿]+[^
-]{0,20}', body):
+    for m in re.finditer(r'.{0,20}[一-鿿]+.{0,20}', body):
         errs.append(f'한자 노출: …{m.group(0).strip()[:40]}…')
         break
     # 클리프행어 휴리스틱: 마지막 문단이 정적 서술로 닫히면 경고
