@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 760" role="img" aria-label="에테르 대륙 전도 — 정본 방위">
+<rect width="100%" height="100%" fill="#f1eadb"/>
+<style>
+.sea-h{fill:#dde5da}
+.lbl{font-family:'Nanum Myeongjo',Batang,Georgia,serif;fill:#2e2517;font-weight:700}
+.lbl2{font-family:'Pretendard','Malgun Gothic',sans-serif;fill:#75664c;font-weight:500}
+.route{fill:none;stroke:#a97e1c;stroke-width:1.8;stroke-dasharray:7 5}
+.route2{fill:none;stroke:#75664c;stroke-width:1.4;stroke-dasharray:2 4}
+.city{fill:#c39b2d;stroke:#2e2517;stroke-width:1.1}
+.cap{fill:#c39b2d;stroke:#2e2517;stroke-width:1.2}
+.bord{fill:none;stroke:#75664c;stroke-width:1;stroke-dasharray:3 4;opacity:.75}
+</style>
+    <rect class="sea-h" width="940" height="760"/>
+    <path d="M170 118 L330 74 L520 62 L700 92 L800 172 L836 300 L812 452 L740 572 L600 660 L430 690 L280 650 L172 550 L118 400 L124 240 Z"
+      fill="#9dbd93" stroke="#4a7c4e" stroke-width="3"/>
+
+    <!-- 북부: 산맥·정령연합 -->
+    <g stroke="#4a7c4e" stroke-width="1.7" fill="none">
+      <path d="M280 140 l20 -26 20 26 M330 128 l20 -26 20 26 M382 132 l20 -26 20 26 M436 124 l20 -26 20 26 M490 132 l20 -26 20 26 M544 142 l18 -24 18 24"/>
+    </g>
+    <text class="lbl" x="420" y="102" font-size="16" text-anchor="middle" fill="#3e7a52">북부 · 산맥과 깊은 숲 — 정령연합 (거점)</text>
+    <g fill="#3e7a52"><circle cx="392" cy="182" r="8" opacity=".8"/><circle cx="410" cy="174" r="6" opacity=".65"/><circle cx="376" cy="172" r="5.5" opacity=".65"/></g>
+    <path d="M392 178 l4 -7 4 7 -4 3 Z" fill="#c39b2d" stroke="#2e2517" stroke-width=".8"/>
+    <text class="lbl" x="392" y="208" font-size="12.5" text-anchor="middle">은성 숲 · 실바나리스 ✦</text>
+    <text class="lbl2" x="392" y="221" font-size="9.5" text-anchor="middle">정령연합 수도 (숲 최심부 · 북부 정본화 07-14)</text>
+    <path d="M576 176 l44 30" stroke="#2e2517" stroke-width="2.2"/>
+    <rect x="590" y="178" width="16" height="7" fill="#c39b2d" stroke="#2e2517" stroke-width="1"/>
+    <text class="lbl" x="640" y="180" font-size="12.5">아크브릿지</text>
+    <text class="lbl2" x="640" y="193" font-size="9.5">북부 협곡 다리 도시 · 하부에 섀도우게이트(지하)</text>
+
+    <!-- 중앙: 성국 (신성한 분지 고원) -->
+    <ellipse cx="470" cy="322" rx="122" ry="96" fill="#b08a2e" opacity=".1"/>
+    <ellipse cx="470" cy="322" rx="122" ry="96" fill="none" stroke="#a5553c" stroke-width="1.5" stroke-dasharray="8 4" opacity=".85"/>
+    <text class="lbl" x="470" y="252" font-size="16" text-anchor="middle" fill="#b08a2e">중앙 · 성역 벨트 — 성국 본령</text>
+    <text class="lbl2" x="470" y="266" font-size="10" text-anchor="middle">신성한 분지 고원 (중앙 정본화 07-14)</text>
+    <path d="M462 292 l8 -13 8 13 -8 5 Z" fill="#b08a2e"/><circle class="cap" cx="466" cy="310" r="6.5"/>
+    <text class="lbl" x="480" y="308" font-size="13.5">✚ 솔라리스</text>
+    <text class="lbl2" x="480" y="321" font-size="9.5">성국 수도 · 분지 최고 언덕</text>
+    <circle class="city" cx="532" cy="330" r="4"/><text class="lbl2" x="540" y="334" font-size="10">루멘 (동쪽 강평원 · 의료)</text>
+    <circle class="city" cx="468" cy="252" r="4"/><text class="lbl2" x="474" y="246" font-size="10">옵시디안 (북쪽 검은 산 · 심문소)</text>
+    <circle class="city" cx="408" cy="270" r="4"/><text class="lbl2" x="316" y="264" font-size="10">아스트라르 (분화구 호수)</text>
+    <path d="M398 340 l14 -22 14 22 Z" fill="#d3a184" stroke="#a5553c" stroke-width="1.4"/>
+    <text class="lbl2" x="330" y="358" font-size="9.5">성광의 유적 (활화산)</text>
+    <path d="M512 362 h22 M516 368 h14 M520 374 h8" stroke="#b08a2e" stroke-width="2"/>
+    <text class="lbl2" x="538" y="372" font-size="9.5">태양의 계단</text>
+    <rect x="556" y="288" width="9" height="9" fill="#b08a2e" stroke="#2e2517" stroke-width="1"/>
+    <text class="lbl2" x="570" y="297" font-size="9.5">성검의 요새 (성기사단 총본부)</text>
+    <path d="M470 448 C452 420 448 386 462 356" fill="none" stroke="#b08a2e" stroke-width="2.4" opacity=".85"/>
+    <text class="lbl2" x="404" y="428" font-size="9.5" transform="rotate(-64 404 428)">순례자 고속 대도</text>
+
+    <!-- 마법협회: 부유 수도 아르카디아 -->
+    <path d="M612 226 l16 -9 16 9 0 18 -16 9 -16 -9 Z" fill="#41598f" opacity=".9" stroke="#2e2517" stroke-width="1.2"/>
+    <path d="M628 253 V300" stroke="#41598f" stroke-width="1.2" stroke-dasharray="2 4"/>
+    <ellipse cx="628" cy="302" rx="14" ry="4" fill="#41598f" opacity=".3"/>
+    <text class="lbl" x="652" y="232" font-size="12.5" fill="#41598f">아르카디아</text>
+    <text class="lbl2" x="652" y="245" font-size="9.5">마법협회 부유 수도 · 중앙 상공 3,000m</text>
+    <text class="lbl2" x="652" y="257" font-size="9">(8색 탑 · 아르카노스 탑은 내부 상징물)</text>
+
+    <!-- 중서부: 왕국연합 -->
+    <ellipse cx="278" cy="360" rx="118" ry="118" fill="#7a4a8f" opacity=".08"/>
+    <text class="lbl" x="268" y="300" font-size="16" text-anchor="middle" fill="#7a4a8f">중서부 — 왕국연합</text>
+    <text class="lbl2" x="268" y="314" font-size="10" text-anchor="middle">5대 왕국 봉건 연합 (중서부 정본화 07-14)</text>
+    <path d="M290 372 l8 -13 8 13 -8 5 Z" fill="#7a4a8f"/><circle class="cap" cx="294" cy="390" r="6"/>
+    <text class="lbl" x="308" y="388" font-size="13">♛ 레갈리아</text>
+    <text class="lbl2" x="308" y="401" font-size="9.5">연합 수도 · 연합 왕 의회</text>
+    <circle class="city" cx="238" cy="336" r="4.5"/><text class="lbl2" x="176" y="328" font-size="10">노블가르드 (정치 수도)</text>
+    <rect x="252" y="352" width="7" height="7" fill="#7a4a8f" stroke="#2e2517" stroke-width=".8"/><text class="lbl2" x="196" y="364" font-size="9">크라운워치</text>
+    <path d="M212 246 l12 -16 12 16 -12 10 Z" fill="none" stroke="#7a4a8f" stroke-width="1.6"/><circle class="city" cx="224" cy="248" r="4"/>
+    <text class="lbl2" x="160" y="230" font-size="10">브룬발트 대성채 (방패 왕국)</text>
+    <circle class="city" cx="330" cy="440" r="4.5"/><text class="lbl2" x="340" y="444" font-size="10">리오나르 (기사도 · 대토너먼트)</text>
+    <rect x="146" y="382" width="11" height="14" fill="#7a4a8f" stroke="#2e2517" stroke-width="1"/>
+    <text class="lbl2" x="134" y="414" font-size="9.5">웨스트게이트 (최서단 · 야생의 땅 경계)</text>
+    <path d="M170 262 C210 236 250 218 292 204" fill="none" stroke="#7a4a8f" stroke-width="2.4" stroke-dasharray="6 3" opacity=".7"/>
+    <text class="lbl2" x="168" y="252" font-size="9" transform="rotate(-24 168 252)">그레이리지 방어선 300km</text>
+    <path d="M368 320 C380 316 392 314 404 314" fill="none" stroke="#a5553c" stroke-width="2" stroke-dasharray="3 3"/>
+    <text class="lbl2" x="296" y="336" font-size="9" fill="#a5553c">마찰선: 성국(중앙 성역)↔왕국연합(서부 국경)</text>
+
+    <!-- 동부 -->
+    <text class="lbl" x="712" y="316" font-size="15" text-anchor="middle" fill="#2e2517">동부 · 황금 곡창</text>
+    <text class="lbl2" x="712" y="330" font-size="9.5" text-anchor="middle">성국 징발 vs 밀수 카르텔</text>
+    <g stroke="#4a7c4e" stroke-width=".9" opacity=".6"><path d="M662 348 h100 M654 366 h112 M662 384 h100"/></g>
+    <circle class="city" cx="716" cy="272" r="5"/><text class="lbl" x="726" y="270" font-size="12">아덴브루크</text>
+    <text class="lbl2" x="726" y="282" font-size="9">동쪽 변경 무역 허브</text>
+    <g fill="#8d8699" opacity=".65"><circle cx="700" cy="432" r="6"/><circle cx="712" cy="424" r="5"/><circle cx="690" cy="424" r="4.5"/></g>
+    <text class="lbl2" x="676" y="452" font-size="10">나이트폴 (동부 안개 숲 · 붉은 달)</text>
+
+    <!-- 최중앙 교차로 -->
+    <path d="M470 486 m-7 0 l7 -7 7 7 -7 7 Z" fill="#c39b2d" stroke="#2e2517" stroke-width="1.2"/>
+    <text class="lbl" x="482" y="484" font-size="13.5">골든마르크</text>
+    <text class="lbl2" x="482" y="497" font-size="9.5">자유도시연합 비공식 수도</text>
+    <circle class="cap" cx="432" cy="520" r="6"/><path d="M418 520 h28 M432 506 v28" stroke="#2e2517" stroke-width="1.1"/>
+    <text class="lbl" x="444" y="532" font-size="13.5">크로스로드</text>
+    <text class="lbl2" x="444" y="545" font-size="9.5">4대 간선 기점 · 0번 이정표</text>
+    <g stroke="#a97e1c" stroke-width="1.5" opacity=".75" fill="none">
+      <path d="M430 512 C400 480 360 440 320 408"/>
+      <path d="M438 514 C540 470 640 420 700 384"/>
+      <path d="M426 526 C370 550 320 570 282 588"/>
+      <path d="M438 526 C500 560 546 592 580 618"/>
+    </g>
+
+    <!-- 서남부 -->
+    <path d="M196 470 l12 -14 12 14 -12 12 Z" fill="none" stroke="#4a7c4e" stroke-width="1.6"/><circle class="city" cx="208" cy="470" r="4.5"/>
+    <text class="lbl" x="182" y="500" font-size="12">카르델라</text><text class="lbl2" x="164" y="513" font-size="9.5">서부 협곡 · 카지노</text>
+    <circle class="city" cx="386" cy="442" r="5"/><text class="lbl" x="396" y="440" font-size="12">포지게이트</text>
+    <text class="lbl2" x="396" y="453" font-size="9">성국 국경 관문 (이중 권력)</text>
+    <circle cx="356" cy="466" r="6.5" fill="none" stroke="#c39b2d" stroke-width="2" stroke-dasharray="3 3"/>
+    <circle cx="356" cy="466" r="2.4" fill="#c39b2d"/>
+    <text class="lbl" x="300" y="490" font-size="12.5" fill="#a97e1c">베르나 ?</text>
+    <text class="lbl2" x="262" y="503" font-size="9">원고 근거: 성벽 너머 국경 — 위치 추정</text>
+    <circle cx="240" cy="576" r="16" fill="none" stroke="#5a5468" stroke-width="2" stroke-dasharray="4 4"/>
+    <circle cx="240" cy="576" r="5" fill="#8d8699"/>
+    <text class="lbl2" x="212" y="610" font-size="9.5">봉인 분지 「검은 그릇」 (서남부)</text>
+
+    <!-- 남부 -->
+    <text class="lbl" x="500" y="586" font-size="15" text-anchor="middle">남부 · 호수와 언덕</text>
+    <ellipse cx="392" cy="616" rx="28" ry="12" fill="#dde5da" stroke="#bfcdc0" stroke-width="1.4"/>
+    <text class="lbl2" x="392" y="640" font-size="9.5" text-anchor="middle">미라호 신디케이트</text>
+    <circle class="city" cx="588" cy="614" r="5.5"/><text class="lbl" x="598" y="610" font-size="12.5">포트 넥서스</text>
+    <text class="lbl2" x="598" y="623" font-size="9">해양 관문 · 삼각무역</text>
+    <circle class="city" cx="646" cy="576" r="4.5"/><text class="lbl2" x="656" y="580" font-size="10">실버포트</text>
+    <circle class="city" cx="492" cy="662" r="4.5"/><text class="lbl2" x="440" y="678" font-size="10">테르미안 (성국 제1 무역항 · 남부 만)</text>
+    <path class="route" d="M596 624 C660 662 720 692 800 718"/>
+    <text class="lbl2" x="700" y="678" font-size="10">태양빛 황금 해로 →</text>
+
+    <path d="M420 552 C460 544 510 550 548 544" fill="none" stroke="#5a5468" stroke-width="2.4" stroke-dasharray="2 5"/>
+    <text class="lbl2" x="436" y="568" font-size="9.5">≋ 지하 대균열 (지하 — 투영 표기)</text>
+
+    <!-- 범례 -->
+    <g transform="translate(660 60)">
+      <rect x="-12" y="-16" width="278" height="120" fill="#f7f2e6" stroke="#d3c7a9" rx="3"/>
+      <text class="lbl" x="0" y="2" font-size="12">세력 배치 (정본 · 07-14 감사 반영)</text>
+      <circle cx="8" cy="20" r="5" fill="#b08a2e"/><text class="lbl2" x="20" y="24" font-size="11">성국 — 중앙 신성한 분지</text>
+      <circle cx="8" cy="38" r="5" fill="#7a4a8f"/><text class="lbl2" x="20" y="42" font-size="11">왕국연합 — 중서부 (서부 국경 수호)</text>
+      <circle cx="8" cy="56" r="5" fill="#3e7a52"/><text class="lbl2" x="20" y="60" font-size="11">정령연합 — 북부 은성 숲 (거점)</text>
+      <circle cx="8" cy="74" r="5" fill="#41598f"/><text class="lbl2" x="20" y="78" font-size="11">마법협회 — 부유 수도 아르카디아</text>
+      <circle cx="8" cy="92" r="5" fill="#a97e1c"/><text class="lbl2" x="20" y="96" font-size="11">자유도시연합 — 전역 산재 도시국가</text>
+    </g>
+  </svg>

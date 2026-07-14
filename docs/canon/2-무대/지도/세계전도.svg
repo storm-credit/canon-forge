@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 640" role="img" aria-label="아스트라리스 5대 대륙 배치 시안">
+<rect width="100%" height="100%" fill="#f1eadb"/>
+<style>
+.sea-h{fill:#dde5da}
+.lbl{font-family:'Nanum Myeongjo',Batang,Georgia,serif;fill:#2e2517;font-weight:700}
+.lbl2{font-family:'Pretendard','Malgun Gothic',sans-serif;fill:#75664c;font-weight:500}
+.route{fill:none;stroke:#a97e1c;stroke-width:1.8;stroke-dasharray:7 5}
+.route2{fill:none;stroke:#75664c;stroke-width:1.4;stroke-dasharray:2 4}
+.city{fill:#c39b2d;stroke:#2e2517;stroke-width:1.1}
+.cap{fill:#c39b2d;stroke:#2e2517;stroke-width:1.2}
+.bord{fill:none;stroke:#75664c;stroke-width:1;stroke-dasharray:3 4;opacity:.75}
+</style>
+    <rect class="sea-h" width="1000" height="640"/>
+    <g stroke="#bfcdc0" stroke-width=".6" opacity=".55">
+      <path d="M0 80H1000M0 180H1000M0 280H1000M0 380H1000M0 480H1000M0 580H1000"/>
+      <path d="M100 0V640M250 0V640M400 0V640M550 0V640M700 0V640M850 0V640"/>
+    </g>
+
+    <!-- 프로스트 (북) -->
+    <path d="M285 62 L340 40 L420 34 L505 48 L560 78 L548 118 L500 142 L430 158 L352 150 L300 122 Z"
+      fill="#b8ccd8" stroke="#7e9aac" stroke-width="2"/>
+    <path d="M360 92 l16 -20 16 20 M410 84 l16 -20 16 20 M462 96 l14 -18 14 18" fill="none" stroke="#7e9aac" stroke-width="1.5"/>
+    <text class="lbl" x="420" y="130" font-size="21" text-anchor="middle">프로스트</text>
+    <text class="lbl2" x="420" y="148" font-size="11" text-anchor="middle">얼음의 땅 · 90% 빙하</text>
+
+    <!-- 오벨리스크 (북동 — 프로스트 인접) -->
+    <g opacity=".92">
+    <path d="M640 96 L720 66 L810 62 L888 84 L905 140 L862 190 L780 210 L700 196 L652 152 Z"
+      fill="#8d8699" stroke="#5a5468" stroke-width="2" stroke-dasharray="8 4"/>
+    <path d="M756 112 v34 M776 106 v40 M796 112 v34" stroke="#5a5468" stroke-width="2.4"/>
+    <text class="lbl" x="778" y="172" font-size="20" text-anchor="middle" fill="#2e2517">오벨리스크</text>
+    <text class="lbl2" x="778" y="190" font-size="11" text-anchor="middle">그림자의 대지 · 지도에 온전히 실리지 않는 은닉 대륙</text>
+    </g>
+    <text class="lbl2" x="600" y="112" font-size="11" transform="rotate(18 600 112)">인접 ✓</text>
+
+    <!-- 에테르 (중앙-서) -->
+    <path d="M128 268 L215 238 L330 232 L432 252 L472 300 L465 372 L420 432 L330 468 L222 462 L150 418 L118 344 Z"
+      fill="#9dbd93" stroke="#4a7c4e" stroke-width="2.4"/>
+    <circle cx="300" cy="350" r="4.5" fill="#4a7c4e"/>
+    <text class="lbl" x="300" y="336" font-size="24" text-anchor="middle">에테르</text>
+    <text class="lbl2" x="300" y="378" font-size="11.5" text-anchor="middle">생명의 숲 · Act 1 무대</text>
+    <path d="M336 300 a30 16 0 1 0 .1 0" fill="none" stroke="#4a7c4e" stroke-width="1" opacity=".8"/>
+    <text class="lbl2" x="392" y="288" font-size="10">은색 난기류(비행 불가)</text>
+
+    <!-- 크림슨 (남 — 제안) -->
+    <path d="M425 462 L530 438 L650 436 L762 458 L800 512 L768 570 L660 600 L535 596 L455 556 Z"
+      fill="#d3a184" stroke="#a5553c" stroke-width="2" stroke-dasharray="10 5"/>
+    <text class="lbl" x="612" y="516" font-size="22" text-anchor="middle">크림슨</text>
+    <text class="lbl2" x="612" y="536" font-size="11" text-anchor="middle">붉은 황무지 · 80% 오염 사막 · 솔라리안 제국</text>
+    <text class="lbl2" x="612" y="556" font-size="10.5" text-anchor="middle" fill="#a5553c">〔방위 미확정 — 남쪽 배치는 시안〕</text>
+
+    <!-- 해양 (중동 군도 허브) -->
+    <g fill="#a8c8c2" stroke="#3e7d8c" stroke-width="1.6">
+      <ellipse cx="652" cy="300" rx="34" ry="18"/>
+      <ellipse cx="716" cy="268" rx="24" ry="13"/>
+      <ellipse cx="738" cy="330" rx="28" ry="15"/>
+      <ellipse cx="676" cy="356" rx="20" ry="11"/>
+      <ellipse cx="792" cy="292" rx="18" ry="10"/>
+    </g>
+    <text class="lbl" x="712" y="308" font-size="19" text-anchor="middle">해양 대륙</text>
+    <text class="lbl2" x="712" y="392" font-size="11" text-anchor="middle">끝없는 바다 · 군도 — 5대륙 연결 허브 ✓</text>
+    <text class="lbl2" x="838" y="342" font-size="10.5">검은 해협 ▸</text>
+
+    <!-- 항로·노선 -->
+    <path class="route" d="M392 240 C400 214 402 196 408 162"/>
+    <text class="lbl2" x="414" y="206" font-size="10.5">북부 얼음 분쇄로 (연 300일 결빙)</text>
+    <path class="route" d="M452 396 C540 380 590 348 632 318"/>
+    <text class="lbl2" x="500" y="404" font-size="10.5">태양빛 황금 해로</text>
+    <path class="route2" d="M350 452 C400 480 440 486 470 492"/>
+    <text class="lbl2" x="330" y="498" font-size="10.5">철의 지하 궤도망 (지하 500m · 에테르-크림슨-프로스트)</text>
+    <path class="route2" d="M330 240 C336 160 360 140 384 128"/>
+    <path class="route2" d="M690 210 C640 250 600 268 560 300" opacity=".7"/>
+    <text class="lbl2" x="560" y="252" font-size="10.5" opacity=".85">그림자 협곡 비도(밀수)</text>
+
+    <!-- 부러진 나침반 로즈 -->
+    <g transform="translate(78 560)" stroke="#a97e1c" fill="none" stroke-width="1.6">
+      <circle r="30" opacity=".8"/><circle r="4" fill="#a97e1c" stroke="none"/>
+      <path d="M0 -28 L6 -6 L0 0 L-6 -6 Z" fill="#a97e1c" stroke="none"/>
+      <path d="M0 28 L6 6 L0 0 L-6 6 Z" opacity=".7"/>
+      <path d="M-28 0 L-6 -6 L0 0 L-6 6 Z" opacity=".7"/>
+      <path d="M28 0 L10 -4" opacity=".9"/><path d="M16 2 L24 7" opacity=".9"/>
+      <text class="lbl2" y="-38" font-size="10" text-anchor="middle" stroke="none" fill="#75664c">N</text>
+    </g>
+  </svg>

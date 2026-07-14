@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 620" role="img" aria-label="베르나 시가 상대 배치도">
+<rect width="100%" height="100%" fill="#f1eadb"/>
+<style>
+.sea-h{fill:#dde5da}
+.lbl{font-family:'Nanum Myeongjo',Batang,Georgia,serif;fill:#2e2517;font-weight:700}
+.lbl2{font-family:'Pretendard','Malgun Gothic',sans-serif;fill:#75664c;font-weight:500}
+.route{fill:none;stroke:#a97e1c;stroke-width:1.8;stroke-dasharray:7 5}
+.route2{fill:none;stroke:#75664c;stroke-width:1.4;stroke-dasharray:2 4}
+.city{fill:#c39b2d;stroke:#2e2517;stroke-width:1.1}
+.cap{fill:#c39b2d;stroke:#2e2517;stroke-width:1.2}
+.bord{fill:none;stroke:#75664c;stroke-width:1;stroke-dasharray:3 4;opacity:.75}
+</style>
+    <rect width="940" height="620" fill="#ece4d0"/>
+    <!-- 도시 밖 지형: 구릉(골든마르크 방향, 우) / 들판·능선(국경 방향, 좌) -->
+    <g stroke="#bfb190" fill="none" opacity=".8">
+      <path d="M760 120 q40 -22 80 0 M790 170 q36 -20 72 0 M770 470 q40 -22 80 0 M800 520 q34 -18 68 0"/>
+      <path d="M40 100 q60 -26 120 -10 M20 150 q70 -30 140 -12" stroke-width="1.6"/>
+    </g>
+    <text class="lbl2" x="96" y="86" font-size="11">낮은 능선 (091화 — 여기서 베르나 불빛을 내려다봄)</text>
+    <text class="lbl2" x="782" y="102" font-size="11">완만한 구릉 (067화)</text>
+
+    <!-- 가로: 성벽 밖 길 -->
+    <path d="M60 300 C180 302 250 304 322 306" fill="none" stroke="#a97e1c" stroke-width="3" opacity=".7"/>
+    <path d="M96 218 C170 250 240 280 322 300" fill="none" stroke="#75664c" stroke-width="1.4" stroke-dasharray="4 4"/>
+    <text class="lbl2" x="80" y="322" font-size="11">들판 · 큰길</text>
+    <text class="lbl2" x="128" y="246" font-size="10.5" transform="rotate(18 128 246)">샛길 (091화 — 들판을 가로질러 곧장)</text>
+    <text class="lbl" x="60" y="286" font-size="12.5" fill="#a5553c">◂ 국경 · 포지게이트</text>
+    <text class="lbl2" x="60" y="360" font-size="10.5">"지붕들 너머, 성벽 너머, 국경" (067화)</text>
+
+    <path d="M622 306 C700 306 780 304 880 300" fill="none" stroke="#a97e1c" stroke-width="3" opacity=".7"/>
+    <text class="lbl" x="742" y="290" font-size="12.5">골든마르크 방향 ▸</text>
+    <text class="lbl2" x="700" y="330" font-size="10.5">큰길 변 상점가 (098화) · 마차로 구릉 지대 통과 (067화)</text>
+
+    <path d="M540 128 C560 180 570 220 578 252" fill="none" stroke="#a97e1c" stroke-width="2.2" opacity=".6" stroke-dasharray="8 5"/>
+    <text class="lbl" x="482" y="96" font-size="12.5">아크브릿지 길목 ▴ (역참 마차 닷새 — 063화)</text>
+    <g transform="translate(568 140)">
+      <rect x="-8" y="-8" width="16" height="14" fill="#8d8699" opacity=".8"/>
+      <text class="lbl2" x="14" y="4" font-size="10.5">폐광 — 지하 방각 입구 (008화 · 외곽 이정표 옆 지하 계단)</text>
+    </g>
+
+    <!-- 성벽 (형상 미상 → 도식 타원) -->
+    <ellipse cx="472" cy="330" rx="152" ry="128" fill="#f7f2e6" stroke="#75664c" stroke-width="3.4"/>
+    <ellipse cx="472" cy="330" rx="152" ry="128" fill="none" stroke="#2e2517" stroke-width="1" stroke-dasharray="1 6"/>
+    <text class="lbl2" x="472" y="188" font-size="10.5" text-anchor="middle">성벽 (존재 확정 · 형상/문 개수 미상 — 도식)</text>
+    <!-- 성문 -->
+    <rect x="312" y="296" width="14" height="20" fill="#c39b2d" stroke="#2e2517" stroke-width="1.2"/>
+    <text class="lbl2" x="306" y="336" font-size="10.5">성문 (065·098화 — 방위 미상)</text>
+
+    <!-- 시장 축 -->
+    <path d="M326 306 C390 312 470 316 560 322" fill="none" stroke="#a97e1c" stroke-width="5" opacity=".5"/>
+    <rect x="382" y="292" width="150" height="46" fill="#a97e1c" opacity=".18" stroke="#a97e1c" stroke-width="1" rx="2"/>
+    <text class="lbl" x="457" y="312" font-size="14" text-anchor="middle">시장</text>
+    <text class="lbl2" x="457" y="328" font-size="9.5" text-anchor="middle">노점 구역 — 향신료 노파 · 지도 좌판 · 밀랍 인형 (092화)</text>
+    <circle cx="470" cy="352" r="9" fill="none" stroke="#a5553c" stroke-width="1.6" stroke-dasharray="3 3"/>
+    <text class="lbl2" x="484" y="356" font-size="9.5" fill="#a5553c">시장 한복판 공터 — A8 처형지 (094화)</text>
+
+    <!-- 감정사 거리 + 감정소 -->
+    <path d="M394 292 C388 268 384 252 382 236" fill="none" stroke="#75664c" stroke-width="2.6"/>
+    <text class="lbl" x="286" y="252" font-size="12.5" fill="#a97e1c">감정사 거리</text>
+    <text class="lbl2" x="286" y="266" font-size="9.5">시장 어귀 → 안쪽 골목 (065화)</text>
+    <rect x="372" y="216" width="22" height="16" fill="#c39b2d" stroke="#2e2517" stroke-width="1.3"/>
+    <text class="lbl" x="402" y="222" font-size="12">에반의 감정소</text>
+    <text class="lbl2" x="402" y="235" font-size="9">"유물 감정 — 정찰가, 후불 불가" · 앞 계단 · 창가에서 시장 조망 · 이중 바닥 서랍</text>
+    <rect x="372" y="240" width="22" height="12" fill="#ece4d0" stroke="#75664c" stroke-width="1"/>
+    <text class="lbl2" x="402" y="250" font-size="9">지도 사내 가게 — 골목 하나 두고 등을 맞댐 (099화)</text>
+    <text class="lbl2" x="346" y="212" font-size="9">옆집: 술집 · 시인 (001·009화)</text>
+
+    <!-- 뒷골목 지붕망 -->
+    <g fill="#75664c" opacity=".5">
+      <rect x="416" y="226" width="13" height="9"/><rect x="434" y="220" width="13" height="9"/><rect x="452" y="228" width="13" height="9"/>
+      <rect x="424" y="242" width="13" height="9"/><rect x="444" y="246" width="13" height="9"/><rect x="462" y="240" width="13" height="9"/>
+      <rect x="480" y="232" width="13" height="9"/><rect x="488" y="248" width="13" height="9"/><rect x="506" y="240" width="13" height="9"/>
+    </g>
+    <text class="lbl" x="446" y="212" font-size="12">뒷골목 — 지붕길</text>
+    <text class="lbl2" x="530" y="226" font-size="9">"처마에서 처마로, 담에서 담으로" (095화)</text>
+    <text class="lbl2" x="530" y="238" font-size="9">백묵 표시 문 20여 개 규모의 조밀 골목 (094화)</text>
+    <!-- 여관/염색공/암시장/창고 -->
+    <rect x="540" y="256" width="16" height="18" fill="#f7f2e6" stroke="#75664c" stroke-width="1.2"/>
+    <text class="lbl2" x="562" y="268" font-size="9.5">단골 여관 (이층집 · 065화)</text>
+    <text class="lbl2" x="512" y="286" font-size="9.5">염색공 집 뒷마당 (094·098화)</text>
+    <path d="M420 260 C440 274 470 282 500 286" fill="none" stroke="#75664c" stroke-width="1.2" stroke-dasharray="2 3"/>
+    <text class="lbl" x="356" y="368" font-size="11.5">암시장</text>
+    <text class="lbl2" x="340" y="381" font-size="9">등불 낮은 좌판 · 정보상 노인 (007화)</text>
+    <text class="lbl2" x="470" y="384" font-size="9.5">창고 골목 — 시장 뒤편 (092화)</text>
+    <!-- 개천 다리 -->
+    <path d="M380 430 C430 420 500 420 560 428" fill="none" stroke="#3e7d8c" stroke-width="2.6" opacity=".85"/>
+    <path d="M452 414 h20 v6 h-20 Z" fill="#75664c"/>
+    <text class="lbl2" x="478" y="418" font-size="9.5">개천 다리 — 뒷골목 방면 탈출로 (095화)</text>
+    <!-- 성국 관사 (위치 미상 표기) -->
+    <text class="lbl2" x="374" y="446" font-size="9.5" fill="#a5553c">＋ 성국 관사 · 평의회 청사: 도시 안 존재 확정, 위치 미상 (098화)</text>
+
+    <!-- 빈 나침반 -->
+    <g transform="translate(848 552)" stroke="#75664c" fill="none" stroke-width="1.4" opacity=".9">
+      <circle r="26"/><circle r="3" fill="#75664c" stroke="none"/>
+      <path d="M-18 -12 L-8 -4 M14 8 L20 14" />
+      <text class="lbl2" y="5" x="-4" font-size="13" stroke="none" fill="#75664c">?</text>
+      <text class="lbl2" y="40" font-size="9.5" text-anchor="middle" stroke="none" fill="#75664c">방위 미상 — 상대 배치도</text>
+    </g>
+  </svg>
