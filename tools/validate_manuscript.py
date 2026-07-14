@@ -7,6 +7,12 @@
 """
 import glob, io, os, re, sys
 
+# 콘솔 인코딩 방어(cp949 등에서 em-dash 등 비지원 문자 출력 시 크래시 방지 — 검사 로직 불변)
+try:
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+except Exception:
+    pass
+
 TARGET = sys.argv[1] if len(sys.argv) > 1 else '원고'
 MIN_CH, MAX_CH = 4600, 6800  # 공백 포함 자수 밴드 (웹소설 표준 규약, 초고 허용 폭)
 
