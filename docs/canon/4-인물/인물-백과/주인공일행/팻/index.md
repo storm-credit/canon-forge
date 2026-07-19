@@ -9,7 +9,7 @@
 
 | # | 항목 |
 |---|------|
-| 1 | [루미에스 (Lumies)](루미에스Lumies.md) |
+| 1 | [페르디타 (Perdita)](페르디타Perdita.md) |
 | 2 | [이그니스 (Ignis)](이그니스Ignis.md) |
 | 3 | [윈터팡 (Winterfang)](윈터팡Winterfang.md) |
 | 4 | [아라크네 (Arachne)](아라크네Arachne.md) |
