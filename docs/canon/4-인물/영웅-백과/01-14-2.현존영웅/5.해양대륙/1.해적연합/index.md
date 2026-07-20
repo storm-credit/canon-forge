@@ -11,7 +11,7 @@
 
 | # | 영웅 |
 |---|------|
-| 1 | [골드로저 (Gold Roger)](01.골드로저.md) |
+| 1 | [발디르 프리세일 (Valdyr Freesail)](01.발디르프리세일.md) |
 | 2 | [실버아이드 잭 (Silver-Eyed Jack)](02.실버아이드잭.md) |
 | 3 | [불타는 고스트 (Burning Ghost)](03.불타는고스트.md) |
 | 4 | [포세이돈 네레우스 (Poseidon Nereus)](04.포세이돈네레우스.md) |
@@ -25,3 +25,5 @@
 | 12 | [토르바 발투스 (Torva Valtus)](12.토르바발투스.md) |
 | 13 | [아에로 윈드본 (Aero Windborn)](13.아에로윈드본.md) |
 | 14 | [모르가나 코랄 (Morgana Coral)](14.모르가나코랄.md) |
+
+> 📝 편집장 노트 (2026-07-15): 모티브 감사 — 차용 고유명 개명 — 골드로저(Gold Roger)→발디르 프리세일(Valdyr Freesail).

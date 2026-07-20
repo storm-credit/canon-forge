@@ -50,7 +50,7 @@
 | 레일커터 (Railcutter) | [레일커터 (Railcutter)](레일커터%20%28Railcutter%29.md) |
 | 레저 스케일 (Ledger Scale) | [레저 스케일 (Ledger Scale)](레저%20스케일%20%28Ledger%20Scale%29.md) |
 | 레퀴엠 무르무르 (Requiem Murmur) | [레퀴엠 무르무르 (Requiem Murmur)](레퀴엠%20무르무르%20%28Requiem%20Murmur%29.md) |
-| 로저의 황금 (Roger's Gold) | [로저의 황금 (Roger's Gold)](로저의%20황금%20%28Roger's%20Gold%29.md) |
+| 프리세일의 황금 (Freesail's Gold) | [프리세일의 황금 (Freesail's Gold)](프리세일의%20황금%20%28Freesail's%20Gold%29.md) |
 | 루미네스 (Lumines) | [루미네스 (Lumines)](루미네스%20%28Lumines%29.md) |
 | 루벨라이트의 서약검 (Oathblade of the Rubellite) | [루벨라이트의 서약검 (Oathblade of the Rubellite)](루벨라이트의%20서약검%20%28Oathblade%20of%20the%20Rubellite%29.md) |
 | 루인-스텔라 (Ruin-Stella) | [루인-스텔라 (Ruin-Stella)](루인-스텔라%20%28Ruin-Stella%29.md) |
@@ -314,3 +314,5 @@
 | 황혼판결검 이시스-아스트라 (Duskbound Verdict Blade Isis-Astra) | [황혼판결검 이시스-아스트라 (Duskbound Verdict Blade Isis-Astra)](황혼판결검%20이시스-아스트라%20%28Duskbound%20Verdict%20Blade%20Isis-Astra%29.md) |
 | 흑사도 (Obsidian Death-Blade) | [흑사도 (Obsidian Death-Blade)](흑사도%20%28Obsidian%20Death-Blade%29.md) |
 | 흑조 (Black Swan) | [흑조 (Black Swan)](흑조%20%28Black%20Swan%29.md) |
+
+> 📝 편집장 노트 (2026-07-15): 모티브 감사 — 차용 고유명 개명 — 로저의 황금(Roger's Gold)→프리세일의 황금(Freesail's Gold).

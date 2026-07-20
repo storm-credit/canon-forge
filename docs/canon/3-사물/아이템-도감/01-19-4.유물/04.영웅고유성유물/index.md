@@ -210,7 +210,7 @@
 | 찰나의 영원 (Everfleet) | [찰나의 영원 (Everfleet)](찰나의%20영원%20%28Everfleet%29.md) |
 | 창공의 증표 (Mark of Zenith) | [창공의 증표 (Mark of Zenith)](창공의%20증표%20%28Mark%20of%20Zenith%29.md) |
 | 천안 아르케온 (Arkeon Skyeye) | [천안 아르케온 (Arkeon Skyeye)](천안%20아르케온%20%28Arkeon%20Skyeye%29.md) |
-| 천잠연사 (Celestial Silk Tether) | [천잠연사 (Celestial Silk Tether)](천잠연사%20%28Celestial%20Silk%20Tether%29.md) |
+| 위브테더 (Weavetether) | [위브테더 (Weavetether)](위브테더%20%28Weavetether%29.md) |
 | 첫 서약의 고서 (Codex of the First Vow) | [첫 서약의 고서 (Codex of the First Vow)](첫%20서약의%20고서%20%28Codex%20of%20the%20First%20Vow%29.md) |
 | 청염서약반 (Sealquartz Covenant) | [청염서약반 (Sealquartz Covenant)](청염서약반%20%28Sealquartz%20Covenant%29.md) |
 | 최초의 이단 서판 (Codex of the First Heresy) | [최초의 이단 서판 (Codex of the First Heresy)](최초의%20이단%20서판%20%28Codex%20of%20the%20First%20Heresy%29.md) |
@@ -278,3 +278,5 @@
 | 혈맹의 나팔 (Horn of the Blood-Pact) | [혈맹의 나팔 (Horn of the Blood-Pact)](혈맹의%20나팔%20%28Horn%20of%20the%20Blood-Pact%29.md) |
 | 혈약의 심장 (Covenant Heart) | [혈약의 심장 (Covenant Heart)](혈약의%20심장%20%28Covenant%20Heart%29.md) |
 | 히베르네 (Hibernae) | [히베르네 (Hibernae)](히베르네%20%28Hibernae%29.md) |
+
+> 📝 편집장 노트 (2026-07-15): 모티브 감사 — 차용 고유명 개명 — 천잠연사(Celestial Silk Tether)→위브테더(Weavetether).
