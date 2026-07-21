@@ -12,3 +12,5 @@ site/
 
 # Claude Code agent worktrees (temporary, not for version control)
 .claude/worktrees/
+
+노트북LM-업로드/
