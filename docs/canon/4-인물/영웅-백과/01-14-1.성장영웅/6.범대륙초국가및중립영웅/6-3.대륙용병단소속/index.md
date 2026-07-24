@@ -20,7 +20,7 @@
 | 바람의 칼날 (Wind Blades) | [바람의 칼날 (Wind Blades)](7.바람의칼날/index.md) |
 | 바이퍼 해적단 (Viper Raiders) | [바이퍼 해적단 (Viper Raiders)](8.바이퍼해적단/index.md) |
 | 황금 기계단 (Golden Mechanists) | [황금 기계단 (Golden Mechanists)](9.황금기계단/index.md) |
-| 강철의 형제단 (Brotherhood of Steel) | [강철의 형제단 (Brotherhood of Steel)](10.강철의형제단/index.md) |
+| 제련 성단 (제련 성단) | [제련 성단 (제련 성단)](10.강철의형제단/index.md) |
 | 신성 계약단 (Divine Covenant) | [신성 계약단 (Divine Covenant)](11.신성계약단/index.md) |
 | 자연의 방랑자 (Wanderers of Nature) | [자연의 방랑자 (Wanderers of Nature)](12.자연의방랑자/index.md) |
 | 발키리아 용병단 (Valkyria Mercenaries) | [발키리아 용병단 (Valkyria Mercenaries)](13.발키리아용병단/index.md) |
