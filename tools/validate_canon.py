@@ -84,6 +84,29 @@ if on('--vocab'):
         print('   ', f[:60], '::', b)
     fail += len(hits)
 
+if on('--ipsf'):
+    # IP 식별자(D1) + SF/현대과학 어휘(D2) 탐지 게이트 승격
+    # 근거: _출시완성도-감사-2026-07-25.md C2+C3(강철의형제단=Brotherhood of Steel·테크프리스트/기계신=워해머40k 침투, SF어휘 공용 마법도감 잔존)
+    # 탐지 전용 — 치환·개명은 자동화하지 않는다. 작가 결재 대기(D1=IP식별자·D2=SF어휘). 위반 건수는 fail에 미반영(정보 보고).
+    IP_TERMS = ['Brotherhood of Steel', 'Tech-Priest', 'Cult of the Machine God', 'Machine Transcendence']
+    SF_TERMS = ['빅뱅', '블랙홀', 'EMP', 'N극', 'S극', '전자기', '사이보그', '마하', '레이저', '맵병기']
+    ip_hits = Counter()
+    sf_hits = Counter()
+    for p, rel in canon_files():
+        t = io.open(p, encoding='utf-8', errors='ignore').read()
+        for term in IP_TERMS:
+            if term in t:
+                ip_hits[term] += 1
+        for term in SF_TERMS:
+            if term in t:
+                sf_hits[term] += 1
+    print(f'[ipsf-D1] IP 식별자 탐지 — {sum(ip_hits.values())}파일 (작가 결재 대기, 치환 미실행)')
+    for k, v in ip_hits.most_common():
+        print(f'   {v:4d}파일  {k}')
+    print(f'[ipsf-D2] SF/현대과학 어휘 탐지 — {sum(sf_hits.values())}파일 (작가 결재 대기, 치환 미실행)')
+    for k, v in sf_hits.most_common():
+        print(f'   {v:4d}파일  {k}')
+
 if on('--dupes'):
     # 정본명 유일성: 동일 정본명이 복수 파일에 존재
     names = defaultdict(list)
