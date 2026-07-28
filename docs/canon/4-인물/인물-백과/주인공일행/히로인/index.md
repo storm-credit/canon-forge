@@ -20,3 +20,4 @@
 | 9 | [세이렌 칼리스 (Seiren Calis)](세이렌칼리스SeirenCalis.md) |
 | 10 | [오로라 카엘리스 (Aurora Caelis)](오로라카엘리스AuroraCaelis.md) |
 | 11 | [루미에르 아르카나 (Lumiere Arcana)](루미에르아르카나LumiereArcana.md) |
+> 액트 배정: [히로인 액트 배정표](_히로인-액트-배정표.md) — 루미에르=C1 확정, 나머지 [작가 배정 대기] (2026-07-28 신설)
