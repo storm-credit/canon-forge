@@ -32,6 +32,7 @@
 - **3중 게이트**: validate_manuscript(분량 4,600~6,800·금지어·한자·클리프행어) + validate_canon(링크·등급·어휘) + 게이트3 정합 검증관(opus).
 - **동방 부존재**·**지도 정본 색인**·**Obsidian 쓰기 간섭 방어**(대량 편집 전 종료 요청·후 diff 행수 검사). ([[cheonmyeong-empire-does-not-exist]]·[[map-canon-registry]]·[[obsidian-sync-write-interference]])
 - **모든 감사 발견은 건당 반박 검증 후 확정** (실측 기각률 40~54%).
+- **Minimum Action Agent OS 채택** — 어떤 노드도 한 번에 직접 고를 수 있는 액션(Agent·Tool·Skill·MCP)을 **5개 이하**로 유지한다. PM은 작가 입력을 **집필·점검·수선·검증·대화** 5유형으로 판별해 그 편성만 연다(모든 입력이 배치를 부르지 않는다 — 질문에는 직접 답한다). Worker는 역할별 도구 화이트리스트를 프롬프트 계약으로 받는다(점검·검증·인계표관은 **편집 도구 금지**). 규약: [[_최소행동-에이전트-OS]]. **이 OS는 '어떻게 일할지'만 규정하며 Canon·Spec·원고·뼈대·정체성 카드가 항상 도메인 정본이다.**
 
 ---
 
